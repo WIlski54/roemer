@@ -379,6 +379,7 @@ export default {
         if (app.timewin) app.timewin.setV(ctlZeiger.sp.x);
       } else T.actT = -1;
       // Intro: der Zeiger läuft einmal von der Gründung bis zur größten Ausdehnung
+      if (T.intro && ctlZeiger.userSet) T.intro = false; // Tipp auf Pfeil/Punkt im Zeitfenster beendet den Intro-Lauf
       if (T.intro) {
         T.introT += dt; const k = clamp(T.introT / 7.5); const e = k * k * (3 - 2 * k);
         ctlZeiger.touched = true; ctlZeiger.setValue(e * valueOfYear(117), { snap: true });

@@ -54,9 +54,10 @@ Nur nach deiner Freigabe: Das Buch ist eine statische Datei und läuft auf jedem
 
 - **Netz und Konsole:** Das Buch macht 0 Anfragen nach außen, setzt 0 Cookies und schreibt keine Konsolenfehler (Headless-Chromium, `tools/net-check.mjs`).
 - **Antippen per simuliertem Touch** (`tools/touch-all.mjs`, alle 9 Seiten): Jede Lasche lässt sich per Touch ziehen, jede antippbare Fläche öffnet ihre Karte, es gibt keine Tipps auf unbekannte Karten, jede Karte ist erreichbar (die Reichskarten-Karten der Titelseite und die Zeit-Stufen von Station 8 je nach Zeigerstellung). Dabei fiel ein echter Fehler auf und ist behoben: Zwei Karten hießen „haendler“, die Pompeji-Karte wurde von der Rhein-Karte überschrieben.
+- **Zeitfenster, Ansicht, Wetter, Speicher** (iPad-Format 1024×768 und 1280×720, simulierter Touch): Pfeile, Einklappen, Zwei-Finger-Zoom/-Verschieben und Hand-Modus funktionieren. Dabei fiel ein Fehler auf und ist behoben: Ein Tipp auf die Zeitfenster-Pfeile wurde in den ersten 7,5 Sekunden vom Einführungslauf des Zeigers überschrieben. Der Grafikspeicher bleibt bei `?tier=low` über alle Stationen bei etwa 50–110 MB.
 - **Texte:** Drei unabhängige KI-Leser haben jede Karte, jeden Seitentext und jede Zeitfenster-Szene gegen `facts.md` gelesen (Fachleute waren nicht dabei). Sie fanden 292 Aussagen ohne belegte Quelle (197 „sicher“, 77 „wahrscheinlich“, 15 „unsicher“, nur wenige Punkte im Netz nachgeprüft) und rund 40 Fehler oder Unschärfen; alle sind im Buch korrigiert (Liste in `facts.md`, Abschnitt 11.3). Offene Entscheidungen stehen in Abschnitt 11.4.
 - **Stimme:** Alle 121 Clips wurden automatisch geprüft (Lautheit −19 LUFS, keine Übersteuerung, plausibles Sprechtempo). Eine Stichprobe per Spracherkennung (6 Clips) ergab 20 % Wortfehler (15 % ohne Eigennamen), am schlechtesten bei der Formel des Kalkkreislaufs (Buchstaben einzeln gesprochen).
-- **Klänge:** Die Klangmaschine wurde gemessen (Pegel, Spitzen, Stille, Klicks), nicht gehört.
+- **Klänge:** Die Klangmaschine wurde gemessen (204 Klänge: Pegel, Spitzen, Stille, Klicks; keine Verstöße, 5 Mischungen mit Spitzen knapp über −6 dBFS), nicht gehört.
 
 ## Ehrliche Grenzen
 

@@ -44,7 +44,7 @@ export class TimeWindow {
   hide() { this.active = false; this.el.style.display = 'none'; this.shown = false; }
   go(i) {
     i = Math.max(0, Math.min(SCENES.length - 1, i)); const c = this.ctl; if (!c) return;
-    c.touched = true; c.setValue(valueOfYear(SCENES[i].at), { silent: false });
+    c.touched = true; c.userSet = true; c.setValue(valueOfYear(SCENES[i].at), { silent: false }); // userSet beendet den Intro-Lauf der Titelseite
     if (this.app.audio && this.app.audio.sfx) this.app.audio.sfx('tick', { fast: true });
   }
   setHour(h) { this.setV(h / 24); } // Kompatibilität: Stunde 0..24 -> Wert 0..1

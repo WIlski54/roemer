@@ -50,7 +50,7 @@ let s8 = await st(); ok('Ansicht zurücksetzen', s8.zoom === 1 && !s8.hold && s8
 const pb = await page.evaluate(() => { const r = window.__app.ui.btnPan.getBoundingClientRect(); return [r.x + r.width / 2, r.y + r.height / 2]; });
 await T('touchStart', [pb]); await sleep(60); await T('touchEnd', []); await wait(0.5);
 let s9 = await st(); ok('Hand-Modus an', s9.pan === true, s9);
-await drag1(500, 520, 380, 470, 10); await wait(1);
+await drag1(300, 150, 180, 110, 10); await wait(1);   // freie Fläche über dem Buch (kein Griff, keine Figur)
 let s10 = await st(); ok('Hand-Modus: ein Finger verschiebt', (Math.abs(s10.nx - s9.nx) > 0.3 || Math.abs(s10.nz - s9.nz) > 0.3) && s10.cur === s0.cur, s10);
 await T('touchStart', [pb]); await sleep(60); await T('touchEnd', []);
 const errs = logs.filter((l) => /error|warn/i.test(l) && !/GPU stall|ReadPixels/i.test(l));
