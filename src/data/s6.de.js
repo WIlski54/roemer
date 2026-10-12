@@ -18,7 +18,7 @@ page.narr = 'Es ist Mittag in Pompeji! Zieh die Lasche Haus öffnen, dann hebt s
 page.hint = 'Zieh „Haus öffnen“, „Trittsteine“ und „Schultag“ · Klapp „Thermen“ auf · Tippe auf alles · Such die Gans';
 export const cards = {
   kind: {
-    name: 'Kind mit Wachstafel', sci: 'tabula cerata', say: 'sprich: TA-bu-la ke-RAH-ta', tts: 'Tabula zerata',
+    name: 'Kind mit Wachstafel', sci: 'tabula cerata', say: 'sprich: TA-bu-la ke-RAH-ta', tts: 'Tabula kerata',
     meaning: 'Bedeutung: Wachstafel',
     facts: [
       ['Alter', 'Schulbeginn mit etwa 6 bis 7 Jahren'],
@@ -28,7 +28,7 @@ export const cards = {
     ],
     latin: { w: 'schola', de: 'freie Zeit, Muße. Daraus wurde unser Wort „Schule“.', tts: 'Schola' },
     wow: 'Aufgeschrieben wurde in Wachs: Mit dem flachen Ende des Griffels konnte man alles wieder glatt streichen.',
-    text: 'Ob ein Kind zur Schule ging, hing vom Stand und vom Geld der Familie ab. Die Schulen waren privat, und man musste Schulgeld zahlen. Arme Kinder und oft auch Mädchen gingen deshalb nicht hin. Manche Mädchen lernten aber doch Lesen und Schreiben.',
+    text: 'Ob ein Kind zur Schule ging, hing vom Stand und vom Geld der Familie ab. Die Schulen waren privat, und man musste Schulgeld zahlen. Arme Familien konnten das Schulgeld oft nicht zahlen, und Mädchen gingen seltener zur Schule. Manche Mädchen lernten aber doch Lesen und Schreiben.',
     note: 'Hinweis: Genaue Zahlen, wie viele Kinder zur Schule gingen, kennen wir nicht.',
     fragen: ['Was ist heute anders als in der römischen Schule?', 'Wer darf heute in die Schule gehen?'],
     tags: ['Station 6', 'Schule', 'Wachstafel'],
@@ -57,7 +57,7 @@ export const cards = {
       ['Arbeitskräfte', 'Freie und auch Sklaven'],
     ],
     wow: 'In Pompeji gab es viele Bäckereien. Das Brot war ein wichtiges Essen für fast alle.',
-    text: 'Früh am Morgen wurde der Teig geknetet, und mittags duftete es nach frischem Brot. In vielen Betrieben arbeiteten auch Sklaven. Sie waren nicht frei und bekamen oft keinen Lohn. Das gehörte zum Alltag in römischen Städten.',
+    text: 'In der Bäckerei wurde Teig geknetet und Brot im Ofen gebacken. In vielen Betrieben arbeiteten auch Sklaven. Sie waren nicht frei und bekamen oft keinen Lohn. Das gehörte zum Alltag in römischen Städten.',
     note: 'Hinweis: Wie viele Bäckereien genau in Pompeji standen, wird von Fachleuten unterschiedlich gezählt.',
     fragen: ['Wo kaufst du heute dein Brot?', 'Wer arbeitet in einer Bäckerei von heute?'],
     tags: ['Station 6', 'Bäcker', 'Brot'],
@@ -135,7 +135,7 @@ export const cards = {
     wow: 'Die Thermen waren Bad, Treffpunkt und Sportplatz in einem.',
     text: 'In den Thermen traf man Freunde und badete. Eine übliche Reihenfolge war: erst lauwarm, dann heiß, zum Schluss kalt. Die Reihenfolge war aber nicht überall gleich.',
     note: 'Hinweis: Wie die Räume genau aufgebaut waren, unterschied sich von Stadt zu Stadt.',
-    fragen: ['Was machst du im Schwimmbad, und was machten die Römer?', 'Warum ist ein heißer Raum nach dem kalten angenehm?'],
+    fragen: ['Was machst du im Schwimmbad, und was machten die Römer?', 'Warum ist ein kalter Raum nach dem heißen angenehm?'],
     tags: ['Station 6', 'Thermen', 'Baden'],
   },
   brunnen: {
@@ -201,7 +201,7 @@ export const cards = {
     name: 'Die Gans mit dem roten Kopftuch', sci: 'anser', say: 'sprich: AN-ser', tts: 'Anser',
     meaning: 'Bedeutung: anser ist das lateinische Wort für Gans',
     wow: 'Sie watschelt im Hof des Hauses herum, gleich neben dem Regenbecken.',
-    text: 'Gänse waren Hoftiere und liefen auch in der Stadt herum. Nach einer Sage haben Gänse einst das Kapitol in Rom gerettet, weil sie Lärm schlugen. Die Gans hier trägt ein rotes Kopftuch und passt auf den Hof auf.',
+    text: 'Gänse waren Hoftiere. Nach einer Sage haben Gänse einst das Kapitol in Rom gerettet, weil sie Lärm schlugen. Die Gans hier trägt ein rotes Kopftuch und passt auf den Hof auf.',
     note: 'Hinweis: Die Sage von den Gänsen auf dem Kapitol ist nicht als Tatsache belegt.',
     hidden: true,
     tags: ['Station 6', 'Gans'],

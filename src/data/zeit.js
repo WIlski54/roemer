@@ -17,7 +17,7 @@ export const eraOf = (y) => (ERAS.find((e) => y < e.to) || ERAS[ERAS.length - 1]
 // Ereignisse für die Anzeige am Zeitrad (nur Jahre, die im Buch vorkommen)
 export const EVENTS = [
   { y: -753, label: 'Rom wird gegründet (nach der Sage)' },
-  { y: -509, label: 'Die Römer jagen ihren König fort' },
+  { y: -509, label: 'Die Römer jagen ihren König fort (um 509, Überlieferung)' },
   { y: -218, label: 'Hannibal zieht über die Alpen' },
   { y: -146, label: 'Karthago fällt' },
   { y: -27, label: 'Augustus wird erster Kaiser' },

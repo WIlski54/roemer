@@ -97,6 +97,9 @@ PRONUNCIATION = [
     (r"\bCCAA\b", "Ze Ze A A"),
     (r"\bUNESCO\b", "Unesko"),
     (r"\bVulkanasche\b", "Vulkan Asche"),
+    (r"\bPont du Gard\b", "Pong dü Gar"),         # franzoesisch
+    (r"\bCalcium", "Kalzium"),                  # espeak: "Kalkium"
+    (r"carbonat\b", "karbonat"),
 ]
 
 _ONES = ["null", "ein", "zwei", "drei", "vier", "fünf", "sechs", "sieben", "acht", "neun", "zehn",

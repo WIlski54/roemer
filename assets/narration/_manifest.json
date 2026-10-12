@@ -1,238 +1,486 @@
 {
  "cover": {
-  "seconds": 6.37,
-  "bytes": 25678
+  "seconds": 6.77,
+  "bytes": 20479
  },
  "page0": {
-  "seconds": 13.58,
-  "bytes": 54517
+  "seconds": 19.98,
+  "bytes": 60133
  },
  "page1": {
-  "seconds": 14.94,
-  "bytes": 59950
+  "seconds": 19.64,
+  "bytes": 59114
  },
  "page2": {
-  "seconds": 15.7,
-  "bytes": 62980
+  "seconds": 20.53,
+  "bytes": 61779
  },
  "page3": {
-  "seconds": 16.14,
-  "bytes": 64757
+  "seconds": 19.64,
+  "bytes": 59114
  },
  "page4": {
-  "seconds": 15.78,
-  "bytes": 63294
+  "seconds": 17.16,
+  "bytes": 51669
  },
  "page5": {
-  "seconds": 15.96,
-  "bytes": 64025
+  "seconds": 23.38,
+  "bytes": 70321
  },
  "page6": {
-  "seconds": 13.84,
-  "bytes": 55562
+  "seconds": 19.59,
+  "bytes": 58958
  },
  "page7": {
-  "seconds": 14.71,
-  "bytes": 59010
+  "seconds": 21.19,
+  "bytes": 63738
  },
  "page8": {
-  "seconds": 21.05,
-  "bytes": 84401
+  "seconds": 23.9,
+  "bytes": 71888
  },
- "card_coelophysis": {
-  "seconds": 26.78,
-  "bytes": 107284
+ "card_meilenstein": {
+  "seconds": 31.74,
+  "bytes": 95398
  },
- "card_plateosaurus": {
-  "seconds": 22.88,
-  "bytes": 91715
+ "card_zeitrad": {
+  "seconds": 24.19,
+  "bytes": 72750
  },
- "card_eoraptor": {
-  "seconds": 19.96,
-  "bytes": 80012
+ "card_triumphbogen": {
+  "seconds": 28.84,
+  "bytes": 86700
  },
- "card_morganucodon": {
-  "seconds": 21.5,
-  "bytes": 86177
+ "card_aquila": {
+  "seconds": 23.22,
+  "bytes": 69851
  },
- "card_pangaea": {
-  "seconds": 26.85,
-  "bytes": 107598
+ "card_kohorte": {
+  "seconds": 26.59,
+  "bytes": 79960
  },
- "card_brachiosaurus": {
-  "seconds": 22.41,
-  "bytes": 89834
+ "card_karte_rom": {
+  "seconds": 19.88,
+  "bytes": 59820
  },
- "card_stegosaurus": {
-  "seconds": 23.93,
-  "bytes": 95895
+ "card_karte_italien": {
+  "seconds": 18.73,
+  "bytes": 56372
  },
- "card_allosaurus": {
-  "seconds": 21.29,
-  "bytes": 85341
- },
- "card_castorocauda": {
-  "seconds": 20.22,
-  "bytes": 81057
- },
- "card_archaeopteryx": {
-  "seconds": 22.91,
-  "bytes": 91820
- },
- "card_compsognathus": {
-  "seconds": 18.23,
-  "bytes": 73116
- },
- "card_rhamphorhynchus": {
-  "seconds": 19.51,
-  "bytes": 78236
- },
- "card_limulus": {
-  "seconds": 21.0,
-  "bytes": 84192
- },
- "card_ichthyosaurus": {
-  "seconds": 19.38,
-  "bytes": 77713
- },
- "card_fossil": {
-  "seconds": 24.45,
-  "bytes": 97984
- },
- "card_pteranodon": {
-  "seconds": 20.79,
-  "bytes": 83356
- },
- "card_elasmosaurus": {
-  "seconds": 16.72,
-  "bytes": 67055
- },
- "card_mosasaurus": {
-  "seconds": 22.6,
-  "bytes": 90566
- },
- "card_trex": {
-  "seconds": 25.6,
-  "bytes": 102582
- },
- "card_triceratops": {
-  "seconds": 18.57,
-  "bytes": 74474
- },
- "card_ankylosaurus": {
-  "seconds": 20.72,
-  "bytes": 83042
- },
- "card_didelphodon": {
-  "seconds": 20.85,
-  "bytes": 83565
- },
- "card_maiasaura": {
-  "seconds": 23.95,
-  "bytes": 95999
- },
- "card_maiasaura_baby": {
-  "seconds": 14.99,
-  "bytes": 60159
- },
- "card_oviraptor": {
-  "seconds": 24.79,
-  "bytes": 99343
- },
- "card_multituberculate": {
-  "seconds": 22.44,
-  "bytes": 89939
- },
- "card_purgatorius": {
-  "seconds": 23.59,
-  "bytes": 94536
- },
- "card_hyracotherium": {
-  "seconds": 24.35,
-  "bytes": 97566
- },
- "card_gastornis": {
-  "seconds": 25.21,
-  "bytes": 101015
- },
- "card_plesiadapis": {
-  "seconds": 18.55,
-  "bytes": 74370
- },
- "card_pakicetus": {
-  "seconds": 20.64,
-  "bytes": 82729
- },
- "card_paraceratherium": {
-  "seconds": 18.96,
-  "bytes": 76042
- },
- "card_gomphotherium": {
-  "seconds": 19.23,
-  "bytes": 77086
- },
- "card_miocene_ape": {
-  "seconds": 16.69,
-  "bytes": 66951
- },
- "card_lucy": {
-  "seconds": 25.76,
-  "bytes": 103209
- },
- "card_laetoli": {
-  "seconds": 24.48,
-  "bytes": 98089
- },
- "card_hominiden": {
-  "seconds": 25.26,
-  "bytes": 101224
- },
- "card_voegel": {
-  "seconds": 19.98,
+ "card_karte_mittelmeer": {
+  "seconds": 26.64,
   "bytes": 80117
  },
- "card_sahelanthropus": {
-  "seconds": 26.91,
-  "bytes": 107806
+ "card_karte_caesar": {
+  "seconds": 29.15,
+  "bytes": 87640
  },
- "card_orrorin": {
-  "seconds": 23.82,
-  "bytes": 95477
+ "card_karte_hoehepunkt": {
+  "seconds": 19.96,
+  "bytes": 60055
  },
- "card_ardipithecus": {
-  "seconds": 29.83,
-  "bytes": 119509
+ "card_karte_teilung": {
+  "seconds": 23.33,
+  "bytes": 70164
  },
- "card_australopithecus": {
-  "seconds": 25.05,
-  "bytes": 100388
+ "card_karte_ende": {
+  "seconds": 27.87,
+  "bytes": 83800
  },
- "card_homo_fruehe": {
-  "seconds": 29.18,
-  "bytes": 116897
- },
- "card_erduhr": {
-  "seconds": 26.67,
-  "bytes": 106866
- },
- "card_iridium": {
-  "seconds": 28.19,
-  "bytes": 112926
- },
- "card_chicxulub": {
-  "seconds": 22.13,
-  "bytes": 88685
- },
- "card_ueberlebende": {
-  "seconds": 16.38,
-  "bytes": 65697
+ "card_musik": {
+  "seconds": 19.93,
+  "bytes": 59976
  },
  "card_album": {
-  "seconds": 18.52,
-  "bytes": 74265
+  "seconds": 19.28,
+  "bytes": 58017
  },
- "card_zeitluecke": {
-  "seconds": 22.36,
-  "bytes": 89625
+ "card_wolfin": {
+  "seconds": 24.06,
+  "bytes": 72358
+ },
+ "card_romulus": {
+  "seconds": 29.0,
+  "bytes": 87170
+ },
+ "card_huette": {
+  "seconds": 21.63,
+  "bytes": 65070
+ },
+ "card_tiber": {
+  "seconds": 22.31,
+  "bytes": 67108
+ },
+ "card_tarquinius": {
+  "seconds": 27.09,
+  "bytes": 81449
+ },
+ "card_huegel": {
+  "seconds": 20.74,
+  "bytes": 62406
+ },
+ "card_gans1": {
+  "seconds": 19.04,
+  "bytes": 57312
+ },
+ "card_senat": {
+  "seconds": 34.38,
+  "bytes": 103314
+ },
+ "card_konsuln": {
+  "seconds": 22.47,
+  "bytes": 67578
+ },
+ "card_fasces": {
+  "seconds": 26.59,
+  "bytes": 79960
+ },
+ "card_rostra": {
+  "seconds": 16.74,
+  "bytes": 50416
+ },
+ "card_hannibal": {
+  "seconds": 24.14,
+  "bytes": 72594
+ },
+ "card_elefant": {
+  "seconds": 20.04,
+  "bytes": 60290
+ },
+ "card_alpen": {
+  "seconds": 15.99,
+  "bytes": 48143
+ },
+ "card_hafen": {
+  "seconds": 25.65,
+  "bytes": 77139
+ },
+ "card_corvus": {
+  "seconds": 17.97,
+  "bytes": 54099
+ },
+ "card_gans2": {
+  "seconds": 24.01,
+  "bytes": 72202
+ },
+ "card_leg_legionaer": {
+  "seconds": 28.71,
+  "bytes": 86308
+ },
+ "card_leg_zenturio": {
+  "seconds": 28.34,
+  "bytes": 85211
+ },
+ "card_leg_aquilifer": {
+  "seconds": 16.12,
+  "bytes": 48535
+ },
+ "card_leg_pilum": {
+  "seconds": 18.78,
+  "bytes": 56528
+ },
+ "card_leg_gladius": {
+  "seconds": 17.92,
+  "bytes": 53942
+ },
+ "card_leg_scutum": {
+  "seconds": 18.65,
+  "bytes": 56136
+ },
+ "card_leg_lorica": {
+  "seconds": 21.52,
+  "bytes": 64757
+ },
+ "card_leg_galea": {
+  "seconds": 18.36,
+  "bytes": 55274
+ },
+ "card_leg_caligae": {
+  "seconds": 18.49,
+  "bytes": 55666
+ },
+ "card_leg_marschgepaeck": {
+  "seconds": 22.07,
+  "bytes": 66403
+ },
+ "card_leg_testudo": {
+  "seconds": 26.54,
+  "bytes": 79803
+ },
+ "card_leg_lager": {
+  "seconds": 20.58,
+  "bytes": 61936
+ },
+ "card_gans3": {
+  "seconds": 20.66,
+  "bytes": 62171
+ },
+ "card_caesar": {
+  "seconds": 35.4,
+  "bytes": 106370
+ },
+ "card_augustus": {
+  "seconds": 31.53,
+  "bytes": 94772
+ },
+ "card_kleopatra": {
+  "seconds": 25.42,
+  "bytes": 76434
+ },
+ "card_rubikon": {
+  "seconds": 24.29,
+  "bytes": 73064
+ },
+ "card_denar": {
+  "seconds": 30.3,
+  "bytes": 91088
+ },
+ "card_lorbeerkranz": {
+  "seconds": 23.28,
+  "bytes": 70007
+ },
+ "card_gans4": {
+  "seconds": 22.07,
+  "bytes": 66403
+ },
+ "card_h_kolosseum": {
+  "seconds": 38.16,
+  "bytes": 114677
+ },
+ "card_h_arena": {
+  "seconds": 33.52,
+  "bytes": 100727
+ },
+ "card_h_velarium": {
+  "seconds": 20.32,
+  "bytes": 61152
+ },
+ "card_h_pantheon": {
+  "seconds": 23.04,
+  "bytes": 69302
+ },
+ "card_h_trajanssaeule": {
+  "seconds": 24.22,
+  "bytes": 72829
+ },
+ "card_h_forum": {
+  "seconds": 31.63,
+  "bytes": 95085
+ },
+ "card_h_marktstand": {
+  "seconds": 20.61,
+  "bytes": 62014
+ },
+ "card_h_saenfte": {
+  "seconds": 26.1,
+  "bytes": 78471
+ },
+ "card_h_meilenstein": {
+  "seconds": 32.71,
+  "bytes": 98298
+ },
+ "card_h_reichskarte": {
+  "seconds": 24.56,
+  "bytes": 73847
+ },
+ "card_h_rom": {
+  "seconds": 25.42,
+  "bytes": 76434
+ },
+ "card_gans5": {
+  "seconds": 23.12,
+  "bytes": 69537
+ },
+ "card_kind": {
+  "seconds": 29.75,
+  "bytes": 89443
+ },
+ "card_wachstafel": {
+  "seconds": 20.24,
+  "bytes": 60917
+ },
+ "card_baecker": {
+  "seconds": 21.47,
+  "bytes": 64600
+ },
+ "card_haendler": {
+  "seconds": 24.92,
+  "bytes": 74945
+ },
+ "card_imbiss": {
+  "seconds": 20.19,
+  "bytes": 60760
+ },
+ "card_haus": {
+  "seconds": 20.51,
+  "bytes": 61700
+ },
+ "card_trittsteine": {
+  "seconds": 18.18,
+  "bytes": 54726
+ },
+ "card_thermen": {
+  "seconds": 16.88,
+  "bytes": 50807
+ },
+ "card_brunnen": {
+  "seconds": 18.23,
+  "bytes": 54883
+ },
+ "card_hund": {
+  "seconds": 22.33,
+  "bytes": 67186
+ },
+ "card_graffiti": {
+  "seconds": 21.81,
+  "bytes": 65619
+ },
+ "card_vesuv": {
+  "seconds": 19.36,
+  "bytes": 58252
+ },
+ "card_gans6": {
+  "seconds": 18.29,
+  "bytes": 55039
+ },
+ "card_aquaedukt": {
+  "seconds": 33.57,
+  "bytes": 100884
+ },
+ "card_strasse": {
+  "seconds": 31.84,
+  "bytes": 95712
+ },
+ "card_tretradkran": {
+  "seconds": 24.48,
+  "bytes": 73612
+ },
+ "card_moertel": {
+  "seconds": 21.08,
+  "bytes": 63425
+ },
+ "card_kalkkreislauf": {
+  "seconds": 40.99,
+  "bytes": 123140
+ },
+ "card_hypokaustum": {
+  "seconds": 21.84,
+  "bytes": 65697
+ },
+ "card_bleirohr": {
+  "seconds": 30.15,
+  "bytes": 90618
+ },
+ "card_glasblaeserpfeife": {
+  "seconds": 19.23,
+  "bytes": 57860
+ },
+ "card_ziegel": {
+  "seconds": 24.82,
+  "bytes": 74631
+ },
+ "card_gans7": {
+  "seconds": 18.76,
+  "bytes": 56450
+ },
+ "card_limes": {
+  "seconds": 29.26,
+  "bytes": 87954
+ },
+ "card_wachturm": {
+  "seconds": 20.43,
+  "bytes": 61465
+ },
+ "card_xanten": {
+  "seconds": 24.37,
+  "bytes": 73299
+ },
+ "card_koeln": {
+  "seconds": 28.13,
+  "bytes": 84584
+ },
+ "card_schiff": {
+  "seconds": 17.66,
+  "bytes": 53158
+ },
+ "card_rhein_haendler": {
+  "seconds": 21.34,
+  "bytes": 64208
+ },
+ "card_inschrift": {
+  "seconds": 27.87,
+  "bytes": 83800
+ },
+ "card_konstantin": {
+  "seconds": 27.09,
+  "bytes": 81449
+ },
+ "card_teilung395": {
+  "seconds": 22.91,
+  "bytes": 68910
+ },
+ "card_ende476": {
+  "seconds": 27.51,
+  "bytes": 82703
+ },
+ "card_wald": {
+  "seconds": 21.03,
+  "bytes": 63268
+ },
+ "card_werthausen": {
+  "seconds": 23.93,
+  "bytes": 71967
+ },
+ "card_roemer_bei_uns": {
+  "seconds": 25.91,
+  "bytes": 77923
+ },
+ "card_zeit_kastell": {
+  "seconds": 25.94,
+  "bytes": 78001
+ },
+ "card_zeit_ruine": {
+  "seconds": 26.38,
+  "bytes": 79333
+ },
+ "card_zeit_heute": {
+  "seconds": 25.36,
+  "bytes": 76277
+ },
+ "card_t_fenster": {
+  "seconds": 25.68,
+  "bytes": 77217
+ },
+ "card_t_strasse": {
+  "seconds": 23.72,
+  "bytes": 71340
+ },
+ "card_t_mauer": {
+  "seconds": 24.19,
+  "bytes": 72750
+ },
+ "card_t_ziegel": {
+  "seconds": 23.54,
+  "bytes": 70791
+ },
+ "card_t_kaiser": {
+  "seconds": 25.23,
+  "bytes": 75885
+ },
+ "card_t_wein": {
+  "seconds": 20.53,
+  "bytes": 61779
+ },
+ "card_t_kaese": {
+  "seconds": 19.49,
+  "bytes": 58644
+ },
+ "card_t_muenze": {
+  "seconds": 25.47,
+  "bytes": 76590
+ },
+ "card_gans8": {
+  "seconds": 19.72,
+  "bytes": 59349
  }
 }

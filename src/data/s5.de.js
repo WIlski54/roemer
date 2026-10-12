@@ -14,13 +14,13 @@ export const page = {
   "kicker": "Station 5",
   "title": "Das Reich ist am größten"
 };
-page.card = 'Um das Jahr 117 reicht das Römische Reich von Britannien bis in den Nahen Osten. In der Hauptstadt Rom leben vermutlich eine halbe bis eine Million Menschen, genau weiß das niemand. Mitten in der Stadt steht das Kolosseum, ein riesiges Rund aus Stein für Vorführungen. Auf dem Forum wird gehandelt, geredet und Recht gesprochen.';
+page.card = 'Um das Jahr 117 reicht das Römische Reich von Britannien bis in den Nahen Osten. In der Hauptstadt Rom leben vermutlich eine halbe bis eine Million Menschen, genau weiß das niemand. Mitten in der Stadt steht das Kolosseum, ein riesiges Oval aus Stein für Vorführungen. Auf dem Forum wird gehandelt, geredet und Recht gesprochen.';
 page.narr = 'Willkommen in Rom, um das Jahr 117 nach Christus! Zieh an der Lasche Kolosseum auf, dann wachsen die drei Bogenreihen Stockwerk für Stockwerk in die Höhe. Mit dem Faden Sonnensegel spannst du ein riesiges Tuch über die Sitzreihen. Der Schieber Reichsgrenzen zeichnet nach, wie weit das Reich reichte, und mit dem Regler Tagesablauf wandert die Sonne vom Morgen bis zum Abend. Tippe auf das Forum, die Sänfte und den Marktstand, und such die Gans!';
 page.hint = 'Zieh „Kolosseum auf!“, „Sonnensegel“, „Reichsgrenzen“ und „Tagesablauf“ · Tippe auf alles · Such die Gans';
 export const cards = {
   h_kolosseum: {
     name: 'Das Kolosseum', sci: 'Amphitheatrum Flavium', say: 'sprich: am-fi-te-AH-trum FLAH-vi-um', tts: 'Amfitheatrum Flavium',
-    meaning: 'Bedeutung: Rundtheater der Flavier-Kaiser',
+    meaning: 'Bedeutung: Theater mit Sitzen ringsum, gebaut von den Flavier-Kaisern',
     facts: [
       ['Eröffnung', '80 n. Chr. durch Kaiser Titus'],
       ['Zuschauer', 'etwa 50.000 (Schätzung)'],
@@ -29,7 +29,7 @@ export const cards = {
     ],
     latin: { w: 'colossus', de: 'Riesenstatue. Daraus wurde unser Wort „Koloss“.', tts: 'Kolossus' },
     wow: 'Das Kolosseum hieß eigentlich ganz anders, und seinen heutigen Namen verdankt es vermutlich einer Riesenstatue, die daneben stand.',
-    text: 'Das Kolosseum ist ein Amphitheater, ein Rund aus Stein mit Sitzreihen rundherum. Gebaut wurde es ab etwa 72 nach Christus, eröffnet wurde es im Jahr 80. Es hat drei Reihen mit Bögen und oben ein weiteres Geschoss. Hier sahen die Menschen Vorführungen und Spiele, mehr dazu erfährst du, wenn du auf die Arena tippst.',
+    text: 'Das Kolosseum ist ein Amphitheater, ein Oval aus Stein mit Sitzreihen rundherum. Gebaut wurde es ab etwa 72 nach Christus, eröffnet wurde es im Jahr 80. Es hat drei Reihen mit Bögen und oben ein weiteres Geschoss. Hier sahen die Menschen Vorführungen und Spiele, mehr dazu erfährst du, wenn du auf die Arena tippst.',
     note: 'Hinweis: Der Baubeginn wird meist um 70 bis 72 angesetzt. Wie viele Menschen hineinpassten, weiß man nicht genau, Schätzungen reichen bis etwa 80.000. Die Höhe wird je nach Quelle mit 45 bis 48 Metern angegeben. Die Riesenstatue stellte wohl Kaiser Nero dar. Das Kolosseum im Buch ist stark vereinfacht und hat deutlich weniger Bögen als das echte.',
     fragen: ['Wie lang ist ein Fußballplatz? Wie oft würde er in die 189 Meter des Kolosseums passen?', 'Gibt es in deiner Nähe ein Stadion? Wie viele Menschen passen hinein?'],
     tags: ['Station 5', 'Kolosseum', 'Bauwerk'],
@@ -54,7 +54,7 @@ export const cards = {
       ['Im Buch', 'nur 16 Masten, stark vereinfacht'],
     ],
     wow: 'Das riesige Sonnensegel wurde von Seeleuten bedient, so wie auf einem Schiff.',
-    text: 'Im Sommer brannte die Sonne auf die Sitzreihen. Darum spannte man ein riesiges Sonnensegel über das Kolosseum. Es hing an Masten rund um den oberen Rand. Seeleute zogen es mit Seilen auf, so saßen die Zuschauer im Schatten.',
+    text: 'Im Sommer brannte die Sonne auf die Sitzreihen. Darum spannte man ein riesiges Sonnensegel über die Zuschauerränge. Es hing an Masten rund um den oberen Rand. Seeleute zogen es mit Seilen auf, so saßen die Zuschauer im Schatten.',
     note: 'Hinweis: Wie viel vom Kolosseum das Segel genau bedeckte, ist unklar. Auch Farbe und Muster kennt man nicht, die Streifen im Buch sind ausgedacht.',
     fragen: ['Wie schützt du dich selbst im Sommer vor der Sonne?', 'Welche modernen Stadien haben ein Dach, das man öffnen und schließen kann?'],
     tags: ['Station 5', 'Kolosseum', 'Segel'],
@@ -146,7 +146,7 @@ export const cards = {
     ],
     latin: { w: 'mille passus', de: 'tausend Doppelschritte. Daraus wurde unsere „Meile“.', tts: 'Mille passus' },
     wow: 'Der Weg nach Rom war mit Steinen markiert, die den Reisenden sagten, wie weit es noch ist.',
-    text: 'An römischen Straßen standen Steine, die Entfernungen angaben. Das Wort Meile kommt von „mille passus“, tausend Doppelschritte. So einen Stein hast du schon auf der Titelseite gesehen, dort als Goldenen Meilenstein mit Zeitrad. Alle Straßen des Reiches führten am Ende nach Rom.',
+    text: 'An römischen Straßen standen Steine, die Entfernungen angaben. Das Wort Meile kommt von „mille passus“, tausend Doppelschritte. So einen Stein hast du schon auf der Titelseite gesehen, dort als Goldenen Meilenstein mit Zeitrad. Viele Hauptstraßen liefen auf Rom zu. Daher sagt man bis heute: Alle Wege führen nach Rom.',
     note: 'Hinweis: Wie lang eine römische Meile in Metern war, ist hier nicht angegeben. Die Beschriftung des Steins im Buch ist ausgedacht.',
     specId: 'h_meilenstein', sizeH: 1.6,
     fragen: ['Eine römische Meile hatte tausend Doppelschritte. Wie viele Schritte sind das? Finde heraus, wie viele Meter eine römische Meile hatte.', 'Wo findest du heute Entfernungsangaben an der Straße?'],
@@ -174,9 +174,9 @@ export const cards = {
       ['Einwohner', 'vermutlich 0,5 bis 1 Million (Schätzung)'],
       ['Lesart A', 'etwa 1 Million'],
       ['Lesart B', 'etwa 450.000'],
-      ['Sicher ist', 'mindestens eine halbe Million'],
+      ['Sicher ist', 'eine der größten Städte der Antike'],
     ],
-    wow: 'Mindestens eine halbe Million Menschen lebten in Rom, genau weiß das niemand.',
+    wow: 'Vermutlich lebten in Rom zwischen 450.000 und einer Million Menschen, genau weiß das niemand.',
     text: 'Rom war die Hauptstadt des Reiches und eine riesige Stadt. Vermutlich lebten hier eine halbe bis eine Million Menschen. Genau weiß das niemand, denn aus dieser Zeit gibt es keine sicheren Zahlen. Reiche und Arme, Freie und Sklaven wohnten dicht beieinander.',
     note: 'Hinweis: Die meisten Fachleute nehmen etwa eine Million an. Eine bekannte Berechnung kommt auf nur etwa 450.000. Beide Lesarten sind Schätzungen.',
     fragen: ['Wie viele Einwohner hat deine Stadt? Vergleiche mit Rom.'],
@@ -194,7 +194,7 @@ export const cards = {
     ],
     wow: 'Der Sage nach haben Gänse einmal Rom gerettet, weil sie laut schnatterten.',
     text: 'Du hast die Gans vom Forum gefunden! Sie sitzt auf dem Marktstand und trägt einen Reisehut, denn auf Roms Straßen war immer viel los. Nach der Sage warnten Gänse auf dem Kapitol die Römer vor einem nächtlichen Überfall der Gallier. Ob es wirklich so war, weiß man nicht.',
-    note: 'Hinweis: Das ist eine Sage. Dass die Gallier Rom um 390 vor Christus plünderten, gilt als gesichert, die Gänse sind nur überliefert.',
+    note: 'Hinweis: Das ist eine Sage. Dass die Gallier Rom um 390 vor Christus plünderten (nach anderer Zählung 387 oder 386), gilt als gesichert, die Gänse sind nur überliefert.',
     specId: 'gans5', sizeM: 0.8,
     fragen: ['Welche Tiere warnen heute bei uns vor Fremden?'],
     tags: ['Station 5', 'Gans', 'Sage'],

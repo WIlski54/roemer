@@ -14,7 +14,7 @@ export const page = {
   "title": "Vom Limes bis heute"
 };
 page.card = 'Auch bei uns am Rhein lebten Römer. Am Limes hielten Soldaten Wache, in Köln und Xanten standen Städte aus Stein, und Schiffe brachten Waren den Fluss hinab. Als das Westreich 476 zu Ende ging, verschwand Rom nicht über Nacht: Sprache, Straßen und Städte blieben. Welche römischen Wörter wir noch sagen, verraten dir die acht Steintafeln.';
-page.narr = 'Wir sind am Rhein, früh am Morgen, und der Nebel hängt noch über dem Wasser. Zieh an der Lasche Wachturm, dann leuchtet ein Signalfeuer auf. Mit dem Schieber Rheinschiff fährt ein Handelsschiff flussabwärts. Der Regler Zeit zeigt dir, wie aus dem Kastell erst eine Ruine und dann eine Stadt von heute wird. Auf der linken Seite stehen acht Steintafeln mit Wörtern, die aus dem Lateinischen kommen. Tippe sie an, und such die Gans am Ufer!';
+page.narr = 'Wir sind am Rhein, früh am Morgen, und der Nebel hängt noch über dem Wasser. Zieh an der Lasche Wachturm, dann leuchtet ein Signalfeuer auf. Mit dem Schieber Rheinschiff fährt ein Handelsschiff flussabwärts. Der Regler Zeit zeigt dir, wie aus dem Kastell erst eine Ruine und dann, an manchen Orten, eine Stadt von heute wird. Auf der linken Seite stehen acht Steintafeln mit Wörtern, die aus dem Lateinischen kommen. Tippe sie an, und such die Gans am Ufer!';
 page.hint = 'Zieh „Wachturm“, „Rheinschiff“ und „Zeit“ · Tippe auf die Steintafeln und die Karte · Such die Gans';
 export const cards = {
   limes: {
@@ -28,7 +28,7 @@ export const cards = {
     ],
     latin: { w: 'limes', de: 'Grenzweg, später Grenze. Das Wort „Limes“ benutzen wir bis heute.', tts: 'Limes' },
     wow: 'Am Rhein gab es keine Mauer. Der breite Fluss war die Grenze, und Kastelle und Wachtürme am Ufer passten auf.',
-    text: 'Der Limes war die Grenze des Römischen Reiches. Hier am Niederrhein verlief sie am Fluss. Soldaten in Kastellen und Türmen beobachteten das Ufer, kontrollierten Waren und Reisende und holten bei Bedarf Hilfe.',
+    text: 'Der Limes war eine Grenze des Römischen Reiches. Hier am Niederrhein verlief sie am Fluss. Soldaten in Kastellen und Türmen beobachteten das Ufer, kontrollierten Waren und Reisende und holten bei Bedarf Hilfe.',
     note: 'Hinweis: Wie viele Bauwerke genau zum Welterbe gehören, zählt die UNESCO je nach Dokument etwas anders.',
     fragen: ['Warum ist ein Fluss eine gute Grenze?', 'Welche Grenzen kennst du heute, die ein Fluss bildet?'],
     tags: ['Limes', 'Rhein', 'Welterbe'],
@@ -94,11 +94,11 @@ export const cards = {
     fragen: ['Warum fahren auch heute noch viele Schiffe auf dem Rhein?'],
     tags: ['Schiff', 'Handel', 'Rhein'],
   },
-  haendler: {
+  rhein_haendler: {
     name: 'Germanischer Händler', sci: 'Germani', say: 'sprich: ger-MA-ni', tts: 'Germani',
     meaning: 'Bedeutung: die Germanen',
     facts: [
-      ['Wer', 'Germanen lebten östlich des Rheins'],
+      ['Wer', 'Freie Germanen lebten östlich des Rheins'],
       ['Austausch', 'an den Übergängen wurde getauscht und gehandelt'],
       ['Kontrolle', 'Soldaten achteten auf Verkehr und Zoll'],
       ['Waren', 'im Bild nur ein Korb als Beispiel'],
@@ -134,7 +134,7 @@ export const cards = {
       ['Mit', 'Konstantin und der Kaiser Licinius'],
       ['Staatsreligion', 'erst 380 unter Theodosius'],
     ],
-    wow: 'Bis 313 mussten Christen im Römischen Reich oft vorsichtig sein. Danach durften sie ihren Glauben offen leben.',
+    wow: 'Vor 313 mussten Christen im Römischen Reich oft vorsichtig sein, zeitweise wurden sie verfolgt. Danach durften sie ihren Glauben im ganzen Reich offen leben.',
     text: 'Im Jahr 313 einigten sich Kaiser Konstantin und Kaiser Licinius darauf, dass Christen ihren Glauben ausüben durften. Das veränderte das Reich langsam. Zur Staatsreligion wurde das Christentum aber erst 380.',
     note: 'Hinweis: Ob man das „Edikt von Mailand“ nennen darf, ist unter Fachleuten umstritten. Sicher ist die Duldung der Christen um 313. Die Bedeutung des Namens ist eine allgemeine Übersetzung.',
     fragen: ['Was bedeutet Religionsfreiheit für dich?'],
@@ -180,7 +180,7 @@ export const cards = {
       ['Folge', 'Der Rhein blieb lange die Grenze'],
     ],
     wow: 'Wo genau im Jahr 9 n. Chr. die Varusschlacht stattfand, wissen Forscher bis heute nicht sicher.',
-    text: 'Östlich des Rheins lagen große Wälder. Im Jahr 9 n. Chr. fand dort eine berühmte Auseinandersetzung zwischen Römern und Germanen statt. Danach blieb der Rhein für lange Zeit die Grenze des Reiches.',
+    text: 'Östlich des Rheins lagen große Wälder. Im Jahr 9 n. Chr. fand dort eine berühmte Auseinandersetzung zwischen Römern und Germanen statt. Danach blieb der Rhein am Niederrhein für lange Zeit die Grenze.',
     note: 'Hinweis: Kalkriese gilt vielen Forschern als wahrscheinlicher Ort, bewiesen ist das nicht. Manche Funde passen auch zu Feldzügen um 15/16 n. Chr. Das Buch zeigt nur Landschaft und Jahreszahl.',
     fragen: ['Wie verändert ein Wald den Weg einer Armee?'],
     tags: ['Germanen', 'Varusschlacht', '9'],
@@ -222,7 +222,7 @@ export const cards = {
     facts: [
       ['Aufgabe', 'Stützpunkt für Soldaten am Limes'],
       ['Aufbau', 'Mauer, Tore und Türme'],
-      ['Besatzung', 'Hilfstruppen und Legionäre'],
+      ['Besatzung', 'meist Hilfstruppen (Auxiliare)'],
       ['Bei uns', 'etwa das Kleinkastell Werthausen'],
     ],
     latin: { w: 'castellum', de: 'kleines Lager. Daraus wurde „Kastell“.', tts: 'Kastellum' },
@@ -250,15 +250,15 @@ export const cards = {
     name: 'Die Stadt von heute', sci: 'urbs', say: 'sprich: URPS', tts: 'Urps',
     meaning: 'Bedeutung: Stadt',
     facts: [
-      ['Orte', 'Xanten, Köln und viele weitere Städte am Rhein'],
+      ['Orte', 'Köln und andere Städte am Rhein'],
       ['Römisches', 'Straßenverlauf, Wörter, Mauerreste'],
       ['Neu', 'Häuser, Kirchtürme, Autos und Fahrräder'],
       ['Frage', 'Was ist alt, was ist neu?'],
     ],
     latin: { w: 'urbs', de: 'Stadt. Daraus kommt das Wort „urban“ („städtisch“).', tts: 'Urps' },
-    wow: 'Viele Städte am Rhein stehen dort, wo die Römer schon Städte gebaut haben.',
+    wow: 'Manche Städte am Rhein, zum Beispiel Köln, stehen dort, wo die Römer schon eine Stadt gebaut haben.',
     text: 'Aus manchem römischen Lager und mancher Colonia wurde eine Stadt, die bis heute besteht. Straßen, Namen und Wörter blieben, vieles andere änderte sich. Die Stadt im Bild ist eine erfundene Beispielstadt.',
-    note: 'Hinweis: Nicht jede Stadt am Rhein ist römischen Ursprungs, aber Köln und Xanten sind es.',
+    note: 'Hinweis: Nicht jede Stadt am Rhein ist römischen Ursprungs. Köln ist es; in Xanten liegt die römische Stadt neben der heutigen Stadt.',
     tags: ['Heute', 'Stadt', 'Wandel'],
   },
   t_fenster: {
@@ -278,7 +278,7 @@ export const cards = {
     tags: ['Lehnwort', 'Fenster', 'Latein'],
   },
   t_strasse: {
-    name: 'Straße', sci: 'via strata', say: 'sprich: WI-a STRA-ta', tts: 'Wia Strata',
+    name: 'Straße', sci: 'via strata', say: 'sprich: WI-a STRAH-ta', tts: 'Wia Strata',
     meaning: 'Bedeutung: gepflasterter Weg',
     facts: [
       ['Deutsch', 'Straße'],
@@ -288,7 +288,7 @@ export const cards = {
     ],
     latin: { w: 'via strata', de: 'gepflasterter Weg. Aus strata wurde unser Wort „Straße“.', tts: 'Wia Strata' },
     wow: 'Auch das englische Wort „street“ stammt von strata ab.',
-    text: 'Die Römer bauten feste Straßen, wie du sie auf der Reise durch dieses Buch gesehen hast. Eine Straße mit Steinschichten hieß „via strata“, „geschichteter, gepflasterter Weg“. Bei uns blieb daraus das Wort Straße.',
+    text: 'Die Römer bauten feste Straßen, wie du sie auf der Reise durch dieses Buch gesehen hast. Eine gepflasterte Straße hieß „via strata“, „gepflasterter Weg“. Bei uns blieb daraus das Wort Straße.',
     note: 'Hinweis: Mehr über römische Straßen steht in Station 7.',
     fragen: ['Welche Straße in deiner Nähe könnte schon sehr alt sein?'],
     tags: ['Lehnwort', 'Straße', 'Latein'],
@@ -315,7 +315,7 @@ export const cards = {
     facts: [
       ['Deutsch', 'Ziegel'],
       ['Lateinisch', 'tegula'],
-      ['Gebrannt aus', 'Ton im Ofen'],
+      ['Gebrannt aus', 'Ton oder Lehm im Ofen'],
       ['Bauleute', 'Soldaten und Handwerker'],
     ],
     latin: { w: 'tegula', de: 'Dachziegel. Daraus wurde „Ziegel“.', tts: 'Tegula' },

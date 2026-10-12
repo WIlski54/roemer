@@ -2,296 +2,606 @@
  {
   "id": "cover",
   "kind": "cover",
-  "text": "Das große Dinosaurier-Pop-up-Buch. Eine Reise durch die Erdzeitalter. Tippe auf das Buch, dann geht es los!"
+  "text": "Das große Popup-Buch vom Römischen Reich. Eine Reise auf der Straße nach Rom. Tippe auf das Buch, dann geht es los!"
  },
  {
   "id": "page0",
   "kind": "page",
-  "text": "Willkommen im großen Dinosaurier-Popup-Buch! Wir reisen gemeinsam durch viele Millionen Jahre. Zuerst schauen wir auf die Erduhr. Stell dir vor, die ganze Geschichte der Erde passt auf einen einzigen Tag. Zieh an der Lasche und dreh den Zeiger!"
+  "text": "Willkommen im großen Popup-Buch vom Römischen Reich! Rechts steht der Goldene Meilenstein mit dem Zeitrad. Zieh die Lasche Zeiger drehen, dann springt das Jahr, und die Karte wächst von der Stadt Rom bis zum ganzen Mittelmeer. Mit Tor auf öffnest du den Triumphbogen, und mit Marsch zieht eine Kohorte vorbei. Auf jeder Doppelseite versteckt sich eine Gans. Findest du alle acht?"
  },
  {
   "id": "page1",
   "kind": "page",
-  "text": "Wir sind in der Trias, vor gut zweihundert Millionen Jahren. Alles Land der Erde hängt zusammen: ein einziger Riesenkontinent namens Pangaea. Es ist heiß und trocken. Die ersten Dinosaurier sind noch klein und sehr flink. Zieh an der Lasche und lass das Rudel rennen!"
+  "text": "Es ist früh am Morgen am Tiber, und Nebel liegt über dem Fluss. Zieh an der Lasche Die Zwillinge: Nach der Sage kümmert sich eine Wölfin um Romulus und Remus. Mit dem Schieber Sieben Hügel steigen die Hügel Roms aus dem Papier. Und mit der Lasche Furche pflügt Romulus nach der Sage die erste Stadtgrenze um den Palatin. Tippe alles an und such die Gans!"
  },
  {
   "id": "page2",
   "kind": "page",
-  "text": "Willkommen im Jura-Wald. Hier ist es feucht und grün, und die Bäume sind hoch. Der Riese in der Mitte ist ein Sauropode. Mit dem langen Hals frisst er Blätter aus den Baumkronen. Aber pass auf: Hinter dem Baumstamm schaut ein Jäger hervor. Schiebe den Hals nach oben und schwing den Schwanz!"
+  "text": "Willkommen in der Republik! Hier regiert kein König mehr, sondern gewählte Beamte und der Senat. Zieh die Lasche Abstimmung, dann stehen die Senatoren in ihren weißen Togen auf. Mit Über die Alpen führst du Hannibals Elefanten über die Papier-Berge. Und mit Enterbrücke fällt eine Planke vom römischen Schiff auf das Schiff aus Karthago. Tippe auf alles, und such die versteckte Gans!"
  },
  {
   "id": "page3",
   "kind": "page",
-  "text": "Wir sind in einer warmen Lagune im heutigen Bayern, vor etwa hundertfünfzig Millionen Jahren. Hier lebten Archaeopteryx, der Urvogel, und viele andere Tiere. Wenn ein Tier starb, sank es in den feinen Kalkschlamm. Zieh am Schieber Zeit vergeht und sieh, wie daraus ein Fossil wird!"
+  "text": "Willkommen bei den Legionären! Mit dem Regler Lagerbau entstehen Graben, Wall, Pfähle und Zelte, so wie die Soldaten sie selbst gebaut haben. Rechts ziehst du an den Laschen Helm, Panzer, Schwert, Schild und Speer, dann ist der Legionär ausgerüstet. Mit dem Schieber Schildkröte rücken die Soldaten ihre Schilde zu einem Dach zusammen. Findest du die Gans mit dem Helm?"
  },
  {
   "id": "page4",
   "kind": "page",
-  "text": "Hier ist das Meer der Kreidezeit. Über den Wellen segelt ein Flugsaurier, und unter Wasser schwimmen riesige Reptilien. Aber Achtung: Keines dieser Tiere ist ein Dinosaurier. Sie sind Cousins. Zieh an den Laschen, dann stürzt Pteranodon nach einem Fisch. Und tippe auf die Wellen!"
+  "text": "Links streiten die Senatoren am Abend. Rechts beginnt ein neuer Morgen, und dazwischen fließt der Rubikon. Schieb den Regler Rubikon, dann führt Caesar seine Soldaten über den Fluss. Zieh den Lorbeerkranz, dann setzt ein Senator ihn Augustus auf. Und mit der Münze drehst du einen Denar um und siehst beide Seiten."
  },
  {
   "id": "page5",
   "kind": "page",
-  "text": "Jetzt sind wir kurz vor dem Ende der Dinosaurierzeit, in Nordamerika. Hier leben die berühmtesten Dinosaurier: Tyrannosaurus rex, Triceratops und Ankylosaurus. Zieh an der Lasche und lass den Tierrex zubeißen! Und such das winzige Säugetier, das sich hier versteckt."
+  "text": "Willkommen in Rom, um das Jahr 117 nach Christus! Zieh an der Lasche Kolosseum auf, dann wachsen die drei Bogenreihen Stockwerk für Stockwerk in die Höhe. Mit dem Faden Sonnensegel spannst du ein riesiges Tuch über die Sitzreihen. Der Schieber Reichsgrenzen zeichnet nach, wie weit das Reich reichte, und mit dem Regler Tagesablauf wandert die Sonne vom Morgen bis zum Abend. Tippe auf das Forum, die Sänfte und den Marktstand, und such die Gans!"
  },
  {
   "id": "page6",
   "kind": "page",
-  "text": "Das hier ist eine Nistkolonie in Montana, vor etwa fünfundsiebzig Millionen Jahren. Maiasaura bedeutet gute Mutter-Echse. Zieh an der Lasche Schlüpfe, dann brechen die Eier auf. Und mit dem Schieber Sonnenuntergang kuscheln sich die Babys an."
+  "text": "Es ist Mittag in Pompeji! Zieh die Lasche Haus öffnen, dann hebt sich das Dach, und du siehst in den Hof mit dem Regenbecken. Mit dem Schieber Trittsteine fährt ein Karren durch die Lücke, und ein Kind hüpft über die Steine. Klapp die Thermen auf, dann siehst du den kalten, den lauwarmen und den heißen Raum, und mit dem Regler Schultag schreibt ein Griffel auf die Wachstafel. Findest du die Gans?"
  },
  {
   "id": "page7",
   "kind": "page",
-  "text": "Das ist der Tag, an dem sich alles veränderte. Vor etwa sechsundsechzig Millionen Jahren raste ein Asteroid auf die Erde zu. Zieh an der Lasche Meteor und sieh, was passiert. Wichtig: Es ist nichts Schlimmes zu sehen. Und am Ende gibt es auch eine gute Nachricht."
+  "text": "Guten Morgen auf der Baustelle! Zieh am Regler Gefälle: Ist die Rinne ein kleines bisschen geneigt, fließt das Wasser zur Stadt, sonst bleibt es stehen. Mit Straßenschichten baust du eine Straße Lage für Lage, am Tretrad hebst du einen schweren Stein. Bei Beton siehst du, wie Mörtel entsteht, und die Fußbodenheizung wärmt ein römisches Bad. Tippe auf die Bauwerke und such die Gans mit dem Strohhut!"
  },
  {
   "id": "page8",
   "kind": "page",
-  "text": "Das ist die letzte Seite. Nach dem Einschlag ändert sich die Welt. Die Säugetiere breiten sich aus, und es gibt bald viele neue Arten. Links wachsen aus Farnen Wälder. Rechts kannst du am Zeitsprung-Regler ziehen. Die Landschaft verändert sich, bis du in Laetoli ankommst, vor drei Komma sieben Millionen Jahren. Dort gehen frühe Vormenschen durch frische Vulkanasche."
+  "text": "Wir sind am Rhein, früh am Morgen, und der Nebel hängt noch über dem Wasser. Zieh an der Lasche Wachturm, dann leuchtet ein Signalfeuer auf. Mit dem Schieber Rheinschiff fährt ein Handelsschiff flussabwärts. Der Regler Zeit zeigt dir, wie aus dem Kastell erst eine Ruine und dann, an manchen Orten, eine Stadt von heute wird. Auf der linken Seite stehen acht Steintafeln mit Wörtern, die aus dem Lateinischen kommen. Tippe sie an, und such die Gans am Ufer!"
  },
  {
-  "id": "card_coelophysis",
+  "id": "card_meilenstein",
   "kind": "card",
-  "text": "Zölofüsis. Der Name bedeutet: Hohlform, weil die Knochen innen hohl waren. Er lebte vor etwa 216 bis 203 Millionen Jahren. Wow! Ein Schädel von Coelophysis flog 1998 mit einem Space Shuttle zur Raumstation Mir. Coelophysis war schlank und sehr schnell. Mit den langen Beinen und dem leichten Körper konnte sie gut rennen. Man hat viele Skelette zusammen gefunden. Vielleicht lebten die Tiere in Gruppen."
+  "text": "Miliarium aureum. Der Name bedeutet: goldener Meilenstein. Das Wort Mille passus ist lateinisch und bedeutet: tausend Doppelschritte. Daraus wurde unsere Meile. Wow! Alle Wege führen nach Rom, sagt man. Dazu passt: In Rom stand ein goldener Stein als Mittelpunkt der Straßen. Römische Straßen hatten Meilensteine. Sie zeigten, wie weit es bis zur nächsten Stadt war. In Rom stand der Goldene Meilenstein als sinnbildlicher Mittelpunkt aller Straßen. Unser Meilenstein hat zusätzlich ein Zeitrad. Dreh daran und reise durch die Zeit!"
  },
  {
-  "id": "card_plateosaurus",
+  "id": "card_zeitrad",
   "kind": "card",
-  "text": "Plateosaurus. Der Name bedeutet: breite Echse. Er lebte vor etwa 214 bis 204 Millionen Jahren. Wow! In Trossingen in Baden-Württemberg wurden sehr viele Plateosaurier an einem Ort gefunden. Plateosaurus hatte einen langen Hals und kleinen Kopf. Er fraß Pflanzen. Er lief wohl meistens auf zwei Beinen, vielleicht stand er aber auch auf allen vieren."
+  "text": "Das Zeitrad. Der Name bedeutet: eine Uhr für über tausend Jahre. Wow! Auf dem Zeitrad liegen zwischen dem ersten und dem letzten Jahr mehr als zwölf Jahrhunderte. Der Zeiger läuft einmal rundherum, von der Gründung Roms bis zum Ende des Kaisers im Westen. Vier Farben zeigen die Zeitalter: Königszeit, Republik, Kaiserzeit und Spätantike. Die goldenen Punkte sind Ereignisse aus diesem Buch."
  },
  {
-  "id": "card_eoraptor",
+  "id": "card_triumphbogen",
   "kind": "card",
-  "text": "Eorapptor. Der Name bedeutet: Räuber der Morgenröte. Er lebte vor etwa 231 Millionen Jahren. Wow! Eoraptor gehört zu den ältesten Dinosauriern, die wir kennen. Eoraptor war klein und flink. Seine Zähne sahen unterschiedlich aus. Deshalb denken Forscher: Er fraß wohl Tiere und vielleicht auch Pflanzen."
+  "text": "Arkus triumfalis. Der Name bedeutet: Bogen für einen Triumph (Siegesfeier). Das Wort Senatus Populusque Romanus ist lateinisch und bedeutet: Senat und Volk von Rom. Das Kürzel SPQR stand überall in der Stadt. Wow! SPQR steht noch heute auf Gullydeckeln in Rom. Nach einem großen Sieg feierten die Römer einen Triumph, einen Festzug durch die Stadt. An Triumphbögen erinnerte man später an solche Siege. Der Bogen im Buch ist vereinfacht und zeigt kein bestimmtes Bauwerk."
  },
  {
-  "id": "card_morganucodon",
+  "id": "card_aquila",
   "kind": "card",
-  "text": "Morganukodon. Der Name bedeutet: Zahn aus Glamorgan (einer Gegend in Wales). Er lebte vor etwa 205 Millionen Jahren. Wow! Säugetiere gibt es schon fast so lange wie Dinosaurier. Morganucodon war winzig und wahrscheinlich nachts unterwegs. Du hast ein verstecktes Säugetier gefunden! Morganucodon jagte Insekten. Es hatte wahrscheinlich schon ein Fell."
+  "text": "Aquila. Der Name bedeutet: Adler. Das Wort Aquila ist lateinisch und bedeutet: Adler. Der Adler war das Zeichen der Legion. Wow! Den Adler der Legion zu verlieren, war für die Soldaten eine Schande. Jede Legion hatte einen Adler aus Metall auf einer Stange. Er wurde der Legion vorangetragen, wie bei uns eine Fahne. Der Träger hieß Aquilifer. Auf dem Marsch folgten ihm die Soldaten."
  },
  {
-  "id": "card_pangaea",
+  "id": "card_kohorte",
   "kind": "card",
-  "text": "Pangäa. Der Name bedeutet: ganze Erde. Er lebte vor etwa 335 bis 175 Millionen Jahren. Wow! Damals konnte ein Tier theoretisch zu Fuß von einem Ende der Welt zum anderen laufen. In der Trias hingen alle Kontinente zusammen. Das war ein einziger Riesenkontinent. Rundherum lag das Urmeer Panthalassa. Später brach Pangaea langsam auseinander. Die Teile bewegen sich bis heute: jedes Jahr ein paar Zentimeter."
+  "text": "Kohorte. Der Name bedeutet: Schar, Truppenteil. Das Wort Kohors ist lateinisch und bedeutet: Schar oder Truppenteil. Bei uns heißt eine große Gruppe auch Kohorte. Wow! Echte Kohorten waren viel größer als die kleine Gruppe auf der Straße im Buch. Eine Kohorte war ein Zehntel einer Legion. Mit dem Schieber Marsch! ziehen ein Zenturio, ein Adlerträger und drei Legionäre am Triumphbogen vorbei. Mehr über die Legion erfährst du in Station 3."
  },
  {
-  "id": "card_brachiosaurus",
+  "id": "card_karte_rom",
   "kind": "card",
-  "text": "Giraffatitan. Der Name bedeutet: Giraffen-Titan. Er lebte vor etwa 150 Millionen Jahren. Wow! Sein Skelett im Museum für Naturkunde in Berlin ist über 12 Meter hoch. Es gehört zu den größten Dinosaurierskeletten der Welt. Seine Vorderbeine waren länger als die Hinterbeine, ähnlich wie bei einer Giraffe. Mit dem langen Hals erreichte er Blätter in den Baumkronen."
+  "text": "Roma. Der Name bedeutet: die Stadt am Tiber. Wow! Aus diesem kleinen Fleck auf der Karte wurde in rund 900 Jahren ein Reich rund ums Mittelmeer. Am Anfang war Rom nur eine Stadt am Fluss Tiber mit ein paar Dörfern ringsum. Auf der Karte ist es der winzige dunkelrote Fleck in Mittelitalien. Die Geschichte der Gründung erzählt Station 1."
  },
  {
-  "id": "card_stegosaurus",
+  "id": "card_karte_italien",
   "kind": "card",
-  "text": "Stegosaurus. Der Name bedeutet: Dach-Echse. Er lebte vor etwa 155 bis 150 Millionen Jahren. Wow! Die vier Stacheln am Schwanz heißen Thagomizer. Den Namen hat sich ein Zeichner für einen Cartoon ausgedacht. Auf dem Rücken trug Stegosaurus große Knochenplatten. Sie waren von Haut überzogen. Wozu sie dienten, wissen wir nicht genau: zum Angeben, zur Wärme oder zur Kühlung."
+  "text": "Italia. Der Name bedeutet: Italien. Wow! Rom wuchs Stück für Stück: erst die Nachbarn, dann ganz Italien. Etwa 500 Jahre nach der Gründung beherrschte Rom fast die ganze Halbinsel südlich der Poebene. Manche Städte wurden besiegt, andere schlossen Bündnisse. Kurz darauf begannen die Kriege gegen Karthago."
  },
  {
-  "id": "card_allosaurus",
+  "id": "card_karte_mittelmeer",
   "kind": "card",
-  "text": "Allosaurus. Der Name bedeutet: andere Echse. Er lebte vor etwa 155 bis 145 Millionen Jahren. Wow! Forscher vermuten, dass Allosaurus mit dem Kopf zuschlug wie mit einem Beil. Allosaurus war einer der größten Jäger seiner Zeit. Sein Kopf war leicht gebaut, sein Hals kräftig. Er trug dreifingrige Hände mit großen Krallen."
+  "text": "Mare nostrum. Der Name bedeutet: unser Meer. Das Wort Mare nostrum ist lateinisch und bedeutet: unser Meer. So nannten die Römer das Mittelmeer. Wow! Die Römer nannten das Mittelmeer unser Meer, weil rundherum ihr Reich lag. Nach den Kriegen gegen Karthago besaß Rom Land auf allen Seiten des westlichen Mittelmeers. Karthago wurde 146 vor Christus zerstört. Auch Griechenland gehörte nun zu Rom. Wenig später kam ein Stück Kleinasien dazu."
  },
  {
-  "id": "card_castorocauda",
+  "id": "card_karte_caesar",
   "kind": "card",
-  "text": "Kastorokauda. Der Name bedeutet: Biber-Schwanz. Er lebte vor etwa 160 bis 164 Millionen Jahren. Wow! Es schwamm und tauchte wie ein Otter, mitten in der Dinosaurierzeit. Du hast ein verstecktes Säugetier gefunden! Castorocauda hatte einen flachen Schwanz wie ein Biber und Schwimmfüße. Es fing Fische."
+  "text": "Imperium. Der Name bedeutet: Befehlsgewalt, später: Reich. Das Wort Imperium ist lateinisch und bedeutet: Befehlsgewalt. Daraus wurde Imperium und Kaiserreich. Wow! Caesar eroberte Gallien, wurde aber nie Kaiser. Das Kaiserreich begann erst nach ihm. Julius Caesar eroberte in acht Jahren das große Land Gallien, das heute etwa Frankreich und Belgien ist. Nach ihm gewann Augustus Ägypten und die Länder an der Donau. Später kam auch der Süden Britanniens dazu."
  },
  {
-  "id": "card_archaeopteryx",
+  "id": "card_karte_hoehepunkt",
   "kind": "card",
-  "text": "Archäoppterix. Der Name bedeutet: alter Flügel oder alte Feder. Er lebte vor etwa 150 Millionen Jahren. Wow! 1861 wurde in Bayern eine einzelne Feder gefunden. Kurz danach das erste Skelett. Archaeopteryx hatte Federn und Flügel, aber auch Zähne und einen langen Knochenschwanz. Er sah halb aus wie ein Vogel und halb wie ein kleiner Dinosaurier."
+  "text": "Imperium Romanum. Der Name bedeutet: das Römische Reich. Wow! Auf dem Höhepunkt war das Römische Reich ungefähr 14-mal so groß wie Deutschland. Unter Kaiser Trajan war das Reich am größten. Es reichte von Nordengland bis nach Nordafrika und vom Atlantik bis weit in den Osten. Danach gab man einige Gebiete wieder auf."
  },
  {
-  "id": "card_compsognathus",
+  "id": "card_karte_teilung",
   "kind": "card",
-  "text": "Kompsonathus. Der Name bedeutet: feiner Kiefer. Er lebte vor etwa 150 Millionen Jahren. Wow! Im Bauch eines Skeletts fand man eine kleine Echse. Das war wohl seine letzte Mahlzeit. Compsognathus war einer der kleinsten Dinosaurier. Er rannte schnell auf zwei Beinen. Er jagte kleine Echsen."
+  "text": "Imperium Romanum. Der Name bedeutet: das Römische Reich. Wow! Nach 395 wurde das Reich nie wieder dauerhaft von einem einzigen Kaiser regiert. Nach dem Tod von Theodosius bekamen seine beiden Söhne je eine Hälfte des Reiches: Honorius den Westen, Arcadius den Osten. Auf der Karte siehst du den Osten in Purpur. Im Osten blieb die Verwaltung stark, im Westen wurde sie schwächer."
  },
  {
-  "id": "card_rhamphorhynchus",
+  "id": "card_karte_ende",
   "kind": "card",
-  "text": "Ramforünkus. Der Name bedeutet: Schnabelschnauze. Er lebte vor etwa 150 Millionen Jahren. Wow! Am Ende des langen Schwanzes saß ein rautenförmiges Segel. Wahrscheinlich half es beim Steuern. Rhamphorhynchus war ein Flugsaurier, aber kein Dinosaurier. Er fing Fische mit spitzen Zähnen, die nach vorne zeigten."
+  "text": "Romulus Augustulus. Der Name bedeutet: Kleiner Augustus, der letzte Kaiser im Westen. Wow! Das Römische Reich endete im Osten erst 1453, fast tausend Jahre später. Im Jahr 476 setzte der Heerführer Odoaker den jungen Kaiser Romulus Augustulus ab. Es gab keinen großen Knall. Im Westen regierten nun andere Könige. Im Osten ging das Römische Reich weiter, bis 1453 Konstantinopel erobert wurde."
  },
  {
-  "id": "card_limulus",
+  "id": "card_musik",
   "kind": "card",
-  "text": "Mesolimulus. Der Name bedeutet: etwa mittlerer Schiefer, Name des Fossils. Er lebte vor etwa 150 Millionen Jahren. Wow! Pfeilschwanzkrebse gibt es seit über 400 Millionen Jahren. Ihr Blut ist blau. Er ist kein richtiger Krebs, sondern näher mit Spinnen verwandt. Die Fossilien liegen oft am Ende ihrer eigenen Spur im Kalkstein."
- },
- {
-  "id": "card_ichthyosaurus",
-  "kind": "card",
-  "text": "Oftalmosaurus. Der Name bedeutet: Augen-Echse. Er lebte vor etwa 165 bis 150 Millionen Jahren. Wow! Ichthyosaurier brachten ihre Jungen lebend im Wasser zur Welt. Er sah aus wie ein Delfin, ist aber ein Meeresreptil. Seine Augen waren riesig. So konnte er auch im dunklen Wasser jagen."
- },
- {
-  "id": "card_fossil",
-  "kind": "card",
-  "text": "Wie wird ein Fossil? Wow! Weil im Kalkschlamm kaum Sauerstoff war, haben sich die Tiere dort nicht zersetzt. Erstens: Ein Tier stirbt und sinkt in den feinen Kalkschlamm. Zweitens: Am Boden ist fast kein Sauerstoff, deshalb fault es kaum. Drittens: Schlamm deckt es schnell zu. Viertens: Mineralien aus dem Wasser füllen die Hohlräume und machen aus Knochen und Federabdrücken Stein. So ist Archaeopteryx bis heute erhalten."
- },
- {
-  "id": "card_pteranodon",
-  "kind": "card",
-  "text": "Teranodon. Der Name bedeutet: Flügel ohne Zähne. Er lebte vor etwa 86 bis 84 Millionen Jahren. Wow! Pteranodon hatte gar keine Zähne. Der lange Kamm am Kopf diente wohl zum Imponieren. Pteranodon segelte über dem Meer und tauchte nach Fischen. Seine Flügel waren Flughäute zwischen dem Körper und einem sehr langen Fingerknochen."
- },
- {
-  "id": "card_elasmosaurus",
-  "kind": "card",
-  "text": "Elasmosaurus. Der Name bedeutet: Plattenechse. Er lebte vor etwa 80 Millionen Jahren. Wow! Elasmosaurus hatte über 70 Halswirbel. Eine Giraffe hat nur 7. Der Hals war länger als der Rest des Körpers. Mit vier Paddeln schwamm Elasmosaurus durch das Meer."
- },
- {
-  "id": "card_mosasaurus",
-  "kind": "card",
-  "text": "Mosasaurus. Der Name bedeutet: Maas-Echse, nach dem Fluss Maas. Er lebte vor etwa 82 bis 66 Millionen Jahren. Wow! Der erste Schädel wurde in Maastricht gefunden. Er half Forschern zu verstehen, dass Tierarten aussterben können. Mosasaurus war ein riesiger Jäger im Meer. Er ist mit den heutigen Waranen verwandt. Sein Maul war voller Zähne, auch am Gaumen."
- },
- {
-  "id": "card_trex",
-  "kind": "card",
-  "text": "Türanosaurus Rex. Der Name bedeutet: König der Tyrannen-Echsen. Er lebte vor etwa 68 bis 66 Millionen Jahren. Wow! Tierrex lebte zeitlich näher an uns als am Stegosaurus. Zwischen Stegosaurus und Tierrex liegen etwa 84 Millionen Jahre. Tierrex hatte einen riesigen Kopf mit kräftigem Biss. Seine Arme waren kurz und hatten nur zwei Finger. Auf den starken Hinterbeinen konnte er gut laufen."
- },
- {
-  "id": "card_triceratops",
-  "kind": "card",
-  "text": "Trizeratops. Der Name bedeutet: Dreihorn-Gesicht. Er lebte vor etwa 68 bis 66 Millionen Jahren. Wow! Der Schädel von Triceratops konnte fast 2 Meter lang werden. Triceratops trug drei Hörner und einen Nackenschild aus Knochen. Mit dem scharfen Schnabel schnitt er zähe Pflanzen ab."
- },
- {
-  "id": "card_ankylosaurus",
-  "kind": "card",
-  "text": "Ankülosaurus. Der Name bedeutet: steife Echse. Er lebte vor etwa 68 bis 66 Millionen Jahren. Wow! Mit der Knochenkeule am Schwanz konnte Ankylosaurus sehr kräftig zuschlagen. Ankylosaurus war wie ein lebender Panzer. Auf dem Rücken trug er Knochenplatten mit Spitzen. Die Schwanzkeule diente wohl zur Verteidigung."
- },
- {
-  "id": "card_didelphodon",
-  "kind": "card",
-  "text": "Didelfodon. Der Name bedeutet: Beutelratten-Zahn. Er lebte vor etwa 68 bis 66 Millionen Jahren. Wow! Didelphodon hatte einen sehr kräftigen Biss. Damit knackte er wohl sogar Schneckenhäuser. Du hast ein verstecktes Säugetier gefunden! Didelphodon gehörte zu den Beuteltier-Verwandten. Er war eines der größten Säugetiere seiner Zeit."
- },
- {
-  "id": "card_maiasaura",
-  "kind": "card",
-  "text": "Maiasaura. Der Name bedeutet: gute Mutter-Echse. Er lebte vor etwa 76 bis 74 Millionen Jahren. Wow! Maiasaura-Knochen flogen 1985 mit einem Space Shuttle ins All. Es war der erste Dinosaurier im Weltraum. In Montana fand man ganze Nistplätze mit Eiern und Jungtieren. Die Tiere nisteten in Gruppen. Die Jungen blieben wahrscheinlich eine Weile im Nest."
- },
- {
-  "id": "card_maiasaura_baby",
-  "kind": "card",
-  "text": "Maiasaura-Baby. Er lebte vor etwa 76 bis 74 Millionen Jahren. Wow! Aus einem kleinen Ei wurde ein Tier von rund 9 Meter Länge. Maiasaura-Babys wuchsen schnell. Sie brauchten nur wenige Jahre bis zur Größe der Erwachsenen."
- },
- {
-  "id": "card_oviraptor",
-  "kind": "card",
-  "text": "Oviraptor. Der Name bedeutet: Eier-Dieb. Der Name ist ein Irrtum. Er lebte vor etwa 75 bis 71 Millionen Jahren. Wow! Oviraptor war kein Eierdieb. Verwandte wurden auf ihren Nestern gefunden, die Federarme über den Eiern. Zuerst fand man einen Oviraptor in der Nähe von Eiern und dachte, er klaut sie. Später stellte sich heraus: Es waren seine eigenen Eier. Er brütete sie aus."
- },
- {
-  "id": "card_multituberculate",
-  "kind": "card",
-  "text": "Multituberkulata. Der Name bedeutet: viele Höcker an den Backenzähnen. Die Gruppe lebte vor etwa 165 bis 35 Millionen Jahren. Wow! Diese Gruppe war über 100 Millionen Jahre lang erfolgreich, länger als manche Dinosaurier. Du hast ein verstecktes Säugetier gefunden! Vielhöckerzähner sahen aus wie Nagetiere. Sie waren aber nicht mit Mäusen verwandt."
- },
- {
-  "id": "card_purgatorius",
-  "kind": "card",
-  "text": "Purgatorius. Der Name bedeutet: nach dem Fundort Purgatory Hill (Fegefeuer-Hügel). Er lebte vor etwa 66 bis 65 Millionen Jahren. Wow! Er wird oft zu den ältesten Verwandten der Primaten gezählt. Zu den Primaten gehören auch Affen und wir Menschen. Du hast ein verstecktes Säugetier gefunden! Purgatorius kletterte wohl in Bäumen. Er überlebte die Zeit nach dem Einschlag."
- },
- {
-  "id": "card_hyracotherium",
-  "kind": "card",
-  "text": "Hürakotherium. Der Name bedeutet: Klippschliefer-Tier. Er lebte vor etwa 55 bis 50 Millionen Jahren. Wow! Es hatte vorn vier Zehen und hinten drei. Heutige Pferde laufen nur noch auf einer Zehe. Das Urpferdchen lebte im Wald und knabberte Blätter. Aus solchen Tieren entwickelten sich im Laufe von Millionen Jahren die Pferde. Verwandte lebten auch in Deutschland, in der Grube Messel bei Darmstadt."
- },
- {
-  "id": "card_gastornis",
-  "kind": "card",
-  "text": "Gastornis. Der Name bedeutet: Gastons Vogel, nach dem Entdecker Gaston Planté. Er lebte vor etwa 56 bis 45 Millionen Jahren. Wow! Gastornis war ein riesiger Laufvogel und damit ein Nachfahre der Dinosaurier. Vögel sind ja Dinosaurier. Er konnte nicht fliegen. Sein Schnabel war riesig und sehr kräftig. Früher hielt man ihn für einen Jäger. Heute denken viele Forscher, dass er vor allem Pflanzen fraß."
- },
- {
-  "id": "card_plesiadapis",
-  "kind": "card",
-  "text": "Plesiadapis. Der Name bedeutet: fast wie Adapis, ein anderes Tier der Zeit. Er lebte vor etwa 58 bis 56 Millionen Jahren. Wow! Plesiadapis hatte große Nagezähne wie ein Biber. Er sah ein bisschen aus wie ein Eichhörnchen mit langer Schnauze. Er wird zu den Verwandten der Primaten gezählt."
- },
- {
-  "id": "card_pakicetus",
-  "kind": "card",
-  "text": "Pakizetus. Der Name bedeutet: Wal aus Pakistan. Er lebte vor etwa 50 Millionen Jahren. Wow! Pakicetus lief an Land und ist ein Verwandter der Wale. Wale stammen von Landtieren ab. Er ähnelte einem schlanken Wolf mit langem Schwanz. Er ging an Land, jagte aber wohl auch im Wasser. Nach Millionen Jahren entwickelten sich daraus die Wale."
- },
- {
-  "id": "card_paraceratherium",
-  "kind": "card",
-  "text": "Parakeratherium. Der Name bedeutet: neben dem Horn-Tier. Er lebte vor etwa 34 bis 23 Millionen Jahren. Wow! Es war eines der größten Landsäugetiere aller Zeiten, so schwer wie drei bis vier Elefanten. Das Riesen-Nashorn hatte kein Horn. Mit der beweglichen Lippe pflückte es Blätter von hohen Bäumen."
- },
- {
-  "id": "card_gomphotherium",
-  "kind": "card",
-  "text": "Gomfotherium. Der Name bedeutet: Bolzen-Tier, wegen der Zähne. Er lebte vor etwa 20 bis 5 Millionen Jahren. Wow! Gomphotherium hatte vier Stoßzähne: zwei oben und zwei unten. Es war ein Verwandter der Elefanten. Mit dem Rüssel griff es Pflanzen und Wasser. Es lebte in vielen Teilen der Welt."
- },
- {
-  "id": "card_miocene_ape",
-  "kind": "card",
-  "text": "Prokonsul. Name: Proconsul, nach einem Schimpansen namens Consul. Er lebte vor etwa 21 bis 17 Millionen Jahren. Wow! Er hatte schon keinen Schwanz mehr. Das ist ein Merkmal der Menschenaffen. Er lief auf allen vieren auf Ästen und kletterte gut. Er lebte im Regenwald."
- },
- {
-  "id": "card_lucy",
-  "kind": "card",
-  "text": "Austrälopitekus afarensis. Der Name bedeutet: Südaffe aus Afar. Er lebte vor etwa 3,2 Millionen Jahren, die Art: 3,9 bis 2,9 Millionen Jahren. Wow! Der Name kommt aus einem Beatles-Lied, das im Lager lief: Lucy in the Sky with Diamonds. Lucy lief aufrecht auf zwei Beinen, konnte aber auch noch gut klettern. Ihr Gehirn war etwa so groß wie das eines Schimpansen. Ihr Skelett ist zu rund 40 Prozent erhalten."
- },
- {
-  "id": "card_laetoli",
-  "kind": "card",
-  "text": "Laetoli. Er lebte vor etwa 3,7 Millionen Jahren. Wow! Die Spur stammt von mindestens zwei, vielleicht drei Wesen, zwei große und ein kleineres. Ein Vulkan hatte feine Asche ausgespuckt. Es regnete leicht, die Asche wurde feucht. Wesen liefen darüber, ihre Fußabdrücke trockneten und wurden mit weiterer Asche bedeckt. Das Team um Mary Leakey entdeckte die Spuren 1976."
- },
- {
-  "id": "card_hominiden",
-  "kind": "card",
-  "text": "Wer war früh dabei? Wow! Der Stammbaum des Menschen ist ein Busch, keine Leiter. Hier siehst du frühe Vormenschen. Sahelanthropus (vor etwa 7 Millionen Jahren, Tschad) ist umstritten: Ob er zu den Vormenschen gehört, wissen wir nicht sicher. Orrorin (etwa 6 Millionen Jahren), Ardipithecus (etwa 4,4 Millionen Jahren), Australopithecus (etwa 4 bis 2 Millionen Jahren) und die ersten Homo (ab etwa 2,8 Millionen Jahren)."
- },
- {
-  "id": "card_voegel",
-  "kind": "card",
-  "text": "Vögel sind Dinosaurier. Wow! Jeder Spatz und jedes Rotkehlchen gehört zu den Dinosauriern. Vögel stammen von kleinen, gefiederten Dinosauriern ab. Als vor 66 Millionen Jahren der Asteroid einschlug, überlebten nur sie von allen Dinosaurier-Gruppen. Wenn du also das nächste Mal eine Amsel hörst, hörst du einen Dinosaurier."
- },
- {
-  "id": "card_sahelanthropus",
-  "kind": "card",
-  "text": "Sahelantropus. Der Name bedeutet: Mensch aus dem Sahel. Der Sahel ist eine Gegend südlich der Sahara. Er lebte vor etwa 7 Millionen Jahren. Wow! Von Sahelanthropus kennt man vor allem einen Schädel. Er wurde 2001 im Tschad gefunden und hat den Spitznamen Toumaï. Sein Gehirn war klein, etwa so wie bei einem Schimpansen. Einige Forscher meinen: Sahelanthropus gehört zu den frühen Vormenschen. Andere sagen: Er war eher ein Verwandter der Menschenaffen."
- },
- {
-  "id": "card_orrorin",
-  "kind": "card",
-  "text": "Orrorin. Der Name bedeutet: Urmensch, so sagen die Tugen in Kenia. Er lebte vor etwa 6 Millionen Jahren. Wow! Von Orrorin kennt man Oberschenkelknochen. Sie sehen so aus, als sei er schon auf zwei Beinen gegangen. Orrorin wurde im Jahr 2000 in Kenia entdeckt. Man fand Teile von Kiefern, Zähnen und Beinknochen. Er war wohl etwa so groß wie ein Schimpanse und kletterte auch auf Bäumen."
- },
- {
-  "id": "card_ardipithecus",
-  "kind": "card",
-  "text": "Ardipitekus. Der Name bedeutet: Boden-Affe. Ardi heißt in der Sprache der Afar Boden. Er lebte vor etwa 4,4 Millionen Jahren. Wow! Das Skelett Ardi konnte aufrecht gehen und trotzdem mit dem Fuß Äste greifen. Die große Zehe stand seitlich ab, fast wie ein Daumen. Ardipithecus lebte in einem Wald, nicht in einer offenen Savanne. Das Skelett Ardi wurde 1994 entdeckt. Die Untersuchung dauerte viele Jahre. Erst 2009 stellten Forscher es ausführlich vor."
- },
- {
-  "id": "card_australopithecus",
-  "kind": "card",
-  "text": "Austrälopitekus. Der Name bedeutet: Südaffe. Er lebte vor etwa 4 bis 2 Millionen Jahren. Wow! Das erste Fossil dieser Gruppe, das Taung-Kind, wurde 1924 in Südafrika gefunden. Es gab mehrere Arten. Lucy gehört zu Australopithecus afarensis. Die Spuren von Laetoli werden meist dieser Art zugeordnet. Sie gingen aufrecht, hatten aber noch kleine Gehirne und konnten gut klettern."
- },
- {
-  "id": "card_homo_fruehe",
-  "kind": "card",
-  "text": "Homo. Der Name bedeutet: Mensch (lateinisch). Er lebte ab etwa 2,8 Millionen Jahren. Wow! Homo sapiens, also wir, gibt es erst seit etwa 300 000 Jahren. Auf der Erduhr sind das nur etwa 6 Sekunden vor Mitternacht. Die ältesten Funde der Gattung Homo sind etwa 2,8 Millionen Jahre alt, zum Beispiel ein Unterkiefer aus Äthiopien. Diese frühen Homo hatten ein etwas größeres Gehirn als Australopithecus und stellten wohl einfache Steinwerkzeuge her."
- },
- {
-  "id": "card_erduhr",
-  "kind": "card",
-  "text": "Die Erduhr. Wow! Alle Dinosaurier zusammen gab es nur von etwa 22:47 Uhr bis 23:39 Uhr. Der Mensch kommt erst kurz vor Mitternacht. Wir pressen die 4,54 Milliarden Jahre der Erde auf 24 Stunden. Dann beginnt die Erde um 0 Uhr. Die ersten Säugetiere erscheinen gegen 22:55 Uhr. Der Homo sapiens betritt die Bühne etwa 6 Sekunden vor Mitternacht."
- },
- {
-  "id": "card_iridium",
-  "kind": "card",
-  "text": "Iridium. Wow! In einer dünnen grauen Tonschicht fanden Forscher viel mehr Iridium als sonst. Das ist die Spur des Asteroiden. Iridium hat die Ordnungszahl 77 und das Zeichen I R. In der Erdkruste ist es sehr selten, in Meteoriten kommt es häufiger vor. 1980 fanden Luis und Walter Alvarez mit ihren Kollegen überall auf der Welt an der gleichen Gesteinsschicht auffällig viel Iridium. Das war ein wichtiger Hinweis auf den Einschlag."
- },
- {
-  "id": "card_chicxulub",
-  "kind": "card",
-  "text": "Tschikschulub. Wow! Der Krater bei Chicxulub in Mexiko ist etwa 180 Kilometer breit. Der Asteroid war etwa 10 bis 15 Kilometer groß. Beim Einschlag wurden Staub und Asche hoch in die Luft geschleudert. Die Sonne wurde lange verdeckt. Pflanzen bekamen weniger Licht, und viele Tiere fanden kaum noch Nahrung. Rund drei Viertel aller Arten verschwanden."
- },
- {
-  "id": "card_ueberlebende",
-  "kind": "card",
-  "text": "Eine Gruppe hat überlebt. Wow! Eine Gruppe von Dinosauriern hat überlebt: die Vögel. Nach dem Einschlag war die Luft voller Staub. Die großen Dinosaurier verschwanden. Kleine Tiere kamen besser zurecht, auch Säugetiere und Vögel. Heute gibt es etwa 10 000 Vogelarten."
+  "text": "Lyra. Der Name bedeutet: Leier, ein altes Saiteninstrument. Wow! Wie römische Musik genau klang, wissen wir kaum, denn Noten sind fast nicht erhalten. Die Römer spielten Flöte, Leier, Trompete und Trommeln. Die Musik in diesem Buch hat sich ein Computer ausgedacht. Sie soll nur ein bisschen nach Süden und nach alter Zeit klingen."
  },
  {
   "id": "card_album",
   "kind": "card",
-  "text": "Familienalbum der versteckten Säugetiere. Wow! Säugetiere gibt es schon fast so lange wie Dinosaurier. Das sind die winzigen frühen Säugetiere und Seitenzweige, die du gefunden hast. Keines davon ist ein sicherer direkter Vorfahre von uns Menschen. Aber sie zeigen: Säugetiere lebten schon zur Zeit der Dinosaurier."
+  "text": "Dein Gänse-Album. Der Name bedeutet: anser ist das lateinische Wort für Gans. Wow! Nach einer Sage haben Gänse einst das Kapitol gerettet. Darum verstecken sich hier acht Gänse. Auf jeder Doppelseite sitzt eine kleine Gans. Schau genau hin: Ein Stück Hals, ein Schnabel oder ein Hut verrät sie. Tippe sie an, dann kommt sie in dein Album."
  },
  {
-  "id": "card_zeitluecke",
+  "id": "card_wolfin",
   "kind": "card",
-  "text": "Die große Zeitlücke. Wow! Menschen und Dinosaurier sind sich nie begegnet. Zwischen dem Einschlag vor 66 Millionen Jahren und Lucy vor 3,2 Millionen Jahren liegen rund 63 Millionen Jahre. Die Zeit der Dinosaurier dauerte von etwa 231 bis 66 Millionen Jahren, also rund 165 Millionen Jahre."
+  "text": "Die Wölfin mit Romulus und Remus. Der Name bedeutet: lupa ist das lateinische Wort für Wölfin. Wow! Von einer Wölfin gefunden: So erzählt es die Sage von den Gründern Roms. Nach der Sage waren Romulus und Remus Söhne der Rhea Silvia. Als Babys wurden sie am Tiber ausgesetzt. Dort fand sie eine Wölfin und kümmerte sich um die beiden. So erzählten es die Römer später über den Anfang ihrer Stadt."
+ },
+ {
+  "id": "card_romulus",
+  "kind": "card",
+  "text": "Romulus pflügt die Stadtgrenze. Das Wort murus ist lateinisch und bedeutet: die Mauer. Unser Wort Mauer kommt daher. Wow! Eine Furche als Stadtgrenze: Nach der Sage zog Romulus sie mit dem Pflug. Die Römer erzählten: Romulus gründete Rom. Der Gelehrte Varro rechnete später das Jahr 753 vor Christus aus. Mit einem Pflug und zwei Rindern zog Romulus eine Furche rund um den Palatin. Sie zeigte, wo die Stadt enden sollte. Auch das ist eine Sage."
+ },
+ {
+  "id": "card_huette",
+  "kind": "card",
+  "text": "Die Hirtenhütte. Der Name bedeutet: Casa Romuli heißt Haus des Romulus. Wow! Schon lange vor 753 vor Christus wohnten Menschen auf dem Palatin. Auf dem Palatin stand ein Dorf aus kleinen Hütten mit Strohdach. Hirten lebten hier schon lange vor 753 vor Christus. Später zeigten die Römer stolz eine Hütte als das Haus von Romulus."
+ },
+ {
+  "id": "card_tiber",
+  "kind": "card",
+  "text": "Der Tiber. Der Name bedeutet: Tiberis ist der lateinische Name des Flusses. Wow! Der Tiber ist älter als die Stadt Rom, und er fließt noch heute durch sie hindurch. Der Tiber ist der Fluss von Rom. Die Sage erzählt, dass die Zwillinge Romulus und Remus an seinem Ufer ausgesetzt wurden. Die Hügel, auf denen Rom wuchs, liegen nicht weit vom Wasser. Im Bild liegt Morgennebel über dem Fluss."
+ },
+ {
+  "id": "card_tarquinius",
+  "kind": "card",
+  "text": "Tarquinius, der letzte König. Der Name bedeutet: Superbus heißt der Stolze. Wow! Von 753 bis 509 sollen nur sieben Könige regiert haben. Die Liste ist halb sagenhaft. Nach der Überlieferung war Tarquinius der siebte und letzte König von Rom. Die Römer vertrieben ihn um 509 vor Christus. Danach hatte Rom keinen König mehr. Die Liste der sieben Könige ist halb Sage und wurde erst Jahrhunderte später aufgeschrieben."
+ },
+ {
+  "id": "card_huegel",
+  "kind": "card",
+  "text": "Die sieben Hügel Roms. Der Name bedeutet: septem colles heißt sieben Hügel. Wow! Rom ist langsam gewachsen: Aus Dörfern auf Hügeln wurde nach und nach eine Stadt. Auf den Hügeln am Tiber lagen kleine Dörfer. Der Palatin ist der älteste Hügel. Mit der Zeit wuchsen die Dörfer zusammen. Von den Nachbarn im Norden, den Etruskern, lernten die Römer viel."
+ },
+ {
+  "id": "card_gans1",
+  "kind": "card",
+  "text": "Die Gans auf dem Kapitol. Der Name bedeutet: anser ist das lateinische Wort für Gans. Wow! Gefunden! Nach einer Sage haben Gänse das Kapitol gerettet. Du hast die Gans oben auf dem Kapitol gefunden. Sie trägt einen Hirtenhut. Nach der Sage haben Gänse das Kapitol gerettet: Ihr Schnattern warnte die Römer vor den Galliern."
+ },
+ {
+  "id": "card_senat",
+  "kind": "card",
+  "text": "Senatus. Der Name bedeutet: Rat der Alten. Das Wort Seneks ist lateinisch und bedeutet: alter Mann. Daraus wurde Senat: der Rat der Alten. Auch unser Wort Senior gehört dazu. Wow! Das Kürzel SPQR heißt Senat und Volk von Rom. Der Senat stand also gleich neben dem Volk! Schon die Könige hatten einen Rat der Alten. In der Republik wurde dieser Rat, der Senat, sehr wichtig. Seine Mitglieder waren ältere, erfahrene Männer, oft blieben sie ein ganzes Leben dabei. Sie besprachen, was für die Stadt wichtig war, und gaben den Beamten Rat. Zieh die Lasche Abstimmung, dann stehen sie auf!"
+ },
+ {
+  "id": "card_konsuln",
+  "kind": "card",
+  "text": "Konsules. Der Name bedeutet: die obersten Beamten der Republik. Wow! Veto heißt auf Latein Ich verbiete es. So konnte keiner der beiden allein bestimmen. Statt eines Königs hatte Rom zwei Konsuln. Sie wurden für ein Jahr gewählt und leiteten die Stadt gemeinsam. Jeder konnte den anderen mit einem Veto bremsen. Vor jedem gingen zwölf Diener mit dem Rutenbündel. Tippe einen Liktor an!"
+ },
+ {
+  "id": "card_fasces",
+  "kind": "card",
+  "text": "Faskes. Das Wort bedeutet: Bündel. Die Liktoren gingen vor dem Konsul her und trugen die Fasces. Ruten und Beil zeigten allen: Dieser Mann darf Befehle geben und Strafen verhängen. Es war ein Amtszeichen, wie heute eine Amtskette. Zur Einordnung: Das Wort Faschismus kommt von italienisch fascio, Bündel, und das von lateinisch fasces. Später missbrauchte ein Diktator das alte Zeichen. Das alte römische Zeichen kann nichts dafür: Es war ein Amtszeichen."
+ },
+ {
+  "id": "card_rostra",
+  "kind": "card",
+  "text": "Rostra. Der Name bedeutet: Schnäbel (rostrum = Schnabel). Wer zu den Bürgern sprechen wollte, stieg auf die Rednerbühne am Forum. Sie war mit den Schnäbeln erbeuteter Schiffe geschmückt. Im Bild steht oben ein Redner, und neben ihm hat es sich eine Gans bequem gemacht. Findest du sie?"
+ },
+ {
+  "id": "card_hannibal",
+  "kind": "card",
+  "text": "Hannibal. Hannibal war ein Feldherr aus Karthago. Im Herbst 218 vor Christus zog er mit Soldaten und Elefanten über die Alpen nach Italien. Wie viele es genau waren, wissen wir nicht: viele Tausend, und etwa die Hälfte ging unterwegs verloren. Bei Zama unterlag er dem Römer Scipio. Welchen Pass er nahm, wissen Forscher bis heute nicht sicher. Wie er aussah, wissen wir nicht, sein Bild hier ist erfunden."
+ },
+ {
+  "id": "card_elefant",
+  "kind": "card",
+  "text": "Elefantus. Hannibal brachte Elefanten über die Alpen. Der antike Schreiber Polybios nennt siebenunddreißig Tiere am Fluss Rhône. Nur wenige kamen in Italien an, genau weiß das niemand. Bei Zama ließen die Römer Gassen für die Elefanten frei. Wie viele Elefanten es waren und welchen Weg sie nahmen, ist unsicher. Im Buch ziehen nur zwei."
+ },
+ {
+  "id": "card_alpen",
+  "kind": "card",
+  "text": "Alpes. Im Herbst 218 vor Christus zog Hannibal mit seinem Heer über die Alpen nach Italien. Ein Marsch durch hohe, kalte Berge, mit Elefanten! Welchen Pass er nahm, wissen Forscher bis heute nicht sicher. Der Weg auf der Seite ist eine Annahme, keine gesicherte Route."
+ },
+ {
+  "id": "card_hafen",
+  "kind": "card",
+  "text": "Kartago. Karthago war eine mächtige Hafenstadt am Mittelmeer. Rom und Karthago führten drei Kriege gegeneinander. Die Römer nannten die Karthager Punier, darum heißen sie Punische Kriege. Im Jahr 146 vor Christus wurde Karthago zerstört, viele Überlebende wurden zu Sklaven gemacht. Man erzählt, die Römer hätten Salz auf den Boden Karthagos gestreut, damit nichts mehr wächst. Das stimmt vermutlich nicht: Dafür gibt es keine antike Quelle."
+ },
+ {
+  "id": "card_corvus",
+  "kind": "card",
+  "text": "Korvus. Der Name bedeutet: Rabe. Corvus hieß diese Brücke, das ist lateinisch für Rabe. Sie hing an einem Mast am Bug und ließ sich drehen. Man ließ sie auf ein fremdes Schiff fallen, der Eisendorn hakte sich fest, und man konnte hinüberlaufen. Wie die Brücke genau gebaut war, wissen wir nicht sicher. Zieh die Lasche Enterbrücke!"
+ },
+ {
+  "id": "card_gans2",
+  "kind": "card",
+  "text": "Anser. Der Name bedeutet: anser ist das lateinische Wort für Gans. Wow! Nach einer alten Sage haben Gänse auf dem Kapitol die Römer geweckt, als die Gallier kamen. Diese Gans trägt eine ausgedachte Schärpe wie ein Senator und hört dem Redner zu. Sie erinnert an eine Sage: Als die Gallier Rom plünderten, sollen Gänse auf dem Kapitol laut geschnattert haben. Die Plünderung ist belegt, die Gänse kennen wir nur aus Erzählungen."
+ },
+ {
+  "id": "card_leg_legionaer",
+  "kind": "card",
+  "text": "Miles legionarius. Der Name bedeutet: Soldat einer Legion. Das Wort Miles ist lateinisch und bedeutet: Soldat. Daraus wurde unser Wort Militär. Wow! Ein Legionär trug nicht nur Waffen, sondern auch Säge, Hacke und Korb: Römische Soldaten waren auch Bauleute. Legionäre waren die Soldaten einer römischen Legion. Sie mussten kämpfen können, aber auch graben, bauen und schwere Lasten tragen. Mit den fünf Laschen vorn ziehst du diesem Legionär Helm, Panzer, Schwert, Schild und Speer an."
+ },
+ {
+  "id": "card_leg_zenturio",
+  "kind": "card",
+  "text": "Zenturio. Der Name bedeutet: Anführer einer Hundertschaft. Das Wort Kohors ist lateinisch und bedeutet: Hof, später ein Truppenteil. Daraus wurde unser Wort Kohorte. Wow! Der Helmbusch quer über dem Helm und der Rangstab zeigten: Hier kommt ein Anführer. Ein Zenturio führte eine Zenturie, die Hundertschaft. Zehn Kohorten bildeten eine Legion. Der Zenturio trug ein Kettenhemd und einen Helm mit quer sitzendem Busch. In der Hand hielt er einen Stock aus Rebholz als Zeichen seines Ranges."
+ },
+ {
+  "id": "card_leg_aquilifer",
+  "kind": "card",
+  "text": "Aquilifer. Der Name bedeutet: Adlerträger. Wow! Den Adler der Legion zu verlieren, war für die Soldaten eine große Schande. Der Aquilifer trug den Legionsadler auf einer langen Stange. Dieses Zeichen gehörte der ganzen Legion. Wo der Adler hinging, folgten die Soldaten."
+ },
+ {
+  "id": "card_leg_pilum",
+  "kind": "card",
+  "text": "Pilum. Der Name bedeutet: Wurfspeer. Wow! Ein Pilum war fast so lang, wie eine Tür hoch ist: knapp 2 Meter. Das Pilum ist ein Wurfspeer. Der lange Schaft ist aus Holz, die Spitze aus Eisen. Zusammen mit Schild und Schwert gehörte es zur Ausrüstung eines Legionärs. In diesem Buch sind Waffen nur zum Anschauen da."
+ },
+ {
+  "id": "card_leg_gladius",
+  "kind": "card",
+  "text": "Gladius. Der Name bedeutet: Schwert. Wow! Das berühmte Schwert der Legionäre war kurz: nur etwa 60 Zentimeter lang. Der Gladius ist das Kurzschwert der Legionäre. Er steckte in einer Scheide am Gürtel. Hier ist er nur zum Anschauen da. Zieh an der Lasche Schwert, dann hängt der Legionär ihn sich um."
+ },
+ {
+  "id": "card_leg_scutum",
+  "kind": "card",
+  "text": "Skutum. Der Name bedeutet: Schild. Wow! Mit vielen Scuta zusammen konnten Soldaten ein Dach aus Schilden bilden. Das Scutum war der große Schild der Legionäre. Es war groß und schützte den Körper. In der Mitte sitzt ein runder Buckel aus Metall. Mit dem Schieber Schildkröte stellst du viele Schilde zu einem Dach zusammen."
+ },
+ {
+  "id": "card_leg_lorica",
+  "kind": "card",
+  "text": "Lorika segmentata. Der Name bedeutet: Panzer aus Teilstücken. Wow! Der Panzer bestand aus vielen Eisenstreifen und bewegte sich beim Gehen mit. Der Schienenpanzer schützte Brust, Rücken und Schultern. Die Streifen aus Eisen sind mit Lederriemen verbunden. So kann sich der Legionär bücken und die Arme heben. Aus der Zeit Caesars kennt man diesen Panzer noch nicht."
+ },
+ {
+  "id": "card_leg_galea",
+  "kind": "card",
+  "text": "Galea. Der Name bedeutet: Helm. Wow! Ein Helm schützte mehr als den Kopf: Klappen an den Seiten und hinten deckten Wangen und Nacken. Der Helm der Legionäre hieß Galea. Er bestand aus Metall, zum Beispiel aus Eisen oder Bronze. Unser Helm glänzt wie Bronze. Neben dem Kopf schützte er auch Wangen und Nacken."
+ },
+ {
+  "id": "card_leg_caligae",
+  "kind": "card",
+  "text": "Kaligä. Der Name bedeutet: Soldatenstiefel. Wow! Kaiser Caligula bekam seinen Spitznamen von diesen Stiefeln: Caligula heißt Stiefelchen. Die Caligae waren die Schuhe der Legionäre. Sie waren aus festem Leder, und unter der Sohle steckten Eisennägel. Auf langen Märschen musste so ein Schuh viel aushalten."
+ },
+ {
+  "id": "card_leg_marschgepaeck",
+  "kind": "card",
+  "text": "Sarkina. Der Name bedeutet: Bündel, Gepäck. Wow! Das Gepäck eines Legionärs wog vermutlich zwischen 20 und 40 Kilogramm. Das ist viel mehr als ein voller Schulranzen. Auf dem Marsch trug jeder Legionär sein Gepäck selbst, meist an einer Stange über der Schulter. Darin steckten Werkzeug zum Bauen, Riemen, Haken und Essen für drei Tage. Hier siehst du eine Auswahl."
+ },
+ {
+  "id": "card_leg_testudo",
+  "kind": "card",
+  "text": "Testudo. Der Name bedeutet: Schildkröte. Das Wort Testudo ist lateinisch und bedeutet: Schildkröte. So nannten die Römer das Schilddach. Wow! Das Schilddach sah aus wie der Panzer einer Schildkröte. Daher der Name. Bei der Testudo rückten die Soldaten eng zusammen und hielten die Schilde vor sich und über den Köpfen. So entstand ein Schilddach. Es schützte gegen Pfeile und wurde auch bei Belagerungen benutzt. Schiebe den Schieber Schildkröte und sieh zu."
+ },
+ {
+  "id": "card_leg_lager",
+  "kind": "card",
+  "text": "Kastra. Der Name bedeutet: Lager. Wow! Die Legionäre bauten ihr Lager selbst, mit Hacke, Säge und Korb. Auf Märschen baute das Heer Lager mit Graben, Wall und Pfählen, meist als Quadrat mit vier Toren. Drinnen standen die Zelte in langen Reihen, in der Mitte das Zelt des Feldherrn. Mit dem Regler Lagerbau siehst du, wie es Stück für Stück entsteht."
+ },
+ {
+  "id": "card_gans3",
+  "kind": "card",
+  "text": "Die Gans im Marschlager. Der Name bedeutet: anser ist das lateinische Wort für Gans. Wow! Gefunden! Diese Gans trägt einen Legionärshelm. Du hast die Gans hinter dem Zelt in der dritten Reihe gefunden. Sie hat sich einen Legionärshelm aufgesetzt und tut so, als gehörte sie zur Legion. Nach der Sage haben Gänse einmal das Kapitol in Rom gerettet."
+ },
+ {
+  "id": "card_caesar",
+  "kind": "card",
+  "text": "Gajus Julius Kaisar. Der Name bedeutet: Caesar war der Beiname seiner Familie. Das Wort Kaisar ist lateinisch und bedeutet: Beiname einer römischen Familie. Daraus wurde unser Wort Kaiser, auch das Wort Zar. Wow! Caesar war nie Kaiser, und trotzdem heißt der Kaiser nach ihm. Auch der Monat Juli ist nach ihm benannt. Caesar war ein römischer Feldherr und eroberte in acht Jahren Gallien. 49 vor Christus führte er sein Heer über den Rubikon, und es kam zum Bürgerkrieg. Er wurde sehr mächtig, war aber nie Kaiser. Am 15. März 44 vor Christus wurde er von Gegnern ermordet."
+ },
+ {
+  "id": "card_augustus",
+  "kind": "card",
+  "text": "Augustus. Der Name bedeutet: der Erhabene, der Ehrwürdige. Das Wort Prinkeps ist lateinisch und bedeutet: der Erste. Davon kommt unser Wort Prinz. Wow! Nach Caesar heißt der Juli, nach Augustus der August. Zwei Römer stehen bis heute in unserem Kalender. Augustus hieß zuerst Octavian und war Caesars Großneffe und Erbe. Nach den Bürgerkriegen regierte er allein und bekam 27 vor Christus den Titel Augustus. Er nannte sich aber lieber Princeps, der erste Bürger. Mit ihm beginnt die Kaiserzeit."
+ },
+ {
+  "id": "card_kleopatra",
+  "kind": "card",
+  "text": "Kleopatra die Siebte. Der Name bedeutet: griechischer Name, Ruhm des Vaters. Wow! Kleopatra war die letzte Herrscherin des alten Ägypten, die wirklich regierte. Nach ihr herrschten die Römer. Kleopatra war Königin von Ägypten. Sie regierte ein reiches Land und verbündete sich mit mächtigen Römern wie Caesar. Als sie im Jahr 30 vor Christus starb, wurde Ägypten römisch. Hier trägt sie Diadem und Zepter, wie es einer Herrscherin gehört."
+ },
+ {
+  "id": "card_rubikon",
+  "kind": "card",
+  "text": "Rubikon. Der Name bedeutet: ein kleiner Grenzfluss in Norditalien. Wow! Noch heute sagt man den Rubikon überschreiten, wenn man etwas beginnt und nicht mehr zurück kann. Der Rubikon war ein kleiner Fluss und galt als Grenze nach Italien. Ein Feldherr durfte sein Heer nicht über diese Grenze führen. Doch im Jahr 49 vor Christus tat Caesar es trotzdem. Danach gab es Krieg zwischen ihm und seinen Gegnern in Rom."
+ },
+ {
+  "id": "card_denar",
+  "kind": "card",
+  "text": "Denarius. Der Name bedeutet: je zehn, der Zehner. Das Wort Moneta ist lateinisch und bedeutet: Beiname der Göttin Juno. Aus Juno Moneta wurde unser Wort Münze. Wow! Viele Münzen waren wie kleine Plakate: Später ließen Herrscher ihr Gesicht darauf prägen, damit alle sie kannten. Der Denar war eine kleine Silbermünze. Man bezahlte damit auf dem Markt, und Soldaten bekamen ihren Sold in Münzen. Der Münzer legte ein Stück Silber zwischen zwei Stempel und schlug mit dem Hammer zu. Vorne war oft ein Kopf zu sehen, hinten ein Bild."
+ },
+ {
+  "id": "card_lorbeerkranz",
+  "kind": "card",
+  "text": "Korona laurea. Der Name bedeutet: Kranz aus Lorbeer. Wow! Wer sich auf seinen Lorbeeren ausruht, ruht sich auf einem alten Erfolg aus. Der Spruch kommt vom Lorbeerkranz der Sieger. Der Lorbeer war für die Römer ein Zeichen für Sieg und Ehre. Siegreiche Feldherren trugen bei ihrem Triumph einen Lorbeerkranz. Auch Augustus wird oft mit Lorbeer gezeigt. Wenn du die Lasche ziehst, bringt ihm ein Senator den Kranz."
+ },
+ {
+  "id": "card_gans4",
+  "kind": "card",
+  "text": "Anser. Der Name bedeutet: anser ist das lateinische Wort für Gans. Wow! Der Lorbeerkranz war in Rom ein Zeichen für Sieg. Du hast die Gans gefunden, also gehört der Kranz ihr! Gefunden! Die Gans hat sich in der Münzwerkstatt versteckt, genau unter dem Stapel mit den Denaren. Auf dem Kopf trägt sie einen Lorbeerkranz wie Augustus. Bei dem Lärm der Hämmer hat sie wohl noch niemand bemerkt."
+ },
+ {
+  "id": "card_h_kolosseum",
+  "kind": "card",
+  "text": "Amfitheatrum Flavium. Der Name bedeutet: Theater mit Sitzen ringsum, gebaut von den Flavier-Kaisern. Das Wort Kolossus ist lateinisch und bedeutet: Riesenstatue. Daraus wurde unser Wort Koloss. Wow! Das Kolosseum hieß eigentlich ganz anders, und seinen heutigen Namen verdankt es vermutlich einer Riesenstatue, die daneben stand. Das Kolosseum ist ein Amphitheater, ein Oval aus Stein mit Sitzreihen rundherum. Gebaut wurde es ab etwa 72 nach Christus, eröffnet wurde es im Jahr 80. Es hat drei Reihen mit Bögen und oben ein weiteres Geschoss. Hier sahen die Menschen Vorführungen und Spiele, mehr dazu erfährst du, wenn du auf die Arena tippst."
+ },
+ {
+  "id": "card_h_arena",
+  "kind": "card",
+  "text": "Harena. Der Name bedeutet: Sand. Das Wort Harena ist lateinisch und bedeutet: Sand. Der Boden im Kolosseum war mit Sand bedeckt. Daraus wurde unser Wort Arena. Wow! Das Wort Arena heißt im Lateinischen einfach nur Sand. In der Arena fanden Vorführungen vor Publikum statt. Es gab hier aber auch Kämpfe auf Leben und Tod, bei denen Menschen starben, und Jagden auf Tiere. Kämpfen mussten oft Sklaven, Kriegsgefangene und Verurteilte, manche Gladiatoren meldeten sich auch freiwillig. Dieses Buch zeigt solche Kämpfe nicht, aber sie gehören zur Geschichte des Kolosseums."
+ },
+ {
+  "id": "card_h_velarium",
+  "kind": "card",
+  "text": "Velarium. Der Name bedeutet: Sonnensegel. Wow! Das riesige Sonnensegel wurde von Seeleuten bedient, so wie auf einem Schiff. Im Sommer brannte die Sonne auf die Sitzreihen. Darum spannte man ein riesiges Sonnensegel über die Zuschauerränge. Es hing an Masten rund um den oberen Rand. Seeleute zogen es mit Seilen auf, so saßen die Zuschauer im Schatten."
+ },
+ {
+  "id": "card_h_pantheon",
+  "kind": "card",
+  "text": "Pantheon. Der Name bedeutet: Tempel für alle Götter. Wow! Die riesige Kuppel ist innen etwa 43 Meter breit, und durch das offene Loch oben fällt das Licht herein. Das Pantheon war ein Tempel für viele Götter. Vorne hat es einen Säulengang mit Giebel, dahinter ein Rund mit einer riesigen Kuppel aus Beton. Oben in der Kuppel ist ein offenes Loch, der Oculus. Das Pantheon steht noch heute in Rom."
+ },
+ {
+  "id": "card_h_trajanssaeule",
+  "kind": "card",
+  "text": "Kolumna Trajani. Der Name bedeutet: Säule des Kaisers Trajan. Wow! Die Bilder auf der Säule erzählen eine ganze Geschichte, wie ein Comic aus Stein. Kaiser Trajan ließ die Säule als Siegesdenkmal bauen. Ein Bilderband windet sich in einer Spirale um den Schaft nach oben. Es erzählt von seinen Kriegen gegen die Daker, die im Gebiet des heutigen Rumänien lebten. Nach dem Sieg wurde Dakien eine römische Provinz."
+ },
+ {
+  "id": "card_h_forum",
+  "kind": "card",
+  "text": "Forum Romanum. Der Name bedeutet: der römische Marktplatz. Das Wort Forum ist lateinisch und bedeutet: Marktplatz. Daraus wurde unser Wort Forum, ein Ort zum Reden und Austauschen. Wow! Auf dem Forum konnte man am selben Tag einkaufen, einer Gerichtsverhandlung zuhören und eine Rede erleben. Das Forum Romanum war der wichtigste öffentliche Platz in Rom. Hier trafen sich die Menschen zu Versammlungen, vor Gericht und beim Einkaufen. Rund um den Platz standen Läden und Tempel. Im Buch siehst du nur einen kleinen, vereinfachten Teil."
+ },
+ {
+  "id": "card_h_marktstand",
+  "kind": "card",
+  "text": "Der Marktstand. Der Name bedeutet: hier wird verkauft. Wow! Dank der Straßen und Schiffe kamen Waren aus dem ganzen Reich nach Rom. Auf dem Markt am Forum gab es Obst, Gemüse, Krüge und Stoffe. Die Händler priesen ihre Waren an, und man feilschte um den Preis. Bezahlt wurde mit Münzen. Viele Waren kamen aus fernen Teilen des Reiches."
+ },
+ {
+  "id": "card_h_saenfte",
+  "kind": "card",
+  "text": "Lektika. Der Name bedeutet: Trage, kleine Liege. Wow! In Rom war es richtig voll, denn hier lebten vermutlich eine halbe bis eine Million Menschen. Wohlhabende Römer ließen sich in einer Sänfte durch die Stadt tragen. In den engen, vollen Straßen war das bequemer als zu Fuß zu gehen. Die Träger waren meist Sklaven. Sklaverei war ein fester Teil der römischen Gesellschaft: Sklaven gehörten ihren Besitzern und konnten nicht frei über ihr Leben entscheiden."
+ },
+ {
+  "id": "card_h_meilenstein",
+  "kind": "card",
+  "text": "Miliarium. Der Name bedeutet: Stein für die Meilen. Das Wort Mille passus ist lateinisch und bedeutet: tausend Doppelschritte. Daraus wurde unsere Meile. Wow! Der Weg nach Rom war mit Steinen markiert, die den Reisenden sagten, wie weit es noch ist. An römischen Straßen standen Steine, die Entfernungen angaben. Das Wort Meile kommt von mille passus, tausend Doppelschritte. So einen Stein hast du schon auf der Titelseite gesehen, dort als Goldenen Meilenstein mit Zeitrad. Viele Hauptstraßen liefen auf Rom zu. Daher sagt man bis heute: Alle Wege führen nach Rom."
+ },
+ {
+  "id": "card_h_reichskarte",
+  "kind": "card",
+  "text": "Imperium Romanum. Der Name bedeutet: Herrschaftsgebiet der Römer. Wow! Das Reich war damals etwa 14-mal so groß wie das heutige Deutschland. Unter Kaiser Trajan wurde das Reich so groß wie nie zuvor. Es reichte von Britannien bis zum Euphrat. Im Inneren war es vergleichsweise friedlich, diese Zeit nennt man Pax Romana, römischen Frieden. Auf der Karte siehst du das Reich, wie es um das Jahr 117 aussah."
+ },
+ {
+  "id": "card_h_rom",
+  "kind": "card",
+  "text": "Roma. Der Name bedeutet: die Hauptstadt des Reiches. Wow! Vermutlich lebten in Rom zwischen 450.000 und einer Million Menschen, genau weiß das niemand. Rom war die Hauptstadt des Reiches und eine riesige Stadt. Vermutlich lebten hier eine halbe bis eine Million Menschen. Genau weiß das niemand, denn aus dieser Zeit gibt es keine sicheren Zahlen. Reiche und Arme, Freie und Sklaven wohnten dicht beieinander."
+ },
+ {
+  "id": "card_gans5",
+  "kind": "card",
+  "text": "Gans mit Reisehut. Der Name bedeutet: Gans. Wow! Der Sage nach haben Gänse einmal Rom gerettet, weil sie laut schnatterten. Du hast die Gans vom Forum gefunden! Sie sitzt auf dem Marktstand und trägt einen Reisehut, denn auf Roms Straßen war immer viel los. Nach der Sage warnten Gänse auf dem Kapitol die Römer vor einem nächtlichen Überfall der Gallier. Ob es wirklich so war, weiß man nicht."
+ },
+ {
+  "id": "card_kind",
+  "kind": "card",
+  "text": "Tabula kerata. Der Name bedeutet: Wachstafel. Das Wort Schola ist lateinisch und bedeutet: freie Zeit, Muße. Daraus wurde unser Wort Schule. Wow! Aufgeschrieben wurde in Wachs: Mit dem flachen Ende des Griffels konnte man alles wieder glatt streichen. Ob ein Kind zur Schule ging, hing vom Stand und vom Geld der Familie ab. Die Schulen waren privat, und man musste Schulgeld zahlen. Arme Familien konnten das Schulgeld oft nicht zahlen, und Mädchen gingen seltener zur Schule. Manche Mädchen lernten aber doch Lesen und Schreiben."
+ },
+ {
+  "id": "card_wachstafel",
+  "kind": "card",
+  "text": "Stilus. Der Name bedeutet: Griffel. Wow! Römische Zahlen sind Striche und Buchstaben: I ist eins, V ist fünf, X ist zehn. Mit dem Regler Schultag schreibt der Griffel Zahlen ins Wachs. Ein kleiner Strich vor einer größeren Zahl wird abgezogen: IV heißt vier. Man schrieb aber auch IIII. Beide Schreibweisen waren üblich."
+ },
+ {
+  "id": "card_baecker",
+  "kind": "card",
+  "text": "Pistor. Der Name bedeutet: Bäcker (eigentlich: Müller, Stampfer). Wow! In Pompeji gab es viele Bäckereien. Das Brot war ein wichtiges Essen für fast alle. In der Bäckerei wurde Teig geknetet und Brot im Ofen gebacken. In vielen Betrieben arbeiteten auch Sklaven. Sie waren nicht frei und bekamen oft keinen Lohn. Das gehörte zum Alltag in römischen Städten."
+ },
+ {
+  "id": "card_haendler",
+  "kind": "card",
+  "text": "Taberna. Der Name bedeutet: Bude, Laden. Das Wort Taberna ist lateinisch und bedeutet: Bude, Laden. Daraus wurde unser Wort Taverne. Wow! Tagsüber stand die ganze Vorderseite des Ladens offen, wie ein riesiges Schaufenster. Tabernae lagen dicht an dicht an der Straße. Tagsüber waren sie weit offen, die Waren standen auf einer Theke. Nachts schloss man sie mit Holzbrettern. Auch Handwerker wie Schmiede arbeiteten in solchen Läden."
+ },
+ {
+  "id": "card_imbiss",
+  "kind": "card",
+  "text": "Termopolium. Der Name bedeutet: Ort, an dem Warmes verkauft wird. Wow! Das war das Fast Food der Römer: schnell etwas Warmes und gleich weitergehen. Viele Menschen hatten zu Hause keine eigene Küche. Darum aßen sie am Imbiss. Die Speisen standen in großen Tongefäßen, die in die Theke eingelassen waren. Bemalt war die Theke mit bunten Bildern."
+ },
+ {
+  "id": "card_haus",
+  "kind": "card",
+  "text": "Atrium und Impluvium. Der Name bedeutet: Haupthof und Regenbecken. Wow! Das Dach hatte eine Öffnung: So kam Licht in den Hof, und der Regen füllte das Becken. Reiche Familien wohnten in Häusern mit einem Hof in der Mitte. Rings um den Hof lagen die Zimmer. Das Wasser aus dem Becken konnte man im Haus benutzen. Von der Straße aus sah man nur eine schlichte Mauer."
+ },
+ {
+  "id": "card_trittsteine",
+  "kind": "card",
+  "text": "Lapides. Der Name bedeutet: Steine. Wow! Die Räder der Karren passten genau durch die Lücken zwischen den Steinen. In den Straßen von Pompeji lief bei Regen oft Wasser, und manchmal auch Schmutz. Darum legte man hohe Steine quer über die Straße. Fußgänger hüpften von Stein zu Stein, Wagen fuhren durch die Lücken."
+ },
+ {
+  "id": "card_thermen",
+  "kind": "card",
+  "text": "Terme. Der Name bedeutet: warme Bäder. Wow! Die Thermen waren Bad, Treffpunkt und Sportplatz in einem. In den Thermen traf man Freunde und badete. Eine übliche Reihenfolge war: erst lauwarm, dann heiß, zum Schluss kalt. Die Reihenfolge war aber nicht überall gleich."
+ },
+ {
+  "id": "card_brunnen",
+  "kind": "card",
+  "text": "Fons. Der Name bedeutet: Quelle, Brunnen. Wow! Nicht jedes Haus hatte fließendes Wasser, darum standen Brunnen an der Straße. An vielen Ecken stand ein Brunnen mit einem steinernen Becken. Man holte Wasser für Küche und Haushalt. Der Brunnen war auch ein Treffpunkt, ein bisschen wie heute eine Bank oder ein Spielplatz."
+ },
+ {
+  "id": "card_hund",
+  "kind": "card",
+  "text": "Kave kanem. Der Name bedeutet: Hüte dich vor dem Hund. Wow! Schon vor fast 2.000 Jahren gab es das Schild Vorsicht, bissiger Hund, nur eben aus Steinchen. Im Eingang eines Hauses in Pompeji liegt ein Mosaik. Es zeigt einen Hund an der Kette. Darunter steht die Warnung. Besucher sollten sich in Acht nehmen. Unser Bild ist eine eigene Zeichnung im Stil dieses Mosaiks."
+ },
+ {
+  "id": "card_graffiti",
+  "kind": "card",
+  "text": "Grafiti. Der Name bedeutet: eingeritzte Schrift (italienisch: graffiare, kratzen). Wow! Die Menschen in Pompeji haben mit dem Griffel an die Wand geschrieben, genau wie manche heute. An vielen Wänden stehen kurze Botschaften. Man grüßte Freunde, machte Witze oder warb für einen Kandidaten bei der Wahl. Der Spruch hier heißt sinngemäß: Gaius war hier. Das Brot schmeckt!"
+ },
+ {
+  "id": "card_vesuv",
+  "kind": "card",
+  "text": "Mons Wesuwius. Der Name bedeutet: der Berg Vesuv. Wow! Weil das Leben hier 79 nach Christus endete, wissen wir heute so viel über den Alltag der Römer. Auf deinem Bild ist der Berg ruhig. Bis zum Jahr 79 nach Christus kennen wir das Leben in Pompeji. Vieles blieb erhalten, darum können wir es heute erforschen."
+ },
+ {
+  "id": "card_gans6",
+  "kind": "card",
+  "text": "Anser. Der Name bedeutet: anser ist das lateinische Wort für Gans. Wow! Sie watschelt im Hof des Hauses herum, gleich neben dem Regenbecken. Gänse waren Hoftiere. Nach einer Sage haben Gänse einst das Kapitol in Rom gerettet, weil sie Lärm schlugen. Die Gans hier trägt ein rotes Kopftuch und passt auf den Hof auf."
+ },
+ {
+  "id": "card_aquaedukt",
+  "kind": "card",
+  "text": "Akwäduktus. Der Name bedeutet: Wasserleitung (Wasser führen). Das Wort akwa plus dukere ist lateinisch und bedeutet: Wasser + führen. Daraus wurde Aquädukt. Wow! Das Wasser floss nur bergab, ohne Pumpe. Bei der Leitung zum Pont du Gard sinkt die Rinne auf 100 Metern nur etwa 3 Zentimeter, das ist weniger als eine Handbreit. Ein Aquädukt bringt Wasser aus den Bergen in die Stadt. Die Rinne oben ist nur ganz leicht geneigt, damit das Wasser langsam bergab fließt. Wo ein Tal im Weg ist, tragen Bögen die Rinne. Beim Pont du Gard in Frankreich stehen drei Bogenreihen übereinander."
+ },
+ {
+  "id": "card_strasse",
+  "kind": "card",
+  "text": "Wia Strata. Der Name bedeutet: gepflasterter Weg. Das Wort wia strata ist lateinisch und bedeutet: gepflasterter Weg. Daraus wurde Straße. Wow! Die Römer hatten schätzungsweise 300.000 Kilometer Straßen. Wo sie genau verliefen, weiß man nur bei etwa 8.000 Kilometern. Eine Straße bestand aus mehreren Lagen. Unten liegen große Steine, darüber Steinbrocken mit Kalk, dann eine feinere Schicht und ganz oben Platten. Gebaut haben die Straßen Soldaten, Handwerker und Sklaven. Zieh den Schieber Straßenschichten und bau mit!"
+ },
+ {
+  "id": "card_tretradkran",
+  "kind": "card",
+  "text": "Tretradkran. Der Name bedeutet: Ein Mensch läuft im Rad und hebt die Last. Wow! Mit dem Tretrad ließ sich nach Schätzung etwa doppelt so viel heben wie mit einem Flaschenzug mit Winde. Im Tretradkran läuft ein Mensch im Inneren eines großen Holzrades. Das Rad dreht eine Welle, das Seil wickelt sich auf, und die Last steigt nach oben. Solche Kräne gab es auf Baustellen. Dreh an der Kurbel Tretrad und sieh zu!"
+ },
+ {
+  "id": "card_moertel",
+  "kind": "card",
+  "text": "Opus kämentikium. Der Name bedeutet: römischer Beton. Wow! Römischer Beton enthielt Vulkanasche, und manche Bauwerke daraus stehen nach fast 2.000 Jahren noch. In der Wanne rührt ein Arbeiter Mörtel an. Dafür braucht er gebrannten Kalk, Vulkanasche und Wasser. Die Masse wird hart wie Stein. Mit der Lasche Beton siehst du die Zutaten nacheinander."
+ },
+ {
+  "id": "card_kalkkreislauf",
+  "kind": "card",
+  "text": "Der Kalkkreislauf. Kalkstein ist Calciumcarbonat, chemisch C a C O drei. Beim Brennen bei etwa neunhundert Grad Celsius entstehen gebrannter Kalk, C a O, und das Gas Kohlenstoffdioxid, C O zwei. Beim Löschen reagiert gebrannter Kalk mit Wasser, H zwei O, zu gelöschtem Kalk, Calciumhydroxid, C a, Klammer auf, O H, Klammer zu, zwei. Dabei wird viel Wärme frei. An der Luft nimmt gelöschter Kalk Kohlenstoffdioxid auf und wird wieder zu Calciumcarbonat, C a C O drei, dem Stoff, aus dem auch Kalkstein besteht. Dabei entsteht Wasser. Beim Römerbeton reagiert zusätzlich die Vulkanasche mit. Nicht zu Hause nachmachen: Gebrannter Kalk ätzt und reagiert heftig mit Wasser."
+ },
+ {
+  "id": "card_hypokaustum",
+  "kind": "card",
+  "text": "Hüpokaustum. Der Name bedeutet: die Fußbodenheizung der Römer. Wow! Der ganze Boden wurde von unten warm, und die Wände auch. In einem Ofen brennt Feuer. Die heiße Luft strömt unter den Boden, der auf vielen kleinen Ziegelpfeilern steht. Von dort zieht sie in Kanälen die Wände hoch. So wurden römische Bäder warm. Zieh die Lasche Fußbodenheizung und sieh die Wärme strömen!"
+ },
+ {
+  "id": "card_bleirohr",
+  "kind": "card",
+  "text": "Plumbum. Der Name bedeutet: Blei. Das Wort plumbum ist lateinisch und bedeutet: Blei. Daher das Zeichen Pb. Auch das englische plumber (Klempner) hat diese Wurzel. Wow! Das chemische Zeichen Pb für Blei kommt vom lateinischen plumbum. In Rom floss das Wasser auch durch Rohre aus Blei. Forscher fanden im Leitungswasser mehr Blei als im Quellwasser, aber wohl nicht gefährlich viel. Wahrscheinlich schützte eine Kalkschicht im Rohr. Ganz sicher ist das nicht, und der Baumeister Vitruv warnte trotzdem vor Bleirohren."
+ },
+ {
+  "id": "card_glasblaeserpfeife",
+  "kind": "card",
+  "text": "Glasbläserpfeife. Der Name bedeutet: ein langes Rohr, mit dem man Glas aufbläst. Wow! Erst seit dem Glasblasen gab es billiges Glas für den Alltag. Der Glasbläser bläst durch eine lange Pfeife in einen glühenden Glasklumpen. Der Klumpen wird zu einem Gefäß, so ähnlich wie ein Luftballon. Mit dieser Erfindung wurde Glas billig."
+ },
+ {
+  "id": "card_ziegel",
+  "kind": "card",
+  "text": "Tegula. Der Name bedeutet: Dachziegel. Das Wort tegula ist lateinisch und bedeutet: Dachziegel. Daraus wurde Ziegel. Wow! Dein Wort Ziegel ist ein Wort aus Rom. Ziegel werden aus feuchtem Ton oder Lehm geformt und dann im Ofen gebrannt. Dadurch werden sie hart und halten Wind und Regen aus. Die Römer deckten Dächer damit und bauten Pfeiler für die Fußbodenheizung. Das Wort kommt vom lateinischen tegula."
+ },
+ {
+  "id": "card_gans7",
+  "kind": "card",
+  "text": "Die Gans mit dem Strohhut. Der Name bedeutet: anser ist das lateinische Wort für Gans. Wow! Von ganz oben auf dem Aquädukt sieht die Gans das ganze Wasser fließen. Die Gans sitzt hoch oben auf der obersten Bogenreihe und trägt einen Strohhut gegen die Morgensonne. Nach einer Sage haben Gänse einst das Kapitol in Rom gerettet."
+ },
+ {
+  "id": "card_limes",
+  "kind": "card",
+  "text": "Limes. Der Name bedeutet: Grenzweg, Grenze. Das Wort Limes ist lateinisch und bedeutet: Grenzweg, später Grenze. Das Wort Limes benutzen wir bis heute. Wow! Am Rhein gab es keine Mauer. Der breite Fluss war die Grenze, und Kastelle und Wachtürme am Ufer passten auf. Der Limes war eine Grenze des Römischen Reiches. Hier am Niederrhein verlief sie am Fluss. Soldaten in Kastellen und Türmen beobachteten das Ufer, kontrollierten Waren und Reisende und holten bei Bedarf Hilfe."
+ },
+ {
+  "id": "card_wachturm",
+  "kind": "card",
+  "text": "Turris. Der Name bedeutet: Turm. Wow! Wenn ein Turm ein Signal sah, konnte das nächste es weitergeben, und das Kastell wusste schnell Bescheid. Von oben sahen die Wachen weit über den Fluss. Entdeckten sie etwas, gaben sie ein Zeichen. Dann machten sich Soldaten aus dem Kastell auf den Weg. Zieh die Lasche Wachturm, dann leuchtet das Signalfeuer."
+ },
+ {
+  "id": "card_xanten",
+  "kind": "card",
+  "text": "Wetera. Der Name bedeutet: die alten (Lager). Wow! Auf dem Fürstenberg stand ein großes Legionslager, und später wuchs in der Nähe eine Stadt mit Mauer, Tempeln und Amphitheater. Bei Xanten lag eines der großen Legionslager am Rhein. In der Nähe bekam um das Jahr 100 eine römische Stadt ihre Stadtrechte. Das Bild im Buch ist stark vereinfacht. Heute kannst du im Archäologischen Park spazieren gehen."
+ },
+ {
+  "id": "card_koeln",
+  "kind": "card",
+  "text": "Kolonia Klaudia Ara Agrippinensium. Der Name bedeutet: Kolonie des Claudius beim Altar der Agrippinenser. Das Wort Kolonia ist lateinisch und bedeutet: Siedlung, Pflanzstadt. Daraus wurde der Name Köln. Wow! Der Name Köln steckt schon im langen römischen Stadtnamen: Colonia. Um das Jahr 50 bekam Köln das römische Stadtrecht und hieß nun Colonia. Es war eine der großen Städte am Rhein. Von der Mauer und den Straßen finden Forscher bis heute Reste unter der heutigen Stadt."
+ },
+ {
+  "id": "card_schiff",
+  "kind": "card",
+  "text": "Nawis. Der Name bedeutet: Schiff. Wow! Auf dem Wasser kamen schwere Lasten viel leichter voran als auf einem Karren über Land. Der Rhein war eine wichtige Handelsstraße. Auf Schiffen wie diesem reisten Waren, Soldatenvorräte und Menschen. Mit dem Schieber Rheinschiff fährt es flussabwärts bis zum Hafen."
+ },
+ {
+  "id": "card_rhein_haendler",
+  "kind": "card",
+  "text": "Germani. Der Name bedeutet: die Germanen. Wow! Über die Grenze liefen nicht nur Soldaten: Es gab auch Handel, Tausch und Besuche. Die Grenze trennte nicht alles. An bestimmten Stellen trafen sich Menschen von beiden Seiten und tauschten Waren. Die Römer kontrollierten dabei den Verkehr. Hier siehst du einen germanischen Händler im friedlichen Austausch mit einem Römer."
+ },
+ {
+  "id": "card_inschrift",
+  "kind": "card",
+  "text": "Inskriptio. Der Name bedeutet: Inschrift, Beschriftung. Das Wort Inskriptio ist lateinisch und bedeutet: Aufschrift. Daraus kommt unser Wort Inschrift. Wow! Aus solchen Steinen wissen wir die Namen von Menschen, die vor fast 2.000 Jahren am Rhein lebten. Römer ließen Namen, Dank oder Erinnerungen in Stein meißeln. Solche Steine sind bis heute erhalten und für Forscher wie ein Brief aus alter Zeit. Der Stein im Buch ist ein Beispiel und zeigt kein echtes Fundstück."
+ },
+ {
+  "id": "card_konstantin",
+  "kind": "card",
+  "text": "Konstantinus. Der Name bedeutet: der Beständige. Wow! Vor 313 mussten Christen im Römischen Reich oft vorsichtig sein, zeitweise wurden sie verfolgt. Danach durften sie ihren Glauben im ganzen Reich offen leben. Im Jahr 313 einigten sich Kaiser Konstantin und Kaiser Licinius darauf, dass Christen ihren Glauben ausüben durften. Das veränderte das Reich langsam. Zur Staatsreligion wurde das Christentum aber erst 380."
+ },
+ {
+  "id": "card_teilung395",
+  "kind": "card",
+  "text": "Imperium Romanum. Der Name bedeutet: das Römische Reich. Wow! Nach 395 wurde das Reich nie wieder dauerhaft von einem einzigen Kaiser regiert. Nach dem Tod von Theodosius bekamen seine Söhne je eine Hälfte: Arcadius den Osten, Honorius den Westen. Aus zwei Verwaltungen wurden mit der Zeit zwei getrennte Reiche. Der Osten blieb stark, der Westen wurde schwächer."
+ },
+ {
+  "id": "card_ende476",
+  "kind": "card",
+  "text": "Romulus Augustulus. Der Name bedeutet: Kleiner Augustus, der letzte Kaiser im Westen. Wow! Es gab keinen großen Knall. Das Oströmische Reich bestand noch fast 1.000 Jahre weiter, bis 1453. Im Jahr 476 setzte Odoaker den jungen Kaiser im Westen ab. Für viele Menschen ging das Leben einfach weiter. Städte, Straßen, die lateinische Sprache und der Glaube blieben. Politisch endete der Westen, kulturell lebte Rom weiter."
+ },
+ {
+  "id": "card_wald",
+  "kind": "card",
+  "text": "Germania. Der Name bedeutet: das Land der Germanen. Wow! Wo genau im Jahr 9 nach Christus die Varusschlacht stattfand, wissen Forscher bis heute nicht sicher. Östlich des Rheins lagen große Wälder. Im Jahr 9 nach Christus fand dort eine berühmte Auseinandersetzung zwischen Römern und Germanen statt. Danach blieb der Rhein am Niederrhein für lange Zeit die Grenze."
+ },
+ {
+  "id": "card_werthausen",
+  "kind": "card",
+  "text": "Niedergermanischer Limes. Der Name bedeutet: der Limes am Niederrhein. Wow! Auch ganz in unserer Nähe, bei Duisburg und Moers, liegen Teile des Welterbes Niedergermanischer Limes. Der Niedergermanische Limes ist UNESCO-Welterbe. Zwei Orte davon liegen bei uns: Duisburg-Werthausen und Moers-Asberg. In Werthausen stand ein kleines Kastell. Vieles liegt heute im Boden, doch Forscher kennen die Fundplätze."
+ },
+ {
+  "id": "card_roemer_bei_uns",
+  "kind": "card",
+  "text": "Renus. Der Name bedeutet: der Rhein (lateinischer Name). Das Wort Renus ist lateinisch und bedeutet: Rhein. Der Fluss trug schon bei den Römern seinen Namen. Wow! Du musst nicht nach Rom fahren: Römische Spuren findest du auch am Niederrhein. Auf der Karte siehst du, wo am Rhein Römer lebten: in Xanten, in Köln und dazwischen am Limes. Auch Duisburg und Moers gehören dazu. Wer sucht, findet noch heute Mauerreste, Scherben und Inschriften."
+ },
+ {
+  "id": "card_zeit_kastell",
+  "kind": "card",
+  "text": "Kastellum. Der Name bedeutet: kleines Lager, kleine Festung. Das Wort Kastellum ist lateinisch und bedeutet: kleines Lager. Daraus wurde Kastell. Wow! Ein Kastell war wie eine kleine Festung mit Platz für die Soldaten und ihr Gepäck. Das Kastell im Buch ist eine vereinfachte Festung am Limes. Soldaten wohnten hier, bewachten die Grenze und konnten schnell zu den Wachtürmen ausrücken. Schieb den Regler Zeit, dann siehst du, was später daraus wird."
+ },
+ {
+  "id": "card_zeit_ruine",
+  "kind": "card",
+  "text": "Ruina. Der Name bedeutet: Einsturz, Trümmer. Das Wort Ruina ist lateinisch und bedeutet: Einsturz. Daraus wurde Ruine. Wow! Aus alten Mauern holten sich spätere Menschen Steine für neue Häuser. Darum ist von Römerbauten oft nur wenig übrig. Wenn niemand ein Kastell mehr nutzt, verfällt es langsam. Gras wächst, Mauern bröckeln. Das geschah nicht an einem Tag, sondern über viele Jahre. Manche Steine fanden in neuen Häusern ein zweites Leben."
+ },
+ {
+  "id": "card_zeit_heute",
+  "kind": "card",
+  "text": "Urps. Der Name bedeutet: Stadt. Das Wort Urps ist lateinisch und bedeutet: Stadt. Daraus kommt das Wort urban (städtisch). Wow! Manche Städte am Rhein, zum Beispiel Köln, stehen dort, wo die Römer schon eine Stadt gebaut haben. Aus manchem römischen Lager und mancher Colonia wurde eine Stadt, die bis heute besteht. Straßen, Namen und Wörter blieben, vieles andere änderte sich. Die Stadt im Bild ist eine erfundene Beispielstadt."
+ },
+ {
+  "id": "card_t_fenster",
+  "kind": "card",
+  "text": "Fenestra. Der Name bedeutet: Fenster, Öffnung in der Wand. Das Wort Fenestra ist lateinisch und bedeutet: Fenster. Von den Römern übernahmen wir das Wort. Wow! Unser Wort Fenster klingt in Italien fast gleich: finestra. Römische Häuser aus Stein hatten Öffnungen in den Wänden, damit Licht und Luft hineinkamen. Das lateinische Wort dafür lernten die Menschen nördlich der Alpen kennen und behielten es. Heute sagst du jeden Tag Fenster."
+ },
+ {
+  "id": "card_t_strasse",
+  "kind": "card",
+  "text": "Wia Strata. Der Name bedeutet: gepflasterter Weg. Das Wort Wia Strata ist lateinisch und bedeutet: gepflasterter Weg. Aus strata wurde unser Wort Straße. Wow! Auch das englische Wort street stammt von strata ab. Die Römer bauten feste Straßen, wie du sie auf der Reise durch dieses Buch gesehen hast. Eine gepflasterte Straße hieß via strata, gepflasterter Weg. Bei uns blieb daraus das Wort Straße."
+ },
+ {
+  "id": "card_t_mauer",
+  "kind": "card",
+  "text": "Murus. Der Name bedeutet: Mauer, Stadtmauer. Das Wort Murus ist lateinisch und bedeutet: Mauer. Das Wort kam mit dem Steinbau zu uns. Wow! Mit dem Steinbau kam bei uns auch das Wort Mauer. Die Römer bauten Mauern aus Stein, zum Beispiel um ihre Städte und Kastelle. Das lateinische Wort murus nahmen die Menschen in Germanien auf und sagten bald Mauer. Das Wort ist über tausend Jahre alt."
+ },
+ {
+  "id": "card_t_ziegel",
+  "kind": "card",
+  "text": "Tegula. Der Name bedeutet: Dachziegel. Das Wort Tegula ist lateinisch und bedeutet: Dachziegel. Daraus wurde Ziegel. Wow! Römische Dachziegel erkennst du an ihrer flachen Form mit einem Rand an der Seite. Aus Ton gebrannte Ziegel decken Dächer und bauen Mauern. Die Römer brachten das Wissen darüber mit. Aus dem lateinischen Wort tegula, das ein Dachziegel war, entstand bei uns das Wort Ziegel."
+ },
+ {
+  "id": "card_t_kaiser",
+  "kind": "card",
+  "text": "Kaisar. Der Name bedeutet: Beiname von Julius Caesar, später Titel. Das Wort Kaisar ist lateinisch und bedeutet: Beiname der Familie von Julius Caesar. Später der Titel der Herrscher. Wow! Auch das russische Wort Zar kommt von Caesar. Julius Caesar war nie Kaiser. Seinen Namen übernahmen aber spätere Herrscher als Titel. So wurde aus Caesar das deutsche Wort Kaiser, und im Russischen aus demselben Namen der Zar."
+ },
+ {
+  "id": "card_t_wein",
+  "kind": "card",
+  "text": "Winum. Der Name bedeutet: Wein. Das Wort Winum ist lateinisch und bedeutet: Wein. Die Römer brachten den Wein und das Wort zu uns. Wow! Auch das Wort Winzer gehört zur Familie von vinum. In Rom gehörte der Wein zum Alltag. Mit den Römern kam er an den Rhein, und mit ihm das Wort. Die Wörter Wein und Winzer erinnern noch heute daran."
+ },
+ {
+  "id": "card_t_kaese",
+  "kind": "card",
+  "text": "Kaseus. Der Name bedeutet: Käse. Das Wort Kaseus ist lateinisch und bedeutet: Käse. Das Wort übernahmen die Menschen bei uns von den Römern. Wow! Auch das englische Wort cheese stammt von caseus ab. Käse machten Menschen schon lange, doch das Wort dafür kam von den Römern. Aus dem lateinischen caseus wurde bei uns Käse."
+ },
+ {
+  "id": "card_t_muenze",
+  "kind": "card",
+  "text": "Moneta. Der Name bedeutet: Beiname der Göttin Juno, bei deren Tempel Geld geprägt wurde. Das Wort Moneta ist lateinisch und bedeutet: Münze, Münzstätte. Der Name geht auf die Göttin Juno Moneta zurück. Wow! Das englische Wort money stammt ebenfalls von moneta ab. In Rom wurde bei dem Tempel der Göttin Juno Moneta Geld geprägt. So wurde moneta zum Wort für Münze und Münzstätte. Daraus entstand bei uns das Wort Münze."
+ },
+ {
+  "id": "card_gans8",
+  "kind": "card",
+  "text": "Anser. Der Name bedeutet: anser ist das lateinische Wort für Gans. Wow! Du hast alle Gänse gefunden, die auf der Straße nach Rom gesessen haben! Diese Gans steht am Ufer im Morgendunst und trägt Zipfelmütze und Schal. Nach einer Sage haben Gänse in Rom einmal die Burg auf dem Kapitol gerettet, weil sie laut schnatterten, als Feinde heranschlichen."
  }
 ]

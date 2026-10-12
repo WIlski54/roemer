@@ -5,12 +5,12 @@ export const page = {
   "id": "ingenieure",
   "name": "Straßen, Wasser, Beton",
   "era": "Kaiserzeit",
-  "years": "1. bis 2. Jh. n. Chr.",
+  "years": "Bild: 1. und 2. Jh. n. Chr.",
   "color": "#5a93b5",
   "kicker": "Station 7",
   "title": "Bauwerke für die Ewigkeit"
 };
-page.card = 'Die Römer waren Ingenieure. Sie bauten Straßen, Wasserleitungen und Kuppeln aus Beton, und manches davon steht nach fast 2.000 Jahren noch. Gebaut haben Soldaten, Handwerker und Sklaven; die Sklaven mussten unfrei arbeiten. Zieh an den Laschen und sieh, wie es funktioniert!';
+page.card = 'Die Römer waren Ingenieure. Sie bauten Straßen, Wasserleitungen und Kuppeln aus Beton, und manches davon steht nach fast 2.000 Jahren noch. Gebaut haben Soldaten, Handwerker und Sklaven; Sklaven mussten ohne Lohn und ohne Freiheit arbeiten. Zieh an den Laschen und sieh, wie es funktioniert!';
 page.narr = 'Guten Morgen auf der Baustelle! Zieh am Regler Gefälle: Ist die Rinne ein kleines bisschen geneigt, fließt das Wasser zur Stadt, sonst bleibt es stehen. Mit Straßenschichten baust du eine Straße Lage für Lage, am Tretrad hebst du einen schweren Stein. Bei Beton siehst du, wie Mörtel entsteht, und die Fußbodenheizung wärmt ein römisches Bad. Tippe auf die Bauwerke und such die Gans mit dem Strohhut!';
 page.hint = 'Zieh „Gefälle“, „Straßenschichten“, „Tretrad“, „Beton“ und „Fußbodenheizung“ · Tippe auf die Bauwerke · Such die Gans';
 export const cards = {
@@ -24,7 +24,7 @@ export const cards = {
       ['Gefälle dort', 'etwa 3,4 cm auf 100 m (gerechnet)'],
     ],
     latin: { w: 'aqua + ducere', de: 'Wasser + führen. Daraus wurde „Aquädukt“.', tts: 'akwa plus dukere' },
-    wow: 'Das Wasser floss nur bergab, ohne Pumpe. Auf 100 Metern sinkt die Rinne nur etwa 3 Zentimeter, das ist weniger als eine Handbreit.',
+    wow: 'Das Wasser floss nur bergab, ohne Pumpe. Bei der Leitung zum Pont du Gard sinkt die Rinne auf 100 Metern nur etwa 3 Zentimeter, das ist weniger als eine Handbreit.',
     text: 'Ein Aquädukt bringt Wasser aus den Bergen in die Stadt. Die Rinne oben ist nur ganz leicht geneigt, damit das Wasser langsam bergab fließt. Wo ein Tal im Weg ist, tragen Bögen die Rinne. Beim Pont du Gard in Frankreich stehen drei Bogenreihen übereinander.',
     note: 'Hinweis: Beim Gefälle widersprechen sich die Quellen. Der Baumeister Vitruv empfahl etwa 1 zu 200, gemessen wurden eher 1 zu 3000 bis 1 zu 5000. Im Buch ist die Neigung stark übertrieben. Wann der Pont du Gard gebaut wurde, ist umstritten (um 19 v. Chr. oder Mitte des 1. Jahrhunderts n. Chr.): vor ungefähr 2000 Jahren. Die Bögen im Buch sind vereinfacht.',
     fragen: ['Warum braucht Wasser ein Gefälle, um zu fließen?', 'Rechne: Wie viele Zentimeter sinkt die Leitung des Pont du Gard auf einem Kilometer?'],
@@ -42,7 +42,7 @@ export const cards = {
     latin: { w: 'via strata', de: 'gepflasterter Weg. Daraus wurde „Straße“.', tts: 'wia strata' },
     wow: 'Die Römer hatten schätzungsweise 300.000 Kilometer Straßen. Wo sie genau verliefen, weiß man nur bei etwa 8.000 Kilometern.',
     text: 'Eine Straße bestand aus mehreren Lagen. Unten liegen große Steine, darüber Steinbrocken mit Kalk, dann eine feinere Schicht und ganz oben Platten. Gebaut haben die Straßen Soldaten, Handwerker und Sklaven. Zieh den Schieber „Straßenschichten“ und bau mit!',
-    note: 'Hinweis: Das ist ein Idealschema, die Namen der Lagen stammen vom Baumeister Vitruv. Viele Straßen waren einfacher gebaut. Die Zahlen zum Straßennetz sind Schätzungen.',
+    note: 'Hinweis: Das ist ein Idealschema, die Namen der Lagen kennen wir von Vitruv, der damit eigentlich Fußböden beschreibt; Forscher übertragen sie auf Straßen. Viele Straßen waren einfacher gebaut. Die Zahlen zum Straßennetz sind Schätzungen.',
     fragen: ['Warum liegen unten die größten Steine?', 'Welche Lage heißt pavimentum, und was liegt direkt darunter?'],
     tags: ['Station 7', 'Straße', 'Schichten'],
   },
@@ -67,7 +67,7 @@ export const cards = {
       ['Zutaten', 'gebrannter Kalk, Vulkanasche (Puzzolan), Wasser'],
       ['Vulkanasche', 'zum Beispiel aus Pozzuoli'],
       ['Kalk gebrannt bei', 'etwa 900 °C'],
-      ['Abbinden', 'dauert lange'],
+      ['Abbinden', 'bei reinem Kalk: dauert lange'],
     ],
     wow: 'Römischer Beton enthielt Vulkanasche, und manche Bauwerke daraus stehen nach fast 2.000 Jahren noch.',
     text: 'In der Wanne rührt ein Arbeiter Mörtel an. Dafür braucht er gebrannten Kalk, Vulkanasche und Wasser. Die Masse wird hart wie Stein. Mit der Lasche „Beton“ siehst du die Zutaten nacheinander.',
@@ -77,26 +77,26 @@ export const cards = {
   },
   kalkkreislauf: {
     name: 'Der Kalkkreislauf', sci: 'Kalk brennen, löschen, abbinden', say: '', tts: 'Der Kalkkreislauf',
-    meaning: 'Bedeutung: aus Kalkstein wird Mörtel, und der wird wieder Kalkstein',
+    meaning: 'Bedeutung: aus Kalkstein wird Mörtel, und der wird an der Luft wieder zu Calciumcarbonat',
     facts: [
       ['1 Brennen', 'CaCO<sub>3</sub> → CaO + CO<sub>2</sub> (etwa 900 °C)'],
       ['2 Löschen', 'CaO + H<sub>2</sub>O → Ca(OH)<sub>2</sub> (viel Wärme!)'],
       ['3 Abbinden', 'Ca(OH)<sub>2</sub> + CO<sub>2</sub> → CaCO<sub>3</sub> + H<sub>2</sub>O (dauert lange)'],
       ['Achtung', 'Nicht zu Hause nachmachen! Gebrannter Kalk ätzt.'],
     ],
-    wow: 'Am Ende ist der Mörtel wieder das, womit alles begann: Kalkstein. Das Gas CO<sub>2</sub> wird dabei erst frei und später wieder eingebaut.',
+    wow: 'Beim Kalkmörtel entsteht am Ende wieder Calciumcarbonat, derselbe Stoff wie Kalkstein. Das Gas CO<sub>2</sub> wird dabei erst frei und später wieder eingebaut.',
     text: 'Kalkstein wird heiß gebrannt. Dabei entweicht das Gas Kohlenstoffdioxid, und gebrannter Kalk bleibt übrig. Mit Wasser wird er zu gelöschtem Kalk, und das wird richtig warm. An der Luft nimmt der gelöschte Kalk wieder Kohlenstoffdioxid auf und wird zu Kalkstein. Beim Römerbeton reagiert zusätzlich die Vulkanasche mit.',
     note: 'Hinweis: Nicht zu Hause nachmachen! Gebrannter Kalk ätzt, besonders die Augen, und reagiert heftig mit Wasser. Das Schaubild erklärt nur, was passiert; es ist keine Bastelanleitung. Ob Kalkeinschlüsse Risse im Römerbeton heilen und ob das die Haltbarkeit erklärt, ist neuere Forschung und offen.',
-    fragen: ['Schreibe den Kreislauf als Schaubild auf: Welcher Stoff entsteht in jedem Schritt?', 'Welche der Stoffe sind Gase, welche sind Feststoffe?', 'Warum ist das Löschen von gebranntem Kalk gefährlich?'],
+    fragen: ['Schreibe den Kreislauf als Schaubild auf: Welcher Stoff entsteht in jedem Schritt?', 'Welche der Stoffe sind Gase, Feststoffe oder Flüssigkeiten?', 'Warum ist das Löschen von gebranntem Kalk gefährlich?'],
     tags: ['Station 7', 'Chemie', 'Kalk'],
-    speak: 'Der Kalkkreislauf. Kalkstein ist Calciumcarbonat, chemisch C a C O drei. Beim Brennen bei etwa neunhundert Grad Celsius entstehen gebrannter Kalk, C a O, und das Gas Kohlenstoffdioxid, C O zwei. Beim Löschen reagiert gebrannter Kalk mit Wasser, H zwei O, zu gelöschtem Kalk, Calciumhydroxid, C a O H in Klammern mal zwei. Dabei wird viel Wärme frei. An der Luft nimmt gelöschter Kalk Kohlenstoffdioxid auf und wird wieder zu Kalkstein, C a C O drei. Dabei entsteht Wasser. Beim Römerbeton reagiert zusätzlich die Vulkanasche mit. Nicht zu Hause nachmachen: Gebrannter Kalk ätzt und reagiert heftig mit Wasser.',
+    speak: 'Der Kalkkreislauf. Kalkstein ist Calciumcarbonat, chemisch C a C O drei. Beim Brennen bei etwa neunhundert Grad Celsius entstehen gebrannter Kalk, C a O, und das Gas Kohlenstoffdioxid, C O zwei. Beim Löschen reagiert gebrannter Kalk mit Wasser, H zwei O, zu gelöschtem Kalk, Calciumhydroxid, C a, Klammer auf, O H, Klammer zu, zwei. Dabei wird viel Wärme frei. An der Luft nimmt gelöschter Kalk Kohlenstoffdioxid auf und wird wieder zu Calciumcarbonat, C a C O drei, dem Stoff, aus dem auch Kalkstein besteht. Dabei entsteht Wasser. Beim Römerbeton reagiert zusätzlich die Vulkanasche mit. Nicht zu Hause nachmachen: Gebrannter Kalk ätzt und reagiert heftig mit Wasser.',
   },
   hypokaustum: {
     name: 'Hypokaustum', sci: 'hypocaustum', say: 'sprich: hü-po-KAUS-tum', tts: 'Hüpokaustum',
     meaning: 'Bedeutung: die Fußbodenheizung der Römer',
     facts: [
       ['Aufbau', 'Hohlboden auf Ziegelpfeilern'],
-      ['Wärme', 'Heißluft vom Ofen strömt darunter'],
+      ['Wärme', 'heiße Luft und Rauchgase vom Ofen strömen darunter'],
       ['Wände', 'warme Luft zieht auch durch Kanäle in der Wand'],
       ['Im Bad', 'frigidarium kalt, tepidarium lauwarm, caldarium heiß'],
     ],
@@ -146,7 +146,7 @@ export const cards = {
     ],
     latin: { w: 'tegula', de: 'Dachziegel. Daraus wurde „Ziegel“.', tts: 'tegula' },
     wow: 'Dein Wort „Ziegel“ ist ein Wort aus Rom.',
-    text: 'Ziegel werden aus feuchtem Lehm geformt und dann im Ofen gebrannt. Dadurch werden sie hart und halten Wind und Regen aus. Die Römer deckten Dächer damit und bauten Pfeiler für die Fußbodenheizung. Das Wort kommt vom lateinischen tegula.',
+    text: 'Ziegel werden aus feuchtem Ton oder Lehm geformt und dann im Ofen gebrannt. Dadurch werden sie hart und halten Wind und Regen aus. Die Römer deckten Dächer damit und bauten Pfeiler für die Fußbodenheizung. Das Wort kommt vom lateinischen tegula.',
     note: 'Hinweis: Wie Ziegel genau hergestellt wurden, zeigen wir stark vereinfacht.',
     fragen: ['Woraus sind die Dachziegel auf deinem Haus oder deiner Schule?', 'Welches Wort aus dieser Station stammt noch aus dem Lateinischen: „Straße“, „Aquädukt“ oder beide?'],
     tags: ['Station 7', 'Ziegel', 'Wort aus Rom'],

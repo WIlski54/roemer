@@ -1,2370 +1,5209 @@
 {
  "cover": [
   {
-   "text": "Das große Dinosaurier-Pop-up-Buch.",
+   "text": "Das große Popup-Buch vom Römischen Reich.",
    "start": 0.12,
-   "end": 2.238
+   "end": 2.495
   },
   {
-   "text": "Eine Reise durch die Erdzeitalter.",
-   "start": 2.478,
-   "end": 4.134
+   "text": "Eine Reise auf der Straße nach Rom.",
+   "start": 2.735,
+   "end": 4.473
   },
   {
    "text": "Tippe auf das Buch, dann geht es los!",
-   "start": 4.374,
-   "end": 6.18
+   "start": 4.713,
+   "end": 6.588
   }
  ],
  "page0": [
   {
-   "text": "Willkommen im großen Dinosaurier-Popup-Buch!",
+   "text": "Willkommen im großen Popup-Buch vom Römischen Reich!",
    "start": 0.12,
-   "end": 2.466
+   "end": 2.914
   },
   {
-   "text": "Wir reisen gemeinsam durch viele Millionen Jahre.",
-   "start": 2.766,
-   "end": 5.43
+   "text": "Rechts steht der Goldene Meilenstein mit dem Zeitrad.",
+   "start": 3.214,
+   "end": 5.808
   },
   {
-   "text": "Zuerst schauen wir auf die Erduhr.",
-   "start": 5.67,
-   "end": 7.296
+   "text": "Zieh die Lasche Zeiger drehen, dann springt das Jahr, und die Karte wächst von der Stadt Rom bis zum ganzen Mittelmeer.",
+   "start": 6.048,
+   "end": 11.595
   },
   {
-   "text": "Stell dir vor, die ganze Geschichte der Erde passt auf einen einzigen Tag.",
-   "start": 7.536,
-   "end": 11.267
+   "text": "Mit Tor auf öffnest du den Triumphbogen, und mit Marsch zieht eine Kohorte vorbei.",
+   "start": 11.835,
+   "end": 16.074
   },
   {
-   "text": "Zieh an der Lasche und dreh den Zeiger!",
-   "start": 11.507,
-   "end": 13.403
+   "text": "Auf jeder Doppelseite versteckt sich eine Gans.",
+   "start": 16.314,
+   "end": 18.479
+  },
+  {
+   "text": "Findest du alle acht?",
+   "start": 18.719,
+   "end": 19.797
   }
  ],
  "page1": [
   {
-   "text": "Wir sind in der Trias, vor gut zweihundert Millionen Jahren.",
+   "text": "Es ist früh am Morgen am Tiber, und Nebel liegt über dem Fluss.",
    "start": 0.12,
-   "end": 3.293
+   "end": 3.383
   },
   {
-   "text": "Alles Land der Erde hängt zusammen: ein einziger Riesenkontinent namens Pangaea.",
-   "start": 3.533,
-   "end": 7.474
+   "text": "Zieh an der Lasche Die Zwillinge: Nach der Sage kümmert sich eine Wölfin um Romulus und Remus.",
+   "start": 3.623,
+   "end": 8.242
   },
   {
-   "text": "Es ist heiß und trocken.",
-   "start": 7.714,
-   "end": 9.071
+   "text": "Mit dem Schieber Sieben Hügel steigen die Hügel Roms aus dem Papier.",
+   "start": 8.482,
+   "end": 12.174
   },
   {
-   "text": "Die ersten Dinosaurier sind noch klein und sehr flink.",
-   "start": 9.311,
-   "end": 12.334
+   "text": "Und mit der Lasche Furche pflügt Romulus nach der Sage die erste Stadtgrenze um den Palatin.",
+   "start": 12.414,
+   "end": 17.402
   },
   {
-   "text": "Zieh an der Lasche und lass das Rudel rennen!",
-   "start": 12.574,
-   "end": 14.759
+   "text": "Tippe alles an und such die Gans!",
+   "start": 17.642,
+   "end": 19.448
   }
  ],
  "page2": [
   {
-   "text": "Willkommen im Jura-Wald.",
+   "text": "Willkommen in der Republik!",
    "start": 0.12,
-   "end": 1.447
+   "end": 1.457
   },
   {
-   "text": "Hier ist es feucht und grün, und die Bäume sind hoch.",
-   "start": 1.687,
-   "end": 4.418
+   "text": "Hier regiert kein König mehr, sondern gewählte Beamte und der Senat.",
+   "start": 1.757,
+   "end": 5.299
   },
   {
-   "text": "Der Riese in der Mitte ist ein Sauropode.",
-   "start": 4.658,
-   "end": 6.783
+   "text": "Zieh die Lasche Abstimmung, dann stehen die Senatoren in ihren weißen Togen auf.",
+   "start": 5.539,
+   "end": 9.43
   },
   {
-   "text": "Mit dem langen Hals frisst er Blätter aus den Baumkronen.",
-   "start": 7.023,
-   "end": 9.757
+   "text": "Mit Über die Alpen führst du Hannibals Elefanten über die Papier-Berge.",
+   "start": 9.67,
+   "end": 13.282
   },
   {
-   "text": "Aber pass auf: Hinter dem Baumstamm schaut ein Jäger hervor.",
-   "start": 9.997,
-   "end": 12.99
+   "text": "Und mit Enterbrücke fällt eine Planke vom römischen Schiff auf das Schiff aus Karthago.",
+   "start": 13.522,
+   "end": 17.742
   },
   {
-   "text": "Schiebe den Hals nach oben und schwing den Schwanz!",
-   "start": 13.23,
-   "end": 15.525
+   "text": "Tippe auf alles, und such die versteckte Gans!",
+   "start": 17.982,
+   "end": 20.357
   }
  ],
  "page3": [
   {
-   "text": "Wir sind in einer warmen Lagune im heutigen Bayern, vor etwa hundertfünfzig Millionen Jahren.",
+   "text": "Willkommen bei den Legionären!",
    "start": 0.12,
-   "end": 5.498
+   "end": 1.607
   },
   {
-   "text": "Hier lebten Archaeopteryx, der Urvogel, und viele andere Tiere.",
-   "start": 5.738,
-   "end": 9.02
+   "text": "Mit dem Regler Lagerbau entstehen Graben, Wall, Pfähle und Zelte, so wie die Soldaten sie selbst gebaut haben.",
+   "start": 1.907,
+   "end": 7.818
   },
   {
-   "text": "Wenn ein Tier starb, sank es in den feinen Kalkschlamm.",
-   "start": 9.26,
-   "end": 11.994
+   "text": "Rechts ziehst du an den Laschen Helm, Panzer, Schwert, Schild und Speer, dann ist der Legionär ausgerüstet.",
+   "start": 8.058,
+   "end": 13.646
   },
   {
-   "text": "Zieh am Schieber Zeit vergeht und sieh, wie daraus ein Fossil wird!",
-   "start": 12.234,
-   "end": 15.966
+   "text": "Mit dem Schieber Schildkröte rücken die Soldaten ihre Schilde zu einem Dach zusammen.",
+   "start": 13.886,
+   "end": 17.807
+  },
+  {
+   "text": "Findest du die Gans mit dem Helm?",
+   "start": 18.047,
+   "end": 19.453
   }
  ],
  "page4": [
   {
-   "text": "Hier ist das Meer der Kreidezeit.",
+   "text": "Links streiten die Senatoren am Abend.",
    "start": 0.12,
-   "end": 1.652
+   "end": 2.275
   },
   {
-   "text": "Über den Wellen segelt ein Flugsaurier, und unter Wasser schwimmen riesige Reptilien.",
-   "start": 1.892,
-   "end": 6.561
+   "text": "Rechts beginnt ein neuer Morgen, und dazwischen fließt der Rubikon.",
+   "start": 2.515,
+   "end": 5.987
   },
   {
-   "text": "Aber Achtung: Keines dieser Tiere ist ein Dinosaurier.",
-   "start": 6.801,
-   "end": 9.764
+   "text": "Schieb den Regler Rubikon, dann führt Caesar seine Soldaten über den Fluss.",
+   "start": 6.227,
+   "end": 9.919
   },
   {
-   "text": "Sie sind Cousins.",
-   "start": 10.004,
-   "end": 11.012
+   "text": "Zieh den Lorbeerkranz, dann setzt ein Senator ihn Augustus auf.",
+   "start": 10.159,
+   "end": 13.441
   },
   {
-   "text": "Zieh an den Laschen, dann stürzt Pteranodon nach einem Fisch.",
-   "start": 11.252,
-   "end": 14.165
-  },
-  {
-   "text": "Und tippe auf die Wellen!",
-   "start": 14.405,
-   "end": 15.593
+   "text": "Und mit der Münze drehst du einen Denar um und siehst beide Seiten.",
+   "start": 13.681,
+   "end": 16.974
   }
  ],
  "page5": [
   {
-   "text": "Jetzt sind wir kurz vor dem Ende der Dinosaurierzeit, in Nordamerika.",
+   "text": "Willkommen in Rom, um das Jahr 117 nach Christus!",
    "start": 0.12,
-   "end": 3.861
+   "end": 3.203
   },
   {
-   "text": "Hier leben die berühmtesten Dinosaurier: Tyrannosaurus rex, Triceratops und Ankylosaurus.",
-   "start": 4.101,
-   "end": 9.699
+   "text": "Zieh an der Lasche Kolosseum auf, dann wachsen die drei Bogenreihen Stockwerk für Stockwerk in die Höhe.",
+   "start": 3.503,
+   "end": 8.502
   },
   {
-   "text": "Zieh an der Lasche und lass den Tierrex zubeißen!",
-   "start": 9.939,
-   "end": 12.513
+   "text": "Mit dem Faden Sonnensegel spannst du ein riesiges Tuch über die Sitzreihen.",
+   "start": 8.742,
+   "end": 12.201
   },
   {
-   "text": "Und such das winzige Säugetier, das sich hier versteckt.",
-   "start": 12.813,
-   "end": 15.776
+   "text": "Der Schieber Reichsgrenzen zeichnet nach, wie weit das Reich reichte, und mit dem Regler Tagesablauf wandert die Sonne vom Morgen bis zum Abend.",
+   "start": 12.441,
+   "end": 19.091
+  },
+  {
+   "text": "Tippe auf das Forum, die Sänfte und den Marktstand, und such die Gans!",
+   "start": 19.331,
+   "end": 23.182
   }
  ],
  "page6": [
   {
-   "text": "Das hier ist eine Nistkolonie in Montana, vor etwa fünfundsiebzig Millionen Jahren.",
+   "text": "Es ist Mittag in Pompeji!",
    "start": 0.12,
-   "end": 5.019
+   "end": 1.636
   },
   {
-   "text": "Maiasaura bedeutet gute Mutter-Echse.",
-   "start": 5.259,
-   "end": 7.4
+   "text": "Zieh die Lasche Haus öffnen, dann hebt sich das Dach, und du siehst in den Hof mit dem Regenbecken.",
+   "start": 1.936,
+   "end": 6.476
   },
   {
-   "text": "Zieh an der Lasche Schlüpfe, dann brechen die Eier auf.",
-   "start": 7.64,
-   "end": 10.255
+   "text": "Mit dem Schieber Trittsteine fährt ein Karren durch die Lücke, und ein Kind hüpft über die Steine.",
+   "start": 6.716,
+   "end": 10.89
   },
   {
-   "text": "Und mit dem Schieber Sonnenuntergang kuscheln sich die Babys an.",
-   "start": 10.495,
-   "end": 13.658
+   "text": "Klapp die Thermen auf, dann siehst du den kalten, den lauwarmen und den heißen Raum, und mit dem Regler Schultag schreibt ein Griffel auf die Wachstafel.",
+   "start": 11.13,
+   "end": 18.134
+  },
+  {
+   "text": "Findest du die Gans?",
+   "start": 18.374,
+   "end": 19.402
   }
  ],
  "page7": [
   {
-   "text": "Das ist der Tag, an dem sich alles veränderte.",
+   "text": "Guten Morgen auf der Baustelle!",
    "start": 0.12,
-   "end": 2.355
+   "end": 1.567
   },
   {
-   "text": "Vor etwa sechsundsechzig Millionen Jahren raste ein Asteroid auf die Erde zu.",
-   "start": 2.595,
-   "end": 7.109
+   "text": "Zieh am Regler Gefälle: Ist die Rinne ein kleines bisschen geneigt, fließt das Wasser zur Stadt, sonst bleibt es stehen.",
+   "start": 1.867,
+   "end": 7.873
   },
   {
-   "text": "Zieh an der Lasche Meteor und sieh, was passiert.",
-   "start": 7.349,
-   "end": 9.813
+   "text": "Mit Straßenschichten baust du eine Straße Lage für Lage, am Tretrad hebst du einen schweren Stein.",
+   "start": 8.113,
+   "end": 13.042
   },
   {
-   "text": "Wichtig: Es ist nichts Schlimmes zu sehen.",
-   "start": 10.053,
-   "end": 12.009
+   "text": "Bei Beton siehst du, wie Mörtel entsteht, und die Fußbodenheizung wärmt ein römisches Bad.",
+   "start": 13.282,
+   "end": 18.201
   },
   {
-   "text": "Und am Ende gibt es auch eine gute Nachricht.",
-   "start": 12.249,
-   "end": 14.514
+   "text": "Tippe auf die Bauwerke und such die Gans mit dem Strohhut!",
+   "start": 18.441,
+   "end": 20.995
   }
  ],
  "page8": [
   {
-   "text": "Das ist die letzte Seite.",
+   "text": "Wir sind am Rhein, früh am Morgen, und der Nebel hängt noch über dem Wasser.",
    "start": 0.12,
-   "end": 1.365
+   "end": 3.442
   },
   {
-   "text": "Nach dem Einschlag ändert sich die Welt.",
-   "start": 1.605,
-   "end": 3.651
+   "text": "Zieh an der Lasche Wachturm, dann leuchtet ein Signalfeuer auf.",
+   "start": 3.682,
+   "end": 7.125
   },
   {
-   "text": "Die Säugetiere breiten sich aus, und es gibt bald viele neue Arten.",
-   "start": 3.891,
-   "end": 7.672
+   "text": "Mit dem Schieber Rheinschiff fährt ein Handelsschiff flussabwärts.",
+   "start": 7.365,
+   "end": 10.617
   },
   {
-   "text": "Links wachsen aus Farnen Wälder.",
-   "start": 7.912,
-   "end": 9.818
+   "text": "Der Regler Zeit zeigt dir, wie aus dem Kastell erst eine Ruine und dann, an manchen Orten, eine Stadt von heute wird.",
+   "start": 10.857,
+   "end": 17.013
   },
   {
-   "text": "Rechts kannst du am Zeitsprung-Regler ziehen.",
-   "start": 10.058,
-   "end": 12.273
+   "text": "Auf der linken Seite stehen acht Steintafeln mit Wörtern, die aus dem Lateinischen kommen.",
+   "start": 17.253,
+   "end": 21.514
   },
   {
-   "text": "Die Landschaft verändert sich, bis du in Laetoli ankommst, vor drei Komma sieben Millionen Jahren.",
-   "start": 12.513,
-   "end": 17.791
-  },
-  {
-   "text": "Dort gehen frühe Vormenschen durch frische Vulkanasche.",
-   "start": 18.031,
-   "end": 20.878
+   "text": "Tippe sie an, und such die Gans am Ufer!",
+   "start": 21.754,
+   "end": 23.709
   }
  ],
- "card_coelophysis": [
+ "card_meilenstein": [
   {
-   "text": "Zölofüsis.",
+   "text": "Miliarium aureum.",
    "start": 0.12,
-   "end": 1.008
+   "end": 1.337
   },
   {
-   "text": "Der Name bedeutet: Hohlform, weil die Knochen innen hohl waren.",
-   "start": 1.428,
-   "end": 4.691
+   "text": "Der Name bedeutet: goldener Meilenstein.",
+   "start": 1.757,
+   "end": 3.793
   },
   {
-   "text": "Er lebte vor etwa 216 bis 203 Millionen Jahren.",
-   "start": 4.931,
-   "end": 8.892
+   "text": "Das Wort Mille passus ist lateinisch und bedeutet: tausend Doppelschritte.",
+   "start": 4.033,
+   "end": 7.804
+  },
+  {
+   "text": "Daraus wurde unsere Meile.",
+   "start": 8.044,
+   "end": 9.471
   },
   {
    "text": "Wow!",
-   "start": 9.132,
-   "end": 9.581
+   "start": 9.711,
+   "end": 10.178
   },
   {
-   "text": "Ein Schädel von Coelophysis flog 1998 mit einem Space Shuttle zur Raumstation Mir.",
-   "start": 9.921,
-   "end": 15.907
+   "text": "Alle Wege führen nach Rom, sagt man.",
+   "start": 10.518,
+   "end": 12.687
   },
   {
-   "text": "Coelophysis war schlank und sehr schnell.",
-   "start": 16.147,
-   "end": 18.222
+   "text": "Dazu passt: In Rom stand ein goldener Stein als Mittelpunkt der Straßen.",
+   "start": 12.927,
+   "end": 16.868
   },
   {
-   "text": "Mit den langen Beinen und dem leichten Körper konnte sie gut rennen.",
-   "start": 18.462,
-   "end": 21.914
+   "text": "Römische Straßen hatten Meilensteine.",
+   "start": 17.108,
+   "end": 19.273
   },
   {
-   "text": "Man hat viele Skelette zusammen gefunden.",
-   "start": 22.154,
-   "end": 24.369
+   "text": "Sie zeigten, wie weit es bis zur nächsten Stadt war.",
+   "start": 19.513,
+   "end": 22.257
   },
   {
-   "text": "Vielleicht lebten die Tiere in Gruppen.",
-   "start": 24.609,
-   "end": 26.584
+   "text": "In Rom stand der Goldene Meilenstein als sinnbildlicher Mittelpunkt aller Straßen.",
+   "start": 22.497,
+   "end": 26.847
+  },
+  {
+   "text": "Unser Meilenstein hat zusätzlich ein Zeitrad.",
+   "start": 27.087,
+   "end": 29.422
+  },
+  {
+   "text": "Dreh daran und reise durch die Zeit!",
+   "start": 29.662,
+   "end": 31.557
   }
  ],
- "card_plateosaurus": [
+ "card_zeitrad": [
   {
-   "text": "Plateosaurus.",
+   "text": "Das Zeitrad.",
    "start": 0.12,
-   "end": 1.188
+   "end": 0.918
   },
   {
-   "text": "Der Name bedeutet: breite Echse.",
-   "start": 1.608,
-   "end": 3.653
-  },
-  {
-   "text": "Er lebte vor etwa 214 bis 204 Millionen Jahren.",
-   "start": 3.893,
-   "end": 7.914
+   "text": "Der Name bedeutet: eine Uhr für über tausend Jahre.",
+   "start": 1.338,
+   "end": 3.813
   },
   {
    "text": "Wow!",
-   "start": 8.154,
-   "end": 8.603
+   "start": 4.053,
+   "end": 4.521
   },
   {
-   "text": "In Trossingen in Baden-Württemberg wurden sehr viele Plateosaurier an einem Ort gefunden.",
-   "start": 8.943,
-   "end": 13.822
+   "text": "Auf dem Zeitrad liegen zwischen dem ersten und dem letzten Jahr mehr als zwölf Jahrhunderte.",
+   "start": 4.861,
+   "end": 9.989
   },
   {
-   "text": "Plateosaurus hatte einen langen Hals und kleinen Kopf.",
-   "start": 14.062,
-   "end": 17.195
+   "text": "Der Zeiger läuft einmal rundherum, von der Gründung Roms bis zum Ende des Kaisers im Westen.",
+   "start": 10.229,
+   "end": 15.736
   },
   {
-   "text": "Er fraß Pflanzen.",
-   "start": 17.435,
-   "end": 18.385
+   "text": "Vier Farben zeigen die Zeitalter: Königszeit, Republik, Kaiserzeit und Spätantike.",
+   "start": 15.976,
+   "end": 21.065
   },
   {
-   "text": "Er lief wohl meistens auf zwei Beinen, vielleicht stand er aber auch auf allen vieren.",
-   "start": 18.625,
-   "end": 22.696
+   "text": "Die goldenen Punkte sind Ereignisse aus diesem Buch.",
+   "start": 21.305,
+   "end": 24.009
   }
  ],
- "card_eoraptor": [
+ "card_triumphbogen": [
   {
-   "text": "Eorapptor.",
+   "text": "Arkus triumfalis.",
    "start": 0.12,
-   "end": 0.859
+   "end": 1.317
   },
   {
-   "text": "Der Name bedeutet: Räuber der Morgenröte.",
-   "start": 1.279,
-   "end": 3.634
+   "text": "Der Name bedeutet: Bogen für einen Triumph (Siegesfeier).",
+   "start": 1.737,
+   "end": 4.74
   },
   {
-   "text": "Er lebte vor etwa 231 Millionen Jahren.",
-   "start": 3.874,
-   "end": 7.356
+   "text": "Das Wort Senatus Populusque Romanus ist lateinisch und bedeutet: Senat und Volk von Rom.",
+   "start": 4.98,
+   "end": 10.378
+  },
+  {
+   "text": "Das Kürzel SPQR stand überall in der Stadt.",
+   "start": 10.618,
+   "end": 13.372
   },
   {
    "text": "Wow!",
-   "start": 7.596,
-   "end": 8.045
+   "start": 13.612,
+   "end": 14.079
   },
   {
-   "text": "Eoraptor gehört zu den ältesten Dinosauriern, die wir kennen.",
-   "start": 8.385,
-   "end": 11.797
+   "text": "SPQR steht noch heute auf Gullydeckeln in Rom.",
+   "start": 14.419,
+   "end": 17.193
   },
   {
-   "text": "Eoraptor war klein und flink.",
-   "start": 12.037,
-   "end": 13.703
+   "text": "Nach einem großen Sieg feierten die Römer einen Triumph, einen Festzug durch die Stadt.",
+   "start": 17.433,
+   "end": 21.67
   },
   {
-   "text": "Seine Zähne sahen unterschiedlich aus.",
-   "start": 13.943,
-   "end": 15.891
+   "text": "An Triumphbögen erinnerte man später an solche Siege.",
+   "start": 21.91,
+   "end": 24.733
   },
   {
-   "text": "Deshalb denken Forscher: Er fraß wohl Tiere und vielleicht auch Pflanzen.",
-   "start": 16.131,
-   "end": 19.783
+   "text": "Der Bogen im Buch ist vereinfacht und zeigt kein bestimmtes Bauwerk.",
+   "start": 24.973,
+   "end": 28.655
   }
  ],
- "card_morganucodon": [
+ "card_aquila": [
   {
-   "text": "Morganukodon.",
+   "text": "Aquila.",
    "start": 0.12,
-   "end": 1.038
+   "end": 0.743
   },
   {
-   "text": "Der Name bedeutet: Zahn aus Glamorgan (einer Gegend in Wales).",
-   "start": 1.458,
-   "end": 4.631
+   "text": "Der Name bedeutet: Adler.",
+   "start": 1.163,
+   "end": 2.61
   },
   {
-   "text": "Er lebte vor etwa 205 Millionen Jahren.",
-   "start": 4.871,
-   "end": 7.724
+   "text": "Das Wort Aquila ist lateinisch und bedeutet: Adler.",
+   "start": 2.85,
+   "end": 5.585
+  },
+  {
+   "text": "Der Adler war das Zeichen der Legion.",
+   "start": 5.825,
+   "end": 7.811
   },
   {
    "text": "Wow!",
-   "start": 7.964,
-   "end": 8.413
+   "start": 8.051,
+   "end": 8.518
   },
   {
-   "text": "Säugetiere gibt es schon fast so lange wie Dinosaurier.",
-   "start": 8.753,
-   "end": 11.527
+   "text": "Den Adler der Legion zu verlieren, war für die Soldaten eine Schande.",
+   "start": 8.858,
+   "end": 12.44
   },
   {
-   "text": "Morganucodon war winzig und wahrscheinlich nachts unterwegs.",
-   "start": 11.767,
-   "end": 15.109
+   "text": "Jede Legion hatte einen Adler aus Metall auf einer Stange.",
+   "start": 12.68,
+   "end": 15.673
   },
   {
-   "text": "Du hast ein verstecktes Säugetier gefunden!",
-   "start": 15.349,
-   "end": 17.514
+   "text": "Er wurde der Legion vorangetragen, wie bei uns eine Fahne.",
+   "start": 15.913,
+   "end": 18.997
   },
   {
-   "text": "Morganucodon jagte Insekten.",
-   "start": 17.814,
-   "end": 19.511
+   "text": "Der Träger hieß Aquilifer.",
+   "start": 19.237,
+   "end": 20.701
   },
   {
-   "text": "Es hatte wahrscheinlich schon ein Fell.",
-   "start": 19.751,
-   "end": 21.307
+   "text": "Auf dem Marsch folgten ihm die Soldaten.",
+   "start": 20.941,
+   "end": 23.026
   }
  ],
- "card_pangaea": [
+ "card_kohorte": [
   {
-   "text": "Pangäa.",
+   "text": "Kohorte.",
    "start": 0.12,
-   "end": 0.818
+   "end": 0.657
   },
   {
-   "text": "Der Name bedeutet: ganze Erde.",
-   "start": 1.238,
-   "end": 3.114
+   "text": "Der Name bedeutet: Schar, Truppenteil.",
+   "start": 1.077,
+   "end": 3.122
   },
   {
-   "text": "Er lebte vor etwa 335 bis 175 Millionen Jahren.",
-   "start": 3.354,
-   "end": 8.123
+   "text": "Das Wort Kohors ist lateinisch und bedeutet: Schar oder Truppenteil.",
+   "start": 3.362,
+   "end": 6.824
+  },
+  {
+   "text": "Bei uns heißt eine große Gruppe auch Kohorte.",
+   "start": 7.064,
+   "end": 9.319
   },
   {
    "text": "Wow!",
-   "start": 8.363,
-   "end": 8.812
+   "start": 9.559,
+   "end": 10.026
   },
   {
-   "text": "Damals konnte ein Tier theoretisch zu Fuß von einem Ende der Welt zum anderen laufen.",
-   "start": 9.152,
-   "end": 13.562
+   "text": "Echte Kohorten waren viel größer als die kleine Gruppe auf der Straße im Buch.",
+   "start": 10.366,
+   "end": 14.397
   },
   {
-   "text": "In der Trias hingen alle Kontinente zusammen.",
-   "start": 13.802,
-   "end": 16.114
+   "text": "Eine Kohorte war ein Zehntel einer Legion.",
+   "start": 14.637,
+   "end": 16.862
   },
   {
-   "text": "Das war ein einziger Riesenkontinent.",
-   "start": 16.354,
-   "end": 18.2
+   "text": "Mit dem Schieber Marsch!",
+   "start": 17.102,
+   "end": 18.239
   },
   {
-   "text": "Rundherum lag das Urmeer Panthalassa.",
-   "start": 18.44,
-   "end": 20.539
+   "text": "ziehen ein Zenturio, ein Adlerträger und drei Legionäre am Triumphbogen vorbei.",
+   "start": 18.539,
+   "end": 23.568
   },
   {
-   "text": "Später brach Pangaea langsam auseinander.",
-   "start": 20.779,
-   "end": 23.134
-  },
-  {
-   "text": "Die Teile bewegen sich bis heute: jedes Jahr ein paar Zentimeter.",
-   "start": 23.374,
-   "end": 26.674
+   "text": "Mehr über die Legion erfährst du in Station 3.",
+   "start": 23.808,
+   "end": 26.402
   }
  ],
- "card_brachiosaurus": [
+ "card_karte_rom": [
   {
-   "text": "Giraffatitan.",
+   "text": "Roma.",
    "start": 0.12,
-   "end": 1.218
+   "end": 0.674
   },
   {
-   "text": "Der Name bedeutet: Giraffen-Titan.",
-   "start": 1.638,
-   "end": 3.693
-  },
-  {
-   "text": "Er lebte vor etwa 150 Millionen Jahren.",
-   "start": 3.933,
-   "end": 6.507
+   "text": "Der Name bedeutet: die Stadt am Tiber.",
+   "start": 1.094,
+   "end": 2.921
   },
   {
    "text": "Wow!",
-   "start": 6.747,
-   "end": 7.196
+   "start": 3.161,
+   "end": 3.628
   },
   {
-   "text": "Sein Skelett im Museum für Naturkunde in Berlin ist über 12 Meter hoch.",
-   "start": 7.536,
-   "end": 11.518
+   "text": "Aus diesem kleinen Fleck auf der Karte wurde in rund 900 Jahren ein Reich rund ums Mittelmeer.",
+   "start": 3.968,
+   "end": 9.066
   },
   {
-   "text": "Es gehört zu den größten Dinosaurierskeletten der Welt.",
-   "start": 11.758,
-   "end": 14.592
+   "text": "Am Anfang war Rom nur eine Stadt am Fluss Tiber mit ein paar Dörfern ringsum.",
+   "start": 9.306,
+   "end": 13.148
   },
   {
-   "text": "Seine Vorderbeine waren länger als die Hinterbeine, ähnlich wie bei einer Giraffe.",
-   "start": 14.832,
-   "end": 18.883
+   "text": "Auf der Karte ist es der winzige dunkelrote Fleck in Mittelitalien.",
+   "start": 13.388,
+   "end": 17.099
   },
   {
-   "text": "Mit dem langen Hals erreichte er Blätter in den Baumkronen.",
-   "start": 19.123,
-   "end": 22.226
+   "text": "Die Geschichte der Gründung erzählt Station 1.",
+   "start": 17.339,
+   "end": 19.684
   }
  ],
- "card_stegosaurus": [
+ "card_karte_italien": [
   {
-   "text": "Stegosaurus.",
-   "start": 0.12,
-   "end": 1.028
-  },
-  {
-   "text": "Der Name bedeutet: Dach-Echse.",
-   "start": 1.448,
-   "end": 3.144
-  },
-  {
-   "text": "Er lebte vor etwa 155 bis 150 Millionen Jahren.",
-   "start": 3.384,
-   "end": 7.684
-  },
-  {
-   "text": "Wow!",
-   "start": 7.924,
-   "end": 8.373
-  },
-  {
-   "text": "Die vier Stacheln am Schwanz heißen Thagomizer.",
-   "start": 8.713,
-   "end": 11.082
-  },
-  {
-   "text": "Den Namen hat sich ein Zeichner für einen Cartoon ausgedacht.",
-   "start": 11.322,
-   "end": 14.415
-  },
-  {
-   "text": "Auf dem Rücken trug Stegosaurus große Knochenplatten.",
-   "start": 14.655,
-   "end": 17.389
-  },
-  {
-   "text": "Sie waren von Haut überzogen.",
-   "start": 17.629,
-   "end": 19.236
-  },
-  {
-   "text": "Wozu sie dienten, wissen wir nicht genau: zum Angeben, zur Wärme oder zur Kühlung.",
-   "start": 19.476,
-   "end": 23.756
-  }
- ],
- "card_allosaurus": [
-  {
-   "text": "Allosaurus.",
-   "start": 0.12,
-   "end": 0.938
-  },
-  {
-   "text": "Der Name bedeutet: andere Echse.",
-   "start": 1.358,
-   "end": 3.174
-  },
-  {
-   "text": "Er lebte vor etwa 155 bis 145 Millionen Jahren.",
-   "start": 3.414,
-   "end": 7.974
-  },
-  {
-   "text": "Wow!",
-   "start": 8.214,
-   "end": 8.663
-  },
-  {
-   "text": "Forscher vermuten, dass Allosaurus mit dem Kopf zuschlug wie mit einem Beil.",
-   "start": 9.003,
-   "end": 12.904
-  },
-  {
-   "text": "Allosaurus war einer der größten Jäger seiner Zeit.",
-   "start": 13.144,
-   "end": 15.848
-  },
-  {
-   "text": "Sein Kopf war leicht gebaut, sein Hals kräftig.",
-   "start": 16.088,
-   "end": 18.512
-  },
-  {
-   "text": "Er trug dreifingrige Hände mit großen Krallen.",
-   "start": 18.752,
-   "end": 21.097
-  }
- ],
- "card_castorocauda": [
-  {
-   "text": "Kastorokauda.",
-   "start": 0.12,
-   "end": 1.178
-  },
-  {
-   "text": "Der Name bedeutet: Biber-Schwanz.",
-   "start": 1.598,
-   "end": 3.354
-  },
-  {
-   "text": "Er lebte vor etwa 160 bis 164 Millionen Jahren.",
-   "start": 3.594,
-   "end": 7.654
-  },
-  {
-   "text": "Wow!",
-   "start": 7.894,
-   "end": 8.343
-  },
-  {
-   "text": "Es schwamm und tauchte wie ein Otter, mitten in der Dinosaurierzeit.",
-   "start": 8.683,
-   "end": 12.375
-  },
-  {
-   "text": "Du hast ein verstecktes Säugetier gefunden!",
-   "start": 12.615,
-   "end": 14.78
-  },
-  {
-   "text": "Castorocauda hatte einen flachen Schwanz wie ein Biber und Schwimmfüße.",
-   "start": 15.08,
-   "end": 19.011
-  },
-  {
-   "text": "Es fing Fische.",
-   "start": 19.251,
-   "end": 20.023
-  }
- ],
- "card_archaeopteryx": [
-  {
-   "text": "Archäoppterix.",
-   "start": 0.12,
-   "end": 1.028
-  },
-  {
-   "text": "Der Name bedeutet: alter Flügel oder alte Feder.",
-   "start": 1.448,
-   "end": 4.112
-  },
-  {
-   "text": "Er lebte vor etwa 150 Millionen Jahren.",
-   "start": 4.352,
-   "end": 6.926
-  },
-  {
-   "text": "Wow!",
-   "start": 7.166,
-   "end": 7.615
-  },
-  {
-   "text": "1861 wurde in Bayern eine einzelne Feder gefunden.",
-   "start": 7.955,
-   "end": 11.97
-  },
-  {
-   "text": "Kurz danach das erste Skelett.",
-   "start": 12.21,
-   "end": 13.86
-  },
-  {
-   "text": "Archaeopteryx hatte Federn und Flügel, aber auch Zähne und einen langen Knochenschwanz.",
-   "start": 14.1,
-   "end": 19.019
-  },
-  {
-   "text": "Er sah halb aus wie ein Vogel und halb wie ein kleiner Dinosaurier.",
-   "start": 19.259,
-   "end": 22.734
-  }
- ],
- "card_compsognathus": [
-  {
-   "text": "Kompsonathus.",
-   "start": 0.12,
-   "end": 1.138
-  },
-  {
-   "text": "Der Name bedeutet: feiner Kiefer.",
-   "start": 1.558,
-   "end": 3.239
-  },
-  {
-   "text": "Er lebte vor etwa 150 Millionen Jahren.",
-   "start": 3.479,
-   "end": 6.053
-  },
-  {
-   "text": "Wow!",
-   "start": 6.293,
-   "end": 6.742
-  },
-  {
-   "text": "Im Bauch eines Skeletts fand man eine kleine Echse.",
-   "start": 7.082,
-   "end": 9.716
-  },
-  {
-   "text": "Das war wohl seine letzte Mahlzeit.",
-   "start": 9.956,
-   "end": 11.682
-  },
-  {
-   "text": "Compsognathus war einer der kleinsten Dinosaurier.",
-   "start": 11.922,
-   "end": 14.705
-  },
-  {
-   "text": "Er rannte schnell auf zwei Beinen.",
-   "start": 14.945,
-   "end": 16.55
-  },
-  {
-   "text": "Er jagte kleine Echsen.",
-   "start": 16.79,
-   "end": 18.047
-  }
- ],
- "card_rhamphorhynchus": [
-  {
-   "text": "Ramforünkus.",
-   "start": 0.12,
-   "end": 1.058
-  },
-  {
-   "text": "Der Name bedeutet: Schnabelschnauze.",
-   "start": 1.478,
-   "end": 3.513
-  },
-  {
-   "text": "Er lebte vor etwa 150 Millionen Jahren.",
-   "start": 3.753,
-   "end": 6.327
-  },
-  {
-   "text": "Wow!",
-   "start": 6.567,
-   "end": 7.016
-  },
-  {
-   "text": "Am Ende des langen Schwanzes saß ein rautenförmiges Segel.",
-   "start": 7.356,
-   "end": 10.738
-  },
-  {
-   "text": "Wahrscheinlich half es beim Steuern.",
-   "start": 10.978,
-   "end": 12.505
-  },
-  {
-   "text": "Rhamphorhynchus war ein Flugsaurier, aber kein Dinosaurier.",
-   "start": 12.745,
-   "end": 16.057
-  },
-  {
-   "text": "Er fing Fische mit spitzen Zähnen, die nach vorne zeigten.",
-   "start": 16.297,
-   "end": 19.34
-  }
- ],
- "card_limulus": [
-  {
-   "text": "Mesolimulus.",
-   "start": 0.12,
-   "end": 1.048
-  },
-  {
-   "text": "Der Name bedeutet: etwa mittlerer Schiefer, Name des Fossils.",
-   "start": 1.468,
-   "end": 4.631
-  },
-  {
-   "text": "Er lebte vor etwa 150 Millionen Jahren.",
-   "start": 4.871,
-   "end": 7.445
-  },
-  {
-   "text": "Wow!",
-   "start": 7.685,
-   "end": 8.134
-  },
-  {
-   "text": "Pfeilschwanzkrebse gibt es seit über 400 Millionen Jahren.",
-   "start": 8.474,
-   "end": 12.086
-  },
-  {
-   "text": "Ihr Blut ist blau.",
-   "start": 12.326,
-   "end": 13.324
-  },
-  {
-   "text": "Er ist kein richtiger Krebs, sondern näher mit Spinnen verwandt.",
-   "start": 13.564,
-   "end": 16.896
-  },
-  {
-   "text": "Die Fossilien liegen oft am Ende ihrer eigenen Spur im Kalkstein.",
-   "start": 17.136,
-   "end": 20.808
-  }
- ],
- "card_ichthyosaurus": [
-  {
-   "text": "Oftalmosaurus.",
-   "start": 0.12,
-   "end": 1.237
-  },
-  {
-   "text": "Der Name bedeutet: Augen-Echse.",
-   "start": 1.657,
-   "end": 3.522
-  },
-  {
-   "text": "Er lebte vor etwa 165 bis 150 Millionen Jahren.",
-   "start": 3.762,
-   "end": 7.993
-  },
-  {
-   "text": "Wow!",
-   "start": 8.233,
-   "end": 8.682
-  },
-  {
-   "text": "Ichthyosaurier brachten ihre Jungen lebend im Wasser zur Welt.",
-   "start": 9.022,
-   "end": 12.264
-  },
-  {
-   "text": "Er sah aus wie ein Delfin, ist aber ein Meeresreptil.",
-   "start": 12.504,
-   "end": 15.302
-  },
-  {
-   "text": "Seine Augen waren riesig.",
-   "start": 15.542,
-   "end": 16.879
-  },
-  {
-   "text": "So konnte er auch im dunklen Wasser jagen.",
-   "start": 17.119,
-   "end": 19.204
-  }
- ],
- "card_fossil": [
-  {
-   "text": "Wie wird ein Fossil?",
-   "start": 0.12,
-   "end": 1.194
-  },
-  {
-   "text": "Wow!",
-   "start": 1.614,
-   "end": 2.063
-  },
-  {
-   "text": "Weil im Kalkschlamm kaum Sauerstoff war, haben sich die Tiere dort nicht zersetzt.",
-   "start": 2.403,
-   "end": 6.624
-  },
-  {
-   "text": "Erstens: Ein Tier stirbt und sinkt in den feinen Kalkschlamm.",
-   "start": 6.864,
-   "end": 9.967
-  },
-  {
-   "text": "Zweitens: Am Boden ist fast kein Sauerstoff, deshalb fault es kaum.",
-   "start": 10.207,
-   "end": 13.948
-  },
-  {
-   "text": "Drittens: Schlamm deckt es schnell zu.",
-   "start": 14.188,
-   "end": 15.844
-  },
-  {
-   "text": "Viertens: Mineralien aus dem Wasser füllen die Hohlräume und machen aus Knochen und Federabdrücken Stein.",
-   "start": 16.084,
-   "end": 21.794
-  },
-  {
-   "text": "So ist Archaeopteryx bis heute erhalten.",
-   "start": 22.034,
-   "end": 24.269
-  }
- ],
- "card_pteranodon": [
-  {
-   "text": "Teranodon.",
-   "start": 0.12,
-   "end": 0.928
-  },
-  {
-   "text": "Der Name bedeutet: Flügel ohne Zähne.",
-   "start": 1.348,
-   "end": 3.256
-  },
-  {
-   "text": "Er lebte vor etwa 86 bis 84 Millionen Jahren.",
-   "start": 3.496,
-   "end": 7.307
-  },
-  {
-   "text": "Wow!",
-   "start": 7.547,
-   "end": 7.996
-  },
-  {
-   "text": "Pteranodon hatte gar keine Zähne.",
-   "start": 8.336,
-   "end": 9.972
-  },
-  {
-   "text": "Der lange Kamm am Kopf diente wohl zum Imponieren.",
-   "start": 10.212,
-   "end": 12.886
-  },
-  {
-   "text": "Pteranodon segelte über dem Meer und tauchte nach Fischen.",
-   "start": 13.126,
-   "end": 16.179
-  },
-  {
-   "text": "Seine Flügel waren Flughäute zwischen dem Körper und einem sehr langen Fingerknochen.",
-   "start": 16.419,
-   "end": 20.62
-  }
- ],
- "card_elasmosaurus": [
-  {
-   "text": "Elasmosaurus.",
-   "start": 0.12,
-   "end": 1.168
-  },
-  {
-   "text": "Der Name bedeutet: Plattenechse.",
-   "start": 1.588,
-   "end": 3.26
-  },
-  {
-   "text": "Er lebte vor etwa 80 Millionen Jahren.",
-   "start": 3.5,
-   "end": 5.834
-  },
-  {
-   "text": "Wow!",
-   "start": 6.074,
-   "end": 6.523
-  },
-  {
-   "text": "Elasmosaurus hatte über 70 Halswirbel.",
-   "start": 6.863,
-   "end": 9.242
-  },
-  {
-   "text": "Eine Giraffe hat nur 7.",
-   "start": 9.482,
-   "end": 10.919
-  },
-  {
-   "text": "Der Hals war länger als der Rest des Körpers.",
-   "start": 11.159,
-   "end": 13.494
-  },
-  {
-   "text": "Mit vier Paddeln schwamm Elasmosaurus durch das Meer.",
-   "start": 13.734,
-   "end": 16.527
-  }
- ],
- "card_mosasaurus": [
-  {
-   "text": "Mosasaurus.",
-   "start": 0.12,
-   "end": 0.888
-  },
-  {
-   "text": "Der Name bedeutet: Maas-Echse, nach dem Fluss Maas.",
-   "start": 1.308,
-   "end": 3.875
-  },
-  {
-   "text": "Er lebte vor etwa 82 bis 66 Millionen Jahren.",
-   "start": 4.115,
-   "end": 7.966
-  },
-  {
-   "text": "Wow!",
-   "start": 8.206,
-   "end": 8.655
-  },
-  {
-   "text": "Der erste Schädel wurde in Maastricht gefunden.",
-   "start": 8.995,
-   "end": 11.39
-  },
-  {
-   "text": "Er half Forschern zu verstehen, dass Tierarten aussterben können.",
-   "start": 11.63,
-   "end": 14.992
-  },
-  {
-   "text": "Mosasaurus war ein riesiger Jäger im Meer.",
-   "start": 15.232,
-   "end": 17.617
-  },
-  {
-   "text": "Er ist mit den heutigen Waranen verwandt.",
-   "start": 17.857,
-   "end": 19.782
-  },
-  {
-   "text": "Sein Maul war voller Zähne, auch am Gaumen.",
-   "start": 20.022,
-   "end": 22.407
-  }
- ],
- "card_trex": [
-  {
-   "text": "Türanosaurus Rex.",
-   "start": 0.12,
-   "end": 1.467
-  },
-  {
-   "text": "Der Name bedeutet: König der Tyrannen-Echsen.",
-   "start": 1.887,
-   "end": 4.042
-  },
-  {
-   "text": "Er lebte vor etwa 68 bis 66 Millionen Jahren.",
-   "start": 4.282,
-   "end": 7.854
-  },
-  {
-   "text": "Wow!",
-   "start": 8.094,
-   "end": 8.543
-  },
-  {
-   "text": "Tierrex lebte zeitlich näher an uns als am Stegosaurus.",
-   "start": 8.883,
-   "end": 12.136
-  },
-  {
-   "text": "Zwischen Stegosaurus und Tierrex liegen etwa 84 Millionen Jahre.",
-   "start": 12.376,
-   "end": 16.795
-  },
-  {
-   "text": "Tierrex hatte einen riesigen Kopf mit kräftigem Biss.",
-   "start": 17.035,
-   "end": 19.889
-  },
-  {
-   "text": "Seine Arme waren kurz und hatten nur zwei Finger.",
-   "start": 20.129,
-   "end": 22.659
-  },
-  {
-   "text": "Auf den starken Hinterbeinen konnte er gut laufen.",
-   "start": 22.899,
-   "end": 25.424
-  }
- ],
- "card_triceratops": [
-  {
-   "text": "Trizeratops.",
-   "start": 0.12,
-   "end": 1.058
-  },
-  {
-   "text": "Der Name bedeutet: Dreihorn-Gesicht.",
-   "start": 1.478,
-   "end": 3.354
-  },
-  {
-   "text": "Er lebte vor etwa 68 bis 66 Millionen Jahren.",
-   "start": 3.594,
-   "end": 7.165
-  },
-  {
-   "text": "Wow!",
-   "start": 7.405,
-   "end": 7.854
-  },
-  {
-   "text": "Der Schädel von Triceratops konnte fast 2 Meter lang werden.",
-   "start": 8.194,
-   "end": 11.507
-  },
-  {
-   "text": "Triceratops trug drei Hörner und einen Nackenschild aus Knochen.",
-   "start": 11.747,
-   "end": 15.588
-  },
-  {
-   "text": "Mit dem scharfen Schnabel schnitt er zähe Pflanzen ab.",
-   "start": 15.828,
-   "end": 18.378
-  }
- ],
- "card_ankylosaurus": [
-  {
-   "text": "Ankülosaurus.",
-   "start": 0.12,
-   "end": 1.168
-  },
-  {
-   "text": "Der Name bedeutet: steife Echse.",
-   "start": 1.588,
-   "end": 3.433
-  },
-  {
-   "text": "Er lebte vor etwa 68 bis 66 Millionen Jahren.",
-   "start": 3.673,
-   "end": 7.245
-  },
-  {
-   "text": "Wow!",
-   "start": 7.485,
-   "end": 7.934
-  },
-  {
-   "text": "Mit der Knochenkeule am Schwanz konnte Ankylosaurus sehr kräftig zuschlagen.",
-   "start": 8.274,
-   "end": 12.764
-  },
-  {
-   "text": "Ankylosaurus war wie ein lebender Panzer.",
-   "start": 13.004,
-   "end": 15.359
-  },
-  {
-   "text": "Auf dem Rücken trug er Knochenplatten mit Spitzen.",
-   "start": 15.599,
-   "end": 17.955
-  },
-  {
-   "text": "Die Schwanzkeule diente wohl zur Verteidigung.",
-   "start": 18.195,
-   "end": 20.54
-  }
- ],
- "card_didelphodon": [
-  {
-   "text": "Didelfodon.",
-   "start": 0.12,
-   "end": 0.878
-  },
-  {
-   "text": "Der Name bedeutet: Beutelratten-Zahn.",
-   "start": 1.298,
-   "end": 3.284
-  },
-  {
-   "text": "Er lebte vor etwa 68 bis 66 Millionen Jahren.",
-   "start": 3.524,
-   "end": 7.096
-  },
-  {
-   "text": "Wow!",
-   "start": 7.336,
-   "end": 7.785
-  },
-  {
-   "text": "Didelphodon hatte einen sehr kräftigen Biss.",
-   "start": 8.125,
-   "end": 10.2
-  },
-  {
-   "text": "Damit knackte er wohl sogar Schneckenhäuser.",
-   "start": 10.44,
-   "end": 12.515
-  },
-  {
-   "text": "Du hast ein verstecktes Säugetier gefunden!",
-   "start": 12.755,
-   "end": 14.92
-  },
-  {
-   "text": "Didelphodon gehörte zu den Beuteltier-Verwandten.",
-   "start": 15.22,
-   "end": 17.852
-  },
-  {
-   "text": "Er war eines der größten Säugetiere seiner Zeit.",
-   "start": 18.092,
-   "end": 20.666
-  }
- ],
- "card_maiasaura": [
-  {
-   "text": "Maiasaura.",
-   "start": 0.12,
-   "end": 0.878
-  },
-  {
-   "text": "Der Name bedeutet: gute Mutter-Echse.",
-   "start": 1.298,
-   "end": 3.234
-  },
-  {
-   "text": "Er lebte vor etwa 76 bis 74 Millionen Jahren.",
-   "start": 3.474,
-   "end": 7.046
-  },
-  {
-   "text": "Wow!",
-   "start": 7.286,
-   "end": 7.735
-  },
-  {
-   "text": "Maiasaura-Knochen flogen 1985 mit einem Space Shuttle ins All.",
-   "start": 8.075,
-   "end": 12.918
-  },
-  {
-   "text": "Es war der erste Dinosaurier im Weltraum.",
-   "start": 13.158,
-   "end": 15.353
-  },
-  {
-   "text": "In Montana fand man ganze Nistplätze mit Eiern und Jungtieren.",
-   "start": 15.593,
-   "end": 19.255
-  },
-  {
-   "text": "Die Tiere nisteten in Gruppen.",
-   "start": 19.495,
-   "end": 21.141
-  },
-  {
-   "text": "Die Jungen blieben wahrscheinlich eine Weile im Nest.",
-   "start": 21.381,
-   "end": 23.766
-  }
- ],
- "card_maiasaura_baby": [
-  {
-   "text": "Maiasaura-Baby.",
-   "start": 0.12,
-   "end": 1.088
-  },
-  {
-   "text": "Er lebte vor etwa 76 bis 74 Millionen Jahren.",
-   "start": 1.508,
-   "end": 5.08
-  },
-  {
-   "text": "Wow!",
-   "start": 5.32,
-   "end": 5.769
-  },
-  {
-   "text": "Aus einem kleinen Ei wurde ein Tier von rund 9 Meter Länge.",
-   "start": 6.109,
-   "end": 9.271
-  },
-  {
-   "text": "Maiasaura-Babys wuchsen schnell.",
-   "start": 9.511,
-   "end": 11.347
-  },
-  {
-   "text": "Sie brauchten nur wenige Jahre bis zur Größe der Erwachsenen.",
-   "start": 11.587,
-   "end": 14.81
-  }
- ],
- "card_oviraptor": [
-  {
-   "text": "Oviraptor.",
-   "start": 0.12,
-   "end": 0.968
-  },
-  {
-   "text": "Der Name bedeutet: Eier-Dieb.",
-   "start": 1.388,
-   "end": 2.974
-  },
-  {
-   "text": "Der Name ist ein Irrtum.",
-   "start": 3.214,
-   "end": 4.641
-  },
-  {
-   "text": "Er lebte vor etwa 75 bis 71 Millionen Jahren.",
-   "start": 4.881,
-   "end": 8.493
-  },
-  {
-   "text": "Wow!",
-   "start": 8.733,
-   "end": 9.182
-  },
-  {
-   "text": "Oviraptor war kein Eierdieb.",
-   "start": 9.522,
-   "end": 11.112
-  },
-  {
-   "text": "Verwandte wurden auf ihren Nestern gefunden, die Federarme über den Eiern.",
-   "start": 11.352,
-   "end": 15.463
-  },
-  {
-   "text": "Zuerst fand man einen Oviraptor in der Nähe von Eiern und dachte, er klaut sie.",
-   "start": 15.703,
-   "end": 20.053
-  },
-  {
-   "text": "Später stellte sich heraus: Es waren seine eigenen Eier.",
-   "start": 20.293,
-   "end": 23.286
-  },
-  {
-   "text": "Er brütete sie aus.",
-   "start": 23.526,
-   "end": 24.614
-  }
- ],
- "card_multituberculate": [
-  {
-   "text": "Multituberkulata.",
-   "start": 0.12,
-   "end": 1.247
-  },
-  {
-   "text": "Der Name bedeutet: viele Höcker an den Backenzähnen.",
-   "start": 1.667,
-   "end": 4.351
-  },
-  {
-   "text": "Die Gruppe lebte vor etwa 165 bis 35 Millionen Jahren.",
-   "start": 4.591,
-   "end": 9.101
-  },
-  {
-   "text": "Wow!",
-   "start": 9.341,
-   "end": 9.79
-  },
-  {
-   "text": "Diese Gruppe war über 100 Millionen Jahre lang erfolgreich, länger als manche Dinosaurier.",
-   "start": 10.13,
-   "end": 15.238
-  },
-  {
-   "text": "Du hast ein verstecktes Säugetier gefunden!",
-   "start": 15.478,
-   "end": 17.644
-  },
-  {
-   "text": "Vielhöckerzähner sahen aus wie Nagetiere.",
-   "start": 17.944,
-   "end": 20.298
-  },
-  {
-   "text": "Sie waren aber nicht mit Mäusen verwandt.",
-   "start": 20.538,
-   "end": 22.264
-  }
- ],
- "card_purgatorius": [
-  {
-   "text": "Purgatorius.",
-   "start": 0.12,
-   "end": 0.988
-  },
-  {
-   "text": "Der Name bedeutet: nach dem Fundort Purgatory Hill (Fegefeuer-Hügel).",
-   "start": 1.408,
-   "end": 5.449
-  },
-  {
-   "text": "Er lebte vor etwa 66 bis 65 Millionen Jahren.",
-   "start": 5.689,
-   "end": 9.268
-  },
-  {
-   "text": "Wow!",
-   "start": 9.508,
-   "end": 9.957
-  },
-  {
-   "text": "Er wird oft zu den ältesten Verwandten der Primaten gezählt.",
-   "start": 10.297,
-   "end": 13.3
-  },
-  {
-   "text": "Zu den Primaten gehören auch Affen und wir Menschen.",
-   "start": 13.54,
-   "end": 16.234
-  },
-  {
-   "text": "Du hast ein verstecktes Säugetier gefunden!",
-   "start": 16.474,
-   "end": 18.639
-  },
-  {
-   "text": "Purgatorius kletterte wohl in Bäumen.",
-   "start": 18.939,
-   "end": 21.004
-  },
-  {
-   "text": "Er überlebte die Zeit nach dem Einschlag.",
-   "start": 21.244,
-   "end": 23.409
-  }
- ],
- "card_hyracotherium": [
-  {
-   "text": "Hürakotherium.",
-   "start": 0.12,
-   "end": 1.198
-  },
-  {
-   "text": "Der Name bedeutet: Klippschliefer-Tier.",
-   "start": 1.618,
-   "end": 3.473
-  },
-  {
-   "text": "Er lebte vor etwa 55 bis 50 Millionen Jahren.",
-   "start": 3.713,
-   "end": 7.335
-  },
-  {
-   "text": "Wow!",
-   "start": 7.575,
-   "end": 8.024
-  },
-  {
-   "text": "Es hatte vorn vier Zehen und hinten drei.",
-   "start": 8.364,
-   "end": 10.509
-  },
-  {
-   "text": "Heutige Pferde laufen nur noch auf einer Zehe.",
-   "start": 10.749,
-   "end": 12.904
-  },
-  {
-   "text": "Das Urpferdchen lebte im Wald und knabberte Blätter.",
-   "start": 13.144,
-   "end": 16.078
-  },
-  {
-   "text": "Aus solchen Tieren entwickelten sich im Laufe von Millionen Jahren die Pferde.",
-   "start": 16.318,
-   "end": 20.239
-  },
-  {
-   "text": "Verwandte lebten auch in Deutschland, in der Grube Messel bei Darmstadt.",
-   "start": 20.479,
-   "end": 24.17
-  }
- ],
- "card_gastornis": [
-  {
-   "text": "Gastornis.",
-   "start": 0.12,
-   "end": 0.808
-  },
-  {
-   "text": "Der Name bedeutet: Gastons Vogel, nach dem Entdecker Gaston Planté.",
-   "start": 1.228,
-   "end": 4.57
-  },
-  {
-   "text": "Er lebte vor etwa 56 bis 45 Millionen Jahren.",
-   "start": 4.81,
-   "end": 8.57
-  },
-  {
-   "text": "Wow!",
-   "start": 8.81,
-   "end": 9.259
-  },
-  {
-   "text": "Gastornis war ein riesiger Laufvogel und damit ein Nachfahre der Dinosaurier.",
-   "start": 9.599,
-   "end": 13.769
-  },
-  {
-   "text": "Vögel sind ja Dinosaurier.",
-   "start": 14.009,
-   "end": 15.666
-  },
-  {
-   "text": "Er konnte nicht fliegen.",
-   "start": 15.906,
-   "end": 17.018
-  },
-  {
-   "text": "Sein Schnabel war riesig und sehr kräftig.",
-   "start": 17.258,
-   "end": 19.703
-  },
-  {
-   "text": "Früher hielt man ihn für einen Jäger.",
-   "start": 19.943,
-   "end": 21.739
-  },
-  {
-   "text": "Heute denken viele Forscher, dass er vor allem Pflanzen fraß.",
-   "start": 21.979,
-   "end": 25.012
-  }
- ],
- "card_plesiadapis": [
-  {
-   "text": "Plesiadapis.",
-   "start": 0.12,
-   "end": 1.028
-  },
-  {
-   "text": "Der Name bedeutet: fast wie Adapis, ein anderes Tier der Zeit.",
-   "start": 1.448,
-   "end": 4.853
-  },
-  {
-   "text": "Er lebte vor etwa 58 bis 56 Millionen Jahren.",
-   "start": 5.093,
-   "end": 8.905
-  },
-  {
-   "text": "Wow!",
-   "start": 9.145,
-   "end": 9.594
-  },
-  {
-   "text": "Plesiadapis hatte große Nagezähne wie ein Biber.",
-   "start": 9.934,
-   "end": 12.745
-  },
-  {
-   "text": "Er sah ein bisschen aus wie ein Eichhörnchen mit langer Schnauze.",
-   "start": 12.985,
-   "end": 15.936
-  },
-  {
-   "text": "Er wird zu den Verwandten der Primaten gezählt.",
-   "start": 16.176,
-   "end": 18.371
-  }
- ],
- "card_pakicetus": [
-  {
-   "text": "Pakizetus.",
-   "start": 0.12,
-   "end": 1.028
-  },
-  {
-   "text": "Der Name bedeutet: Wal aus Pakistan.",
-   "start": 1.448,
-   "end": 3.573
-  },
-  {
-   "text": "Er lebte vor etwa 50 Millionen Jahren.",
-   "start": 3.813,
-   "end": 6.278
-  },
-  {
-   "text": "Wow!",
-   "start": 6.518,
-   "end": 6.966
-  },
-  {
-   "text": "Pakicetus lief an Land und ist ein Verwandter der Wale.",
-   "start": 7.306,
-   "end": 10.22
-  },
-  {
-   "text": "Wale stammen von Landtieren ab.",
-   "start": 10.46,
-   "end": 12.096
-  },
-  {
-   "text": "Er ähnelte einem schlanken Wolf mit langem Schwanz.",
-   "start": 12.336,
-   "end": 14.741
-  },
-  {
-   "text": "Er ging an Land, jagte aber wohl auch im Wasser.",
-   "start": 14.981,
-   "end": 17.355
-  },
-  {
-   "text": "Nach Millionen Jahren entwickelten sich daraus die Wale.",
-   "start": 17.595,
-   "end": 20.459
-  }
- ],
- "card_paraceratherium": [
-  {
-   "text": "Parakeratherium.",
-   "start": 0.12,
-   "end": 1.218
-  },
-  {
-   "text": "Der Name bedeutet: neben dem Horn-Tier.",
-   "start": 1.638,
-   "end": 3.52
-  },
-  {
-   "text": "Er lebte vor etwa 34 bis 23 Millionen Jahren.",
-   "start": 3.76,
-   "end": 7.471
-  },
-  {
-   "text": "Wow!",
-   "start": 7.711,
-   "end": 8.16
-  },
-  {
-   "text": "Es war eines der größten Landsäugetiere aller Zeiten, so schwer wie drei bis vier Elefanten.",
-   "start": 8.5,
-   "end": 13.521
-  },
-  {
-   "text": "Das Riesen-Nashorn hatte kein Horn.",
-   "start": 13.761,
-   "end": 15.627
-  },
-  {
-   "text": "Mit der beweglichen Lippe pflückte es Blätter von hohen Bäumen.",
-   "start": 15.867,
-   "end": 18.78
-  }
- ],
- "card_gomphotherium": [
-  {
-   "text": "Gomfotherium.",
-   "start": 0.12,
-   "end": 1.118
-  },
-  {
-   "text": "Der Name bedeutet: Bolzen-Tier, wegen der Zähne.",
-   "start": 1.538,
-   "end": 4.34
-  },
-  {
-   "text": "Er lebte vor etwa 20 bis 5 Millionen Jahren.",
-   "start": 4.58,
-   "end": 7.494
-  },
-  {
-   "text": "Wow!",
-   "start": 7.734,
-   "end": 8.183
-  },
-  {
-   "text": "Gomphotherium hatte vier Stoßzähne: zwei oben und zwei unten.",
-   "start": 8.523,
-   "end": 12.384
-  },
-  {
-   "text": "Es war ein Verwandter der Elefanten.",
-   "start": 12.624,
-   "end": 14.29
-  },
-  {
-   "text": "Mit dem Rüssel griff es Pflanzen und Wasser.",
-   "start": 14.53,
-   "end": 16.895
-  },
-  {
-   "text": "Es lebte in vielen Teilen der Welt.",
-   "start": 17.135,
-   "end": 19.05
-  }
- ],
- "card_miocene_ape": [
-  {
-   "text": "Prokonsul.",
-   "start": 0.12,
-   "end": 0.814
-  },
-  {
-   "text": "Name: Proconsul, nach einem Schimpansen namens Consul.",
-   "start": 1.234,
-   "end": 4.107
-  },
-  {
-   "text": "Er lebte vor etwa 21 bis 17 Millionen Jahren.",
-   "start": 4.347,
-   "end": 7.58
-  },
-  {
-   "text": "Wow!",
-   "start": 7.82,
-   "end": 8.269
-  },
-  {
-   "text": "Er hatte schon keinen Schwanz mehr.",
-   "start": 8.609,
-   "end": 10.106
-  },
-  {
-   "text": "Das ist ein Merkmal der Menschenaffen.",
-   "start": 10.346,
-   "end": 12.082
-  },
-  {
-   "text": "Er lief auf allen vieren auf Ästen und kletterte gut.",
-   "start": 12.322,
-   "end": 15.065
-  },
-  {
-   "text": "Er lebte im Regenwald.",
-   "start": 15.305,
-   "end": 16.503
-  }
- ],
- "card_lucy": [
-  {
-   "text": "Austrälopitekus afarensis.",
-   "start": 0.12,
-   "end": 1.785
-  },
-  {
-   "text": "Der Name bedeutet: Südaffe aus Afar.",
-   "start": 2.205,
-   "end": 4.43
-  },
-  {
-   "text": "Er lebte vor etwa 3,2 Millionen Jahren, die Art: 3,9 bis 2,9 Millionen",
-   "start": 4.67,
-   "end": 10.557
-  },
-  {
-   "text": "Wow!",
-   "start": 10.797,
-   "end": 11.246
-  },
-  {
-   "text": "Der Name kommt aus einem Beatles-Lied, das im Lager lief: Lucy in the Sky with Diamonds.",
-   "start": 11.586,
-   "end": 16.036
-  },
-  {
-   "text": "Lucy lief aufrecht auf zwei Beinen, konnte aber auch noch gut klettern.",
-   "start": 16.276,
-   "end": 19.987
-  },
-  {
-   "text": "Ihr Gehirn war etwa so groß wie das eines Schimpansen.",
-   "start": 20.227,
-   "end": 22.851
-  },
-  {
-   "text": "Ihr Skelett ist zu rund 40 Prozent erhalten.",
-   "start": 23.091,
-   "end": 25.566
-  }
- ],
- "card_laetoli": [
-  {
-   "text": "Laetoli.",
-   "start": 0.12,
-   "end": 0.769
-  },
-  {
-   "text": "Er lebte vor etwa 3,7 Millionen Jahren.",
-   "start": 1.189,
-   "end": 3.852
-  },
-  {
-   "text": "Wow!",
-   "start": 4.092,
-   "end": 4.541
-  },
-  {
-   "text": "Die Spur stammt von mindestens zwei, vielleicht drei Wesen, zwei große und ein kleineres.",
-   "start": 4.881,
-   "end": 9.85
-  },
-  {
-   "text": "Ein Vulkan hatte feine Asche ausgespuckt.",
-   "start": 10.09,
-   "end": 12.415
-  },
-  {
-   "text": "Es regnete leicht, die Asche wurde feucht.",
-   "start": 12.655,
-   "end": 14.75
-  },
-  {
-   "text": "Wesen liefen darüber, ihre Fußabdrücke trockneten und wurden mit weiterer Asche bedeckt.",
-   "start": 14.99,
-   "end": 19.729
-  },
-  {
-   "text": "Das Team um Mary Leakey entdeckte die Spuren 1976.",
-   "start": 19.969,
-   "end": 24.296
-  }
- ],
- "card_hominiden": [
-  {
-   "text": "Wer war früh dabei?",
-   "start": 0.12,
-   "end": 1.137
-  },
-  {
-   "text": "Wow!",
-   "start": 1.557,
-   "end": 2.006
-  },
-  {
-   "text": "Der Stammbaum des Menschen ist ein Busch, keine Leiter.",
-   "start": 2.346,
-   "end": 4.938
-  },
-  {
-   "text": "Hier siehst du frühe Vormenschen.",
-   "start": 5.178,
-   "end": 6.727
-  },
-  {
-   "text": "Sahelanthropus (vor etwa 7 Millionen Jahren, Tschad) ist umstritten: Ob er zu den Vormenschen gehört, wissen wir nicht sicher.",
-   "start": 6.967,
-   "end": 13.16
-  },
-  {
-   "text": "Orrorin (etwa 6 Millionen ), Ardipithecus (etwa 4,4 Millionen ), Australopithecus (etwa 4 bis 2 Millionen ) und die ersten Homo (ab etwa 2,8 Millionen Jahren).",
-   "start": 13.4,
-   "end": 25.084
-  }
- ],
- "card_voegel": [
-  {
-   "text": "Vögel sind Dinosaurier.",
-   "start": 0.12,
-   "end": 1.557
-  },
-  {
-   "text": "Wow!",
-   "start": 1.977,
-   "end": 2.426
-  },
-  {
-   "text": "Jeder Spatz und jedes Rotkehlchen gehört zu den Dinosauriern.",
-   "start": 2.766,
-   "end": 6.318
-  },
-  {
-   "text": "Vögel stammen von kleinen, gefiederten Dinosauriern ab.",
-   "start": 6.558,
-   "end": 9.651
-  },
-  {
-   "text": "Als vor 66 Millionen Jahren der Asteroid einschlug, überlebten nur sie von allen Dinosaurier-Gruppen.",
-   "start": 9.891,
-   "end": 15.877
-  },
-  {
-   "text": "Wenn du also das nächste Mal eine Amsel hörst, hörst du einen Dinosaurier.",
-   "start": 16.117,
-   "end": 19.799
-  }
- ],
- "card_sahelanthropus": [
-  {
-   "text": "Sahelantropus.",
-   "start": 0.12,
-   "end": 1.198
-  },
-  {
-   "text": "Der Name bedeutet: Mensch aus dem Sahel.",
-   "start": 1.618,
-   "end": 3.603
-  },
-  {
-   "text": "Der Sahel ist eine Gegend südlich der Sahara.",
-   "start": 3.843,
-   "end": 6.008
-  },
-  {
-   "text": "Er lebte vor etwa 7 Millionen Jahren.",
-   "start": 6.248,
-   "end": 8.225
-  },
-  {
-   "text": "Wow!",
-   "start": 8.465,
-   "end": 8.914
-  },
-  {
-   "text": "Von Sahelanthropus kennt man vor allem einen Schädel.",
-   "start": 9.254,
-   "end": 12.128
-  },
-  {
-   "text": "Er wurde 2001 im Tschad gefunden und hat den Spitznamen Toumaï.",
-   "start": 12.368,
-   "end": 16.448
-  },
-  {
-   "text": "Sein Gehirn war klein, etwa so wie bei einem Schimpansen.",
-   "start": 16.688,
-   "end": 19.771
-  },
-  {
-   "text": "Einige Forscher meinen: Sahelanthropus gehört zu den frühen Vormenschen.",
-   "start": 20.011,
-   "end": 23.713
-  },
-  {
-   "text": "Andere sagen: Er war eher ein Verwandter der Menschenaffen.",
-   "start": 23.953,
-   "end": 26.716
-  }
- ],
- "card_orrorin": [
-  {
-   "text": "Orrorin.",
-   "start": 0.12,
-   "end": 0.759
-  },
-  {
-   "text": "Der Name bedeutet: Urmensch, so sagen die Tugen in Kenia.",
-   "start": 1.179,
-   "end": 4.471
-  },
-  {
-   "text": "Er lebte vor etwa 6 Millionen Jahren.",
-   "start": 4.711,
-   "end": 6.707
-  },
-  {
-   "text": "Wow!",
-   "start": 6.947,
-   "end": 7.396
-  },
-  {
-   "text": "Von Orrorin kennt man Oberschenkelknochen.",
-   "start": 7.736,
-   "end": 10.08
-  },
-  {
-   "text": "Sie sehen so aus, als sei er schon auf zwei Beinen gegangen.",
-   "start": 10.32,
-   "end": 13.296
-  },
-  {
-   "text": "Orrorin wurde im Jahr 2000 in Kenia entdeckt.",
-   "start": 13.536,
-   "end": 16.42
-  },
-  {
-   "text": "Man fand Teile von Kiefern, Zähnen und Beinknochen.",
-   "start": 16.66,
-   "end": 19.593
-  },
-  {
-   "text": "Er war wohl etwa so groß wie ein Schimpanse und kletterte auch auf Bäumen.",
-   "start": 19.833,
-   "end": 23.644
-  }
- ],
- "card_ardipithecus": [
-  {
-   "text": "Ardipitekus.",
-   "start": 0.12,
-   "end": 0.998
-  },
-  {
-   "text": "Der Name bedeutet: Boden-Affe.",
-   "start": 1.418,
-   "end": 3.061
-  },
-  {
-   "text": "Ardi heißt in der Sprache der Afar Boden.",
-   "start": 3.301,
-   "end": 5.402
-  },
-  {
-   "text": "Er lebte vor etwa 4,4 Millionen Jahren.",
-   "start": 5.642,
-   "end": 8.301
-  },
-  {
-   "text": "Wow!",
-   "start": 8.541,
-   "end": 8.99
-  },
-  {
-   "text": "Das Skelett Ardi konnte aufrecht gehen und trotzdem mit dem Fuß Äste greifen.",
-   "start": 9.33,
-   "end": 13.735
-  },
-  {
-   "text": "Die große Zehe stand seitlich ab, fast wie ein Daumen.",
-   "start": 13.975,
-   "end": 16.958
-  },
-  {
-   "text": "Ardipithecus lebte in einem Wald, nicht in einer offenen Savanne.",
-   "start": 17.198,
-   "end": 20.621
-  },
-  {
-   "text": "Das Skelett Ardi wurde 1994 entdeckt.",
-   "start": 20.861,
-   "end": 24.153
-  },
-  {
-   "text": "Die Untersuchung dauerte viele Jahre.",
-   "start": 24.393,
-   "end": 26.289
-  },
-  {
-   "text": "Erst 2009 stellten Forscher es ausführlich vor.",
-   "start": 26.529,
-   "end": 29.642
-  }
- ],
- "card_australopithecus": [
-  {
-   "text": "Austrälopitekus.",
-   "start": 0.12,
-   "end": 1.257
-  },
-  {
-   "text": "Der Name bedeutet: Südaffe.",
-   "start": 1.677,
-   "end": 3.305
-  },
-  {
-   "text": "Er lebte vor etwa 4 bis 2 Millionen Jahren.",
-   "start": 3.545,
-   "end": 6.302
-  },
-  {
-   "text": "Wow!",
-   "start": 6.542,
-   "end": 6.991
-  },
-  {
-   "text": "Das erste Fossil dieser Gruppe, das Taung-Kind, wurde 1924 in Südafrika gefunden.",
-   "start": 7.331,
-   "end": 13.291
-  },
-  {
-   "text": "Es gab mehrere Arten.",
-   "start": 13.531,
-   "end": 14.868
-  },
-  {
-   "text": "Lucy gehört zu Australopithecus afarensis.",
-   "start": 15.108,
-   "end": 17.452
-  },
-  {
-   "text": "Die Spuren von Laetoli werden meist dieser Art zugeordnet.",
-   "start": 17.692,
-   "end": 20.874
-  },
-  {
-   "text": "Sie gingen aufrecht, hatten aber noch kleine Gehirne und konnten gut klettern.",
-   "start": 21.114,
-   "end": 24.876
-  }
- ],
- "card_homo_fruehe": [
-  {
-   "text": "Homo.",
-   "start": 0.12,
-   "end": 0.619
-  },
-  {
-   "text": "Der Name bedeutet: Mensch (lateinisch).",
-   "start": 1.039,
-   "end": 2.974
-  },
-  {
-   "text": "Er lebte ab etwa 2,8 Millionen Jahren.",
-   "start": 3.214,
-   "end": 6.028
-  },
-  {
-   "text": "Wow!",
-   "start": 6.268,
-   "end": 6.717
-  },
-  {
-   "text": "Homo sapiens, also wir, gibt es erst seit etwa 300 000 Jahren.",
-   "start": 7.057,
-   "end": 11.297
-  },
-  {
-   "text": "Auf der Erduhr sind das nur etwa 6 Sekunden vor Mitternacht.",
-   "start": 11.537,
-   "end": 14.77
-  },
-  {
-   "text": "Die ältesten Funde der Gattung Homo sind etwa 2,8 Millionen Jahre alt, zum Beispiel ein Unterkiefer aus Äthiopien.",
-   "start": 15.01,
-   "end": 22.124
-  },
-  {
-   "text": "Diese frühen Homo hatten ein etwas größeres Gehirn als Australopithecus und stellten wohl einfache Steinwerkzeuge her.",
-   "start": 22.364,
-   "end": 28.999
-  }
- ],
- "card_erduhr": [
-  {
-   "text": "Die Erduhr.",
-   "start": 0.12,
-   "end": 0.868
-  },
-  {
-   "text": "Wow!",
-   "start": 1.288,
-   "end": 1.737
-  },
-  {
-   "text": "Alle Dinosaurier zusammen gab es nur von etwa 22:47 Uhr bis 23:39 Uhr.",
-   "start": 2.077,
-   "end": 8.75
-  },
-  {
-   "text": "Der Mensch kommt erst kurz vor Mitternacht.",
-   "start": 8.99,
-   "end": 11.045
-  },
-  {
-   "text": "Wir pressen die 4,54 Milliarden Jahre der Erde auf 24 Stunden.",
-   "start": 11.285,
-   "end": 16.124
-  },
-  {
-   "text": "Dann beginnt die Erde um 0 Uhr.",
-   "start": 16.364,
-   "end": 17.93
-  },
-  {
-   "text": "Die ersten Säugetiere erscheinen gegen 22:55 Uhr.",
-   "start": 18.17,
-   "end": 22.303
-  },
-  {
-   "text": "Der Homo sapiens betritt die Bühne etwa 6 Sekunden vor Mitternacht.",
-   "start": 22.543,
-   "end": 26.484
-  }
- ],
- "card_iridium": [
-  {
-   "text": "Iridium.",
+   "text": "Italia.",
    "start": 0.12,
    "end": 0.828
   },
   {
-   "text": "Wow!",
+   "text": "Der Name bedeutet: Italien.",
    "start": 1.248,
-   "end": 1.697
-  },
-  {
-   "text": "In einer dünnen grauen Tonschicht fanden Forscher viel mehr Iridium als sonst.",
-   "start": 2.037,
-   "end": 6.288
-  },
-  {
-   "text": "Das ist die Spur des Asteroiden.",
-   "start": 6.528,
-   "end": 8.193
-  },
-  {
-   "text": "Iridium hat die Ordnungszahl 77 und das Zeichen I R.",
-   "start": 8.433,
-   "end": 12.444
-  },
-  {
-   "text": "In der Erdkruste ist es sehr selten, in Meteoriten kommt es häufiger vor.",
-   "start": 12.684,
-   "end": 17.054
-  },
-  {
-   "text": "1980 fanden Luis und Walter Alvarez mit ihren Kollegen überall auf der Welt an der gleichen Gesteinsschicht auffällig viel Iridium.",
-   "start": 17.294,
-   "end": 25.415
-  },
-  {
-   "text": "Das war ein wichtiger Hinweis auf den Einschlag.",
-   "start": 25.655,
-   "end": 27.99
-  }
- ],
- "card_chicxulub": [
-  {
-   "text": "Tschikschulub.",
-   "start": 0.12,
-   "end": 0.739
+   "end": 3.104
   },
   {
    "text": "Wow!",
-   "start": 1.159,
-   "end": 1.608
+   "start": 3.344,
+   "end": 3.811
   },
   {
-   "text": "Der Krater bei Chicxulub in Mexiko ist etwa 180 Kilometer breit.",
-   "start": 1.948,
-   "end": 6.39
+   "text": "Rom wuchs Stück für Stück: erst die Nachbarn, dann ganz Italien.",
+   "start": 4.151,
+   "end": 7.574
   },
   {
-   "text": "Der Asteroid war etwa 10 bis 15 Kilometer groß.",
-   "start": 6.63,
-   "end": 9.953
+   "text": "Etwa 500 Jahre nach der Gründung beherrschte Rom fast die ganze Halbinsel südlich der Poebene.",
+   "start": 7.814,
+   "end": 13.351
   },
   {
-   "text": "Beim Einschlag wurden Staub und Asche hoch in die Luft geschleudert.",
-   "start": 10.193,
-   "end": 13.575
+   "text": "Manche Städte wurden besiegt, andere schlossen Bündnisse.",
+   "start": 13.591,
+   "end": 16.166
   },
   {
-   "text": "Die Sonne wurde lange verdeckt.",
-   "start": 13.815,
-   "end": 15.182
-  },
-  {
-   "text": "Pflanzen bekamen weniger Licht, und viele Tiere fanden kaum noch Nahrung.",
-   "start": 15.422,
-   "end": 19.293
-  },
-  {
-   "text": "Rund drei Viertel aller Arten verschwanden.",
-   "start": 19.533,
-   "end": 21.928
+   "text": "Kurz darauf begannen die Kriege gegen Karthago.",
+   "start": 16.406,
+   "end": 18.551
   }
  ],
- "card_ueberlebende": [
+ "card_karte_mittelmeer": [
   {
-   "text": "Eine Gruppe hat überlebt.",
+   "text": "Mare nostrum.",
    "start": 0.12,
-   "end": 1.45
+   "end": 0.958
+  },
+  {
+   "text": "Der Name bedeutet: unser Meer.",
+   "start": 1.378,
+   "end": 2.945
+  },
+  {
+   "text": "Das Wort Mare nostrum ist lateinisch und bedeutet: unser Meer.",
+   "start": 3.185,
+   "end": 6.297
+  },
+  {
+   "text": "So nannten die Römer das Mittelmeer.",
+   "start": 6.537,
+   "end": 8.393
   },
   {
    "text": "Wow!",
-   "start": 1.87,
-   "end": 2.319
+   "start": 8.633,
+   "end": 9.1
   },
   {
-   "text": "Eine Gruppe von Dinosauriern hat überlebt: die Vögel.",
-   "start": 2.659,
-   "end": 5.493
+   "text": "Die Römer nannten das Mittelmeer unser Meer, weil rundherum ihr Reich lag.",
+   "start": 9.44,
+   "end": 13.182
   },
   {
-   "text": "Nach dem Einschlag war die Luft voller Staub.",
-   "start": 5.733,
-   "end": 7.948
+   "text": "Nach den Kriegen gegen Karthago besaß Rom Land auf allen Seiten des westlichen Mittelmeers.",
+   "start": 13.422,
+   "end": 18.231
   },
   {
-   "text": "Die großen Dinosaurier verschwanden.",
-   "start": 8.188,
-   "end": 10.153
+   "text": "Karthago wurde 146 vor Christus zerstört.",
+   "start": 18.471,
+   "end": 21.604
   },
   {
-   "text": "Kleine Tiere kamen besser zurecht, auch Säugetiere und Vögel.",
-   "start": 10.393,
-   "end": 13.805
+   "text": "Auch Griechenland gehörte nun zu Rom.",
+   "start": 21.844,
+   "end": 24.015
   },
   {
-   "text": "Heute gibt es etwa 10 000 Vogelarten.",
-   "start": 14.045,
-   "end": 16.2
+   "text": "Wenig später kam ein Stück Kleinasien dazu.",
+   "start": 24.255,
+   "end": 26.46
+  }
+ ],
+ "card_karte_caesar": [
+  {
+   "text": "Imperium.",
+   "start": 0.12,
+   "end": 0.884
+  },
+  {
+   "text": "Der Name bedeutet: Befehlsgewalt, später: Reich.",
+   "start": 1.304,
+   "end": 4.098
+  },
+  {
+   "text": "Das Wort Imperium ist lateinisch und bedeutet: Befehlsgewalt.",
+   "start": 4.338,
+   "end": 8.05
+  },
+  {
+   "text": "Daraus wurde Imperium und Kaiserreich.",
+   "start": 8.29,
+   "end": 10.684
+  },
+  {
+   "text": "Wow!",
+   "start": 10.924,
+   "end": 11.391
+  },
+  {
+   "text": "Caesar eroberte Gallien, wurde aber nie Kaiser.",
+   "start": 11.731,
+   "end": 14.455
+  },
+  {
+   "text": "Das Kaiserreich begann erst nach ihm.",
+   "start": 14.695,
+   "end": 16.651
+  },
+  {
+   "text": "Julius Caesar eroberte in acht Jahren das große Land Gallien, das heute etwa Frankreich und Belgien ist.",
+   "start": 16.891,
+   "end": 22.887
+  },
+  {
+   "text": "Nach ihm gewann Augustus Ägypten und die Länder an der Donau.",
+   "start": 23.127,
+   "end": 26.33
+  },
+  {
+   "text": "Später kam auch der Süden Britanniens dazu.",
+   "start": 26.57,
+   "end": 28.958
+  }
+ ],
+ "card_karte_hoehepunkt": [
+  {
+   "text": "Imperium Romanum.",
+   "start": 0.12,
+   "end": 1.457
+  },
+  {
+   "text": "Der Name bedeutet: das Römische Reich.",
+   "start": 1.877,
+   "end": 3.872
+  },
+  {
+   "text": "Wow!",
+   "start": 4.112,
+   "end": 4.58
+  },
+  {
+   "text": "Auf dem Höhepunkt war das Römische Reich ungefähr 14-mal so groß wie Deutschland.",
+   "start": 4.92,
+   "end": 9.439
+  },
+  {
+   "text": "Unter Kaiser Trajan war das Reich am größten.",
+   "start": 9.679,
+   "end": 12.243
+  },
+  {
+   "text": "Es reichte von Nordengland bis nach Nordafrika und vom Atlantik bis weit in den Osten.",
+   "start": 12.483,
+   "end": 17.482
+  },
+  {
+   "text": "Danach gab man einige Gebiete wieder auf.",
+   "start": 17.722,
+   "end": 19.777
+  }
+ ],
+ "card_karte_teilung": [
+  {
+   "text": "Imperium Romanum.",
+   "start": 0.12,
+   "end": 1.457
+  },
+  {
+   "text": "Der Name bedeutet: das Römische Reich.",
+   "start": 1.877,
+   "end": 3.872
+  },
+  {
+   "text": "Wow!",
+   "start": 4.112,
+   "end": 4.58
+  },
+  {
+   "text": "Nach 395 wurde das Reich nie wieder dauerhaft von einem einzigen Kaiser regiert.",
+   "start": 4.92,
+   "end": 10.397
+  },
+  {
+   "text": "Nach dem Tod von Theodosius bekamen seine beiden Söhne je eine Hälfte des Reiches: Honorius den Westen, Arcadius den Osten.",
+   "start": 10.637,
+   "end": 17.192
+  },
+  {
+   "text": "Auf der Karte siehst du den Osten in Purpur.",
+   "start": 17.432,
+   "end": 19.847
+  },
+  {
+   "text": "Im Osten blieb die Verwaltung stark, im Westen wurde sie schwächer.",
+   "start": 20.087,
+   "end": 23.15
+  }
+ ],
+ "card_karte_ende": [
+  {
+   "text": "Romulus Augustulus.",
+   "start": 0.12,
+   "end": 1.547
+  },
+  {
+   "text": "Der Name bedeutet: Kleiner Augustus, der letzte Kaiser im Westen.",
+   "start": 1.967,
+   "end": 5.529
+  },
+  {
+   "text": "Wow!",
+   "start": 5.769,
+   "end": 6.236
+  },
+  {
+   "text": "Das Römische Reich endete im Osten erst 1453, fast tausend Jahre später.",
+   "start": 6.576,
+   "end": 12.019
+  },
+  {
+   "text": "Im Jahr 476 setzte der Heerführer Odoaker den jungen Kaiser Romulus Augustulus ab.",
+   "start": 12.259,
+   "end": 18.002
+  },
+  {
+   "text": "Es gab keinen großen Knall.",
+   "start": 18.242,
+   "end": 19.658
+  },
+  {
+   "text": "Im Westen regierten nun andere Könige.",
+   "start": 19.898,
+   "end": 21.954
+  },
+  {
+   "text": "Im Osten ging das Römische Reich weiter, bis 1453 Konstantinopel erobert wurde.",
+   "start": 22.194,
+   "end": 27.681
+  }
+ ],
+ "card_musik": [
+  {
+   "text": "Lyra.",
+   "start": 0.12,
+   "end": 0.629
+  },
+  {
+   "text": "Der Name bedeutet: Leier, ein altes Saiteninstrument.",
+   "start": 1.049,
+   "end": 3.922
+  },
+  {
+   "text": "Wow!",
+   "start": 4.162,
+   "end": 4.63
+  },
+  {
+   "text": "Wie römische Musik genau klang, wissen wir kaum, denn Noten sind fast nicht erhalten.",
+   "start": 4.97,
+   "end": 9.32
+  },
+  {
+   "text": "Die Römer spielten Flöte, Leier, Trompete und Trommeln.",
+   "start": 9.56,
+   "end": 12.952
+  },
+  {
+   "text": "Die Musik in diesem Buch hat sich ein Computer ausgedacht.",
+   "start": 13.192,
+   "end": 16.105
+  },
+  {
+   "text": "Sie soll nur ein bisschen nach Süden und nach alter Zeit klingen.",
+   "start": 16.345,
+   "end": 19.748
   }
  ],
  "card_album": [
   {
-   "text": "Familienalbum der versteckten Säugetiere.",
-   "start": 0.12,
-   "end": 2.425
-  },
-  {
-   "text": "Wow!",
-   "start": 2.845,
-   "end": 3.294
-  },
-  {
-   "text": "Säugetiere gibt es schon fast so lange wie Dinosaurier.",
-   "start": 3.634,
-   "end": 6.407
-  },
-  {
-   "text": "Das sind die winzigen frühen Säugetiere und Seitenzweige, die du gefunden hast.",
-   "start": 6.647,
-   "end": 10.748
-  },
-  {
-   "text": "Keines davon ist ein sicherer direkter Vorfahre von uns Menschen.",
-   "start": 10.988,
-   "end": 14.55
-  },
-  {
-   "text": "Aber sie zeigen: Säugetiere lebten schon zur Zeit der Dinosaurier.",
-   "start": 14.79,
-   "end": 18.332
-  }
- ],
- "card_zeitluecke": [
-  {
-   "text": "Die große Zeitlücke.",
+   "text": "Dein Gänse-Album.",
    "start": 0.12,
    "end": 1.218
   },
   {
-   "text": "Wow!",
+   "text": "Der Name bedeutet: anser ist das lateinische Wort für Gans.",
    "start": 1.638,
-   "end": 2.086
+   "end": 4.711
   },
   {
-   "text": "Menschen und Dinosaurier sind sich nie begegnet.",
-   "start": 2.426,
-   "end": 5.17
+   "text": "Wow!",
+   "start": 4.951,
+   "end": 5.418
   },
   {
-   "text": "Zwischen dem Einschlag vor 66 Millionen Jahren und Lucy vor 3,2 Millionen Jahren liegen rund 63 Millionen Jahre.",
-   "start": 5.41,
-   "end": 13.452
+   "text": "Nach einer Sage haben Gänse einst das Kapitol gerettet.",
+   "start": 5.758,
+   "end": 8.731
   },
   {
-   "text": "Die Zeit der Dinosaurier dauerte von etwa 231 bis 66 Millionen Jahren, also rund 165 Millionen Jahre.",
-   "start": 13.692,
-   "end": 22.183
+   "text": "Darum verstecken sich hier acht Gänse.",
+   "start": 8.971,
+   "end": 10.787
+  },
+  {
+   "text": "Auf jeder Doppelseite sitzt eine kleine Gans.",
+   "start": 11.027,
+   "end": 13.242
+  },
+  {
+   "text": "Schau genau hin: Ein Stück Hals, ein Schnabel oder ein Hut verrät sie.",
+   "start": 13.482,
+   "end": 16.898
+  },
+  {
+   "text": "Tippe sie an, dann kommt sie in dein Album.",
+   "start": 17.138,
+   "end": 19.084
+  }
+ ],
+ "card_wolfin": [
+  {
+   "text": "Die Wölfin mit Romulus und Remus.",
+   "start": 0.12,
+   "end": 2.135
+  },
+  {
+   "text": "Der Name bedeutet: lupa ist das lateinische Wort für Wölfin.",
+   "start": 2.555,
+   "end": 5.723
+  },
+  {
+   "text": "Wow!",
+   "start": 5.963,
+   "end": 6.43
+  },
+  {
+   "text": "Von einer Wölfin gefunden: So erzählt es die Sage von den Gründern Roms.",
+   "start": 6.77,
+   "end": 10.841
+  },
+  {
+   "text": "Nach der Sage waren Romulus und Remus Söhne der Rhea Silvia.",
+   "start": 11.081,
+   "end": 14.742
+  },
+  {
+   "text": "Als Babys wurden sie am Tiber ausgesetzt.",
+   "start": 14.982,
+   "end": 17.307
+  },
+  {
+   "text": "Dort fand sie eine Wölfin und kümmerte sich um die beiden.",
+   "start": 17.547,
+   "end": 20.48
+  },
+  {
+   "text": "So erzählten es die Römer später über den Anfang ihrer Stadt.",
+   "start": 20.72,
+   "end": 23.883
+  }
+ ],
+ "card_romulus": [
+  {
+   "text": "Romulus pflügt die Stadtgrenze.",
+   "start": 0.12,
+   "end": 2.175
+  },
+  {
+   "text": "Das Wort murus ist lateinisch und bedeutet: die Mauer.",
+   "start": 2.595,
+   "end": 5.329
+  },
+  {
+   "text": "Unser Wort Mauer kommt daher.",
+   "start": 5.569,
+   "end": 7.136
+  },
+  {
+   "text": "Wow!",
+   "start": 7.376,
+   "end": 7.843
+  },
+  {
+   "text": "Eine Furche als Stadtgrenze: Nach der Sage zog Romulus sie mit dem Pflug.",
+   "start": 8.183,
+   "end": 12.044
+  },
+  {
+   "text": "Die Römer erzählten: Romulus gründete Rom.",
+   "start": 12.284,
+   "end": 14.794
+  },
+  {
+   "text": "Der Gelehrte Varro rechnete später das Jahr 753 vor Christus aus.",
+   "start": 15.034,
+   "end": 20.082
+  },
+  {
+   "text": "Mit einem Pflug und zwei Rindern zog Romulus eine Furche rund um den Palatin.",
+   "start": 20.322,
+   "end": 24.918
+  },
+  {
+   "text": "Sie zeigte, wo die Stadt enden sollte.",
+   "start": 25.158,
+   "end": 27.323
+  },
+  {
+   "text": "Auch das ist eine Sage.",
+   "start": 27.563,
+   "end": 28.82
+  }
+ ],
+ "card_huette": [
+  {
+   "text": "Die Hirtenhütte.",
+   "start": 0.12,
+   "end": 1.028
+  },
+  {
+   "text": "Der Name bedeutet: Casa Romuli heißt Haus des Romulus.",
+   "start": 1.448,
+   "end": 4.511
+  },
+  {
+   "text": "Wow!",
+   "start": 4.751,
+   "end": 5.218
+  },
+  {
+   "text": "Schon lange vor 753 vor Christus wohnten Menschen auf dem Palatin.",
+   "start": 5.558,
+   "end": 10.148
+  },
+  {
+   "text": "Auf dem Palatin stand ein Dorf aus kleinen Hütten mit Strohdach.",
+   "start": 10.388,
+   "end": 13.396
+  },
+  {
+   "text": "Hirten lebten hier schon lange vor 753 vor Christus.",
+   "start": 13.636,
+   "end": 17.339
+  },
+  {
+   "text": "Später zeigten die Römer stolz eine Hütte als das Haus von Romulus.",
+   "start": 17.579,
+   "end": 21.451
+  }
+ ],
+ "card_tiber": [
+  {
+   "text": "Der Tiber.",
+   "start": 0.12,
+   "end": 0.749
+  },
+  {
+   "text": "Der Name bedeutet: Tiberis ist der lateinische Name des Flusses.",
+   "start": 1.169,
+   "end": 4.491
+  },
+  {
+   "text": "Wow!",
+   "start": 4.731,
+   "end": 5.198
+  },
+  {
+   "text": "Der Tiber ist älter als die Stadt Rom, und er fließt noch heute durch sie hindurch.",
+   "start": 5.538,
+   "end": 9.898
+  },
+  {
+   "text": "Der Tiber ist der Fluss von Rom.",
+   "start": 10.138,
+   "end": 11.765
+  },
+  {
+   "text": "Die Sage erzählt, dass die Zwillinge Romulus und Remus an seinem Ufer ausgesetzt wurden.",
+   "start": 12.005,
+   "end": 16.733
+  },
+  {
+   "text": "Die Hügel, auf denen Rom wuchs, liegen nicht weit vom Wasser.",
+   "start": 16.973,
+   "end": 19.777
+  },
+  {
+   "text": "Im Bild liegt Morgennebel über dem Fluss.",
+   "start": 20.017,
+   "end": 22.122
+  }
+ ],
+ "card_tarquinius": [
+  {
+   "text": "Tarquinius, der letzte König.",
+   "start": 0.12,
+   "end": 1.896
+  },
+  {
+   "text": "Der Name bedeutet: Superbus heißt der Stolze.",
+   "start": 2.316,
+   "end": 4.682
+  },
+  {
+   "text": "Wow!",
+   "start": 4.922,
+   "end": 5.39
+  },
+  {
+   "text": "Von 753 bis 509 sollen nur sieben Könige regiert haben.",
+   "start": 5.73,
+   "end": 10.588
+  },
+  {
+   "text": "Die Liste ist halb sagenhaft.",
+   "start": 10.828,
+   "end": 12.278
+  },
+  {
+   "text": "Nach der Überlieferung war Tarquinius der siebte und letzte König von Rom.",
+   "start": 12.518,
+   "end": 16.489
+  },
+  {
+   "text": "Die Römer vertrieben ihn um 509 vor Christus.",
+   "start": 16.729,
+   "end": 19.798
+  },
+  {
+   "text": "Danach hatte Rom keinen König mehr.",
+   "start": 20.038,
+   "end": 21.854
+  },
+  {
+   "text": "Die Liste der sieben Könige ist halb Sage und wurde erst Jahrhunderte später aufgeschrieben.",
+   "start": 22.094,
+   "end": 26.903
+  }
+ ],
+ "card_huegel": [
+  {
+   "text": "Die sieben Hügel Roms.",
+   "start": 0.12,
+   "end": 1.377
+  },
+  {
+   "text": "Der Name bedeutet: septem colles heißt sieben Hügel.",
+   "start": 1.797,
+   "end": 4.461
+  },
+  {
+   "text": "Wow!",
+   "start": 4.701,
+   "end": 5.168
+  },
+  {
+   "text": "Rom ist langsam gewachsen: Aus Dörfern auf Hügeln wurde nach und nach eine Stadt.",
+   "start": 5.508,
+   "end": 9.536
+  },
+  {
+   "text": "Auf den Hügeln am Tiber lagen kleine Dörfer.",
+   "start": 9.776,
+   "end": 12.236
+  },
+  {
+   "text": "Der Palatin ist der älteste Hügel.",
+   "start": 12.476,
+   "end": 14.222
+  },
+  {
+   "text": "Mit der Zeit wuchsen die Dörfer zusammen.",
+   "start": 14.462,
+   "end": 16.407
+  },
+  {
+   "text": "Von den Nachbarn im Norden, den Etruskern, lernten die Römer viel.",
+   "start": 16.647,
+   "end": 20.553
+  }
+ ],
+ "card_gans1": [
+  {
+   "text": "Die Gans auf dem Kapitol.",
+   "start": 0.12,
+   "end": 1.407
+  },
+  {
+   "text": "Der Name bedeutet: anser ist das lateinische Wort für Gans.",
+   "start": 1.827,
+   "end": 4.9
+  },
+  {
+   "text": "Wow!",
+   "start": 5.14,
+   "end": 5.607
+  },
+  {
+   "text": "Gefunden!",
+   "start": 5.947,
+   "end": 6.686
+  },
+  {
+   "text": "Nach einer Sage haben Gänse das Kapitol gerettet.",
+   "start": 6.986,
+   "end": 9.55
+  },
+  {
+   "text": "Du hast die Gans oben auf dem Kapitol gefunden.",
+   "start": 9.79,
+   "end": 12.204
+  },
+  {
+   "text": "Sie trägt einen Hirtenhut.",
+   "start": 12.444,
+   "end": 13.861
+  },
+  {
+   "text": "Nach der Sage haben Gänse das Kapitol gerettet: Ihr Schnattern warnte die Römer vor den Galliern.",
+   "start": 14.101,
+   "end": 18.87
+  }
+ ],
+ "card_senat": [
+  {
+   "text": "Senatus.",
+   "start": 0.12,
+   "end": 0.74
+  },
+  {
+   "text": "Der Name bedeutet: Rat der Alten.",
+   "start": 1.16,
+   "end": 2.776
+  },
+  {
+   "text": "Das Wort Seneks ist lateinisch und bedeutet: alter Mann.",
+   "start": 3.016,
+   "end": 5.91
+  },
+  {
+   "text": "Daraus wurde Senat: der Rat der Alten.",
+   "start": 6.15,
+   "end": 8.165
+  },
+  {
+   "text": "Auch unser Wort Senior gehört dazu.",
+   "start": 8.405,
+   "end": 10.177
+  },
+  {
+   "text": "Wow!",
+   "start": 10.417,
+   "end": 10.884
+  },
+  {
+   "text": "Das Kürzel SPQR heißt Senat und Volk von Rom.",
+   "start": 11.224,
+   "end": 14.477
+  },
+  {
+   "text": "Der Senat stand also gleich neben dem Volk!",
+   "start": 14.717,
+   "end": 16.842
+  },
+  {
+   "text": "Schon die Könige hatten einen Rat der Alten.",
+   "start": 17.142,
+   "end": 19.307
+  },
+  {
+   "text": "In der Republik wurde dieser Rat, der Senat, sehr wichtig.",
+   "start": 19.547,
+   "end": 22.68
+  },
+  {
+   "text": "Seine Mitglieder waren ältere, erfahrene Männer, oft blieben sie ein ganzes Leben dabei.",
+   "start": 22.92,
+   "end": 27.546
+  },
+  {
+   "text": "Sie besprachen, was für die Stadt wichtig war, und gaben den Beamten Rat.",
+   "start": 27.786,
+   "end": 31.65
+  },
+  {
+   "text": "Zieh die Lasche Abstimmung, dann stehen sie auf!",
+   "start": 31.89,
+   "end": 34.201
+  }
+ ],
+ "card_konsuln": [
+  {
+   "text": "Konsules.",
+   "start": 0.12,
+   "end": 0.815
+  },
+  {
+   "text": "Der Name bedeutet: die obersten Beamten der Republik.",
+   "start": 1.235,
+   "end": 4.088
+  },
+  {
+   "text": "Wow!",
+   "start": 4.328,
+   "end": 4.796
+  },
+  {
+   "text": "Veto heißt auf Latein Ich verbiete es.",
+   "start": 5.136,
+   "end": 6.971
+  },
+  {
+   "text": "So konnte keiner der beiden allein bestimmen.",
+   "start": 7.211,
+   "end": 9.536
+  },
+  {
+   "text": "Statt eines Königs hatte Rom zwei Konsuln.",
+   "start": 9.776,
+   "end": 12.26
+  },
+  {
+   "text": "Sie wurden für ein Jahr gewählt und leiteten die Stadt gemeinsam.",
+   "start": 12.5,
+   "end": 15.683
+  },
+  {
+   "text": "Jeder konnte den anderen mit einem Veto bremsen.",
+   "start": 15.923,
+   "end": 18.278
+  },
+  {
+   "text": "Vor jedem gingen zwölf Diener mit dem Rutenbündel.",
+   "start": 18.518,
+   "end": 20.892
+  },
+  {
+   "text": "Tippe einen Liktor an!",
+   "start": 21.132,
+   "end": 22.283
+  }
+ ],
+ "card_fasces": [
+  {
+   "text": "Faskes.",
+   "start": 0.12,
+   "end": 0.779
+  },
+  {
+   "text": "Das Wort bedeutet: Bündel.",
+   "start": 1.199,
+   "end": 2.685
+  },
+  {
+   "text": "Die Liktoren gingen vor dem Konsul her und trugen die Fasces.",
+   "start": 2.925,
+   "end": 5.908
+  },
+  {
+   "text": "Ruten und Beil zeigten allen: Dieser Mann darf Befehle geben und Strafen verhängen.",
+   "start": 6.148,
+   "end": 10.521
+  },
+  {
+   "text": "Es war ein Amtszeichen, wie heute eine Amtskette.",
+   "start": 10.761,
+   "end": 13.555
+  },
+  {
+   "text": "Zur Einordnung: Das Wort Faschismus kommt von italienisch fascio, Bündel, und das von lateinisch fasces.",
+   "start": 13.795,
+   "end": 19.728
+  },
+  {
+   "text": "Später missbrauchte ein Diktator das alte Zeichen.",
+   "start": 19.968,
+   "end": 22.682
+  },
+  {
+   "text": "Das alte römische Zeichen kann nichts dafür: Es war ein Amtszeichen.",
+   "start": 22.922,
+   "end": 26.404
+  }
+ ],
+ "card_rostra": [
+  {
+   "text": "Rostra.",
+   "start": 0.12,
+   "end": 0.858
+  },
+  {
+   "text": "Der Name bedeutet: Schnäbel (rostrum = Schnabel).",
+   "start": 1.278,
+   "end": 4.091
+  },
+  {
+   "text": "Wer zu den Bürgern sprechen wollte, stieg auf die Rednerbühne am Forum.",
+   "start": 4.331,
+   "end": 8.123
+  },
+  {
+   "text": "Sie war mit den Schnäbeln erbeuteter Schiffe geschmückt.",
+   "start": 8.363,
+   "end": 11.047
+  },
+  {
+   "text": "Im Bild steht oben ein Redner, und neben ihm hat es sich eine Gans bequem gemacht.",
+   "start": 11.287,
+   "end": 15.422
+  },
+  {
+   "text": "Findest du sie?",
+   "start": 15.662,
+   "end": 16.57
+  }
+ ],
+ "card_hannibal": [
+  {
+   "text": "Hannibal.",
+   "start": 0.12,
+   "end": 0.868
+  },
+  {
+   "text": "Hannibal war ein Feldherr aus Karthago.",
+   "start": 1.288,
+   "end": 3.304
+  },
+  {
+   "text": "Im Herbst 218 vor Christus zog er mit Soldaten und Elefanten über die Alpen nach Italien.",
+   "start": 3.544,
+   "end": 9.41
+  },
+  {
+   "text": "Wie viele es genau waren, wissen wir nicht: viele Tausend, und etwa die Hälfte ging unterwegs verloren.",
+   "start": 9.65,
+   "end": 15.038
+  },
+  {
+   "text": "Bei Zama unterlag er dem Römer Scipio.",
+   "start": 15.278,
+   "end": 17.571
+  },
+  {
+   "text": "Welchen Pass er nahm, wissen Forscher bis heute nicht sicher.",
+   "start": 17.811,
+   "end": 20.76
+  },
+  {
+   "text": "Wie er aussah, wissen wir nicht, sein Bild hier ist erfunden.",
+   "start": 21.0,
+   "end": 23.944
+  }
+ ],
+ "card_elefant": [
+  {
+   "text": "Elefantus.",
+   "start": 0.12,
+   "end": 0.868
+  },
+  {
+   "text": "Hannibal brachte Elefanten über die Alpen.",
+   "start": 1.288,
+   "end": 3.354
+  },
+  {
+   "text": "Der antike Schreiber Polybios nennt siebenunddreißig Tiere am Fluss Rhône.",
+   "start": 3.594,
+   "end": 7.624
+  },
+  {
+   "text": "Nur wenige kamen in Italien an, genau weiß das niemand.",
+   "start": 7.864,
+   "end": 11.077
+  },
+  {
+   "text": "Bei Zama ließen die Römer Gassen für die Elefanten frei.",
+   "start": 11.317,
+   "end": 14.26
+  },
+  {
+   "text": "Wie viele Elefanten es waren und welchen Weg sie nahmen, ist unsicher.",
+   "start": 14.5,
+   "end": 18.322
+  },
+  {
+   "text": "Im Buch ziehen nur zwei.",
+   "start": 18.562,
+   "end": 19.851
+  }
+ ],
+ "card_alpen": [
+  {
+   "text": "Alpes.",
+   "start": 0.12,
+   "end": 0.659
+  },
+  {
+   "text": "Im Herbst 218 vor Christus zog Hannibal mit seinem Heer über die Alpen nach Italien.",
+   "start": 1.079,
+   "end": 6.287
+  },
+  {
+   "text": "Ein Marsch durch hohe, kalte Berge, mit Elefanten!",
+   "start": 6.527,
+   "end": 9.231
+  },
+  {
+   "text": "Welchen Pass er nahm, wissen Forscher bis heute nicht sicher.",
+   "start": 9.531,
+   "end": 12.48
+  },
+  {
+   "text": "Der Weg auf der Seite ist eine Annahme, keine gesicherte Route.",
+   "start": 12.72,
+   "end": 15.793
+  }
+ ],
+ "card_hafen": [
+  {
+   "text": "Kartago.",
+   "start": 0.12,
+   "end": 0.938
+  },
+  {
+   "text": "Karthago war eine mächtige Hafenstadt am Mittelmeer.",
+   "start": 1.358,
+   "end": 4.002
+  },
+  {
+   "text": "Rom und Karthago führten drei Kriege gegeneinander.",
+   "start": 4.242,
+   "end": 7.096
+  },
+  {
+   "text": "Die Römer nannten die Karthager Punier, darum heißen sie Punische Kriege.",
+   "start": 7.336,
+   "end": 11.164
+  },
+  {
+   "text": "Im Jahr 146 vor Christus wurde Karthago zerstört, viele Überlebende wurden zu Sklaven gemacht.",
+   "start": 11.404,
+   "end": 17.022
+  },
+  {
+   "text": "Man erzählt, die Römer hätten Salz auf den Boden Karthagos gestreut, damit nichts mehr wächst.",
+   "start": 17.262,
+   "end": 22.101
+  },
+  {
+   "text": "Das stimmt vermutlich nicht: Dafür gibt es keine antike Quelle.",
+   "start": 22.341,
+   "end": 25.464
+  }
+ ],
+ "card_corvus": [
+  {
+   "text": "Korvus.",
+   "start": 0.12,
+   "end": 0.666
+  },
+  {
+   "text": "Der Name bedeutet: Rabe.",
+   "start": 1.086,
+   "end": 2.533
+  },
+  {
+   "text": "Corvus hieß diese Brücke, das ist lateinisch für Rabe.",
+   "start": 2.773,
+   "end": 5.367
+  },
+  {
+   "text": "Sie hing an einem Mast am Bug und ließ sich drehen.",
+   "start": 5.607,
+   "end": 7.961
+  },
+  {
+   "text": "Man ließ sie auf ein fremdes Schiff fallen, der Eisendorn hakte sich fest, und man konnte hinüberlaufen.",
+   "start": 8.201,
+   "end": 13.2
+  },
+  {
+   "text": "Wie die Brücke genau gebaut war, wissen wir nicht sicher.",
+   "start": 13.44,
+   "end": 16.154
+  },
+  {
+   "text": "Zieh die Lasche Enterbrücke!",
+   "start": 16.394,
+   "end": 17.791
+  }
+ ],
+ "card_gans2": [
+  {
+   "text": "Anser.",
+   "start": 0.12,
+   "end": 0.529
+  },
+  {
+   "text": "Der Name bedeutet: anser ist das lateinische Wort für Gans.",
+   "start": 0.949,
+   "end": 4.022
+  },
+  {
+   "text": "Wow!",
+   "start": 4.262,
+   "end": 4.729
+  },
+  {
+   "text": "Nach einer alten Sage haben Gänse auf dem Kapitol die Römer geweckt, als die Gallier kamen.",
+   "start": 5.069,
+   "end": 9.719
+  },
+  {
+   "text": "Diese Gans trägt eine ausgedachte Schärpe wie ein Senator und hört dem Redner zu.",
+   "start": 9.959,
+   "end": 14.522
+  },
+  {
+   "text": "Sie erinnert an eine Sage: Als die Gallier Rom plünderten, sollen Gänse auf dem Kapitol laut geschnattert haben.",
+   "start": 14.762,
+   "end": 20.26
+  },
+  {
+   "text": "Die Plünderung ist belegt, die Gänse kennen wir nur aus Erzählungen.",
+   "start": 20.5,
+   "end": 23.812
+  }
+ ],
+ "card_leg_legionaer": [
+  {
+   "text": "Miles legionarius.",
+   "start": 0.12,
+   "end": 1.307
+  },
+  {
+   "text": "Der Name bedeutet: Soldat einer Legion.",
+   "start": 1.727,
+   "end": 4.012
+  },
+  {
+   "text": "Das Wort Miles ist lateinisch und bedeutet: Soldat.",
+   "start": 4.252,
+   "end": 7.116
+  },
+  {
+   "text": "Daraus wurde unser Wort Militär.",
+   "start": 7.356,
+   "end": 9.201
+  },
+  {
+   "text": "Wow!",
+   "start": 9.441,
+   "end": 9.909
+  },
+  {
+   "text": "Ein Legionär trug nicht nur Waffen, sondern auch Säge, Hacke und Korb: Römische Soldaten waren auch Bauleute.",
+   "start": 10.249,
+   "end": 15.896
+  },
+  {
+   "text": "Legionäre waren die Soldaten einer römischen Legion.",
+   "start": 16.136,
+   "end": 18.939
+  },
+  {
+   "text": "Sie mussten kämpfen können, aber auch graben, bauen und schwere Lasten tragen.",
+   "start": 19.179,
+   "end": 23.48
+  },
+  {
+   "text": "Mit den fünf Laschen vorn ziehst du diesem Legionär Helm, Panzer, Schwert, Schild und Speer an.",
+   "start": 23.72,
+   "end": 28.529
+  }
+ ],
+ "card_leg_zenturio": [
+  {
+   "text": "Zenturio.",
+   "start": 0.12,
+   "end": 0.868
+  },
+  {
+   "text": "Der Name bedeutet: Anführer einer Hundertschaft.",
+   "start": 1.288,
+   "end": 3.693
+  },
+  {
+   "text": "Das Wort Kohors ist lateinisch und bedeutet: Hof, später ein Truppenteil.",
+   "start": 3.933,
+   "end": 7.634
+  },
+  {
+   "text": "Daraus wurde unser Wort Kohorte.",
+   "start": 7.874,
+   "end": 9.491
+  },
+  {
+   "text": "Wow!",
+   "start": 9.731,
+   "end": 10.198
+  },
+  {
+   "text": "Der Helmbusch quer über dem Helm und der Rangstab zeigten: Hier kommt ein Anführer.",
+   "start": 10.538,
+   "end": 14.634
+  },
+  {
+   "text": "Ein Zenturio führte eine Zenturie, die Hundertschaft.",
+   "start": 14.874,
+   "end": 17.858
+  },
+  {
+   "text": "Zehn Kohorten bildeten eine Legion.",
+   "start": 18.098,
+   "end": 20.093
+  },
+  {
+   "text": "Der Zenturio trug ein Kettenhemd und einen Helm mit quer sitzendem Busch.",
+   "start": 20.333,
+   "end": 24.274
+  },
+  {
+   "text": "In der Hand hielt er einen Stock aus Rebholz als Zeichen seines Ranges.",
+   "start": 24.514,
+   "end": 28.146
+  }
+ ],
+ "card_leg_aquilifer": [
+  {
+   "text": "Aquilifer.",
+   "start": 0.12,
+   "end": 0.918
+  },
+  {
+   "text": "Der Name bedeutet: Adlerträger.",
+   "start": 1.338,
+   "end": 3.244
+  },
+  {
+   "text": "Wow!",
+   "start": 3.484,
+   "end": 3.951
+  },
+  {
+   "text": "Den Adler der Legion zu verlieren, war für die Soldaten eine große Schande.",
+   "start": 4.291,
+   "end": 7.903
+  },
+  {
+   "text": "Der Aquilifer trug den Legionsadler auf einer langen Stange.",
+   "start": 8.143,
+   "end": 11.076
+  },
+  {
+   "text": "Dieses Zeichen gehörte der ganzen Legion.",
+   "start": 11.316,
+   "end": 13.591
+  },
+  {
+   "text": "Wo der Adler hinging, folgten die Soldaten.",
+   "start": 13.831,
+   "end": 15.926
+  }
+ ],
+ "card_leg_pilum": [
+  {
+   "text": "Pilum.",
+   "start": 0.12,
+   "end": 0.699
+  },
+  {
+   "text": "Der Name bedeutet: Wurfspeer.",
+   "start": 1.119,
+   "end": 2.788
+  },
+  {
+   "text": "Wow!",
+   "start": 3.028,
+   "end": 3.496
+  },
+  {
+   "text": "Ein Pilum war fast so lang, wie eine Tür hoch ist: knapp 2 Meter.",
+   "start": 3.836,
+   "end": 7.176
+  },
+  {
+   "text": "Das Pilum ist ein Wurfspeer.",
+   "start": 7.416,
+   "end": 8.944
+  },
+  {
+   "text": "Der lange Schaft ist aus Holz, die Spitze aus Eisen.",
+   "start": 9.184,
+   "end": 12.087
+  },
+  {
+   "text": "Zusammen mit Schild und Schwert gehörte es zur Ausrüstung eines Legionärs.",
+   "start": 12.327,
+   "end": 16.149
+  },
+  {
+   "text": "In diesem Buch sind Waffen nur zum Anschauen da.",
+   "start": 16.389,
+   "end": 18.604
+  }
+ ],
+ "card_leg_gladius": [
+  {
+   "text": "Gladius.",
+   "start": 0.12,
+   "end": 0.769
+  },
+  {
+   "text": "Der Name bedeutet: Schwert.",
+   "start": 1.189,
+   "end": 2.632
+  },
+  {
+   "text": "Wow!",
+   "start": 2.872,
+   "end": 3.339
+  },
+  {
+   "text": "Das berühmte Schwert der Legionäre war kurz: nur etwa 60 Zentimeter lang.",
+   "start": 3.679,
+   "end": 7.73
+  },
+  {
+   "text": "Der Gladius ist das Kurzschwert der Legionäre.",
+   "start": 7.97,
+   "end": 10.634
+  },
+  {
+   "text": "Er steckte in einer Scheide am Gürtel.",
+   "start": 10.874,
+   "end": 12.51
+  },
+  {
+   "text": "Hier ist er nur zum Anschauen da.",
+   "start": 12.75,
+   "end": 14.436
+  },
+  {
+   "text": "Zieh an der Lasche Schwert, dann hängt der Legionär ihn sich um.",
+   "start": 14.676,
+   "end": 17.739
+  }
+ ],
+ "card_leg_scutum": [
+  {
+   "text": "Skutum.",
+   "start": 0.12,
+   "end": 0.828
+  },
+  {
+   "text": "Der Name bedeutet: Schild.",
+   "start": 1.248,
+   "end": 2.745
+  },
+  {
+   "text": "Wow!",
+   "start": 2.985,
+   "end": 3.452
+  },
+  {
+   "text": "Mit vielen Scuta zusammen konnten Soldaten ein Dach aus Schilden bilden.",
+   "start": 3.792,
+   "end": 7.623
+  },
+  {
+   "text": "Das Scutum war der große Schild der Legionäre.",
+   "start": 7.863,
+   "end": 10.308
+  },
+  {
+   "text": "Es war groß und schützte den Körper.",
+   "start": 10.548,
+   "end": 12.374
+  },
+  {
+   "text": "In der Mitte sitzt ein runder Buckel aus Metall.",
+   "start": 12.614,
+   "end": 14.734
+  },
+  {
+   "text": "Mit dem Schieber Schildkröte stellst du viele Schilde zu einem Dach zusammen.",
+   "start": 14.974,
+   "end": 18.456
+  }
+ ],
+ "card_leg_lorica": [
+  {
+   "text": "Lorika segmentata.",
+   "start": 0.12,
+   "end": 1.407
+  },
+  {
+   "text": "Der Name bedeutet: Panzer aus Teilstücken.",
+   "start": 1.827,
+   "end": 3.992
+  },
+  {
+   "text": "Wow!",
+   "start": 4.232,
+   "end": 4.699
+  },
+  {
+   "text": "Der Panzer bestand aus vielen Eisenstreifen und bewegte sich beim Gehen mit.",
+   "start": 5.039,
+   "end": 9.1
+  },
+  {
+   "text": "Der Schienenpanzer schützte Brust, Rücken und Schultern.",
+   "start": 9.34,
+   "end": 12.363
+  },
+  {
+   "text": "Die Streifen aus Eisen sind mit Lederriemen verbunden.",
+   "start": 12.603,
+   "end": 15.606
+  },
+  {
+   "text": "So kann sich der Legionär bücken und die Arme heben.",
+   "start": 15.846,
+   "end": 18.451
+  },
+  {
+   "text": "Aus der Zeit Caesars kennt man diesen Panzer noch nicht.",
+   "start": 18.691,
+   "end": 21.335
+  }
+ ],
+ "card_leg_galea": [
+  {
+   "text": "Galea.",
+   "start": 0.12,
+   "end": 0.619
+  },
+  {
+   "text": "Der Name bedeutet: Helm.",
+   "start": 1.039,
+   "end": 2.555
+  },
+  {
+   "text": "Wow!",
+   "start": 2.795,
+   "end": 3.263
+  },
+  {
+   "text": "Ein Helm schützte mehr als den Kopf: Klappen an den Seiten und hinten deckten Wangen und Nacken.",
+   "start": 3.603,
+   "end": 7.966
+  },
+  {
+   "text": "Der Helm der Legionäre hieß Galea.",
+   "start": 8.206,
+   "end": 10.052
+  },
+  {
+   "text": "Er bestand aus Metall, zum Beispiel aus Eisen oder Bronze.",
+   "start": 10.292,
+   "end": 13.515
+  },
+  {
+   "text": "Unser Helm glänzt wie Bronze.",
+   "start": 13.755,
+   "end": 15.341
+  },
+  {
+   "text": "Neben dem Kopf schützte er auch Wangen und Nacken.",
+   "start": 15.581,
+   "end": 18.167
+  }
+ ],
+ "card_leg_caligae": [
+  {
+   "text": "Kaligä.",
+   "start": 0.12,
+   "end": 0.749
+  },
+  {
+   "text": "Der Name bedeutet: Soldatenstiefel.",
+   "start": 1.169,
+   "end": 3.264
+  },
+  {
+   "text": "Wow!",
+   "start": 3.504,
+   "end": 3.971
+  },
+  {
+   "text": "Kaiser Caligula bekam seinen Spitznamen von diesen Stiefeln: Caligula heißt Stiefelchen.",
+   "start": 4.311,
+   "end": 9.261
+  },
+  {
+   "text": "Die Caligae waren die Schuhe der Legionäre.",
+   "start": 9.501,
+   "end": 11.587
+  },
+  {
+   "text": "Sie waren aus festem Leder, und unter der Sohle steckten Eisennägel.",
+   "start": 11.827,
+   "end": 15.299
+  },
+  {
+   "text": "Auf langen Märschen musste so ein Schuh viel aushalten.",
+   "start": 15.539,
+   "end": 18.322
+  }
+ ],
+ "card_leg_marschgepaeck": [
+  {
+   "text": "Sarkina.",
+   "start": 0.12,
+   "end": 0.828
+  },
+  {
+   "text": "Der Name bedeutet: Bündel, Gepäck.",
+   "start": 1.248,
+   "end": 3.114
+  },
+  {
+   "text": "Wow!",
+   "start": 3.354,
+   "end": 3.821
+  },
+  {
+   "text": "Das Gepäck eines Legionärs wog vermutlich zwischen 20 und 40 Kilogramm.",
+   "start": 4.161,
+   "end": 8.631
+  },
+  {
+   "text": "Das ist viel mehr als ein voller Schulranzen.",
+   "start": 8.871,
+   "end": 11.204
+  },
+  {
+   "text": "Auf dem Marsch trug jeder Legionär sein Gepäck selbst, meist an einer Stange über der Schulter.",
+   "start": 11.444,
+   "end": 15.848
+  },
+  {
+   "text": "Darin steckten Werkzeug zum Bauen, Riemen, Haken und Essen für drei Tage.",
+   "start": 16.088,
+   "end": 20.319
+  },
+  {
+   "text": "Hier siehst du eine Auswahl.",
+   "start": 20.559,
+   "end": 21.876
+  }
+ ],
+ "card_leg_testudo": [
+  {
+   "text": "Testudo.",
+   "start": 0.12,
+   "end": 0.828
+  },
+  {
+   "text": "Der Name bedeutet: Schildkröte.",
+   "start": 1.248,
+   "end": 2.994
+  },
+  {
+   "text": "Das Wort Testudo ist lateinisch und bedeutet: Schildkröte.",
+   "start": 3.234,
+   "end": 6.567
+  },
+  {
+   "text": "So nannten die Römer das Schilddach.",
+   "start": 6.807,
+   "end": 8.473
+  },
+  {
+   "text": "Wow!",
+   "start": 8.713,
+   "end": 9.18
+  },
+  {
+   "text": "Das Schilddach sah aus wie der Panzer einer Schildkröte.",
+   "start": 9.52,
+   "end": 12.074
+  },
+  {
+   "text": "Daher der Name.",
+   "start": 12.314,
+   "end": 13.083
+  },
+  {
+   "text": "Bei der Testudo rückten die Soldaten eng zusammen und hielten die Schilde vor sich und über den Köpfen.",
+   "start": 13.323,
+   "end": 18.641
+  },
+  {
+   "text": "So entstand ein Schilddach.",
+   "start": 18.881,
+   "end": 20.142
+  },
+  {
+   "text": "Es schützte gegen Pfeile und wurde auch bei Belagerungen benutzt.",
+   "start": 20.382,
+   "end": 23.804
+  },
+  {
+   "text": "Schiebe den Schieber Schildkröte und sieh zu.",
+   "start": 24.044,
+   "end": 26.349
+  }
+ ],
+ "card_leg_lager": [
+  {
+   "text": "Kastra.",
+   "start": 0.12,
+   "end": 0.797
+  },
+  {
+   "text": "Der Name bedeutet: Lager.",
+   "start": 1.217,
+   "end": 2.593
+  },
+  {
+   "text": "Wow!",
+   "start": 2.833,
+   "end": 3.3
+  },
+  {
+   "text": "Die Legionäre bauten ihr Lager selbst, mit Hacke, Säge und Korb.",
+   "start": 3.64,
+   "end": 7.242
+  },
+  {
+   "text": "Auf Märschen baute das Heer Lager mit Graben, Wall und Pfählen, meist als Quadrat mit vier Toren.",
+   "start": 7.482,
+   "end": 12.909
+  },
+  {
+   "text": "Drinnen standen die Zelte in langen Reihen, in der Mitte das Zelt des Feldherrn.",
+   "start": 13.149,
+   "end": 17.1
+  },
+  {
+   "text": "Mit dem Regler Lagerbau siehst du, wie es Stück für Stück entsteht.",
+   "start": 17.34,
+   "end": 20.393
+  }
+ ],
+ "card_gans3": [
+  {
+   "text": "Die Gans im Marschlager.",
+   "start": 0.12,
+   "end": 1.407
+  },
+  {
+   "text": "Der Name bedeutet: anser ist das lateinische Wort für Gans.",
+   "start": 1.827,
+   "end": 4.9
+  },
+  {
+   "text": "Wow!",
+   "start": 5.14,
+   "end": 5.607
+  },
+  {
+   "text": "Gefunden!",
+   "start": 5.947,
+   "end": 6.686
+  },
+  {
+   "text": "Diese Gans trägt einen Legionärshelm.",
+   "start": 6.986,
+   "end": 9.011
+  },
+  {
+   "text": "Du hast die Gans hinter dem Zelt in der dritten Reihe gefunden.",
+   "start": 9.251,
+   "end": 12.035
+  },
+  {
+   "text": "Sie hat sich einen Legionärshelm aufgesetzt und tut so, als gehörte sie zur Legion.",
+   "start": 12.275,
+   "end": 16.874
+  },
+  {
+   "text": "Nach der Sage haben Gänse einmal das Kapitol in Rom gerettet.",
+   "start": 17.114,
+   "end": 20.467
+  }
+ ],
+ "card_caesar": [
+  {
+   "text": "Gajus Julius Kaisar.",
+   "start": 0.12,
+   "end": 1.517
+  },
+  {
+   "text": "Der Name bedeutet: Caesar war der Beiname seiner Familie.",
+   "start": 1.937,
+   "end": 4.96
+  },
+  {
+   "text": "Das Wort Kaisar ist lateinisch und bedeutet: Beiname einer römischen Familie.",
+   "start": 5.2,
+   "end": 9.56
+  },
+  {
+   "text": "Daraus wurde unser Wort Kaiser, auch das Wort Zar.",
+   "start": 9.8,
+   "end": 12.414
+  },
+  {
+   "text": "Wow!",
+   "start": 12.654,
+   "end": 13.121
+  },
+  {
+   "text": "Caesar war nie Kaiser, und trotzdem heißt der Kaiser nach ihm.",
+   "start": 13.461,
+   "end": 16.653
+  },
+  {
+   "text": "Auch der Monat Juli ist nach ihm benannt.",
+   "start": 16.893,
+   "end": 19.008
+  },
+  {
+   "text": "Caesar war ein römischer Feldherr und eroberte in acht Jahren Gallien.",
+   "start": 19.248,
+   "end": 23.039
+  },
+  {
+   "text": "49 vor Christus führte er sein Heer über den Rubikon, und es kam zum Bürgerkrieg.",
+   "start": 23.279,
+   "end": 28.009
+  },
+  {
+   "text": "Er wurde sehr mächtig, war aber nie Kaiser.",
+   "start": 28.249,
+   "end": 30.503
+  },
+  {
+   "text": "Am 15. März 44 vor Christus wurde er von Gegnern ermordet.",
+   "start": 30.743,
+   "end": 35.203
+  }
+ ],
+ "card_augustus": [
+  {
+   "text": "Augustus.",
+   "start": 0.12,
+   "end": 0.858
+  },
+  {
+   "text": "Der Name bedeutet: der Erhabene, der Ehrwürdige.",
+   "start": 1.278,
+   "end": 3.851
+  },
+  {
+   "text": "Das Wort Prinkeps ist lateinisch und bedeutet: der Erste.",
+   "start": 4.091,
+   "end": 7.463
+  },
+  {
+   "text": "Davon kommt unser Wort Prinz.",
+   "start": 7.703,
+   "end": 9.459
+  },
+  {
+   "text": "Wow!",
+   "start": 9.699,
+   "end": 10.166
+  },
+  {
+   "text": "Nach Caesar heißt der Juli, nach Augustus der August.",
+   "start": 10.506,
+   "end": 13.24
+  },
+  {
+   "text": "Zwei Römer stehen bis heute in unserem Kalender.",
+   "start": 13.48,
+   "end": 16.164
+  },
+  {
+   "text": "Augustus hieß zuerst Octavian und war Caesars Großneffe und Erbe.",
+   "start": 16.404,
+   "end": 20.634
+  },
+  {
+   "text": "Nach den Bürgerkriegen regierte er allein und bekam 27 vor Christus den Titel Augustus.",
+   "start": 20.874,
+   "end": 26.382
+  },
+  {
+   "text": "Er nannte sich aber lieber Princeps, der erste Bürger.",
+   "start": 26.622,
+   "end": 29.535
+  },
+  {
+   "text": "Mit ihm beginnt die Kaiserzeit.",
+   "start": 29.775,
+   "end": 31.357
+  }
+ ],
+ "card_kleopatra": [
+  {
+   "text": "Kleopatra die Siebte.",
+   "start": 0.12,
+   "end": 1.367
+  },
+  {
+   "text": "Der Name bedeutet: griechischer Name, Ruhm des Vaters.",
+   "start": 1.787,
+   "end": 4.77
+  },
+  {
+   "text": "Wow!",
+   "start": 5.01,
+   "end": 5.477
+  },
+  {
+   "text": "Kleopatra war die letzte Herrscherin des alten Ägypten, die wirklich regierte.",
+   "start": 5.817,
+   "end": 9.888
+  },
+  {
+   "text": "Nach ihr herrschten die Römer.",
+   "start": 10.128,
+   "end": 11.458
+  },
+  {
+   "text": "Kleopatra war Königin von Ägypten.",
+   "start": 11.698,
+   "end": 13.644
+  },
+  {
+   "text": "Sie regierte ein reiches Land und verbündete sich mit mächtigen Römern wie Caesar.",
+   "start": 13.884,
+   "end": 18.154
+  },
+  {
+   "text": "Als sie im Jahr 30 vor Christus starb, wurde Ägypten römisch.",
+   "start": 18.394,
+   "end": 21.796
+  },
+  {
+   "text": "Hier trägt sie Diadem und Zepter, wie es einer Herrscherin gehört.",
+   "start": 22.036,
+   "end": 25.219
+  }
+ ],
+ "card_rubikon": [
+  {
+   "text": "Rubikon.",
+   "start": 0.12,
+   "end": 0.798
+  },
+  {
+   "text": "Der Name bedeutet: ein kleiner Grenzfluss in Norditalien.",
+   "start": 1.218,
+   "end": 4.341
+  },
+  {
+   "text": "Wow!",
+   "start": 4.581,
+   "end": 5.049
+  },
+  {
+   "text": "Noch heute sagt man den Rubikon überschreiten, wenn man etwas beginnt und nicht mehr zurück kann.",
+   "start": 5.389,
+   "end": 9.988
+  },
+  {
+   "text": "Der Rubikon war ein kleiner Fluss und galt als Grenze nach Italien.",
+   "start": 10.228,
+   "end": 13.86
+  },
+  {
+   "text": "Ein Feldherr durfte sein Heer nicht über diese Grenze führen.",
+   "start": 14.1,
+   "end": 16.923
+  },
+  {
+   "text": "Doch im Jahr 49 vor Christus tat Caesar es trotzdem.",
+   "start": 17.163,
+   "end": 20.646
+  },
+  {
+   "text": "Danach gab es Krieg zwischen ihm und seinen Gegnern in Rom.",
+   "start": 20.886,
+   "end": 24.118
+  }
+ ],
+ "card_denar": [
+  {
+   "text": "Denarius.",
+   "start": 0.12,
+   "end": 0.808
+  },
+  {
+   "text": "Der Name bedeutet: je zehn, der Zehner.",
+   "start": 1.228,
+   "end": 3.354
+  },
+  {
+   "text": "Das Wort Moneta ist lateinisch und bedeutet: Beiname der Göttin Juno.",
+   "start": 3.594,
+   "end": 7.312
+  },
+  {
+   "text": "Aus Juno Moneta wurde unser Wort Münze.",
+   "start": 7.552,
+   "end": 9.9
+  },
+  {
+   "text": "Wow!",
+   "start": 10.14,
+   "end": 10.607
+  },
+  {
+   "text": "Viele Münzen waren wie kleine Plakate: Später ließen Herrscher ihr Gesicht darauf prägen, damit alle sie kannten.",
+   "start": 10.947,
+   "end": 16.534
+  },
+  {
+   "text": "Der Denar war eine kleine Silbermünze.",
+   "start": 16.774,
+   "end": 18.787
+  },
+  {
+   "text": "Man bezahlte damit auf dem Markt, und Soldaten bekamen ihren Sold in Münzen.",
+   "start": 19.027,
+   "end": 23.028
+  },
+  {
+   "text": "Der Münzer legte ein Stück Silber zwischen zwei Stempel und schlug mit dem Hammer zu.",
+   "start": 23.268,
+   "end": 27.169
+  },
+  {
+   "text": "Vorne war oft ein Kopf zu sehen, hinten ein Bild.",
+   "start": 27.409,
+   "end": 30.113
+  }
+ ],
+ "card_lorbeerkranz": [
+  {
+   "text": "Korona laurea.",
+   "start": 0.12,
+   "end": 1.208
+  },
+  {
+   "text": "Der Name bedeutet: Kranz aus Lorbeer.",
+   "start": 1.628,
+   "end": 3.493
+  },
+  {
+   "text": "Wow!",
+   "start": 3.733,
+   "end": 4.2
+  },
+  {
+   "text": "Wer sich auf seinen Lorbeeren ausruht, ruht sich auf einem alten Erfolg aus.",
+   "start": 4.54,
+   "end": 7.983
+  },
+  {
+   "text": "Der Spruch kommt vom Lorbeerkranz der Sieger.",
+   "start": 8.223,
+   "end": 10.547
+  },
+  {
+   "text": "Der Lorbeer war für die Römer ein Zeichen für Sieg und Ehre.",
+   "start": 10.787,
+   "end": 13.85
+  },
+  {
+   "text": "Siegreiche Feldherren trugen bei ihrem Triumph einen Lorbeerkranz.",
+   "start": 14.09,
+   "end": 17.443
+  },
+  {
+   "text": "Auch Augustus wird oft mit Lorbeer gezeigt.",
+   "start": 17.683,
+   "end": 20.008
+  },
+  {
+   "text": "Wenn du die Lasche ziehst, bringt ihm ein Senator den Kranz.",
+   "start": 20.248,
+   "end": 23.081
+  }
+ ],
+ "card_gans4": [
+  {
+   "text": "Anser.",
+   "start": 0.12,
+   "end": 0.529
+  },
+  {
+   "text": "Der Name bedeutet: anser ist das lateinische Wort für Gans.",
+   "start": 0.949,
+   "end": 4.022
+  },
+  {
+   "text": "Wow!",
+   "start": 4.262,
+   "end": 4.729
+  },
+  {
+   "text": "Der Lorbeerkranz war in Rom ein Zeichen für Sieg.",
+   "start": 5.069,
+   "end": 7.723
+  },
+  {
+   "text": "Du hast die Gans gefunden, also gehört der Kranz ihr!",
+   "start": 7.963,
+   "end": 10.471
+  },
+  {
+   "text": "Gefunden!",
+   "start": 10.771,
+   "end": 11.509
+  },
+  {
+   "text": "Die Gans hat sich in der Münzwerkstatt versteckt, genau unter dem Stapel mit den Denaren.",
+   "start": 11.809,
+   "end": 16.109
+  },
+  {
+   "text": "Auf dem Kopf trägt sie einen Lorbeerkranz wie Augustus.",
+   "start": 16.349,
+   "end": 19.133
+  },
+  {
+   "text": "Bei dem Lärm der Hämmer hat sie wohl noch niemand bemerkt.",
+   "start": 19.373,
+   "end": 21.877
+  }
+ ],
+ "card_h_kolosseum": [
+  {
+   "text": "Amfitheatrum Flavium.",
+   "start": 0.12,
+   "end": 1.467
+  },
+  {
+   "text": "Der Name bedeutet: Theater mit Sitzen ringsum, gebaut von den Flavier-Kaisern.",
+   "start": 1.887,
+   "end": 6.019
+  },
+  {
+   "text": "Das Wort Kolossus ist lateinisch und bedeutet: Riesenstatue.",
+   "start": 6.259,
+   "end": 9.761
+  },
+  {
+   "text": "Daraus wurde unser Wort Koloss.",
+   "start": 10.001,
+   "end": 11.717
+  },
+  {
+   "text": "Wow!",
+   "start": 11.957,
+   "end": 12.424
+  },
+  {
+   "text": "Das Kolosseum hieß eigentlich ganz anders, und seinen heutigen Namen verdankt es vermutlich einer Riesenstatue, die daneben stand.",
+   "start": 12.764,
+   "end": 19.658
+  },
+  {
+   "text": "Das Kolosseum ist ein Amphitheater, ein Oval aus Stein mit Sitzreihen rundherum.",
+   "start": 19.898,
+   "end": 24.308
+  },
+  {
+   "text": "Gebaut wurde es ab etwa 72 nach Christus, eröffnet wurde es im Jahr 80.",
+   "start": 24.548,
+   "end": 29.23
+  },
+  {
+   "text": "Es hat drei Reihen mit Bögen und oben ein weiteres Geschoss.",
+   "start": 29.47,
+   "end": 32.702
+  },
+  {
+   "text": "Hier sahen die Menschen Vorführungen und Spiele, mehr dazu erfährst du, wenn du auf die Arena tippst.",
+   "start": 32.942,
+   "end": 37.981
+  }
+ ],
+ "card_h_arena": [
+  {
+   "text": "Harena.",
+   "start": 0.12,
+   "end": 0.779
+  },
+  {
+   "text": "Der Name bedeutet: Sand.",
+   "start": 1.199,
+   "end": 2.635
+  },
+  {
+   "text": "Das Wort Harena ist lateinisch und bedeutet: Sand.",
+   "start": 2.875,
+   "end": 5.669
+  },
+  {
+   "text": "Der Boden im Kolosseum war mit Sand bedeckt.",
+   "start": 5.909,
+   "end": 8.184
+  },
+  {
+   "text": "Daraus wurde unser Wort Arena.",
+   "start": 8.424,
+   "end": 9.97
+  },
+  {
+   "text": "Wow!",
+   "start": 10.21,
+   "end": 10.677
+  },
+  {
+   "text": "Das Wort Arena heißt im Lateinischen einfach nur Sand.",
+   "start": 11.017,
+   "end": 13.971
+  },
+  {
+   "text": "In der Arena fanden Vorführungen vor Publikum statt.",
+   "start": 14.211,
+   "end": 17.074
+  },
+  {
+   "text": "Es gab hier aber auch Kämpfe auf Leben und Tod, bei denen Menschen starben, und Jagden auf Tiere.",
+   "start": 17.314,
+   "end": 22.253
+  },
+  {
+   "text": "Kämpfen mussten oft Sklaven, Kriegsgefangene und Verurteilte, manche Gladiatoren meldeten sich auch freiwillig.",
+   "start": 22.493,
+   "end": 28.779
+  },
+  {
+   "text": "Dieses Buch zeigt solche Kämpfe nicht, aber sie gehören zur Geschichte des Kolosseums.",
+   "start": 29.019,
+   "end": 33.339
+  }
+ ],
+ "card_h_velarium": [
+  {
+   "text": "Velarium.",
+   "start": 0.12,
+   "end": 0.908
+  },
+  {
+   "text": "Der Name bedeutet: Sonnensegel.",
+   "start": 1.328,
+   "end": 3.164
+  },
+  {
+   "text": "Wow!",
+   "start": 3.404,
+   "end": 3.871
+  },
+  {
+   "text": "Das riesige Sonnensegel wurde von Seeleuten bedient, so wie auf einem Schiff.",
+   "start": 4.211,
+   "end": 8.013
+  },
+  {
+   "text": "Im Sommer brannte die Sonne auf die Sitzreihen.",
+   "start": 8.253,
+   "end": 10.448
+  },
+  {
+   "text": "Darum spannte man ein riesiges Sonnensegel über die Zuschauerränge.",
+   "start": 10.688,
+   "end": 14.06
+  },
+  {
+   "text": "Es hing an Masten rund um den oberen Rand.",
+   "start": 14.3,
+   "end": 16.315
+  },
+  {
+   "text": "Seeleute zogen es mit Seilen auf, so saßen die Zuschauer im Schatten.",
+   "start": 16.555,
+   "end": 20.127
+  }
+ ],
+ "card_h_pantheon": [
+  {
+   "text": "Pantheon.",
+   "start": 0.12,
+   "end": 0.699
+  },
+  {
+   "text": "Der Name bedeutet: Tempel für alle Götter.",
+   "start": 1.119,
+   "end": 3.324
+  },
+  {
+   "text": "Wow!",
+   "start": 3.564,
+   "end": 4.031
+  },
+  {
+   "text": "Die riesige Kuppel ist innen etwa 43 Meter breit, und durch das offene Loch oben fällt das Licht herein.",
+   "start": 4.371,
+   "end": 10.337
+  },
+  {
+   "text": "Das Pantheon war ein Tempel für viele Götter.",
+   "start": 10.577,
+   "end": 12.683
+  },
+  {
+   "text": "Vorne hat es einen Säulengang mit Giebel, dahinter ein Rund mit einer riesigen Kuppel aus Beton.",
+   "start": 12.923,
+   "end": 17.382
+  },
+  {
+   "text": "Oben in der Kuppel ist ein offenes Loch, der Oculus.",
+   "start": 17.622,
+   "end": 20.496
+  },
+  {
+   "text": "Das Pantheon steht noch heute in Rom.",
+   "start": 20.736,
+   "end": 22.861
+  }
+ ],
+ "card_h_trajanssaeule": [
+  {
+   "text": "Kolumna Trajani.",
+   "start": 0.12,
+   "end": 1.247
+  },
+  {
+   "text": "Der Name bedeutet: Säule des Kaisers Trajan.",
+   "start": 1.667,
+   "end": 4.142
+  },
+  {
+   "text": "Wow!",
+   "start": 4.382,
+   "end": 4.849
+  },
+  {
+   "text": "Die Bilder auf der Säule erzählen eine ganze Geschichte, wie ein Comic aus Stein.",
+   "start": 5.189,
+   "end": 9.14
+  },
+  {
+   "text": "Kaiser Trajan ließ die Säule als Siegesdenkmal bauen.",
+   "start": 9.38,
+   "end": 12.403
+  },
+  {
+   "text": "Ein Bilderband windet sich in einer Spirale um den Schaft nach oben.",
+   "start": 12.643,
+   "end": 16.105
+  },
+  {
+   "text": "Es erzählt von seinen Kriegen gegen die Daker, die im Gebiet des heutigen Rumänien lebten.",
+   "start": 16.345,
+   "end": 21.015
+  },
+  {
+   "text": "Nach dem Sieg wurde Dakien eine römische Provinz.",
+   "start": 21.255,
+   "end": 24.038
+  }
+ ],
+ "card_h_forum": [
+  {
+   "text": "Forum Romanum.",
+   "start": 0.12,
+   "end": 1.208
+  },
+  {
+   "text": "Der Name bedeutet: der römische Marktplatz.",
+   "start": 1.628,
+   "end": 3.942
+  },
+  {
+   "text": "Das Wort Forum ist lateinisch und bedeutet: Marktplatz.",
+   "start": 4.182,
+   "end": 7.265
+  },
+  {
+   "text": "Daraus wurde unser Wort Forum, ein Ort zum Reden und Austauschen.",
+   "start": 7.505,
+   "end": 11.147
+  },
+  {
+   "text": "Wow!",
+   "start": 11.387,
+   "end": 11.854
+  },
+  {
+   "text": "Auf dem Forum konnte man am selben Tag einkaufen, einer Gerichtsverhandlung zuhören und eine Rede erleben.",
+   "start": 12.194,
+   "end": 17.762
+  },
+  {
+   "text": "Das Forum Romanum war der wichtigste öffentliche Platz in Rom.",
+   "start": 18.002,
+   "end": 21.375
+  },
+  {
+   "text": "Hier trafen sich die Menschen zu Versammlungen, vor Gericht und beim Einkaufen.",
+   "start": 21.615,
+   "end": 25.7
+  },
+  {
+   "text": "Rund um den Platz standen Läden und Tempel.",
+   "start": 25.94,
+   "end": 28.365
+  },
+  {
+   "text": "Im Buch siehst du nur einen kleinen, vereinfachten Teil.",
+   "start": 28.605,
+   "end": 31.436
+  }
+ ],
+ "card_h_marktstand": [
+  {
+   "text": "Der Marktstand.",
+   "start": 0.12,
+   "end": 1.018
+  },
+  {
+   "text": "Der Name bedeutet: hier wird verkauft.",
+   "start": 1.438,
+   "end": 3.483
+  },
+  {
+   "text": "Wow!",
+   "start": 3.723,
+   "end": 4.191
+  },
+  {
+   "text": "Dank der Straßen und Schiffe kamen Waren aus dem ganzen Reich nach Rom.",
+   "start": 4.531,
+   "end": 8.152
+  },
+  {
+   "text": "Auf dem Markt am Forum gab es Obst, Gemüse, Krüge und Stoffe.",
+   "start": 8.392,
+   "end": 12.254
+  },
+  {
+   "text": "Die Händler priesen ihre Waren an, und man feilschte um den Preis.",
+   "start": 12.494,
+   "end": 15.945
+  },
+  {
+   "text": "Bezahlt wurde mit Münzen.",
+   "start": 16.185,
+   "end": 17.622
+  },
+  {
+   "text": "Viele Waren kamen aus fernen Teilen des Reiches.",
+   "start": 17.862,
+   "end": 20.416
+  }
+ ],
+ "card_h_saenfte": [
+  {
+   "text": "Lektika.",
+   "start": 0.12,
+   "end": 0.878
+  },
+  {
+   "text": "Der Name bedeutet: Trage, kleine Liege.",
+   "start": 1.298,
+   "end": 3.386
+  },
+  {
+   "text": "Wow!",
+   "start": 3.626,
+   "end": 4.093
+  },
+  {
+   "text": "In Rom war es richtig voll, denn hier lebten vermutlich eine halbe bis eine Million Menschen.",
+   "start": 4.433,
+   "end": 9.631
+  },
+  {
+   "text": "Wohlhabende Römer ließen sich in einer Sänfte durch die Stadt tragen.",
+   "start": 9.871,
+   "end": 13.224
+  },
+  {
+   "text": "In den engen, vollen Straßen war das bequemer als zu Fuß zu gehen.",
+   "start": 13.464,
+   "end": 16.685
+  },
+  {
+   "text": "Die Träger waren meist Sklaven.",
+   "start": 16.925,
+   "end": 18.611
+  },
+  {
+   "text": "Sklaverei war ein fester Teil der römischen Gesellschaft: Sklaven gehörten ihren Besitzern und konnten nicht frei über ihr Leben entscheiden.",
+   "start": 18.851,
+   "end": 25.905
+  }
+ ],
+ "card_h_meilenstein": [
+  {
+   "text": "Miliarium.",
+   "start": 0.12,
+   "end": 0.918
+  },
+  {
+   "text": "Der Name bedeutet: Stein für die Meilen.",
+   "start": 1.338,
+   "end": 3.623
+  },
+  {
+   "text": "Das Wort Mille passus ist lateinisch und bedeutet: tausend Doppelschritte.",
+   "start": 3.863,
+   "end": 7.634
+  },
+  {
+   "text": "Daraus wurde unsere Meile.",
+   "start": 7.874,
+   "end": 9.301
+  },
+  {
+   "text": "Wow!",
+   "start": 9.541,
+   "end": 10.008
+  },
+  {
+   "text": "Der Weg nach Rom war mit Steinen markiert, die den Reisenden sagten, wie weit es noch ist.",
+   "start": 10.348,
+   "end": 14.689
+  },
+  {
+   "text": "An römischen Straßen standen Steine, die Entfernungen angaben.",
+   "start": 14.929,
+   "end": 18.391
+  },
+  {
+   "text": "Das Wort Meile kommt von mille passus, tausend Doppelschritte.",
+   "start": 18.631,
+   "end": 21.694
+  },
+  {
+   "text": "So einen Stein hast du schon auf der Titelseite gesehen, dort als Goldenen Meilenstein mit Zeitrad.",
+   "start": 21.934,
+   "end": 27.082
+  },
+  {
+   "text": "Viele Hauptstraßen liefen auf Rom zu.",
+   "start": 27.322,
+   "end": 29.507
+  },
+  {
+   "text": "Daher sagt man bis heute: Alle Wege führen nach Rom.",
+   "start": 29.747,
+   "end": 32.531
+  }
+ ],
+ "card_h_reichskarte": [
+  {
+   "text": "Imperium Romanum.",
+   "start": 0.12,
+   "end": 1.457
+  },
+  {
+   "text": "Der Name bedeutet: Herrschaftsgebiet der Römer.",
+   "start": 1.877,
+   "end": 4.311
+  },
+  {
+   "text": "Wow!",
+   "start": 4.551,
+   "end": 5.019
+  },
+  {
+   "text": "Das Reich war damals etwa 14-mal so groß wie das heutige Deutschland.",
+   "start": 5.359,
+   "end": 9.034
+  },
+  {
+   "text": "Unter Kaiser Trajan wurde das Reich so groß wie nie zuvor.",
+   "start": 9.274,
+   "end": 12.506
+  },
+  {
+   "text": "Es reichte von Britannien bis zum Euphrat.",
+   "start": 12.746,
+   "end": 15.131
+  },
+  {
+   "text": "Im Inneren war es vergleichsweise friedlich, diese Zeit nennt man Pax Romana, römischen Frieden.",
+   "start": 15.371,
+   "end": 20.469
+  },
+  {
+   "text": "Auf der Karte siehst du das Reich, wie es um das Jahr 117 aussah.",
+   "start": 20.709,
+   "end": 24.374
+  }
+ ],
+ "card_h_rom": [
+  {
+   "text": "Roma.",
+   "start": 0.12,
+   "end": 0.674
+  },
+  {
+   "text": "Der Name bedeutet: die Hauptstadt des Reiches.",
+   "start": 1.094,
+   "end": 3.279
+  },
+  {
+   "text": "Wow!",
+   "start": 3.519,
+   "end": 3.986
+  },
+  {
+   "text": "Vermutlich lebten in Rom zwischen 450.000 und einer Million Menschen, genau weiß das niemand.",
+   "start": 4.326,
+   "end": 10.402
+  },
+  {
+   "text": "Rom war die Hauptstadt des Reiches und eine riesige Stadt.",
+   "start": 10.642,
+   "end": 13.805
+  },
+  {
+   "text": "Vermutlich lebten hier eine halbe bis eine Million Menschen.",
+   "start": 14.045,
+   "end": 17.338
+  },
+  {
+   "text": "Genau weiß das niemand, denn aus dieser Zeit gibt es keine sicheren Zahlen.",
+   "start": 17.578,
+   "end": 21.277
+  },
+  {
+   "text": "Reiche und Arme, Freie und Sklaven wohnten dicht beieinander.",
+   "start": 21.517,
+   "end": 25.238
+  }
+ ],
+ "card_gans5": [
+  {
+   "text": "Gans mit Reisehut.",
+   "start": 0.12,
+   "end": 1.267
+  },
+  {
+   "text": "Der Name bedeutet: Gans.",
+   "start": 1.687,
+   "end": 3.144
+  },
+  {
+   "text": "Wow!",
+   "start": 3.384,
+   "end": 3.851
+  },
+  {
+   "text": "Der Sage nach haben Gänse einmal Rom gerettet, weil sie laut schnatterten.",
+   "start": 4.191,
+   "end": 7.763
+  },
+  {
+   "text": "Du hast die Gans vom Forum gefunden!",
+   "start": 8.003,
+   "end": 9.799
+  },
+  {
+   "text": "Sie sitzt auf dem Marktstand und trägt einen Reisehut, denn auf Roms Straßen war immer viel los.",
+   "start": 10.099,
+   "end": 15.416
+  },
+  {
+   "text": "Nach der Sage warnten Gänse auf dem Kapitol die Römer vor einem nächtlichen Überfall der Gallier.",
+   "start": 15.656,
+   "end": 20.605
+  },
+  {
+   "text": "Ob es wirklich so war, weiß man nicht.",
+   "start": 20.845,
+   "end": 22.92
+  }
+ ],
+ "card_kind": [
+  {
+   "text": "Tabula kerata.",
+   "start": 0.12,
+   "end": 1.258
+  },
+  {
+   "text": "Der Name bedeutet: Wachstafel.",
+   "start": 1.678,
+   "end": 3.369
+  },
+  {
+   "text": "Das Wort Schola ist lateinisch und bedeutet: freie Zeit, Muße.",
+   "start": 3.609,
+   "end": 7.191
+  },
+  {
+   "text": "Daraus wurde unser Wort Schule.",
+   "start": 7.431,
+   "end": 8.917
+  },
+  {
+   "text": "Wow!",
+   "start": 9.157,
+   "end": 9.625
+  },
+  {
+   "text": "Aufgeschrieben wurde in Wachs: Mit dem flachen Ende des Griffels konnte man alles wieder glatt streichen.",
+   "start": 9.965,
+   "end": 14.857
+  },
+  {
+   "text": "Ob ein Kind zur Schule ging, hing vom Stand und vom Geld der Familie ab.",
+   "start": 15.097,
+   "end": 18.612
+  },
+  {
+   "text": "Die Schulen waren privat, und man musste Schulgeld zahlen.",
+   "start": 18.852,
+   "end": 21.845
+  },
+  {
+   "text": "Arme Familien konnten das Schulgeld oft nicht zahlen, und Mädchen gingen seltener zur Schule.",
+   "start": 22.085,
+   "end": 26.865
+  },
+  {
+   "text": "Manche Mädchen lernten aber doch Lesen und Schreiben.",
+   "start": 27.105,
+   "end": 29.569
+  }
+ ],
+ "card_wachstafel": [
+  {
+   "text": "Stilus.",
+   "start": 0.12,
+   "end": 0.709
+  },
+  {
+   "text": "Der Name bedeutet: Griffel.",
+   "start": 1.129,
+   "end": 2.696
+  },
+  {
+   "text": "Wow!",
+   "start": 2.936,
+   "end": 3.403
+  },
+  {
+   "text": "Römische Zahlen sind Striche und Buchstaben: I ist eins, V ist fünf, X ist zehn.",
+   "start": 3.743,
+   "end": 8.522
+  },
+  {
+   "text": "Mit dem Regler Schultag schreibt der Griffel Zahlen ins Wachs.",
+   "start": 8.762,
+   "end": 11.852
+  },
+  {
+   "text": "Ein kleiner Strich vor einer größeren Zahl wird abgezogen: IV heißt vier.",
+   "start": 12.092,
+   "end": 16.472
+  },
+  {
+   "text": "Man schrieb aber auch IIII.",
+   "start": 16.712,
+   "end": 18.159
+  },
+  {
+   "text": "Beide Schreibweisen waren üblich.",
+   "start": 18.399,
+   "end": 20.055
+  }
+ ],
+ "card_baecker": [
+  {
+   "text": "Pistor.",
+   "start": 0.12,
+   "end": 0.689
+  },
+  {
+   "text": "Der Name bedeutet: Bäcker (eigentlich: Müller, Stampfer).",
+   "start": 1.109,
+   "end": 4.082
+  },
+  {
+   "text": "Wow!",
+   "start": 4.322,
+   "end": 4.789
+  },
+  {
+   "text": "In Pompeji gab es viele Bäckereien.",
+   "start": 5.129,
+   "end": 7.125
+  },
+  {
+   "text": "Das Brot war ein wichtiges Essen für fast alle.",
+   "start": 7.365,
+   "end": 9.6
+  },
+  {
+   "text": "In der Bäckerei wurde Teig geknetet und Brot im Ofen gebacken.",
+   "start": 9.84,
+   "end": 13.381
+  },
+  {
+   "text": "In vielen Betrieben arbeiteten auch Sklaven.",
+   "start": 13.621,
+   "end": 15.966
+  },
+  {
+   "text": "Sie waren nicht frei und bekamen oft keinen Lohn.",
+   "start": 16.206,
+   "end": 18.77
+  },
+  {
+   "text": "Das gehörte zum Alltag in römischen Städten.",
+   "start": 19.01,
+   "end": 21.295
+  }
+ ],
+ "card_haendler": [
+  {
+   "text": "Taberna.",
+   "start": 0.12,
+   "end": 0.729
+  },
+  {
+   "text": "Der Name bedeutet: Bude, Laden.",
+   "start": 1.149,
+   "end": 2.865
+  },
+  {
+   "text": "Das Wort Taberna ist lateinisch und bedeutet: Bude, Laden.",
+   "start": 3.105,
+   "end": 6.248
+  },
+  {
+   "text": "Daraus wurde unser Wort Taverne.",
+   "start": 6.488,
+   "end": 8.174
+  },
+  {
+   "text": "Wow!",
+   "start": 8.414,
+   "end": 8.881
+  },
+  {
+   "text": "Tagsüber stand die ganze Vorderseite des Ladens offen, wie ein riesiges Schaufenster.",
+   "start": 9.221,
+   "end": 13.591
+  },
+  {
+   "text": "Tabernae lagen dicht an dicht an der Straße.",
+   "start": 13.831,
+   "end": 15.996
+  },
+  {
+   "text": "Tagsüber waren sie weit offen, die Waren standen auf einer Theke.",
+   "start": 16.236,
+   "end": 19.519
+  },
+  {
+   "text": "Nachts schloss man sie mit Holzbrettern.",
+   "start": 19.759,
+   "end": 21.624
+  },
+  {
+   "text": "Auch Handwerker wie Schmiede arbeiteten in solchen Läden.",
+   "start": 21.864,
+   "end": 24.728
+  }
+ ],
+ "card_imbiss": [
+  {
+   "text": "Termopolium.",
+   "start": 0.12,
+   "end": 0.998
+  },
+  {
+   "text": "Der Name bedeutet: Ort, an dem Warmes verkauft wird.",
+   "start": 1.418,
+   "end": 3.912
+  },
+  {
+   "text": "Wow!",
+   "start": 4.152,
+   "end": 4.62
+  },
+  {
+   "text": "Das war das Fast Food der Römer: schnell etwas Warmes und gleich weitergehen.",
+   "start": 4.96,
+   "end": 8.871
+  },
+  {
+   "text": "Viele Menschen hatten zu Hause keine eigene Küche.",
+   "start": 9.111,
+   "end": 11.864
+  },
+  {
+   "text": "Darum aßen sie am Imbiss.",
+   "start": 12.104,
+   "end": 13.571
+  },
+  {
+   "text": "Die Speisen standen in großen Tongefäßen, die in die Theke eingelassen waren.",
+   "start": 13.811,
+   "end": 17.752
+  },
+  {
+   "text": "Bemalt war die Theke mit bunten Bildern.",
+   "start": 17.992,
+   "end": 20.018
+  }
+ ],
+ "card_haus": [
+  {
+   "text": "Atrium und Impluvium.",
+   "start": 0.12,
+   "end": 1.577
+  },
+  {
+   "text": "Der Name bedeutet: Haupthof und Regenbecken.",
+   "start": 1.997,
+   "end": 4.341
+  },
+  {
+   "text": "Wow!",
+   "start": 4.581,
+   "end": 5.049
+  },
+  {
+   "text": "Das Dach hatte eine Öffnung: So kam Licht in den Hof, und der Regen füllte das Becken.",
+   "start": 5.389,
+   "end": 9.325
+  },
+  {
+   "text": "Reiche Familien wohnten in Häusern mit einem Hof in der Mitte.",
+   "start": 9.565,
+   "end": 12.798
+  },
+  {
+   "text": "Rings um den Hof lagen die Zimmer.",
+   "start": 13.038,
+   "end": 14.794
+  },
+  {
+   "text": "Das Wasser aus dem Becken konnte man im Haus benutzen.",
+   "start": 15.034,
+   "end": 17.493
+  },
+  {
+   "text": "Von der Straße aus sah man nur eine schlichte Mauer.",
+   "start": 17.733,
+   "end": 20.327
+  }
+ ],
+ "card_trittsteine": [
+  {
+   "text": "Lapides.",
+   "start": 0.12,
+   "end": 0.739
+  },
+  {
+   "text": "Der Name bedeutet: Steine.",
+   "start": 1.159,
+   "end": 2.655
+  },
+  {
+   "text": "Wow!",
+   "start": 2.895,
+   "end": 3.362
+  },
+  {
+   "text": "Die Räder der Karren passten genau durch die Lücken zwischen den Steinen.",
+   "start": 3.702,
+   "end": 6.925
+  },
+  {
+   "text": "In den Straßen von Pompeji lief bei Regen oft Wasser, und manchmal auch Schmutz.",
+   "start": 7.165,
+   "end": 11.366
+  },
+  {
+   "text": "Darum legte man hohe Steine quer über die Straße.",
+   "start": 11.606,
+   "end": 14.25
+  },
+  {
+   "text": "Fußgänger hüpften von Stein zu Stein, Wagen fuhren durch die Lücken.",
+   "start": 14.49,
+   "end": 17.993
+  }
+ ],
+ "card_thermen": [
+  {
+   "text": "Terme.",
+   "start": 0.12,
+   "end": 0.659
+  },
+  {
+   "text": "Der Name bedeutet: warme Bäder.",
+   "start": 1.079,
+   "end": 2.964
+  },
+  {
+   "text": "Wow!",
+   "start": 3.204,
+   "end": 3.672
+  },
+  {
+   "text": "Die Thermen waren Bad, Treffpunkt und Sportplatz in einem.",
+   "start": 4.012,
+   "end": 7.344
+  },
+  {
+   "text": "In den Thermen traf man Freunde und badete.",
+   "start": 7.584,
+   "end": 10.108
+  },
+  {
+   "text": "Eine übliche Reihenfolge war: erst lauwarm, dann heiß, zum Schluss kalt.",
+   "start": 10.348,
+   "end": 14.24
+  },
+  {
+   "text": "Die Reihenfolge war aber nicht überall gleich.",
+   "start": 14.48,
+   "end": 16.685
+  }
+ ],
+ "card_brunnen": [
+  {
+   "text": "Fons.",
+   "start": 0.12,
+   "end": 0.629
+  },
+  {
+   "text": "Der Name bedeutet: Quelle, Brunnen.",
+   "start": 1.049,
+   "end": 2.855
+  },
+  {
+   "text": "Wow!",
+   "start": 3.095,
+   "end": 3.562
+  },
+  {
+   "text": "Nicht jedes Haus hatte fließendes Wasser, darum standen Brunnen an der Straße.",
+   "start": 3.902,
+   "end": 7.893
+  },
+  {
+   "text": "An vielen Ecken stand ein Brunnen mit einem steinernen Becken.",
+   "start": 8.133,
+   "end": 11.106
+  },
+  {
+   "text": "Man holte Wasser für Küche und Haushalt.",
+   "start": 11.346,
+   "end": 13.561
+  },
+  {
+   "text": "Der Brunnen war auch ein Treffpunkt, ein bisschen wie heute eine Bank oder ein Spielplatz.",
+   "start": 13.801,
+   "end": 18.051
+  }
+ ],
+ "card_hund": [
+  {
+   "text": "Kave kanem.",
+   "start": 0.12,
+   "end": 0.998
+  },
+  {
+   "text": "Der Name bedeutet: Hüte dich vor dem Hund.",
+   "start": 1.418,
+   "end": 3.314
+  },
+  {
+   "text": "Wow!",
+   "start": 3.554,
+   "end": 4.021
+  },
+  {
+   "text": "Schon vor fast 2.000 Jahren gab es das Schild Vorsicht, bissiger Hund, nur eben aus Steinchen.",
+   "start": 4.361,
+   "end": 9.719
+  },
+  {
+   "text": "Im Eingang eines Hauses in Pompeji liegt ein Mosaik.",
+   "start": 9.959,
+   "end": 12.982
+  },
+  {
+   "text": "Es zeigt einen Hund an der Kette.",
+   "start": 13.222,
+   "end": 14.938
+  },
+  {
+   "text": "Darunter steht die Warnung.",
+   "start": 15.178,
+   "end": 16.465
+  },
+  {
+   "text": "Besucher sollten sich in Acht nehmen.",
+   "start": 16.705,
+   "end": 18.661
+  },
+  {
+   "text": "Unser Bild ist eine eigene Zeichnung im Stil dieses Mosaiks.",
+   "start": 18.901,
+   "end": 22.153
+  }
+ ],
+ "card_graffiti": [
+  {
+   "text": "Grafiti.",
+   "start": 0.12,
+   "end": 0.928
+  },
+  {
+   "text": "Der Name bedeutet: eingeritzte Schrift (italienisch: graffiare, kratzen).",
+   "start": 1.348,
+   "end": 5.418
+  },
+  {
+   "text": "Wow!",
+   "start": 5.658,
+   "end": 6.125
+  },
+  {
+   "text": "Die Menschen in Pompeji haben mit dem Griffel an die Wand geschrieben, genau wie manche heute.",
+   "start": 6.465,
+   "end": 10.775
+  },
+  {
+   "text": "An vielen Wänden stehen kurze Botschaften.",
+   "start": 11.015,
+   "end": 13.34
+  },
+  {
+   "text": "Man grüßte Freunde, machte Witze oder warb für einen Kandidaten bei der Wahl.",
+   "start": 13.58,
+   "end": 17.611
+  },
+  {
+   "text": "Der Spruch hier heißt sinngemäß: Gaius war hier.",
+   "start": 17.851,
+   "end": 20.465
+  },
+  {
+   "text": "Das Brot schmeckt!",
+   "start": 20.705,
+   "end": 21.633
+  }
+ ],
+ "card_vesuv": [
+  {
+   "text": "Mons Wesuwius.",
+   "start": 0.12,
+   "end": 1.018
+  },
+  {
+   "text": "Der Name bedeutet: der Berg Vesuv.",
+   "start": 1.438,
+   "end": 3.433
+  },
+  {
+   "text": "Wow!",
+   "start": 3.673,
+   "end": 4.141
+  },
+  {
+   "text": "Weil das Leben hier 79 nach Christus endete, wissen wir heute so viel über den Alltag der Römer.",
+   "start": 4.481,
+   "end": 9.888
+  },
+  {
+   "text": "Auf deinem Bild ist der Berg ruhig.",
+   "start": 10.128,
+   "end": 11.575
+  },
+  {
+   "text": "Bis zum Jahr 79 nach Christus kennen wir das Leben in Pompeji.",
+   "start": 11.815,
+   "end": 15.816
+  },
+  {
+   "text": "Vieles blieb erhalten, darum können wir es heute erforschen.",
+   "start": 16.056,
+   "end": 19.169
+  }
+ ],
+ "card_gans6": [
+  {
+   "text": "Anser.",
+   "start": 0.12,
+   "end": 0.529
+  },
+  {
+   "text": "Der Name bedeutet: anser ist das lateinische Wort für Gans.",
+   "start": 0.949,
+   "end": 4.022
+  },
+  {
+   "text": "Wow!",
+   "start": 4.262,
+   "end": 4.729
+  },
+  {
+   "text": "Sie watschelt im Hof des Hauses herum, gleich neben dem Regenbecken.",
+   "start": 5.069,
+   "end": 8.412
+  },
+  {
+   "text": "Gänse waren Hoftiere.",
+   "start": 8.652,
+   "end": 9.839
+  },
+  {
+   "text": "Nach einer Sage haben Gänse einst das Kapitol in Rom gerettet, weil sie Lärm schlugen.",
+   "start": 10.079,
+   "end": 14.479
+  },
+  {
+   "text": "Die Gans hier trägt ein rotes Kopftuch und passt auf den Hof auf.",
+   "start": 14.719,
+   "end": 18.091
+  }
+ ],
+ "card_aquaedukt": [
+  {
+   "text": "Akwäduktus.",
+   "start": 0.12,
+   "end": 0.988
+  },
+  {
+   "text": "Der Name bedeutet: Wasserleitung (Wasser führen).",
+   "start": 1.408,
+   "end": 4.072
+  },
+  {
+   "text": "Das Wort akwa plus dukere ist lateinisch und bedeutet: Wasser + führen.",
+   "start": 4.312,
+   "end": 8.223
+  },
+  {
+   "text": "Daraus wurde Aquädukt.",
+   "start": 8.463,
+   "end": 9.77
+  },
+  {
+   "text": "Wow!",
+   "start": 10.01,
+   "end": 10.477
+  },
+  {
+   "text": "Das Wasser floss nur bergab, ohne Pumpe.",
+   "start": 10.817,
+   "end": 12.962
+  },
+  {
+   "text": "Bei der Leitung zum Pont du Gard sinkt die Rinne auf 100 Metern nur etwa 3 Zentimeter, das ist weniger als eine Handbreit.",
+   "start": 13.202,
+   "end": 19.408
+  },
+  {
+   "text": "Ein Aquädukt bringt Wasser aus den Bergen in die Stadt.",
+   "start": 19.648,
+   "end": 22.282
+  },
+  {
+   "text": "Die Rinne oben ist nur ganz leicht geneigt, damit das Wasser langsam bergab fließt.",
+   "start": 22.522,
+   "end": 26.563
+  },
+  {
+   "text": "Wo ein Tal im Weg ist, tragen Bögen die Rinne.",
+   "start": 26.803,
+   "end": 29.357
+  },
+  {
+   "text": "Beim Pont du Gard in Frankreich stehen drei Bogenreihen übereinander.",
+   "start": 29.597,
+   "end": 33.388
+  }
+ ],
+ "card_strasse": [
+  {
+   "text": "Wia Strata.",
+   "start": 0.12,
+   "end": 1.008
+  },
+  {
+   "text": "Der Name bedeutet: gepflasterter Weg.",
+   "start": 1.428,
+   "end": 3.374
+  },
+  {
+   "text": "Das Wort wia strata ist lateinisch und bedeutet: gepflasterter Weg.",
+   "start": 3.614,
+   "end": 7.315
+  },
+  {
+   "text": "Daraus wurde Straße.",
+   "start": 7.555,
+   "end": 8.742
+  },
+  {
+   "text": "Wow!",
+   "start": 8.982,
+   "end": 9.45
+  },
+  {
+   "text": "Die Römer hatten schätzungsweise 300.000 Kilometer Straßen.",
+   "start": 9.79,
+   "end": 13.631
+  },
+  {
+   "text": "Wo sie genau verliefen, weiß man nur bei etwa 8.000 Kilometern.",
+   "start": 13.871,
+   "end": 17.792
+  },
+  {
+   "text": "Eine Straße bestand aus mehreren Lagen.",
+   "start": 18.032,
+   "end": 20.257
+  },
+  {
+   "text": "Unten liegen große Steine, darüber Steinbrocken mit Kalk, dann eine feinere Schicht und ganz oben Platten.",
+   "start": 20.497,
+   "end": 25.715
+  },
+  {
+   "text": "Gebaut haben die Straßen Soldaten, Handwerker und Sklaven.",
+   "start": 25.955,
+   "end": 29.018
+  },
+  {
+   "text": "Zieh den Schieber Straßenschichten und bau mit!",
+   "start": 29.258,
+   "end": 31.648
+  }
+ ],
+ "card_tretradkran": [
+  {
+   "text": "Tretradkran.",
+   "start": 0.12,
+   "end": 1.118
+  },
+  {
+   "text": "Der Name bedeutet: Ein Mensch läuft im Rad und hebt die Last.",
+   "start": 1.538,
+   "end": 4.74
+  },
+  {
+   "text": "Wow!",
+   "start": 4.98,
+   "end": 5.448
+  },
+  {
+   "text": "Mit dem Tretrad ließ sich nach Schätzung etwa doppelt so viel heben wie mit einem Flaschenzug mit Winde.",
+   "start": 5.788,
+   "end": 10.906
+  },
+  {
+   "text": "Im Tretradkran läuft ein Mensch im Inneren eines großen Holzrades.",
+   "start": 11.146,
+   "end": 15.173
+  },
+  {
+   "text": "Das Rad dreht eine Welle, das Seil wickelt sich auf, und die Last steigt nach oben.",
+   "start": 15.413,
+   "end": 19.534
+  },
+  {
+   "text": "Solche Kräne gab es auf Baustellen.",
+   "start": 19.774,
+   "end": 21.649
+  },
+  {
+   "text": "Dreh an der Kurbel Tretrad und sieh zu!",
+   "start": 21.889,
+   "end": 24.284
+  }
+ ],
+ "card_moertel": [
+  {
+   "text": "Opus kämentikium.",
+   "start": 0.12,
+   "end": 1.457
+  },
+  {
+   "text": "Der Name bedeutet: römischer Beton.",
+   "start": 1.877,
+   "end": 3.693
+  },
+  {
+   "text": "Wow!",
+   "start": 3.933,
+   "end": 4.4
+  },
+  {
+   "text": "Römischer Beton enthielt Vulkanasche, und manche Bauwerke daraus stehen nach fast 2.000 Jahren noch.",
+   "start": 4.74,
+   "end": 10.427
+  },
+  {
+   "text": "In der Wanne rührt ein Arbeiter Mörtel an.",
+   "start": 10.667,
+   "end": 12.788
+  },
+  {
+   "text": "Dafür braucht er gebrannten Kalk, Vulkanasche und Wasser.",
+   "start": 13.028,
+   "end": 16.031
+  },
+  {
+   "text": "Die Masse wird hart wie Stein.",
+   "start": 16.271,
+   "end": 17.698
+  },
+  {
+   "text": "Mit der Lasche Beton siehst du die Zutaten nacheinander.",
+   "start": 17.938,
+   "end": 20.901
+  }
+ ],
+ "card_kalkkreislauf": [
+  {
+   "text": "Der Kalkkreislauf.",
+   "start": 0.12,
+   "end": 1.277
+  },
+  {
+   "text": "Kalkstein ist Calciumcarbonat, chemisch C a C O drei.",
+   "start": 1.697,
+   "end": 5.369
+  },
+  {
+   "text": "Beim Brennen bei etwa neunhundert Grad Celsius entstehen gebrannter Kalk, C a O, und das Gas Kohlenstoffdioxid, C O zwei.",
+   "start": 5.609,
+   "end": 13.002
+  },
+  {
+   "text": "Beim Löschen reagiert gebrannter Kalk mit Wasser, H zwei O, zu gelöschtem Kalk, Calciumhydroxid, C a, Klammer auf, O H, Klammer zu, zwei.",
+   "start": 13.242,
+   "end": 21.409
+  },
+  {
+   "text": "Dabei wird viel Wärme frei.",
+   "start": 21.649,
+   "end": 23.215
+  },
+  {
+   "text": "An der Luft nimmt gelöschter Kalk Kohlenstoffdioxid auf und wird wieder zu Calciumcarbonat, C a C O drei, dem Stoff, aus dem auch Kalkstein besteht.",
+   "start": 23.455,
+   "end": 31.834
+  },
+  {
+   "text": "Dabei entsteht Wasser.",
+   "start": 32.074,
+   "end": 33.241
+  },
+  {
+   "text": "Beim Römerbeton reagiert zusätzlich die Vulkanasche mit.",
+   "start": 33.481,
+   "end": 36.444
+  },
+  {
+   "text": "Nicht zu Hause nachmachen: Gebrannter Kalk ätzt und reagiert heftig mit Wasser.",
+   "start": 36.684,
+   "end": 40.805
+  }
+ ],
+ "card_hypokaustum": [
+  {
+   "text": "Hüpokaustum.",
+   "start": 0.12,
+   "end": 1.148
+  },
+  {
+   "text": "Der Name bedeutet: die Fußbodenheizung der Römer.",
+   "start": 1.568,
+   "end": 4.411
+  },
+  {
+   "text": "Wow!",
+   "start": 4.651,
+   "end": 5.118
+  },
+  {
+   "text": "Der ganze Boden wurde von unten warm, und die Wände auch.",
+   "start": 5.458,
+   "end": 8.202
+  },
+  {
+   "text": "In einem Ofen brennt Feuer.",
+   "start": 8.442,
+   "end": 9.949
+  },
+  {
+   "text": "Die heiße Luft strömt unter den Boden, der auf vielen kleinen Ziegelpfeilern steht.",
+   "start": 10.189,
+   "end": 14.25
+  },
+  {
+   "text": "Von dort zieht sie in Kanälen die Wände hoch.",
+   "start": 14.49,
+   "end": 16.384
+  },
+  {
+   "text": "So wurden römische Bäder warm.",
+   "start": 16.624,
+   "end": 18.23
+  },
+  {
+   "text": "Zieh die Lasche Fußbodenheizung und sieh die Wärme strömen!",
+   "start": 18.47,
+   "end": 21.643
+  }
+ ],
+ "card_bleirohr": [
+  {
+   "text": "Plumbum.",
+   "start": 0.12,
+   "end": 0.729
+  },
+  {
+   "text": "Der Name bedeutet: Blei.",
+   "start": 1.149,
+   "end": 2.535
+  },
+  {
+   "text": "Das Wort plumbum ist lateinisch und bedeutet: Blei.",
+   "start": 2.775,
+   "end": 5.512
+  },
+  {
+   "text": "Daher das Zeichen Pb.",
+   "start": 5.752,
+   "end": 6.966
+  },
+  {
+   "text": "Auch das englische plumber (Klempner) hat diese Wurzel.",
+   "start": 7.206,
+   "end": 10.079
+  },
+  {
+   "text": "Wow!",
+   "start": 10.319,
+   "end": 10.787
+  },
+  {
+   "text": "Das chemische Zeichen Pb für Blei kommt vom lateinischen plumbum.",
+   "start": 11.127,
+   "end": 14.669
+  },
+  {
+   "text": "In Rom floss das Wasser auch durch Rohre aus Blei.",
+   "start": 14.909,
+   "end": 17.732
+  },
+  {
+   "text": "Forscher fanden im Leitungswasser mehr Blei als im Quellwasser, aber wohl nicht gefährlich viel.",
+   "start": 17.972,
+   "end": 22.751
+  },
+  {
+   "text": "Wahrscheinlich schützte eine Kalkschicht im Rohr.",
+   "start": 22.991,
+   "end": 25.247
+  },
+  {
+   "text": "Ganz sicher ist das nicht, und der Baumeister Vitruv warnte trotzdem vor Bleirohren.",
+   "start": 25.487,
+   "end": 29.957
+  }
+ ],
+ "card_glasblaeserpfeife": [
+  {
+   "text": "Glasbläserpfeife.",
+   "start": 0.12,
+   "end": 1.316
+  },
+  {
+   "text": "Der Name bedeutet: ein langes Rohr, mit dem man Glas aufbläst.",
+   "start": 1.736,
+   "end": 4.769
+  },
+  {
+   "text": "Wow!",
+   "start": 5.009,
+   "end": 5.476
+  },
+  {
+   "text": "Erst seit dem Glasblasen gab es billiges Glas für den Alltag.",
+   "start": 5.816,
+   "end": 9.048
+  },
+  {
+   "text": "Der Glasbläser bläst durch eine lange Pfeife in einen glühenden Glasklumpen.",
+   "start": 9.288,
+   "end": 13.379
+  },
+  {
+   "text": "Der Klumpen wird zu einem Gefäß, so ähnlich wie ein Luftballon.",
+   "start": 13.619,
+   "end": 16.872
+  },
+  {
+   "text": "Mit dieser Erfindung wurde Glas billig.",
+   "start": 17.112,
+   "end": 19.037
+  }
+ ],
+ "card_ziegel": [
+  {
+   "text": "Tegula.",
+   "start": 0.12,
+   "end": 0.808
+  },
+  {
+   "text": "Der Name bedeutet: Dachziegel.",
+   "start": 1.228,
+   "end": 2.857
+  },
+  {
+   "text": "Das Wort tegula ist lateinisch und bedeutet: Dachziegel.",
+   "start": 3.097,
+   "end": 6.011
+  },
+  {
+   "text": "Daraus wurde Ziegel.",
+   "start": 6.251,
+   "end": 7.338
+  },
+  {
+   "text": "Wow!",
+   "start": 7.578,
+   "end": 8.045
+  },
+  {
+   "text": "Dein Wort Ziegel ist ein Wort aus Rom.",
+   "start": 8.385,
+   "end": 10.49
+  },
+  {
+   "text": "Ziegel werden aus feuchtem Ton oder Lehm geformt und dann im Ofen gebrannt.",
+   "start": 10.73,
+   "end": 14.751
+  },
+  {
+   "text": "Dadurch werden sie hart und halten Wind und Regen aus.",
+   "start": 14.991,
+   "end": 17.885
+  },
+  {
+   "text": "Die Römer deckten Dächer damit und bauten Pfeiler für die Fußbodenheizung.",
+   "start": 18.125,
+   "end": 22.165
+  },
+  {
+   "text": "Das Wort kommt vom lateinischen tegula.",
+   "start": 22.405,
+   "end": 24.64
+  }
+ ],
+ "card_gans7": [
+  {
+   "text": "Die Gans mit dem Strohhut.",
+   "start": 0.12,
+   "end": 1.277
+  },
+  {
+   "text": "Der Name bedeutet: anser ist das lateinische Wort für Gans.",
+   "start": 1.697,
+   "end": 4.77
+  },
+  {
+   "text": "Wow!",
+   "start": 5.01,
+   "end": 5.478
+  },
+  {
+   "text": "Von ganz oben auf dem Aquädukt sieht die Gans das ganze Wasser fließen.",
+   "start": 5.818,
+   "end": 9.469
+  },
+  {
+   "text": "Die Gans sitzt hoch oben auf der obersten Bogenreihe und trägt einen Strohhut gegen die Morgensonne.",
+   "start": 9.709,
+   "end": 14.967
+  },
+  {
+   "text": "Nach einer Sage haben Gänse einst das Kapitol in Rom gerettet.",
+   "start": 15.207,
+   "end": 18.56
+  }
+ ],
+ "card_limes": [
+  {
+   "text": "Limes.",
+   "start": 0.12,
+   "end": 0.649
+  },
+  {
+   "text": "Der Name bedeutet: Grenzweg, Grenze.",
+   "start": 1.069,
+   "end": 3.354
+  },
+  {
+   "text": "Das Wort Limes ist lateinisch und bedeutet: Grenzweg, später Grenze.",
+   "start": 3.594,
+   "end": 7.475
+  },
+  {
+   "text": "Das Wort Limes benutzen wir bis heute.",
+   "start": 7.715,
+   "end": 9.566
+  },
+  {
+   "text": "Wow!",
+   "start": 9.806,
+   "end": 10.273
+  },
+  {
+   "text": "Am Rhein gab es keine Mauer.",
+   "start": 10.613,
+   "end": 12.12
+  },
+  {
+   "text": "Der breite Fluss war die Grenze, und Kastelle und Wachtürme am Ufer passten auf.",
+   "start": 12.36,
+   "end": 16.989
+  },
+  {
+   "text": "Der Limes war eine Grenze des Römischen Reiches.",
+   "start": 17.229,
+   "end": 19.558
+  },
+  {
+   "text": "Hier am Niederrhein verlief sie am Fluss.",
+   "start": 19.798,
+   "end": 21.734
+  },
+  {
+   "text": "Soldaten in Kastellen und Türmen beobachteten das Ufer, kontrollierten Waren und Reisende und holten bei Bedarf Hilfe.",
+   "start": 21.974,
+   "end": 29.067
+  }
+ ],
+ "card_wachturm": [
+  {
+   "text": "Turris.",
+   "start": 0.12,
+   "end": 0.619
+  },
+  {
+   "text": "Der Name bedeutet: Turm.",
+   "start": 1.039,
+   "end": 2.476
+  },
+  {
+   "text": "Wow!",
+   "start": 2.716,
+   "end": 3.183
+  },
+  {
+   "text": "Wenn ein Turm ein Signal sah, konnte das nächste es weitergeben, und das Kastell wusste schnell Bescheid.",
+   "start": 3.523,
+   "end": 8.844
+  },
+  {
+   "text": "Von oben sahen die Wachen weit über den Fluss.",
+   "start": 9.084,
+   "end": 11.399
+  },
+  {
+   "text": "Entdeckten sie etwas, gaben sie ein Zeichen.",
+   "start": 11.639,
+   "end": 13.965
+  },
+  {
+   "text": "Dann machten sich Soldaten aus dem Kastell auf den Weg.",
+   "start": 14.205,
+   "end": 17.009
+  },
+  {
+   "text": "Zieh die Lasche Wachturm, dann leuchtet das Signalfeuer.",
+   "start": 17.249,
+   "end": 20.232
+  }
+ ],
+ "card_xanten": [
+  {
+   "text": "Wetera.",
+   "start": 0.12,
+   "end": 0.66
+  },
+  {
+   "text": "Der Name bedeutet: die alten (Lager).",
+   "start": 1.08,
+   "end": 3.285
+  },
+  {
+   "text": "Wow!",
+   "start": 3.525,
+   "end": 3.993
+  },
+  {
+   "text": "Auf dem Fürstenberg stand ein großes Legionslager, und später wuchs in der Nähe eine Stadt mit Mauer, Tempeln und Amphitheater.",
+   "start": 4.333,
+   "end": 11.396
+  },
+  {
+   "text": "Bei Xanten lag eines der großen Legionslager am Rhein.",
+   "start": 11.636,
+   "end": 14.6
+  },
+  {
+   "text": "In der Nähe bekam um das Jahr 100 eine römische Stadt ihre Stadtrechte.",
+   "start": 14.84,
+   "end": 18.62
+  },
+  {
+   "text": "Das Bild im Buch ist stark vereinfacht.",
+   "start": 18.86,
+   "end": 20.935
+  },
+  {
+   "text": "Heute kannst du im Archäologischen Park spazieren gehen.",
+   "start": 21.175,
+   "end": 24.188
+  }
+ ],
+ "card_koeln": [
+  {
+   "text": "Kolonia Klaudia Ara Agrippinensium.",
+   "start": 0.12,
+   "end": 2.295
+  },
+  {
+   "text": "Der Name bedeutet: Kolonie des Claudius beim Altar der Agrippinenser.",
+   "start": 2.715,
+   "end": 6.287
+  },
+  {
+   "text": "Das Wort Kolonia ist lateinisch und bedeutet: Siedlung, Pflanzstadt.",
+   "start": 6.527,
+   "end": 10.11
+  },
+  {
+   "text": "Daraus wurde der Name Köln.",
+   "start": 10.35,
+   "end": 11.916
+  },
+  {
+   "text": "Wow!",
+   "start": 12.156,
+   "end": 12.623
+  },
+  {
+   "text": "Der Name Köln steckt schon im langen römischen Stadtnamen: Colonia.",
+   "start": 12.963,
+   "end": 16.565
+  },
+  {
+   "text": "Um das Jahr 50 bekam Köln das römische Stadtrecht und hieß nun Colonia.",
+   "start": 16.805,
+   "end": 21.066
+  },
+  {
+   "text": "Es war eine der großen Städte am Rhein.",
+   "start": 21.306,
+   "end": 23.181
+  },
+  {
+   "text": "Von der Mauer und den Straßen finden Forscher bis heute Reste unter der heutigen Stadt.",
+   "start": 23.421,
+   "end": 27.951
+  }
+ ],
+ "card_schiff": [
+  {
+   "text": "Nawis.",
+   "start": 0.12,
+   "end": 0.612
+  },
+  {
+   "text": "Der Name bedeutet: Schiff.",
+   "start": 1.032,
+   "end": 2.429
+  },
+  {
+   "text": "Wow!",
+   "start": 2.669,
+   "end": 3.136
+  },
+  {
+   "text": "Auf dem Wasser kamen schwere Lasten viel leichter voran als auf einem Karren über Land.",
+   "start": 3.476,
+   "end": 7.727
+  },
+  {
+   "text": "Der Rhein war eine wichtige Handelsstraße.",
+   "start": 7.967,
+   "end": 10.112
+  },
+  {
+   "text": "Auf Schiffen wie diesem reisten Waren, Soldatenvorräte und Menschen.",
+   "start": 10.352,
+   "end": 13.824
+  },
+  {
+   "text": "Mit dem Schieber Rheinschiff fährt es flussabwärts bis zum Hafen.",
+   "start": 14.064,
+   "end": 17.476
+  }
+ ],
+ "card_rhein_haendler": [
+  {
+   "text": "Germani.",
+   "start": 0.12,
+   "end": 0.848
+  },
+  {
+   "text": "Der Name bedeutet: die Germanen.",
+   "start": 1.268,
+   "end": 2.99
+  },
+  {
+   "text": "Wow!",
+   "start": 3.23,
+   "end": 3.697
+  },
+  {
+   "text": "Über die Grenze liefen nicht nur Soldaten: Es gab auch Handel, Tausch und Besuche.",
+   "start": 4.037,
+   "end": 8.285
+  },
+  {
+   "text": "Die Grenze trennte nicht alles.",
+   "start": 8.525,
+   "end": 10.131
+  },
+  {
+   "text": "An bestimmten Stellen trafen sich Menschen von beiden Seiten und tauschten Waren.",
+   "start": 10.371,
+   "end": 14.498
+  },
+  {
+   "text": "Die Römer kontrollierten dabei den Verkehr.",
+   "start": 14.738,
+   "end": 16.958
+  },
+  {
+   "text": "Hier siehst du einen germanischen Händler im friedlichen Austausch mit einem Römer.",
+   "start": 17.198,
+   "end": 21.169
+  }
+ ],
+ "card_inschrift": [
+  {
+   "text": "Inskriptio.",
+   "start": 0.12,
+   "end": 0.928
+  },
+  {
+   "text": "Der Name bedeutet: Inschrift, Beschriftung.",
+   "start": 1.348,
+   "end": 3.762
+  },
+  {
+   "text": "Das Wort Inskriptio ist lateinisch und bedeutet: Aufschrift.",
+   "start": 4.002,
+   "end": 7.404
+  },
+  {
+   "text": "Daraus kommt unser Wort Inschrift.",
+   "start": 7.644,
+   "end": 9.4
+  },
+  {
+   "text": "Wow!",
+   "start": 9.64,
+   "end": 10.108
+  },
+  {
+   "text": "Aus solchen Steinen wissen wir die Namen von Menschen, die vor fast 2.000 Jahren am Rhein lebten.",
+   "start": 10.448,
+   "end": 15.276
+  },
+  {
+   "text": "Römer ließen Namen, Dank oder Erinnerungen in Stein meißeln.",
+   "start": 15.516,
+   "end": 19.058
+  },
+  {
+   "text": "Solche Steine sind bis heute erhalten und für Forscher wie ein Brief aus alter Zeit.",
+   "start": 19.298,
+   "end": 23.838
+  },
+  {
+   "text": "Der Stein im Buch ist ein Beispiel und zeigt kein echtes Fundstück.",
+   "start": 24.078,
+   "end": 27.689
+  }
+ ],
+ "card_konstantin": [
+  {
+   "text": "Konstantinus.",
+   "start": 0.12,
+   "end": 0.978
+  },
+  {
+   "text": "Der Name bedeutet: der Beständige.",
+   "start": 1.398,
+   "end": 3.104
+  },
+  {
+   "text": "Wow!",
+   "start": 3.344,
+   "end": 3.811
+  },
+  {
+   "text": "Vor 313 mussten Christen im Römischen Reich oft vorsichtig sein, zeitweise wurden sie verfolgt.",
+   "start": 4.151,
+   "end": 10.258
+  },
+  {
+   "text": "Danach durften sie ihren Glauben im ganzen Reich offen leben.",
+   "start": 10.498,
+   "end": 13.501
+  },
+  {
+   "text": "Im Jahr 313 einigten sich Kaiser Konstantin und Kaiser Licinius darauf, dass Christen ihren Glauben ausüben durften.",
+   "start": 13.741,
+   "end": 20.964
+  },
+  {
+   "text": "Das veränderte das Reich langsam.",
+   "start": 21.204,
+   "end": 22.939
+  },
+  {
+   "text": "Zur Staatsreligion wurde das Christentum aber erst 380.",
+   "start": 23.179,
+   "end": 26.906
+  }
+ ],
+ "card_teilung395": [
+  {
+   "text": "Imperium Romanum.",
+   "start": 0.12,
+   "end": 1.457
+  },
+  {
+   "text": "Der Name bedeutet: das Römische Reich.",
+   "start": 1.877,
+   "end": 3.872
+  },
+  {
+   "text": "Wow!",
+   "start": 4.112,
+   "end": 4.58
+  },
+  {
+   "text": "Nach 395 wurde das Reich nie wieder dauerhaft von einem einzigen Kaiser regiert.",
+   "start": 4.92,
+   "end": 10.397
+  },
+  {
+   "text": "Nach dem Tod von Theodosius bekamen seine Söhne je eine Hälfte: Arcadius den Osten, Honorius den Westen.",
+   "start": 10.637,
+   "end": 16.614
+  },
+  {
+   "text": "Aus zwei Verwaltungen wurden mit der Zeit zwei getrennte Reiche.",
+   "start": 16.854,
+   "end": 20.19
+  },
+  {
+   "text": "Der Osten blieb stark, der Westen wurde schwächer.",
+   "start": 20.43,
+   "end": 22.715
+  }
+ ],
+ "card_ende476": [
+  {
+   "text": "Romulus Augustulus.",
+   "start": 0.12,
+   "end": 1.547
+  },
+  {
+   "text": "Der Name bedeutet: Kleiner Augustus, der letzte Kaiser im Westen.",
+   "start": 1.967,
+   "end": 5.529
+  },
+  {
+   "text": "Wow!",
+   "start": 5.769,
+   "end": 6.236
+  },
+  {
+   "text": "Es gab keinen großen Knall.",
+   "start": 6.576,
+   "end": 7.993
+  },
+  {
+   "text": "Das Oströmische Reich bestand noch fast 1.000 Jahre weiter, bis 1453.",
+   "start": 8.233,
+   "end": 13.33
+  },
+  {
+   "text": "Im Jahr 476 setzte Odoaker den jungen Kaiser im Westen ab.",
+   "start": 13.57,
+   "end": 17.9
+  },
+  {
+   "text": "Für viele Menschen ging das Leben einfach weiter.",
+   "start": 18.14,
+   "end": 20.465
+  },
+  {
+   "text": "Städte, Straßen, die lateinische Sprache und der Glaube blieben.",
+   "start": 20.705,
+   "end": 24.187
+  },
+  {
+   "text": "Politisch endete der Westen, kulturell lebte Rom weiter.",
+   "start": 24.427,
+   "end": 27.33
+  }
+ ],
+ "card_wald": [
+  {
+   "text": "Germania.",
+   "start": 0.12,
+   "end": 0.788
+  },
+  {
+   "text": "Der Name bedeutet: das Land der Germanen.",
+   "start": 1.208,
+   "end": 3.194
+  },
+  {
+   "text": "Wow!",
+   "start": 3.434,
+   "end": 3.901
+  },
+  {
+   "text": "Wo genau im Jahr 9 nach Christus die Varusschlacht stattfand, wissen Forscher bis heute nicht sicher.",
+   "start": 4.241,
+   "end": 9.519
+  },
+  {
+   "text": "Östlich des Rheins lagen große Wälder.",
+   "start": 9.759,
+   "end": 11.854
+  },
+  {
+   "text": "Im Jahr 9 nach Christus fand dort eine berühmte Auseinandersetzung zwischen Römern und Germanen statt.",
+   "start": 12.094,
+   "end": 17.442
+  },
+  {
+   "text": "Danach blieb der Rhein am Niederrhein für lange Zeit die Grenze.",
+   "start": 17.682,
+   "end": 20.835
+  }
+ ],
+ "card_werthausen": [
+  {
+   "text": "Niedergermanischer Limes.",
+   "start": 0.12,
+   "end": 1.247
+  },
+  {
+   "text": "Der Name bedeutet: der Limes am Niederrhein.",
+   "start": 1.667,
+   "end": 3.902
+  },
+  {
+   "text": "Wow!",
+   "start": 4.142,
+   "end": 4.61
+  },
+  {
+   "text": "Auch ganz in unserer Nähe, bei Duisburg und Moers, liegen Teile des Welterbes Niedergermanischer Limes.",
+   "start": 4.95,
+   "end": 10.866
+  },
+  {
+   "text": "Der Niedergermanische Limes ist UNESCO-Welterbe.",
+   "start": 11.106,
+   "end": 13.73
+  },
+  {
+   "text": "Zwei Orte davon liegen bei uns: Duisburg-Werthausen und Moers-Asberg.",
+   "start": 13.97,
+   "end": 17.772
+  },
+  {
+   "text": "In Werthausen stand ein kleines Kastell.",
+   "start": 18.012,
+   "end": 20.197
+  },
+  {
+   "text": "Vieles liegt heute im Boden, doch Forscher kennen die Fundplätze.",
+   "start": 20.437,
+   "end": 23.731
+  }
+ ],
+ "card_roemer_bei_uns": [
+  {
+   "text": "Renus.",
+   "start": 0.12,
+   "end": 0.759
+  },
+  {
+   "text": "Der Name bedeutet: der Rhein (lateinischer Name).",
+   "start": 1.179,
+   "end": 3.703
+  },
+  {
+   "text": "Das Wort Renus ist lateinisch und bedeutet: Rhein.",
+   "start": 3.943,
+   "end": 6.567
+  },
+  {
+   "text": "Der Fluss trug schon bei den Römern seinen Namen.",
+   "start": 6.807,
+   "end": 9.022
+  },
+  {
+   "text": "Wow!",
+   "start": 9.262,
+   "end": 9.729
+  },
+  {
+   "text": "Du musst nicht nach Rom fahren: Römische Spuren findest du auch am Niederrhein.",
+   "start": 10.069,
+   "end": 13.791
+  },
+  {
+   "text": "Auf der Karte siehst du, wo am Rhein Römer lebten: in Xanten, in Köln und dazwischen am Limes.",
+   "start": 14.031,
+   "end": 19.498
+  },
+  {
+   "text": "Auch Duisburg und Moers gehören dazu.",
+   "start": 19.738,
+   "end": 21.863
+  },
+  {
+   "text": "Wer sucht, findet noch heute Mauerreste, Scherben und Inschriften.",
+   "start": 22.103,
+   "end": 25.735
+  }
+ ],
+ "card_zeit_kastell": [
+  {
+   "text": "Kastellum.",
+   "start": 0.12,
+   "end": 0.868
+  },
+  {
+   "text": "Der Name bedeutet: kleines Lager, kleine Festung.",
+   "start": 1.288,
+   "end": 3.942
+  },
+  {
+   "text": "Das Wort Kastellum ist lateinisch und bedeutet: kleines Lager.",
+   "start": 4.182,
+   "end": 7.565
+  },
+  {
+   "text": "Daraus wurde Kastell.",
+   "start": 7.805,
+   "end": 8.941
+  },
+  {
+   "text": "Wow!",
+   "start": 9.181,
+   "end": 9.648
+  },
+  {
+   "text": "Ein Kastell war wie eine kleine Festung mit Platz für die Soldaten und ihr Gepäck.",
+   "start": 9.988,
+   "end": 13.79
+  },
+  {
+   "text": "Das Kastell im Buch ist eine vereinfachte Festung am Limes.",
+   "start": 14.03,
+   "end": 17.402
+  },
+  {
+   "text": "Soldaten wohnten hier, bewachten die Grenze und konnten schnell zu den Wachtürmen ausrücken.",
+   "start": 17.642,
+   "end": 22.491
+  },
+  {
+   "text": "Schieb den Regler Zeit, dann siehst du, was später daraus wird.",
+   "start": 22.731,
+   "end": 25.753
+  }
+ ],
+ "card_zeit_ruine": [
+  {
+   "text": "Ruina.",
+   "start": 0.12,
+   "end": 0.779
+  },
+  {
+   "text": "Der Name bedeutet: Einsturz, Trümmer.",
+   "start": 1.199,
+   "end": 3.272
+  },
+  {
+   "text": "Das Wort Ruina ist lateinisch und bedeutet: Einsturz.",
+   "start": 3.512,
+   "end": 6.395
+  },
+  {
+   "text": "Daraus wurde Ruine.",
+   "start": 6.635,
+   "end": 7.753
+  },
+  {
+   "text": "Wow!",
+   "start": 7.993,
+   "end": 8.46
+  },
+  {
+   "text": "Aus alten Mauern holten sich spätere Menschen Steine für neue Häuser.",
+   "start": 8.8,
+   "end": 12.531
+  },
+  {
+   "text": "Darum ist von Römerbauten oft nur wenig übrig.",
+   "start": 12.771,
+   "end": 15.216
+  },
+  {
+   "text": "Wenn niemand ein Kastell mehr nutzt, verfällt es langsam.",
+   "start": 15.456,
+   "end": 18.279
+  },
+  {
+   "text": "Gras wächst, Mauern bröckeln.",
+   "start": 18.519,
+   "end": 20.295
+  },
+  {
+   "text": "Das geschah nicht an einem Tag, sondern über viele Jahre.",
+   "start": 20.535,
+   "end": 23.249
+  },
+  {
+   "text": "Manche Steine fanden in neuen Häusern ein zweites Leben.",
+   "start": 23.489,
+   "end": 26.193
+  }
+ ],
+ "card_zeit_heute": [
+  {
+   "text": "Urps.",
+   "start": 0.12,
+   "end": 0.609
+  },
+  {
+   "text": "Der Name bedeutet: Stadt.",
+   "start": 1.029,
+   "end": 2.275
+  },
+  {
+   "text": "Das Wort Urps ist lateinisch und bedeutet: Stadt.",
+   "start": 2.515,
+   "end": 4.98
+  },
+  {
+   "text": "Daraus kommt das Wort urban (städtisch).",
+   "start": 5.22,
+   "end": 7.405
+  },
+  {
+   "text": "Wow!",
+   "start": 7.645,
+   "end": 8.112
+  },
+  {
+   "text": "Manche Städte am Rhein, zum Beispiel Köln, stehen dort, wo die Römer schon eine Stadt gebaut haben.",
+   "start": 8.452,
+   "end": 13.331
+  },
+  {
+   "text": "Aus manchem römischen Lager und mancher Colonia wurde eine Stadt, die bis heute besteht.",
+   "start": 13.571,
+   "end": 18.382
+  },
+  {
+   "text": "Straßen, Namen und Wörter blieben, vieles andere änderte sich.",
+   "start": 18.622,
+   "end": 22.124
+  },
+  {
+   "text": "Die Stadt im Bild ist eine erfundene Beispielstadt.",
+   "start": 22.364,
+   "end": 25.167
+  }
+ ],
+ "card_t_fenster": [
+  {
+   "text": "Fenestra.",
+   "start": 0.12,
+   "end": 0.828
+  },
+  {
+   "text": "Der Name bedeutet: Fenster, Öffnung in der Wand.",
+   "start": 1.248,
+   "end": 3.743
+  },
+  {
+   "text": "Das Wort Fenestra ist lateinisch und bedeutet: Fenster.",
+   "start": 3.983,
+   "end": 6.966
+  },
+  {
+   "text": "Von den Römern übernahmen wir das Wort.",
+   "start": 7.206,
+   "end": 9.211
+  },
+  {
+   "text": "Wow!",
+   "start": 9.451,
+   "end": 9.919
+  },
+  {
+   "text": "Unser Wort Fenster klingt in Italien fast gleich: finestra.",
+   "start": 10.259,
+   "end": 13.671
+  },
+  {
+   "text": "Römische Häuser aus Stein hatten Öffnungen in den Wänden, damit Licht und Luft hineinkamen.",
+   "start": 13.911,
+   "end": 18.929
+  },
+  {
+   "text": "Das lateinische Wort dafür lernten die Menschen nördlich der Alpen kennen und behielten es.",
+   "start": 19.169,
+   "end": 23.51
+  },
+  {
+   "text": "Heute sagst du jeden Tag Fenster.",
+   "start": 23.75,
+   "end": 25.504
+  }
+ ],
+ "card_t_strasse": [
+  {
+   "text": "Wia Strata.",
+   "start": 0.12,
+   "end": 1.008
+  },
+  {
+   "text": "Der Name bedeutet: gepflasterter Weg.",
+   "start": 1.428,
+   "end": 3.374
+  },
+  {
+   "text": "Das Wort Wia Strata ist lateinisch und bedeutet: gepflasterter Weg.",
+   "start": 3.614,
+   "end": 7.255
+  },
+  {
+   "text": "Aus strata wurde unser Wort Straße.",
+   "start": 7.495,
+   "end": 9.385
+  },
+  {
+   "text": "Wow!",
+   "start": 9.625,
+   "end": 10.092
+  },
+  {
+   "text": "Auch das englische Wort street stammt von strata ab.",
+   "start": 10.432,
+   "end": 13.046
+  },
+  {
+   "text": "Die Römer bauten feste Straßen, wie du sie auf der Reise durch dieses Buch gesehen hast.",
+   "start": 13.286,
+   "end": 17.698
+  },
+  {
+   "text": "Eine gepflasterte Straße hieß via strata, gepflasterter Weg.",
+   "start": 17.938,
+   "end": 21.489
+  },
+  {
+   "text": "Bei uns blieb daraus das Wort Straße.",
+   "start": 21.729,
+   "end": 23.525
+  }
+ ],
+ "card_t_mauer": [
+  {
+   "text": "Murus.",
+   "start": 0.12,
+   "end": 0.656
+  },
+  {
+   "text": "Der Name bedeutet: Mauer, Stadtmauer.",
+   "start": 1.076,
+   "end": 3.371
+  },
+  {
+   "text": "Das Wort Murus ist lateinisch und bedeutet: Mauer.",
+   "start": 3.611,
+   "end": 6.384
+  },
+  {
+   "text": "Das Wort kam mit dem Steinbau zu uns.",
+   "start": 6.624,
+   "end": 8.674
+  },
+  {
+   "text": "Wow!",
+   "start": 8.914,
+   "end": 9.381
+  },
+  {
+   "text": "Mit dem Steinbau kam bei uns auch das Wort Mauer.",
+   "start": 9.721,
+   "end": 12.175
+  },
+  {
+   "text": "Die Römer bauten Mauern aus Stein, zum Beispiel um ihre Städte und Kastelle.",
+   "start": 12.415,
+   "end": 16.815
+  },
+  {
+   "text": "Das lateinische Wort murus nahmen die Menschen in Germanien auf und sagten bald Mauer.",
+   "start": 17.055,
+   "end": 21.795
+  },
+  {
+   "text": "Das Wort ist über tausend Jahre alt.",
+   "start": 22.035,
+   "end": 24.01
+  }
+ ],
+ "card_t_ziegel": [
+  {
+   "text": "Tegula.",
+   "start": 0.12,
+   "end": 0.808
+  },
+  {
+   "text": "Der Name bedeutet: Dachziegel.",
+   "start": 1.228,
+   "end": 2.857
+  },
+  {
+   "text": "Das Wort Tegula ist lateinisch und bedeutet: Dachziegel.",
+   "start": 3.097,
+   "end": 6.051
+  },
+  {
+   "text": "Daraus wurde Ziegel.",
+   "start": 6.291,
+   "end": 7.378
+  },
+  {
+   "text": "Wow!",
+   "start": 7.618,
+   "end": 8.085
+  },
+  {
+   "text": "Römische Dachziegel erkennst du an ihrer flachen Form mit einem Rand an der Seite.",
+   "start": 8.425,
+   "end": 12.703
+  },
+  {
+   "text": "Aus Ton gebrannte Ziegel decken Dächer und bauen Mauern.",
+   "start": 12.943,
+   "end": 15.966
+  },
+  {
+   "text": "Die Römer brachten das Wissen darüber mit.",
+   "start": 16.206,
+   "end": 18.202
+  },
+  {
+   "text": "Aus dem lateinischen Wort tegula, das ein Dachziegel war, entstand bei uns das Wort Ziegel.",
+   "start": 18.442,
+   "end": 23.341
+  }
+ ],
+ "card_t_kaiser": [
+  {
+   "text": "Kaisar.",
+   "start": 0.12,
+   "end": 0.63
+  },
+  {
+   "text": "Der Name bedeutet: Beiname von Julius Caesar, später Titel.",
+   "start": 1.05,
+   "end": 4.712
+  },
+  {
+   "text": "Das Wort Kaisar ist lateinisch und bedeutet: Beiname der Familie von Julius Caesar.",
+   "start": 4.952,
+   "end": 9.563
+  },
+  {
+   "text": "Später der Titel der Herrscher.",
+   "start": 9.803,
+   "end": 11.28
+  },
+  {
+   "text": "Wow!",
+   "start": 11.52,
+   "end": 11.987
+  },
+  {
+   "text": "Auch das russische Wort Zar kommt von Caesar.",
+   "start": 12.327,
+   "end": 14.831
+  },
+  {
+   "text": "Julius Caesar war nie Kaiser.",
+   "start": 15.071,
+   "end": 16.728
+  },
+  {
+   "text": "Seinen Namen übernahmen aber spätere Herrscher als Titel.",
+   "start": 16.968,
+   "end": 19.971
+  },
+  {
+   "text": "So wurde aus Caesar das deutsche Wort Kaiser, und im Russischen aus demselben Namen der Zar.",
+   "start": 20.211,
+   "end": 25.05
+  }
+ ],
+ "card_t_wein": [
+  {
+   "text": "Winum.",
+   "start": 0.12,
+   "end": 0.489
+  },
+  {
+   "text": "Der Name bedeutet: Wein.",
+   "start": 0.909,
+   "end": 2.346
+  },
+  {
+   "text": "Das Wort Winum ist lateinisch und bedeutet: Wein.",
+   "start": 2.586,
+   "end": 5.24
+  },
+  {
+   "text": "Die Römer brachten den Wein und das Wort zu uns.",
+   "start": 5.48,
+   "end": 8.214
+  },
+  {
+   "text": "Wow!",
+   "start": 8.454,
+   "end": 8.921
+  },
+  {
+   "text": "Auch das Wort Winzer gehört zur Familie von vinum.",
+   "start": 9.261,
+   "end": 11.835
+  },
+  {
+   "text": "In Rom gehörte der Wein zum Alltag.",
+   "start": 12.075,
+   "end": 14.13
+  },
+  {
+   "text": "Mit den Römern kam er an den Rhein, und mit ihm das Wort.",
+   "start": 14.37,
+   "end": 17.313
+  },
+  {
+   "text": "Die Wörter Wein und Winzer erinnern noch heute daran.",
+   "start": 17.553,
+   "end": 20.357
+  }
+ ],
+ "card_t_kaese": [
+  {
+   "text": "Kaseus.",
+   "start": 0.12,
+   "end": 0.669
+  },
+  {
+   "text": "Der Name bedeutet: Käse.",
+   "start": 1.089,
+   "end": 2.704
+  },
+  {
+   "text": "Das Wort Kaseus ist lateinisch und bedeutet: Käse.",
+   "start": 2.944,
+   "end": 6.001
+  },
+  {
+   "text": "Das Wort übernahmen die Menschen bei uns von den Römern.",
+   "start": 6.241,
+   "end": 9.015
+  },
+  {
+   "text": "Wow!",
+   "start": 9.255,
+   "end": 9.722
+  },
+  {
+   "text": "Auch das englische Wort cheese stammt von caseus ab.",
+   "start": 10.062,
+   "end": 12.865
+  },
+  {
+   "text": "Käse machten Menschen schon lange, doch das Wort dafür kam von den Römern.",
+   "start": 13.105,
+   "end": 16.677
+  },
+  {
+   "text": "Aus dem lateinischen caseus wurde bei uns Käse.",
+   "start": 16.917,
+   "end": 19.312
+  }
+ ],
+ "card_t_muenze": [
+  {
+   "text": "Moneta.",
+   "start": 0.12,
+   "end": 0.749
+  },
+  {
+   "text": "Der Name bedeutet: Beiname der Göttin Juno, bei deren Tempel Geld geprägt wurde.",
+   "start": 1.169,
+   "end": 5.1
+  },
+  {
+   "text": "Das Wort Moneta ist lateinisch und bedeutet: Münze, Münzstätte.",
+   "start": 5.34,
+   "end": 8.927
+  },
+  {
+   "text": "Der Name geht auf die Göttin Juno Moneta zurück.",
+   "start": 9.167,
+   "end": 11.721
+  },
+  {
+   "text": "Wow!",
+   "start": 11.961,
+   "end": 12.429
+  },
+  {
+   "text": "Das englische Wort money stammt ebenfalls von moneta ab.",
+   "start": 12.769,
+   "end": 16.061
+  },
+  {
+   "text": "In Rom wurde bei dem Tempel der Göttin Juno Moneta Geld geprägt.",
+   "start": 16.301,
+   "end": 19.673
+  },
+  {
+   "text": "So wurde moneta zum Wort für Münze und Münzstätte.",
+   "start": 19.913,
+   "end": 23.006
+  },
+  {
+   "text": "Daraus entstand bei uns das Wort Münze.",
+   "start": 23.246,
+   "end": 25.28
+  }
+ ],
+ "card_gans8": [
+  {
+   "text": "Anser.",
+   "start": 0.12,
+   "end": 0.529
+  },
+  {
+   "text": "Der Name bedeutet: anser ist das lateinische Wort für Gans.",
+   "start": 0.949,
+   "end": 4.022
+  },
+  {
+   "text": "Wow!",
+   "start": 4.262,
+   "end": 4.729
+  },
+  {
+   "text": "Du hast alle Gänse gefunden, die auf der Straße nach Rom gesessen haben!",
+   "start": 5.069,
+   "end": 8.492
+  },
+  {
+   "text": "Diese Gans steht am Ufer im Morgendunst und trägt Zipfelmütze und Schal.",
+   "start": 8.792,
+   "end": 13.032
+  },
+  {
+   "text": "Nach einer Sage haben Gänse in Rom einmal die Burg auf dem Kapitol gerettet, weil sie laut schnatterten, als Feinde heranschlichen.",
+   "start": 13.272,
+   "end": 19.528
   }
  ]
 }

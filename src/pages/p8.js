@@ -155,8 +155,8 @@ export default {
     hafen.pickMeshes = hafen.fig.cuts.map((c) => c.mesh); tapMeshes(hafen.pickMeshes, () => openCard('schiff'));
     const quayY = 0.49 * hafen.fig.ws;
     const qx = HAFEN.x + 0.45;
-    const haendler = ctx.stand('p_germane', { x: qx + 0.5, z: HAFEN.z + 0.1, y: quayY, h: 1.1, facing: -1, delay: 0.3, card: 'haendler', id: 'haendler', name: 'Germanischer Händler', hint: false, variant: { far: null, near: 'basket', sword: false, tunic: { color: '#6f8a5a' } } });
-    const roemer = ctx.stand('p_legionaer', { x: qx - 0.35, z: HAFEN.z + 0.1, y: quayY, h: 1.1, facing: 1, delay: 0.3, card: 'haendler', id: 'roemer-kai', name: 'Römischer Soldat', hint: false, variant: { far: null, near: 'tablet' } });
+    const haendler = ctx.stand('p_germane', { x: qx + 0.5, z: HAFEN.z + 0.1, y: quayY, h: 1.1, facing: -1, delay: 0.3, card: 'rhein_haendler', id: 'haendler', name: 'Germanischer Händler', hint: false, variant: { far: null, near: 'basket', sword: false, tunic: { color: '#6f8a5a' } } });
+    const roemer = ctx.stand('p_legionaer', { x: qx - 0.35, z: HAFEN.z + 0.1, y: quayY, h: 1.1, facing: 1, delay: 0.3, card: 'rhein_haendler', id: 'roemer-kai', name: 'Römischer Soldat', hint: false, variant: { far: null, near: 'tablet' } });
     yield;
 
     // ---------------- Handelsschiff mit Steuermann, Wasserstreifen davor

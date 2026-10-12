@@ -1,0 +1,4772 @@
+{
+  "titel": "Das große Popup-Buch vom Römischen Reich – alle Texte",
+  "zielgruppe": "Klasse 5/6 (einfache, kurze Sätze; Du-Ansprache)",
+  "hinweis": "Jahreszahlen und Zahlen stehen mit Quelle und Status in facts.md (geprüft / umstritten / gerechnet / Fachwissen). Aussagen mit Status „Fachwissen“ stehen in der Gegenlese-Liste (facts.md, Abschnitt 11). Die Erzähltexte werden im Buch von einer Neuro-TTS-Stimme gesprochen.",
+  "seiten": [
+    {
+      "station": 0,
+      "id": "titel",
+      "kapitel": "Titelseite",
+      "zeitalter": "Willkommen",
+      "jahre": "753 v. Chr. bis 476 n. Chr.",
+      "titel": "So funktioniert das Buch",
+      "kicker": "Der Goldene Meilenstein",
+      "kartentext": "Willkommen auf der Straße nach Rom! Rechts steht der Goldene Meilenstein mit dem Zeitrad. Dreh es, dann wächst die Karte von der kleinen Stadt Rom bis zum Reich rund ums Mittelmeer, und das Zeitfenster zeigt dir Bilder aus der Zeit. Ziehe an den Laschen, tippe auf Figuren und Dinge, und such auf jeder Doppelseite die kleine Gans.",
+      "erzaehltext": "Willkommen im großen Popup-Buch vom Römischen Reich! Rechts steht der Goldene Meilenstein mit dem Zeitrad. Zieh die Lasche Zeiger drehen, dann springt das Jahr, und die Karte wächst von der Stadt Rom bis zum ganzen Mittelmeer. Mit Tor auf öffnest du den Triumphbogen, und mit Marsch zieht eine Kohorte vorbei. Auf jeder Doppelseite versteckt sich eine Gans. Findest du alle acht?",
+      "bedienhinweis": "Zieh „Zeiger drehen“, „Tor auf!“ und „Marsch!“ · Tippe auf alles · Such die Gans",
+      "karten": [
+        "meilenstein",
+        "zeitrad",
+        "triumphbogen",
+        "aquila",
+        "kohorte",
+        "karte_rom",
+        "karte_italien",
+        "karte_mittelmeer",
+        "karte_caesar",
+        "karte_hoehepunkt",
+        "karte_teilung",
+        "karte_ende",
+        "musik",
+        "album"
+      ]
+    },
+    {
+      "station": 1,
+      "id": "rom-entsteht",
+      "kapitel": "Rom entsteht",
+      "zeitalter": "Königszeit",
+      "jahre": "753–509 v. Chr.",
+      "titel": "Sieben Hügel am Tiber",
+      "kicker": "Station 1",
+      "kartentext": "Schon lange vor 753 v. Chr. lebten Hirten auf dem Palatin, einem Hügel am Tiber. Aus kleinen Dörfern auf den Hügeln wuchs langsam eine Stadt: Rom. Die Römer erzählten später eine Sage von den Zwillingen Romulus und Remus. Das Gründungsjahr 753 wurde erst viel später ausgerechnet.",
+      "erzaehltext": "Es ist früh am Morgen am Tiber, und Nebel liegt über dem Fluss. Zieh an der Lasche Die Zwillinge: Nach der Sage kümmert sich eine Wölfin um Romulus und Remus. Mit dem Schieber Sieben Hügel steigen die Hügel Roms aus dem Papier. Und mit der Lasche Furche pflügt Romulus nach der Sage die erste Stadtgrenze um den Palatin. Tippe alles an und such die Gans!",
+      "bedienhinweis": "Zieh an „Die Zwillinge“, „Sieben Hügel“ und „Furche“. Tippe auch Figuren an und such die Gans!",
+      "karten": [
+        "wolfin",
+        "romulus",
+        "huette",
+        "tiber",
+        "tarquinius",
+        "huegel",
+        "gans1"
+      ]
+    },
+    {
+      "station": 2,
+      "id": "grossmacht",
+      "kapitel": "Vom Stadtstaat zur Großmacht",
+      "zeitalter": "Republik",
+      "jahre": "509–146 v. Chr.",
+      "titel": "Ein Reich um das Mittelmeer",
+      "kicker": "Station 2",
+      "kartentext": "Rom hat keinen König mehr! Zwei Konsuln leiten die Stadt, jeder nur ein Jahr lang, und der Senat gibt ihnen Rat. Dann wächst Rom: erst über Italien, dann übers Meer. Dabei streitet es lange mit Karthago, einer mächtigen Hafenstadt in Nordafrika. Hannibal zieht mit Elefanten über die Alpen, am Ende ist Rom die stärkste Macht am Mittelmeer.",
+      "erzaehltext": "Willkommen in der Republik! Hier regiert kein König mehr, sondern gewählte Beamte und der Senat. Zieh die Lasche Abstimmung, dann stehen die Senatoren in ihren weißen Togen auf. Mit Über die Alpen führst du Hannibals Elefanten über die Papier-Berge. Und mit Enterbrücke fällt eine Planke vom römischen Schiff auf das Schiff aus Karthago. Tippe auf alles, und such die versteckte Gans!",
+      "bedienhinweis": "Zieh „Abstimmung“, „Über die Alpen“ und „Enterbrücke“ · Tippe auf alles · Such die Gans",
+      "karten": [
+        "senat",
+        "konsuln",
+        "fasces",
+        "rostra",
+        "hannibal",
+        "elefant",
+        "alpen",
+        "hafen",
+        "corvus",
+        "gans2"
+      ]
+    },
+    {
+      "station": 3,
+      "id": "legion",
+      "kapitel": "Die Legion",
+      "zeitalter": "Republik und Kaiserzeit",
+      "jahre": "Bild: 1. Jh. n. Chr.",
+      "titel": "Disziplin, Spaten und Schwert",
+      "kicker": "Station 3",
+      "kartentext": "Eine Legion war mehr als eine Kampftruppe: Ihre Soldaten waren auch Handwerker und Baumeister. Du siehst ein Marschlager im Abendrot, quer durchgeschnitten: Graben, Wall mit Pfählen, Wachturm und Zelte in Reihen. Mit dem Regler Lagerbau entsteht es Stück für Stück. Rüste den großen Legionär aus und schiebe die Schilde zur Schildkröte zusammen.",
+      "erzaehltext": "Willkommen bei den Legionären! Mit dem Regler Lagerbau entstehen Graben, Wall, Pfähle und Zelte, so wie die Soldaten sie selbst gebaut haben. Rechts ziehst du an den Laschen Helm, Panzer, Schwert, Schild und Speer, dann ist der Legionär ausgerüstet. Mit dem Schieber Schildkröte rücken die Soldaten ihre Schilde zu einem Dach zusammen. Findest du die Gans mit dem Helm?",
+      "bedienhinweis": "Zieh „Lagerbau“, „Schildkröte“, „Helm“, „Panzer“, „Schwert“, „Schild“ und „Speer“ · Tippe auf alles · Such die Gans",
+      "karten": [
+        "leg_legionaer",
+        "leg_zenturio",
+        "leg_aquilifer",
+        "leg_pilum",
+        "leg_gladius",
+        "leg_scutum",
+        "leg_lorica",
+        "leg_galea",
+        "leg_caligae",
+        "leg_marschgepaeck",
+        "leg_testudo",
+        "leg_lager",
+        "gans3"
+      ]
+    },
+    {
+      "station": 4,
+      "id": "kaiser",
+      "kapitel": "Vom Konsul zum Kaiser",
+      "zeitalter": "Ende der Republik",
+      "jahre": "133 v. Chr. bis 14 n. Chr.",
+      "titel": "Ein Mann und ein Fluss",
+      "kicker": "Station 4",
+      "kartentext": "Rom war eine Republik, in der gewählte Männer mitbestimmten. Doch im Streit um die Macht gab es Bürgerkriege, und 49 v. Chr. führte Caesar seine Soldaten über den Fluss Rubikon. Am Ende stand Augustus an der Spitze, der erste Kaiser. Er nannte sich lieber „Princeps“, der Erste Bürger.",
+      "erzaehltext": "Links streiten die Senatoren am Abend. Rechts beginnt ein neuer Morgen, und dazwischen fließt der Rubikon. Schieb den Regler Rubikon, dann führt Caesar seine Soldaten über den Fluss. Zieh den Lorbeerkranz, dann setzt ein Senator ihn Augustus auf. Und mit der Münze drehst du einen Denar um und siehst beide Seiten.",
+      "bedienhinweis": "Schieb „Rubikon“, zieh „Lorbeerkranz“ und dreh die „Münze“ · Tippe auf alles · Such die Gans",
+      "karten": [
+        "caesar",
+        "augustus",
+        "kleopatra",
+        "rubikon",
+        "denar",
+        "lorbeerkranz",
+        "gans4"
+      ]
+    },
+    {
+      "station": 5,
+      "id": "hoehepunkt",
+      "kapitel": "Rom auf dem Höhepunkt",
+      "zeitalter": "Kaiserzeit",
+      "jahre": "1. und 2. Jh. n. Chr.",
+      "titel": "Das Reich ist am größten",
+      "kicker": "Station 5",
+      "kartentext": "Um das Jahr 117 reicht das Römische Reich von Britannien bis in den Nahen Osten. In der Hauptstadt Rom leben vermutlich eine halbe bis eine Million Menschen, genau weiß das niemand. Mitten in der Stadt steht das Kolosseum, ein riesiges Oval aus Stein für Vorführungen. Auf dem Forum wird gehandelt, geredet und Recht gesprochen.",
+      "erzaehltext": "Willkommen in Rom, um das Jahr 117 nach Christus! Zieh an der Lasche Kolosseum auf, dann wachsen die drei Bogenreihen Stockwerk für Stockwerk in die Höhe. Mit dem Faden Sonnensegel spannst du ein riesiges Tuch über die Sitzreihen. Der Schieber Reichsgrenzen zeichnet nach, wie weit das Reich reichte, und mit dem Regler Tagesablauf wandert die Sonne vom Morgen bis zum Abend. Tippe auf das Forum, die Sänfte und den Marktstand, und such die Gans!",
+      "bedienhinweis": "Zieh „Kolosseum auf!“, „Sonnensegel“, „Reichsgrenzen“ und „Tagesablauf“ · Tippe auf alles · Such die Gans",
+      "karten": [
+        "h_kolosseum",
+        "h_arena",
+        "h_velarium",
+        "h_pantheon",
+        "h_trajanssaeule",
+        "h_forum",
+        "h_marktstand",
+        "h_saenfte",
+        "h_meilenstein",
+        "h_reichskarte",
+        "h_rom",
+        "gans5"
+      ]
+    },
+    {
+      "station": 6,
+      "id": "stadtleben",
+      "kapitel": "Leben in einer römischen Stadt",
+      "zeitalter": "Kaiserzeit",
+      "jahre": "1. Jh. n. Chr.",
+      "titel": "Ein Tag in Pompeji",
+      "kicker": "Station 6",
+      "kartentext": "Es ist Mittag in Pompeji, einer Stadt am Fuß des Vesuvs. Hier gibt es Läden, einen Imbiss, einen Brunnen und Häuser mit einem offenen Hof. Über die Straße führen hohe Trittsteine, damit du trockene Füße behältst. Zieh an den Laschen und schau, wie die Menschen vor fast 2.000 Jahren gelebt haben.",
+      "erzaehltext": "Es ist Mittag in Pompeji! Zieh die Lasche Haus öffnen, dann hebt sich das Dach, und du siehst in den Hof mit dem Regenbecken. Mit dem Schieber Trittsteine fährt ein Karren durch die Lücke, und ein Kind hüpft über die Steine. Klapp die Thermen auf, dann siehst du den kalten, den lauwarmen und den heißen Raum, und mit dem Regler Schultag schreibt ein Griffel auf die Wachstafel. Findest du die Gans?",
+      "bedienhinweis": "Zieh „Haus öffnen“, „Trittsteine“ und „Schultag“ · Klapp „Thermen“ auf · Tippe auf alles · Such die Gans",
+      "karten": [
+        "kind",
+        "wachstafel",
+        "baecker",
+        "haendler",
+        "imbiss",
+        "haus",
+        "trittsteine",
+        "thermen",
+        "brunnen",
+        "hund",
+        "graffiti",
+        "vesuv",
+        "gans6"
+      ]
+    },
+    {
+      "station": 7,
+      "id": "ingenieure",
+      "kapitel": "Straßen, Wasser, Beton",
+      "zeitalter": "Kaiserzeit",
+      "jahre": "Bild: 1. und 2. Jh. n. Chr.",
+      "titel": "Bauwerke für die Ewigkeit",
+      "kicker": "Station 7",
+      "kartentext": "Die Römer waren Ingenieure. Sie bauten Straßen, Wasserleitungen und Kuppeln aus Beton, und manches davon steht nach fast 2.000 Jahren noch. Gebaut haben Soldaten, Handwerker und Sklaven; Sklaven mussten ohne Lohn und ohne Freiheit arbeiten. Zieh an den Laschen und sieh, wie es funktioniert!",
+      "erzaehltext": "Guten Morgen auf der Baustelle! Zieh am Regler Gefälle: Ist die Rinne ein kleines bisschen geneigt, fließt das Wasser zur Stadt, sonst bleibt es stehen. Mit Straßenschichten baust du eine Straße Lage für Lage, am Tretrad hebst du einen schweren Stein. Bei Beton siehst du, wie Mörtel entsteht, und die Fußbodenheizung wärmt ein römisches Bad. Tippe auf die Bauwerke und such die Gans mit dem Strohhut!",
+      "bedienhinweis": "Zieh „Gefälle“, „Straßenschichten“, „Tretrad“, „Beton“ und „Fußbodenheizung“ · Tippe auf die Bauwerke · Such die Gans",
+      "karten": [
+        "aquaedukt",
+        "strasse",
+        "tretradkran",
+        "moertel",
+        "kalkkreislauf",
+        "hypokaustum",
+        "bleirohr",
+        "glasblaeserpfeife",
+        "ziegel",
+        "gans7"
+      ]
+    },
+    {
+      "station": 8,
+      "id": "rhein",
+      "kapitel": "Römer am Rhein und was bleibt",
+      "zeitalter": "Spätantike",
+      "jahre": "1. bis 5. Jh. n. Chr.",
+      "titel": "Vom Limes bis heute",
+      "kicker": "Station 8",
+      "kartentext": "Auch bei uns am Rhein lebten Römer. Am Limes hielten Soldaten Wache, in Köln und Xanten standen Städte aus Stein, und Schiffe brachten Waren den Fluss hinab. Als das Westreich 476 zu Ende ging, verschwand Rom nicht über Nacht: Sprache, Straßen und Städte blieben. Welche römischen Wörter wir noch sagen, verraten dir die acht Steintafeln.",
+      "erzaehltext": "Wir sind am Rhein, früh am Morgen, und der Nebel hängt noch über dem Wasser. Zieh an der Lasche Wachturm, dann leuchtet ein Signalfeuer auf. Mit dem Schieber Rheinschiff fährt ein Handelsschiff flussabwärts. Der Regler Zeit zeigt dir, wie aus dem Kastell erst eine Ruine und dann, an manchen Orten, eine Stadt von heute wird. Auf der linken Seite stehen acht Steintafeln mit Wörtern, die aus dem Lateinischen kommen. Tippe sie an, und such die Gans am Ufer!",
+      "bedienhinweis": "Zieh „Wachturm“, „Rheinschiff“ und „Zeit“ · Tippe auf die Steintafeln und die Karte · Such die Gans",
+      "karten": [
+        "limes",
+        "wachturm",
+        "xanten",
+        "koeln",
+        "schiff",
+        "haendler",
+        "inschrift",
+        "konstantin",
+        "teilung395",
+        "ende476",
+        "wald",
+        "werthausen",
+        "roemer_bei_uns",
+        "zeit_kastell",
+        "zeit_ruine",
+        "zeit_heute",
+        "t_fenster",
+        "t_strasse",
+        "t_mauer",
+        "t_ziegel",
+        "t_kaiser",
+        "t_wein",
+        "t_kaese",
+        "t_muenze",
+        "gans8"
+      ]
+    }
+  ],
+  "karten": [
+    {
+      "id": "meilenstein",
+      "station": 0,
+      "typ": "info",
+      "name": "Der Goldene Meilenstein",
+      "lateinisch": "Miliarium aureum",
+      "aussprache": "sprich: mi-li-AR-i-um AU-re-um",
+      "bedeutung": "Bedeutung: goldener Meilenstein",
+      "fakten": [
+        {
+          "beschriftung": "Ort",
+          "wert": "Forum Romanum in Rom (genauer Platz unsicher)"
+        },
+        {
+          "beschriftung": "Aufgestellt",
+          "wert": "um 20 v. Chr. unter Augustus"
+        },
+        {
+          "beschriftung": "Bedeutung",
+          "wert": "Mittelpunkt des Straßennetzes (sinnbildlich)"
+        },
+        {
+          "beschriftung": "Heute",
+          "wert": "nicht sicher erhalten (ein Sockel wird ihm zugeschrieben)"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "mille passus",
+        "deutsch": "tausend Doppelschritte. Daraus wurde unsere „Meile“.",
+        "hinweis": null
+      },
+      "wow": "Alle Wege führen nach Rom, sagt man. Dazu passt: In Rom stand ein goldener Stein als Mittelpunkt der Straßen.",
+      "text": "Römische Straßen hatten Meilensteine. Sie zeigten, wie weit es bis zur nächsten Stadt war. In Rom stand der Goldene Meilenstein als sinnbildlicher Mittelpunkt aller Straßen. Unser Meilenstein hat zusätzlich ein Zeitrad. Dreh daran und reise durch die Zeit!",
+      "hinweisUnsicherheit": "Hinweis: Das Zeitrad ist eine Erfindung für dieses Buch. Das Sprichwort „Alle Wege führen nach Rom“ stammt wohl erst aus dem Mittelalter.",
+      "stichworte": [
+        "Titelseite",
+        "Straße",
+        "Meilenstein"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo steht in deiner Stadt ein Wegweiser oder Kilometerstein?",
+        "Wozu braucht man auf Straßen Entfernungsangaben?"
+      ]
+    },
+    {
+      "id": "zeitrad",
+      "station": 0,
+      "typ": "info",
+      "name": "Das Zeitrad",
+      "lateinisch": "Zeitrad",
+      "aussprache": null,
+      "bedeutung": "Bedeutung: eine Uhr für über tausend Jahre",
+      "fakten": [
+        {
+          "beschriftung": "Anfang",
+          "wert": "753 v. Chr. (Gründung nach der Sage)"
+        },
+        {
+          "beschriftung": "Ende",
+          "wert": "476 n. Chr. (Ende des Kaisers im Westen)"
+        },
+        {
+          "beschriftung": "Dauer",
+          "wert": "rund 1.230 Jahre"
+        },
+        {
+          "beschriftung": "Jahr null",
+          "wert": "gibt es nicht: auf 1 v. Chr. folgt 1 n. Chr."
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Auf dem Zeitrad liegen zwischen dem ersten und dem letzten Jahr mehr als zwölf Jahrhunderte.",
+      "text": "Der Zeiger läuft einmal rundherum, von der Gründung Roms bis zum Ende des Kaisers im Westen. Vier Farben zeigen die Zeitalter: Königszeit, Republik, Kaiserzeit und Spätantike. Die goldenen Punkte sind Ereignisse aus diesem Buch.",
+      "hinweisUnsicherheit": "Hinweis: 753 v. Chr. ist das Gründungsjahr nach der Überlieferung, belegt ist es nicht. Dass 476 n. Chr. das „Ende“ ist, ist eine Verabredung der Fachleute. Das Oströmische Reich bestand bis 1453 weiter.",
+      "stichworte": [
+        "Titelseite",
+        "Zeit",
+        "Zeitrad"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie viele Jahre liegen zwischen 509 v. Chr. und 27 v. Chr.?",
+        "Warum zählt man bei „vor Christus“ rückwärts?"
+      ]
+    },
+    {
+      "id": "triumphbogen",
+      "station": 0,
+      "typ": "info",
+      "name": "Triumphbogen",
+      "lateinisch": "arcus triumphalis",
+      "aussprache": "sprich: AR-kus tri-um-FAH-lis",
+      "bedeutung": "Bedeutung: Bogen für einen Triumph (Siegesfeier)",
+      "fakten": [
+        {
+          "beschriftung": "Aufschrift",
+          "wert": "SPQR: Senatus Populusque Romanus"
+        },
+        {
+          "beschriftung": "Zweck",
+          "wert": "Denkmal für Siege und Kaiser"
+        },
+        {
+          "beschriftung": "Berühmte Bögen",
+          "wert": "Titusbogen und Konstantinsbogen in Rom"
+        },
+        {
+          "beschriftung": "Außerhalb Roms",
+          "wert": "viele Städte des Reiches hatten welche"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "Senatus Populusque Romanus",
+        "deutsch": "Senat und Volk von Rom. Das Kürzel SPQR stand überall in der Stadt.",
+        "hinweis": null
+      },
+      "wow": "SPQR steht noch heute auf Gullydeckeln in Rom.",
+      "text": "Nach einem großen Sieg feierten die Römer einen Triumph, einen Festzug durch die Stadt. An Triumphbögen erinnerte man später an solche Siege. Der Bogen im Buch ist vereinfacht und zeigt kein bestimmtes Bauwerk.",
+      "hinweisUnsicherheit": "Hinweis: Echte Triumphbögen hatten keine Tore. Die Tür zum Aufziehen ist eine Spielerei für dieses Buch.",
+      "stichworte": [
+        "Titelseite",
+        "SPQR",
+        "Bogen"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Kennst du ein Tor oder Denkmal in deiner Nähe, durch das man hindurchgeht?"
+      ]
+    },
+    {
+      "id": "aquila",
+      "station": 0,
+      "typ": "info",
+      "name": "Legionsadler",
+      "lateinisch": "aquila",
+      "aussprache": "sprich: A-kwi-la",
+      "bedeutung": "Bedeutung: Adler",
+      "fakten": [
+        {
+          "beschriftung": "Träger",
+          "wert": "Aquilifer"
+        },
+        {
+          "beschriftung": "Seit",
+          "wert": "Marius, um 100 v. Chr. (Datum unsicher)"
+        },
+        {
+          "beschriftung": "Bedeutung",
+          "wert": "das Zeichen der Legion"
+        },
+        {
+          "beschriftung": "Verlust",
+          "wert": "galt als große Schande"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "aquila",
+        "deutsch": "Adler. Der Adler war das Zeichen der Legion.",
+        "hinweis": null
+      },
+      "wow": "Den Adler der Legion zu verlieren, war für die Soldaten eine Schande.",
+      "text": "Jede Legion hatte einen Adler aus Metall auf einer Stange. Er wurde der Legion vorangetragen, wie bei uns eine Fahne. Der Träger hieß Aquilifer. Auf dem Marsch folgten ihm die Soldaten.",
+      "hinweisUnsicherheit": "Hinweis: Wann genau der Adler das einzige Legionszeichen wurde, ist unsicher.",
+      "stichworte": [
+        "Titelseite",
+        "Legion",
+        "Adler"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Tiere sind heute Wappentiere, und warum?"
+      ]
+    },
+    {
+      "id": "kohorte",
+      "station": 0,
+      "typ": "info",
+      "name": "Kohorte",
+      "lateinisch": "cohors",
+      "aussprache": "sprich: KO-hors",
+      "bedeutung": "Bedeutung: Schar, Truppenteil",
+      "fakten": [
+        {
+          "beschriftung": "Eine Legion",
+          "wert": "10 Kohorten"
+        },
+        {
+          "beschriftung": "Sollstärke der Legion",
+          "wert": "etwa 5.000 Mann"
+        },
+        {
+          "beschriftung": "Anführer",
+          "wert": "Zenturionen (hier einer im Bild)"
+        },
+        {
+          "beschriftung": "Im Bild",
+          "wert": "nur wenige Figuren zur Veranschaulichung"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "cohors",
+        "deutsch": "Schar oder Truppenteil. Bei uns heißt eine große Gruppe auch „Kohorte“.",
+        "hinweis": null
+      },
+      "wow": "Echte Kohorten waren viel größer als die kleine Gruppe auf der Straße im Buch.",
+      "text": "Eine Kohorte war ein Zehntel einer Legion. Mit dem Schieber Marsch! ziehen ein Zenturio, ein Adlerträger und drei Legionäre am Triumphbogen vorbei. Mehr über die Legion erfährst du in Station 3.",
+      "hinweisUnsicherheit": null,
+      "stichworte": [
+        "Titelseite",
+        "Legion",
+        "Kohorte"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie viele Kohorten sind drei Legionen?"
+      ]
+    },
+    {
+      "id": "karte_rom",
+      "station": 0,
+      "typ": "info",
+      "name": "Karte: Die Stadt Rom",
+      "lateinisch": "Roma",
+      "aussprache": "sprich: RO-ma",
+      "bedeutung": "Bedeutung: die Stadt am Tiber",
+      "fakten": [
+        {
+          "beschriftung": "Zeit",
+          "wert": "ab 753 v. Chr. (nach der Sage)"
+        },
+        {
+          "beschriftung": "Lage",
+          "wert": "am Fluss Tiber in Mittelitalien"
+        },
+        {
+          "beschriftung": "Größe",
+          "wert": "Stadt mit etwas Umland"
+        },
+        {
+          "beschriftung": "Sage",
+          "wert": "Gründung durch Romulus"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Aus diesem kleinen Fleck auf der Karte wurde in rund 900 Jahren ein Reich rund ums Mittelmeer.",
+      "text": "Am Anfang war Rom nur eine Stadt am Fluss Tiber mit ein paar Dörfern ringsum. Auf der Karte ist es der winzige dunkelrote Fleck in Mittelitalien. Die Geschichte der Gründung erzählt Station 1.",
+      "hinweisUnsicherheit": "Hinweis: 753 v. Chr. ist das Gründungsjahr nach der Überlieferung. Archäologisch belegt ist es nicht.",
+      "stichworte": [
+        "Titelseite",
+        "Reichskarte",
+        "Rom"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "karte_italien",
+      "station": 0,
+      "typ": "info",
+      "name": "Karte: Ganz Italien",
+      "lateinisch": "Italia",
+      "aussprache": "sprich: i-TA-li-a",
+      "bedeutung": "Bedeutung: Italien",
+      "fakten": [
+        {
+          "beschriftung": "Zeit",
+          "wert": "um 264 v. Chr."
+        },
+        {
+          "beschriftung": "Gebiet",
+          "wert": "Halbinsel südlich der Poebene"
+        },
+        {
+          "beschriftung": "Wie",
+          "wert": "durch Kriege und Bündnisse"
+        },
+        {
+          "beschriftung": "Danach",
+          "wert": "Kriege gegen Karthago ab 264 v. Chr."
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Rom wuchs Stück für Stück: erst die Nachbarn, dann ganz Italien.",
+      "text": "Etwa 500 Jahre nach der Gründung beherrschte Rom fast die ganze Halbinsel südlich der Poebene. Manche Städte wurden besiegt, andere schlossen Bündnisse. Kurz darauf begannen die Kriege gegen Karthago.",
+      "hinweisUnsicherheit": "Hinweis: Wie weit Roms Herrschaft zu welchem Jahr reichte, kann man nur ungefähr angeben. Die Karte ist vereinfacht.",
+      "stichworte": [
+        "Titelseite",
+        "Reichskarte",
+        "Italien"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "karte_mittelmeer",
+      "station": 0,
+      "typ": "info",
+      "name": "Karte: Das Mittelmeer-Reich",
+      "lateinisch": "mare nostrum",
+      "aussprache": "sprich: MA-re NOS-trum",
+      "bedeutung": "Bedeutung: unser Meer",
+      "fakten": [
+        {
+          "beschriftung": "Zeit",
+          "wert": "um 146 v. Chr."
+        },
+        {
+          "beschriftung": "Karthago",
+          "wert": "146 v. Chr. zerstört, Gebiet wird Provinz Africa"
+        },
+        {
+          "beschriftung": "Neu dazu",
+          "wert": "Sizilien, Sardinien, Spanien, Griechenland"
+        },
+        {
+          "beschriftung": "Folge",
+          "wert": "Rom beherrscht das Mittelmeer"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "mare nostrum",
+        "deutsch": "unser Meer. So nannten die Römer das Mittelmeer.",
+        "hinweis": null
+      },
+      "wow": "Die Römer nannten das Mittelmeer „unser Meer“, weil rundherum ihr Reich lag.",
+      "text": "Nach den Kriegen gegen Karthago besaß Rom Land auf allen Seiten des westlichen Mittelmeers. Karthago wurde 146 v. Chr. zerstört. Auch Griechenland gehörte nun zu Rom. Wenig später kam ein Stück Kleinasien dazu.",
+      "hinweisUnsicherheit": "Hinweis: Die Karte zeigt die Zeit um 146 v. Chr. vereinfacht. Einige Gebiete kamen früher, andere später dazu; Kleinasien zum Beispiel erst nach 133 v. Chr.",
+      "stichworte": [
+        "Titelseite",
+        "Reichskarte",
+        "Karthago"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "karte_caesar",
+      "station": 0,
+      "typ": "info",
+      "name": "Karte: Von Caesar zu den Kaisern",
+      "lateinisch": "imperium",
+      "aussprache": "sprich: im-PE-ri-um",
+      "bedeutung": "Bedeutung: Befehlsgewalt, später: Reich",
+      "fakten": [
+        {
+          "beschriftung": "Gallien",
+          "wert": "58 bis 50 v. Chr. von Caesar erobert"
+        },
+        {
+          "beschriftung": "Ägypten",
+          "wert": "ab 30 v. Chr. römisch"
+        },
+        {
+          "beschriftung": "Britannien",
+          "wert": "ab 43 n. Chr., der Süden der Insel"
+        },
+        {
+          "beschriftung": "Kaiserzeit",
+          "wert": "seit 27 v. Chr. (Augustus)"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "imperium",
+        "deutsch": "Befehlsgewalt. Daraus wurde „Imperium“ und „Kaiserreich“.",
+        "hinweis": null
+      },
+      "wow": "Caesar eroberte Gallien, wurde aber nie Kaiser. Das Kaiserreich begann erst nach ihm.",
+      "text": "Julius Caesar eroberte in acht Jahren das große Land Gallien, das heute etwa Frankreich und Belgien ist. Nach ihm gewann Augustus Ägypten und die Länder an der Donau. Später kam auch der Süden Britanniens dazu.",
+      "hinweisUnsicherheit": "Hinweis: Das Datum der Donauprovinzen und der Grenzen ist grob. Die Karte ist vereinfacht.",
+      "stichworte": [
+        "Titelseite",
+        "Reichskarte",
+        "Caesar"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "karte_hoehepunkt",
+      "station": 0,
+      "typ": "info",
+      "name": "Karte: Größte Ausdehnung",
+      "lateinisch": "Imperium Romanum",
+      "aussprache": "sprich: im-PE-ri-um ro-MAH-num",
+      "bedeutung": "Bedeutung: das Römische Reich",
+      "fakten": [
+        {
+          "beschriftung": "Zeit",
+          "wert": "um 117 n. Chr. unter Kaiser Trajan"
+        },
+        {
+          "beschriftung": "Von",
+          "wert": "Nordengland und Rhein-Donau-Grenze bis zum Euphrat"
+        },
+        {
+          "beschriftung": "Fläche",
+          "wert": "etwa 5 Millionen km² (Schätzung)"
+        },
+        {
+          "beschriftung": "Vergleich",
+          "wert": "ungefähr 14-mal Deutschland (gerechnet)"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Auf dem Höhepunkt war das Römische Reich ungefähr 14-mal so groß wie Deutschland.",
+      "text": "Unter Kaiser Trajan war das Reich am größten. Es reichte von Nordengland bis nach Nordafrika und vom Atlantik bis weit in den Osten. Danach gab man einige Gebiete wieder auf.",
+      "hinweisUnsicherheit": "Hinweis: Mesopotamien gehörte nur kurz zum Reich (etwa 115 bis 117) und ist auf der Karte nicht eingezeichnet. Die Fläche ist eine Schätzung.",
+      "stichworte": [
+        "Titelseite",
+        "Reichskarte",
+        "Trajan"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie viele Quadratkilometer wären das, wenn Deutschland etwa 357.000 km² groß ist und du 14 mal rechnest?"
+      ]
+    },
+    {
+      "id": "karte_teilung",
+      "station": 0,
+      "typ": "info",
+      "name": "Karte: Das Reich wird geteilt",
+      "lateinisch": "Imperium Romanum",
+      "aussprache": "sprich: im-PE-ri-um ro-MAH-num",
+      "bedeutung": "Bedeutung: das Römische Reich",
+      "fakten": [
+        {
+          "beschriftung": "Zeit",
+          "wert": "395 n. Chr."
+        },
+        {
+          "beschriftung": "Anlass",
+          "wert": "Tod von Kaiser Theodosius I."
+        },
+        {
+          "beschriftung": "Westen",
+          "wert": "Kaiser Honorius"
+        },
+        {
+          "beschriftung": "Osten",
+          "wert": "Kaiser Arcadius"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Nach 395 wurde das Reich nie wieder dauerhaft von einem einzigen Kaiser regiert.",
+      "text": "Nach dem Tod von Theodosius bekamen seine beiden Söhne je eine Hälfte des Reiches: Honorius den Westen, Arcadius den Osten. Auf der Karte siehst du den Osten in Purpur. Im Osten blieb die Verwaltung stark, im Westen wurde sie schwächer.",
+      "hinweisUnsicherheit": "Hinweis: Die Trennlinie auf der Karte ist grob gezeichnet. Das Reich war schon vorher oft von mehreren Herrschern verwaltet worden.",
+      "stichworte": [
+        "Titelseite",
+        "Reichskarte",
+        "Teilung"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "karte_ende",
+      "station": 0,
+      "typ": "info",
+      "name": "Karte: Das Ende im Westen",
+      "lateinisch": "Romulus Augustulus",
+      "aussprache": "sprich: RO-mu-lus au-GUS-tu-lus",
+      "bedeutung": "Bedeutung: „Kleiner Augustus“, der letzte Kaiser im Westen",
+      "fakten": [
+        {
+          "beschriftung": "Zeit",
+          "wert": "476 n. Chr."
+        },
+        {
+          "beschriftung": "Ereignis",
+          "wert": "Odoaker setzte den Kindkaiser Romulus Augustulus ab"
+        },
+        {
+          "beschriftung": "Im Westen",
+          "wert": "neue Reiche der Germanen"
+        },
+        {
+          "beschriftung": "Im Osten",
+          "wert": "Oströmisches Reich bis 1453"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Das Römische Reich endete im Osten erst 1453, fast tausend Jahre später.",
+      "text": "Im Jahr 476 setzte der Heerführer Odoaker den jungen Kaiser Romulus Augustulus ab. Es gab keinen großen Knall. Im Westen regierten nun andere Könige. Im Osten ging das Römische Reich weiter, bis 1453 Konstantinopel erobert wurde.",
+      "hinweisUnsicherheit": "Hinweis: Dass 476 das „Ende“ ist, ist eine Verabredung der Fachleute. Für die Menschen damals ging das Leben oft einfach weiter.",
+      "stichworte": [
+        "Titelseite",
+        "Reichskarte",
+        "Ende"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum sagt man, Roms Ende kam „leise“?"
+      ]
+    },
+    {
+      "id": "musik",
+      "station": 0,
+      "typ": "info",
+      "name": "Die Musik im Buch",
+      "lateinisch": "lyra",
+      "aussprache": "sprich: LÜ-ra",
+      "bedeutung": "Bedeutung: Leier, ein altes Saiteninstrument",
+      "fakten": [
+        {
+          "beschriftung": "Instrumente",
+          "wert": "Flöte und Leier (Lyra)"
+        },
+        {
+          "beschriftung": "Römische Musik",
+          "wert": "kaum überliefert"
+        },
+        {
+          "beschriftung": "Unsere Musik",
+          "wert": "am Computer erfunden"
+        },
+        {
+          "beschriftung": "Der Klang",
+          "wert": "nur einfache Töne, keine echte Melodie aus Rom"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Wie römische Musik genau klang, wissen wir kaum, denn Noten sind fast nicht erhalten.",
+      "text": "Die Römer spielten Flöte, Leier, Trompete und Trommeln. Die Musik in diesem Buch hat sich ein Computer ausgedacht. Sie soll nur ein bisschen nach Süden und nach alter Zeit klingen.",
+      "hinweisUnsicherheit": "Hinweis: Die Musik ist erfunden, nicht überliefert.",
+      "stichworte": [
+        "Titelseite",
+        "Musik"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "album",
+      "station": 0,
+      "typ": "info",
+      "name": "Dein Gänse-Album",
+      "lateinisch": "anser",
+      "aussprache": "sprich: AN-ser",
+      "bedeutung": "Bedeutung: anser ist das lateinische Wort für Gans",
+      "fakten": [],
+      "wortAusRom": null,
+      "wow": "Nach einer Sage haben Gänse einst das Kapitol gerettet. Darum verstecken sich hier acht Gänse.",
+      "text": "Auf jeder Doppelseite sitzt eine kleine Gans. Schau genau hin: Ein Stück Hals, ein Schnabel oder ein Hut verrät sie. Tippe sie an, dann kommt sie in dein Album.",
+      "hinweisUnsicherheit": "Hinweis: Die Sage von den Gänsen auf dem Kapitol ist nicht als Tatsache belegt.",
+      "stichworte": [
+        "Titelseite",
+        "Gans",
+        "Album"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "wolfin",
+      "station": 1,
+      "typ": "info",
+      "name": "Die Wölfin mit Romulus und Remus",
+      "lateinisch": "Lupa",
+      "aussprache": "sprich: LU-pa",
+      "bedeutung": "Bedeutung: lupa ist das lateinische Wort für Wölfin",
+      "fakten": [
+        {
+          "beschriftung": "Das ist",
+          "wert": "eine Sage"
+        },
+        {
+          "beschriftung": "Eltern der Zwillinge",
+          "wert": "Rhea Silvia (Sage)"
+        },
+        {
+          "beschriftung": "Ort",
+          "wert": "am Tiber"
+        },
+        {
+          "beschriftung": "Wölfin auf Latein",
+          "wert": "lupa"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Von einer Wölfin gefunden: So erzählt es die Sage von den Gründern Roms.",
+      "text": "Nach der Sage waren Romulus und Remus Söhne der Rhea Silvia. Als Babys wurden sie am Tiber ausgesetzt. Dort fand sie eine Wölfin und kümmerte sich um die beiden. So erzählten es die Römer später über den Anfang ihrer Stadt.",
+      "hinweisUnsicherheit": "Hinweis: Das ist eine Sage! Ob es Romulus und Remus wirklich gab, wissen wir nicht.",
+      "stichworte": [
+        "Station 1",
+        "Sage",
+        "Wölfin",
+        "Romulus und Remus"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Woran erkennst du, dass diese Geschichte eine Sage ist?",
+        "Warum erzählt man sich gern Geschichten über den Anfang einer Stadt?"
+      ]
+    },
+    {
+      "id": "romulus",
+      "station": 1,
+      "typ": "info",
+      "name": "Romulus pflügt die Stadtgrenze",
+      "lateinisch": "Romulus",
+      "aussprache": "sprich: RO-mu-lus",
+      "bedeutung": null,
+      "fakten": [
+        {
+          "beschriftung": "Das ist",
+          "wert": "eine Sage"
+        },
+        {
+          "beschriftung": "Gründung nach der Sage",
+          "wert": "753 v. Chr."
+        },
+        {
+          "beschriftung": "Seine Furche",
+          "wert": "rund um den Palatin"
+        },
+        {
+          "beschriftung": "Sie bedeutet",
+          "wert": "die erste Stadtgrenze"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "murus",
+        "deutsch": "die Mauer. Unser Wort „Mauer“ kommt daher.",
+        "hinweis": "Mit dem Steinbau kam das Wort zu uns. Im Althochdeutschen gibt es „Mauer“ schon seit dem 8. Jahrhundert."
+      },
+      "wow": "Eine Furche als Stadtgrenze: Nach der Sage zog Romulus sie mit dem Pflug.",
+      "text": "Die Römer erzählten: Romulus gründete Rom. Der Gelehrte Varro rechnete später das Jahr 753 vor Christus aus. Mit einem Pflug und zwei Rindern zog Romulus eine Furche rund um den Palatin. Sie zeigte, wo die Stadt enden sollte. Auch das ist eine Sage.",
+      "hinweisUnsicherheit": "Hinweis: Das Jahr 753 v. Chr. hat der Gelehrte Varro erst fast 700 Jahre später ausgerechnet. Die Sage erzählt auch von einem Streit der beiden Brüder. Wie er ausgeht, lassen wir hier offen.",
+      "stichworte": [
+        "Station 1",
+        "Romulus",
+        "Sage",
+        "Mauer"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wozu braucht eine Stadt eine Grenze?",
+        "Wo sieht man bei uns noch Mauern, und woher kommt das Wort?"
+      ]
+    },
+    {
+      "id": "huette",
+      "station": 1,
+      "typ": "info",
+      "name": "Die Hirtenhütte",
+      "lateinisch": "Casa Romuli",
+      "aussprache": "sprich: KA-sa RO-mu-li",
+      "bedeutung": "Bedeutung: Casa Romuli heißt Haus des Romulus",
+      "fakten": [
+        {
+          "beschriftung": "Bauart",
+          "wert": "oval, mit Strohdach"
+        },
+        {
+          "beschriftung": "Ort",
+          "wert": "Palatin"
+        },
+        {
+          "beschriftung": "Dauerhaft bewohnt",
+          "wert": "etwa ab dem 10. oder 9. Jh. v. Chr."
+        },
+        {
+          "beschriftung": "Casa Romuli",
+          "wert": "angeblich das Haus des Gründers"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Schon lange vor 753 v. Chr. wohnten Menschen auf dem Palatin.",
+      "text": "Auf dem Palatin stand ein Dorf aus kleinen Hütten mit Strohdach. Hirten lebten hier schon lange vor 753 vor Christus. Später zeigten die Römer stolz eine Hütte als das Haus von Romulus.",
+      "hinweisUnsicherheit": "Hinweis: Dass diese Hütte wirklich Romulus gehörte, ist nicht bewiesen.",
+      "stichworte": [
+        "Station 1",
+        "Palatin",
+        "Hütte"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie würdest du heute in so einer Hütte wohnen?",
+        "Warum zeigten die Römer ein „Haus des Romulus“?"
+      ]
+    },
+    {
+      "id": "tiber",
+      "station": 1,
+      "typ": "info",
+      "name": "Der Tiber",
+      "lateinisch": "Tiberis",
+      "aussprache": "sprich: TI-be-ris",
+      "bedeutung": "Bedeutung: Tiberis ist der lateinische Name des Flusses",
+      "fakten": [
+        {
+          "beschriftung": "Lage",
+          "wert": "mitten durch die Stadt Rom"
+        },
+        {
+          "beschriftung": "Heute",
+          "wert": "Tevere (italienisch)"
+        },
+        {
+          "beschriftung": "Sage",
+          "wert": "Hier wurden die Zwillinge ausgesetzt"
+        },
+        {
+          "beschriftung": "Hügel",
+          "wert": "liegen nicht weit vom Ufer"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Der Tiber ist älter als die Stadt Rom, und er fließt noch heute durch sie hindurch.",
+      "text": "Der Tiber ist der Fluss von Rom. Die Sage erzählt, dass die Zwillinge Romulus und Remus an seinem Ufer ausgesetzt wurden. Die Hügel, auf denen Rom wuchs, liegen nicht weit vom Wasser. Im Bild liegt Morgennebel über dem Fluss.",
+      "hinweisUnsicherheit": "Hinweis: Der Nebel ist nur Stimmung für das Bild.",
+      "stichworte": [
+        "Station 1",
+        "Tiber",
+        "Fluss"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welcher Fluss fließt durch deine Stadt?",
+        "Warum bauten Menschen ihre Dörfer gern an Flüssen?"
+      ]
+    },
+    {
+      "id": "tarquinius",
+      "station": 1,
+      "typ": "info",
+      "name": "Tarquinius, der letzte König",
+      "lateinisch": "Tarquinius Superbus",
+      "aussprache": "sprich: tar-KWI-ni-us su-PER-bus",
+      "bedeutung": "Bedeutung: Superbus heißt der Stolze",
+      "fakten": [
+        {
+          "beschriftung": "Rolle",
+          "wert": "siebter und letzter König (Überlieferung)"
+        },
+        {
+          "beschriftung": "Vertrieben",
+          "wert": "um 509 v. Chr. (Überlieferung)"
+        },
+        {
+          "beschriftung": "Danach",
+          "wert": "kein König mehr in Rom"
+        },
+        {
+          "beschriftung": "Quelle",
+          "wert": "erst Jahrhunderte später aufgeschrieben"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Von 753 bis 509 sollen nur sieben Könige regiert haben. Die Liste ist halb sagenhaft.",
+      "text": "Nach der Überlieferung war Tarquinius der siebte und letzte König von Rom. Die Römer vertrieben ihn um 509 vor Christus. Danach hatte Rom keinen König mehr. Die Liste der sieben Könige ist halb Sage und wurde erst Jahrhunderte später aufgeschrieben.",
+      "hinweisUnsicherheit": "Hinweis: Das Jahr ist unsicher. Je nach Quelle liegt die Vertreibung bei 510, 509 oder um 507 bis 506 v. Chr. Darum schreiben wir „um 509“.",
+      "stichworte": [
+        "Station 1",
+        "König",
+        "Überlieferung"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Woran erkennst du, dass die Geschichte der sieben Könige nicht ganz sicher ist?",
+        "Wie wird bei uns heute entschieden, wer regiert?"
+      ]
+    },
+    {
+      "id": "huegel",
+      "station": 1,
+      "typ": "info",
+      "name": "Die sieben Hügel Roms",
+      "lateinisch": "septem colles",
+      "aussprache": "sprich: SEP-tem KOL-les",
+      "bedeutung": "Bedeutung: septem colles heißt sieben Hügel",
+      "fakten": [
+        {
+          "beschriftung": "Die sieben",
+          "wert": "Palatin, Kapitol, Aventin, Caelius, Esquilin, Viminal, Quirinal"
+        },
+        {
+          "beschriftung": "Der älteste",
+          "wert": "der Palatin"
+        },
+        {
+          "beschriftung": "Entwicklung",
+          "wert": "Rom wuchs langsam aus Dörfern zusammen"
+        },
+        {
+          "beschriftung": "Von den Nachbarn",
+          "wert": "lernten die Römer viel"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Rom ist langsam gewachsen: Aus Dörfern auf Hügeln wurde nach und nach eine Stadt.",
+      "text": "Auf den Hügeln am Tiber lagen kleine Dörfer. Der Palatin ist der älteste Hügel. Mit der Zeit wuchsen die Dörfer zusammen. Von den Nachbarn im Norden, den Etruskern, lernten die Römer viel.",
+      "hinweisUnsicherheit": "Hinweis: Wann die Dörfer zusammenwuchsen, ist umstritten. Manche Forscher denken an eine langsame Entwicklung seit etwa 1000 v. Chr., andere an einen Zusammenschluss Mitte des 8. Jahrhunderts v. Chr. Wie stark die Etrusker Rom prägten, wird diskutiert.",
+      "stichworte": [
+        "Station 1",
+        "Hügel",
+        "Rom wächst"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Kannst du die sieben Hügel am Schieber nacheinander benennen?",
+        "Warum baut man eine Siedlung gern auf einen Hügel?"
+      ]
+    },
+    {
+      "id": "gans1",
+      "station": 1,
+      "typ": "versteckte Gans",
+      "name": "Die Gans auf dem Kapitol",
+      "lateinisch": "anser",
+      "aussprache": "sprich: AN-ser",
+      "bedeutung": "Bedeutung: anser ist das lateinische Wort für Gans",
+      "fakten": [],
+      "wortAusRom": null,
+      "wow": "Gefunden! Nach einer Sage haben Gänse das Kapitol gerettet.",
+      "text": "Du hast die Gans oben auf dem Kapitol gefunden. Sie trägt einen Hirtenhut. Nach der Sage haben Gänse das Kapitol gerettet: Ihr Schnattern warnte die Römer vor den Galliern.",
+      "hinweisUnsicherheit": "Hinweis: Das ist eine Sage. Die Gänse sind nur in alten Erzählungen überliefert. Das war erst um 390 v. Chr., also nach der Zeit der Könige. Das Datum ist umstritten.",
+      "stichworte": [
+        "Station 1",
+        "Gans",
+        "Kapitol",
+        "Sage"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "senat",
+      "station": 2,
+      "typ": "info",
+      "name": "Der Senat",
+      "lateinisch": "senatus",
+      "aussprache": "sprich: se-NAH-tus",
+      "bedeutung": "Bedeutung: Rat der Alten",
+      "fakten": [
+        {
+          "beschriftung": "Wer",
+          "wert": "erfahrene Männer aus den führenden Familien"
+        },
+        {
+          "beschriftung": "Wie lange",
+          "wert": "oft ein Leben lang"
+        },
+        {
+          "beschriftung": "Aufgabe",
+          "wert": "berät die Beamten und redet bei wichtigen Fragen mit"
+        },
+        {
+          "beschriftung": "Treffpunkt",
+          "wert": "das Senatsgebäude am Forum"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "senex",
+        "deutsch": "alter Mann. Daraus wurde „Senat“: der Rat der Alten. Auch unser Wort „Senior“ gehört dazu.",
+        "hinweis": "sprich: SE-neks"
+      },
+      "wow": "Das Kürzel SPQR heißt „Senat und Volk von Rom“. Der Senat stand also gleich neben dem Volk!",
+      "text": "Schon die Könige hatten einen Rat der Alten. In der Republik wurde dieser Rat, der Senat, sehr wichtig. Seine Mitglieder waren ältere, erfahrene Männer, oft blieben sie ein ganzes Leben dabei. Sie besprachen, was für die Stadt wichtig war, und gaben den Beamten Rat. Zieh die Lasche Abstimmung, dann stehen sie auf!",
+      "hinweisUnsicherheit": "Hinweis: Dass es unter Romulus schon hundert Senatoren gab, ist eine Sage. Wie im Senat genau abgestimmt wurde, zeigt das Buch nur vereinfacht.",
+      "stichworte": [
+        "Station 2",
+        "Republik",
+        "Senat"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wer entscheidet bei dir in der Klasse, wenn ihr abstimmt?",
+        "Warum war es wichtig, dass ein Rat mitredet?"
+      ]
+    },
+    {
+      "id": "konsuln",
+      "station": 2,
+      "typ": "info",
+      "name": "Die zwei Konsuln",
+      "lateinisch": "consules",
+      "aussprache": "sprich: KON-su-les",
+      "bedeutung": "Bedeutung: die obersten Beamten der Republik",
+      "fakten": [
+        {
+          "beschriftung": "Anzahl",
+          "wert": "immer zwei zur gleichen Zeit"
+        },
+        {
+          "beschriftung": "Amtszeit",
+          "wert": "ein Jahr"
+        },
+        {
+          "beschriftung": "Wahl",
+          "wert": "jedes Jahr neu"
+        },
+        {
+          "beschriftung": "Kontrolle",
+          "wert": "jeder konnte das Veto des anderen einlegen"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Veto heißt auf Latein „Ich verbiete es“. So konnte keiner der beiden allein bestimmen.",
+      "text": "Statt eines Königs hatte Rom zwei Konsuln. Sie wurden für ein Jahr gewählt und leiteten die Stadt gemeinsam. Jeder konnte den anderen mit einem Veto bremsen. Vor jedem gingen zwölf Diener mit dem Rutenbündel. Tippe einen Liktor an!",
+      "hinweisUnsicherheit": "Hinweis: Dass die Doppelspitze verhindern sollte, dass einer zu mächtig wird, ist die übliche Erklärung der Fachleute.",
+      "stichworte": [
+        "Station 2",
+        "Republik",
+        "Konsuln"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Was ist besser: ein Chef oder zwei? Warum?",
+        "Wie lange darf jemand bei uns im Amt bleiben?"
+      ]
+    },
+    {
+      "id": "fasces",
+      "station": 2,
+      "typ": "info",
+      "name": "Das Rutenbündel",
+      "lateinisch": "fasces",
+      "aussprache": "sprich: FAS-kess",
+      "bedeutung": "Bedeutung: Bündel",
+      "fakten": [
+        {
+          "beschriftung": "Aussehen",
+          "wert": "Holzruten, fest zusammengebunden, mit einem Beil"
+        },
+        {
+          "beschriftung": "Bedeutung",
+          "wert": "Zeichen der Strafgewalt der Beamten"
+        },
+        {
+          "beschriftung": "Wer trug es",
+          "wert": "Diener der Beamten, die Liktoren"
+        },
+        {
+          "beschriftung": "Konsuln",
+          "wert": "hatten zwölf Liktoren"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": null,
+      "text": "Die Liktoren gingen vor dem Konsul her und trugen die Fasces. Ruten und Beil zeigten allen: Dieser Mann darf Befehle geben und Strafen verhängen. Es war ein Amtszeichen, wie heute eine Amtskette.",
+      "hinweisUnsicherheit": "Einordnung: Das Wort „Faschismus“ kommt von italienisch fascio (Bündel) und das von lateinisch fasces. Später missbrauchte ein Diktator das alte Zeichen. Das alte römische Zeichen kann nichts dafür: Es war ein Amtszeichen.",
+      "stichworte": [
+        "Station 2",
+        "Republik",
+        "Fasces",
+        "Einordnung"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Woran erkennst du heute, dass jemand ein wichtiges Amt hat?",
+        "Warum können alte Zeichen später missbraucht werden?"
+      ]
+    },
+    {
+      "id": "rostra",
+      "station": 2,
+      "typ": "info",
+      "name": "Die Rednerbühne",
+      "lateinisch": "rostra",
+      "aussprache": "sprich: ROS-tra",
+      "bedeutung": "Bedeutung: Schnäbel (rostrum = Schnabel)",
+      "fakten": [
+        {
+          "beschriftung": "Ort",
+          "wert": "am Forum in Rom"
+        },
+        {
+          "beschriftung": "Aussehen",
+          "wert": "eine erhöhte Bühne"
+        },
+        {
+          "beschriftung": "Schmuck",
+          "wert": "Schiffsschnäbel von erbeuteten Schiffen"
+        },
+        {
+          "beschriftung": "Wort",
+          "wert": "rostrum = Schnabel, Mehrzahl rostra"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": null,
+      "text": "Wer zu den Bürgern sprechen wollte, stieg auf die Rednerbühne am Forum. Sie war mit den Schnäbeln erbeuteter Schiffe geschmückt. Im Bild steht oben ein Redner, und neben ihm hat es sich eine Gans bequem gemacht. Findest du sie?",
+      "hinweisUnsicherheit": "Hinweis: In welchem Jahr die Schiffsschnäbel an die Bühne kamen, lassen wir offen.",
+      "stichworte": [
+        "Station 2",
+        "Forum",
+        "Rostra"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo würdest du heute eine Rede halten?",
+        "Warum schmückten die Römer die Bühne mit Schiffsschnäbeln?"
+      ]
+    },
+    {
+      "id": "hannibal",
+      "station": 2,
+      "typ": "info",
+      "name": "Hannibal",
+      "lateinisch": "Hannibal aus Karthago",
+      "aussprache": "sprich: HAN-ni-bal",
+      "bedeutung": null,
+      "fakten": [
+        {
+          "beschriftung": "Heimat",
+          "wert": "Karthago"
+        },
+        {
+          "beschriftung": "Alpenübergang",
+          "wert": "Herbst 218 v. Chr."
+        },
+        {
+          "beschriftung": "Elefanten",
+          "wert": "nur wenige kamen durch"
+        },
+        {
+          "beschriftung": "Zama",
+          "wert": "202 v. Chr.: Scipio besiegt ihn"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Dass Hannibal Elefanten über die Alpen brachte, gehört bis heute zu den berühmtesten Geschichten der Antike.",
+      "text": "Hannibal war ein Feldherr aus Karthago. Im Herbst 218 v. Chr. zog er mit Soldaten und Elefanten über die Alpen nach Italien. Wie viele es genau waren, wissen wir nicht: viele Tausend, und etwa die Hälfte ging unterwegs verloren. Bei Zama unterlag er dem Römer Scipio.",
+      "hinweisUnsicherheit": "Hinweis: Welchen Pass er nahm, wissen Forscher bis heute nicht sicher. Wie Hannibal aussah, wissen wir nicht: Sein Bild hier ist erfunden.",
+      "stichworte": [
+        "Station 2",
+        "Hannibal",
+        "Karthago"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum ist ein Marsch über die Alpen im Herbst so schwer?",
+        "Welche Geschichte über Hannibal hast du schon gehört?"
+      ]
+    },
+    {
+      "id": "elefant",
+      "station": 2,
+      "typ": "info",
+      "name": "Der Elefant",
+      "lateinisch": "elephantus",
+      "aussprache": "sprich: e-le-FAN-tus",
+      "bedeutung": "Bedeutung: lateinisch elephantus",
+      "fakten": [
+        {
+          "beschriftung": "Bei der Rhône",
+          "wert": "37 Elefanten (nach Polybios)"
+        },
+        {
+          "beschriftung": "In Italien",
+          "wert": "nur wenige kamen an"
+        },
+        {
+          "beschriftung": "Nahrung",
+          "wert": "nur Pflanzen"
+        },
+        {
+          "beschriftung": "Gewicht",
+          "wert": "mehrere Tonnen"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": null,
+      "text": "Hannibal brachte Elefanten über die Alpen. Der antike Schreiber Polybios nennt 37 Tiere am Fluss Rhône. Nur wenige kamen in Italien an, genau weiß das niemand. Bei Zama ließen die Römer Gassen für die Elefanten frei.",
+      "hinweisUnsicherheit": "Hinweis: Wie viele Elefanten es waren und welchen Weg sie nahmen, ist unsicher. Im Buch ziehen nur zwei, damit es übersichtlich bleibt. Die purpurne Decke ist erfunden.",
+      "stichworte": [
+        "Station 2",
+        "Hannibal",
+        "Elefant"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum waren Elefanten für die Menschen damals so beeindruckend?",
+        "Was frisst ein Elefant an einem Tag?"
+      ]
+    },
+    {
+      "id": "alpen",
+      "station": 2,
+      "typ": "info",
+      "name": "Der Weg über die Alpen",
+      "lateinisch": "Alpes",
+      "aussprache": "sprich: AL-pes",
+      "bedeutung": null,
+      "fakten": [
+        {
+          "beschriftung": "Wann",
+          "wert": "Herbst 218 v. Chr."
+        },
+        {
+          "beschriftung": "Wer",
+          "wert": "Hannibal mit Heer und Elefanten"
+        },
+        {
+          "beschriftung": "Pass",
+          "wert": "nicht sicher bekannt"
+        },
+        {
+          "beschriftung": "Beliebte Vermutung",
+          "wert": "Col de la Traversette (nicht bewiesen)"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": null,
+      "text": "Im Herbst 218 v. Chr. zog Hannibal mit seinem Heer über die Alpen nach Italien. Ein Marsch durch hohe, kalte Berge, mit Elefanten! Welchen Pass er nahm, wissen Forscher bis heute nicht sicher.",
+      "hinweisUnsicherheit": "Hinweis: Der Weg auf der Seite ist eine Annahme, keine gesicherte Route. Auch die Zahl der Elefanten im Bild ist angenommen.",
+      "stichworte": [
+        "Station 2",
+        "Alpen",
+        "Hannibal"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie kommst du heute mit dem Zug oder Auto über die Alpen?",
+        "Wie würdest du Tiere über einen Berg führen?"
+      ]
+    },
+    {
+      "id": "hafen",
+      "station": 2,
+      "typ": "info",
+      "name": "Der Hafen von Karthago",
+      "lateinisch": "Carthago",
+      "aussprache": "sprich: kar-TAH-go",
+      "bedeutung": null,
+      "fakten": [
+        {
+          "beschriftung": "Lage",
+          "wert": "am Mittelmeer, im heutigen Tunesien"
+        },
+        {
+          "beschriftung": "Kriege mit Rom",
+          "wert": "begannen 264, 218 und 149 v. Chr."
+        },
+        {
+          "beschriftung": "146 v. Chr.",
+          "wert": "Karthago wird zerstört"
+        },
+        {
+          "beschriftung": "Danach",
+          "wert": "das Gebiet wird die römische Provinz Africa"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": null,
+      "text": "Karthago war eine mächtige Hafenstadt am Mittelmeer. Rom und Karthago führten drei Kriege gegeneinander. Die Römer nannten die Karthager „Punier“, darum heißen sie Punische Kriege. Im Jahr 146 v. Chr. wurde Karthago zerstört, viele Überlebende wurden zu Sklaven gemacht.",
+      "hinweisUnsicherheit": "Man erzählt, die Römer hätten Salz auf den Boden Karthagos gestreut, damit nichts mehr wächst. Das stimmt vermutlich nicht: Dafür gibt es keine antike Quelle. Das Bild des Hafens ist erfunden.",
+      "stichworte": [
+        "Station 2",
+        "Karthago",
+        "Hafen"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum waren Häfen für Städte am Meer so wichtig?",
+        "Warum erzählt man sich manchmal Geschichten, die nicht stimmen?"
+      ]
+    },
+    {
+      "id": "corvus",
+      "station": 2,
+      "typ": "info",
+      "name": "Die Enterbrücke",
+      "lateinisch": "corvus",
+      "aussprache": "sprich: KOR-vus",
+      "bedeutung": "Bedeutung: Rabe",
+      "fakten": [
+        {
+          "beschriftung": "Aufbau",
+          "wert": "drehbare Planke mit Eisendorn"
+        },
+        {
+          "beschriftung": "Länge",
+          "wert": "etwa 11 Meter (nach Polybios)"
+        },
+        {
+          "beschriftung": "Wirkung",
+          "wert": "verhakte sich im gegnerischen Schiff"
+        },
+        {
+          "beschriftung": "Zeit",
+          "wert": "Erster Punischer Krieg (264 bis 241), zuerst 260 v. Chr."
+        }
+      ],
+      "wortAusRom": null,
+      "wow": null,
+      "text": "Corvus hieß diese Brücke, das ist lateinisch für Rabe. Sie hing an einem Mast am Bug und ließ sich drehen. Man ließ sie auf ein fremdes Schiff fallen, der Eisendorn hakte sich fest, und man konnte hinüberlaufen. Zieh die Lasche Enterbrücke!",
+      "hinweisUnsicherheit": "Hinweis: Das beschreibt ein antiker Schreiber, Polybios. Wie die Brücke genau gebaut war, wissen wir nicht sicher. Warum sie später verschwand, ist Spekulation.",
+      "stichworte": [
+        "Station 2",
+        "Schiffe",
+        "Punische Kriege"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wozu brauchte man eine Brücke zwischen zwei Schiffen?",
+        "Wie würdest du zwei Schiffe fest verbinden?"
+      ]
+    },
+    {
+      "id": "gans2",
+      "station": 2,
+      "typ": "versteckte Gans",
+      "name": "Die Gans mit der Schärpe",
+      "lateinisch": "anser",
+      "aussprache": "sprich: AN-ser",
+      "bedeutung": "Bedeutung: anser ist das lateinische Wort für Gans",
+      "fakten": [],
+      "wortAusRom": null,
+      "wow": "Nach einer alten Sage haben Gänse auf dem Kapitol die Römer geweckt, als die Gallier kamen.",
+      "text": "Diese Gans trägt eine ausgedachte Schärpe wie ein Senator und hört dem Redner zu. Sie erinnert an eine Sage: Als die Gallier Rom plünderten, sollen Gänse auf dem Kapitol laut geschnattert haben. Die Plünderung ist belegt, die Gänse kennen wir nur aus Erzählungen.",
+      "hinweisUnsicherheit": "Hinweis: Das Jahr ist nicht sicher: um 390 v. Chr. (Varro) oder 387/386 v. Chr. (Livius.org).",
+      "stichworte": [
+        "Station 2",
+        "Gans",
+        "Sage"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "leg_legionaer",
+      "station": 3,
+      "typ": "info",
+      "name": "Legionär",
+      "lateinisch": "miles legionarius",
+      "aussprache": "sprich: MI-les le-gi-o-NA-ri-us",
+      "bedeutung": "Bedeutung: Soldat einer Legion",
+      "fakten": [
+        {
+          "beschriftung": "Einheit",
+          "wert": "Legion mit 10 Kohorten, Sollstärke etwa 5.000 Mann (Kaiserzeit)"
+        },
+        {
+          "beschriftung": "Ausrüstung",
+          "wert": "Helm, Schienenpanzer, Scutum, Gladius, Pilum, Caligae"
+        },
+        {
+          "beschriftung": "Aufgaben",
+          "wert": "kämpfen, aber auch Lager und Mauern bauen"
+        },
+        {
+          "beschriftung": "Im Bild",
+          "wert": "Legionär der frühen Kaiserzeit, 1. Jh. n. Chr."
+        }
+      ],
+      "wortAusRom": {
+        "wort": "miles",
+        "deutsch": "Soldat. Daraus wurde unser Wort „Militär“.",
+        "hinweis": null
+      },
+      "wow": "Ein Legionär trug nicht nur Waffen, sondern auch Säge, Hacke und Korb: Römische Soldaten waren auch Bauleute.",
+      "text": "Legionäre waren die Soldaten einer römischen Legion. Sie mussten kämpfen können, aber auch graben, bauen und schwere Lasten tragen. Mit den fünf Laschen vorn ziehst du diesem Legionär Helm, Panzer, Schwert, Schild und Speer an.",
+      "hinweisUnsicherheit": "Hinweis: Stärke und Ausrüstung der Legionen änderten sich über die Jahrhunderte. Hier siehst du einen Legionär der frühen Kaiserzeit. Viele Bilder zeigen rote Tuniken, ob alle rot waren, ist unsicher.",
+      "stichworte": [
+        "Station 3",
+        "Legion",
+        "miles"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo hast du das Wort „Militär“ schon gehört?",
+        "Was braucht ein Soldat auf einem langen Marsch alles?"
+      ]
+    },
+    {
+      "id": "leg_zenturio",
+      "station": 3,
+      "typ": "info",
+      "name": "Zenturio",
+      "lateinisch": "centurio",
+      "aussprache": "sprich: ken-TU-ri-o",
+      "bedeutung": "Bedeutung: Anführer einer Hundertschaft",
+      "fakten": [
+        {
+          "beschriftung": "Er führt",
+          "wert": "eine Zenturie („Hundertschaft“)"
+        },
+        {
+          "beschriftung": "In Wirklichkeit",
+          "wert": "meist nur etwa 80 Mann"
+        },
+        {
+          "beschriftung": "Helmbusch",
+          "wert": "quer über dem Helm"
+        },
+        {
+          "beschriftung": "Rangzeichen",
+          "wert": "Rebstock, kindgerecht „Rangstab“"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "cohors",
+        "deutsch": "Hof, später ein Truppenteil. Daraus wurde unser Wort „Kohorte“.",
+        "hinweis": null
+      },
+      "wow": "Der Helmbusch quer über dem Helm und der Rangstab zeigten: Hier kommt ein Anführer.",
+      "text": "Ein Zenturio führte eine Zenturie, die „Hundertschaft“. Zehn Kohorten bildeten eine Legion. Der Zenturio trug ein Kettenhemd und einen Helm mit quer sitzendem Busch. In der Hand hielt er einen Stock aus Rebholz als Zeichen seines Ranges.",
+      "hinweisUnsicherheit": "Hinweis: Auch Rangzeichen und Ausrüstung änderten sich mit der Zeit. Hier siehst du einen Zenturio der frühen Kaiserzeit.",
+      "stichworte": [
+        "Station 3",
+        "Zenturio",
+        "Kohorte"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Eine Zenturie hat meist etwa 80 Mann. Wie viele Zenturien wären das bei 480 Mann?"
+      ]
+    },
+    {
+      "id": "leg_aquilifer",
+      "station": 3,
+      "typ": "info",
+      "name": "Adlerträger",
+      "lateinisch": "aquilifer",
+      "aussprache": "sprich: a-kwi-LI-fer",
+      "bedeutung": "Bedeutung: Adlerträger",
+      "fakten": [
+        {
+          "beschriftung": "Er trägt",
+          "wert": "den Legionsadler (Aquila)"
+        },
+        {
+          "beschriftung": "Seit",
+          "wert": "Marius, um 100 v. Chr. (Datum unsicher)"
+        },
+        {
+          "beschriftung": "Bedeutung",
+          "wert": "das Zeichen der ganzen Legion"
+        },
+        {
+          "beschriftung": "Verlust",
+          "wert": "galt als große Schande"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Den Adler der Legion zu verlieren, war für die Soldaten eine große Schande.",
+      "text": "Der Aquilifer trug den Legionsadler auf einer langen Stange. Dieses Zeichen gehörte der ganzen Legion. Wo der Adler hinging, folgten die Soldaten.",
+      "hinweisUnsicherheit": "Hinweis: Wann genau der Adler das einzige Zeichen der Legion wurde, ist unsicher. Meist nennt man die Zeit des Marius, um 100 v. Chr.",
+      "stichworte": [
+        "Station 3",
+        "Adler",
+        "Aquila"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Zeichen, Fahnen oder Wappen kennst du, bei denen man „zusammengehört“?"
+      ]
+    },
+    {
+      "id": "leg_pilum",
+      "station": 3,
+      "typ": "info",
+      "name": "Pilum (Wurfspeer)",
+      "lateinisch": "pilum",
+      "aussprache": "sprich: PI-lum",
+      "bedeutung": "Bedeutung: Wurfspeer",
+      "fakten": [
+        {
+          "beschriftung": "Länge",
+          "wert": "knapp 2 Meter"
+        },
+        {
+          "beschriftung": "Art",
+          "wert": "Wurfspeer"
+        },
+        {
+          "beschriftung": "Aufbau",
+          "wert": "Holzschaft mit langer Eisenspitze, also Holz und Eisen"
+        },
+        {
+          "beschriftung": "Getragen",
+          "wert": "von Legionären, zusammen mit Schild und Schwert"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Ein Pilum war fast so lang, wie eine Tür hoch ist: knapp 2 Meter.",
+      "text": "Das Pilum ist ein Wurfspeer. Der lange Schaft ist aus Holz, die Spitze aus Eisen. Zusammen mit Schild und Schwert gehörte es zur Ausrüstung eines Legionärs. In diesem Buch sind Waffen nur zum Anschauen da.",
+      "hinweisUnsicherheit": "Hinweis: Die Form des Pilums änderte sich über die Jahrhunderte. Hier siehst du eine einfache Form aus der frühen Kaiserzeit.",
+      "stichworte": [
+        "Station 3",
+        "Pilum",
+        "Eisen"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum ist die Spitze aus Eisen und der Schaft aus Holz?"
+      ]
+    },
+    {
+      "id": "leg_gladius",
+      "station": 3,
+      "typ": "info",
+      "name": "Gladius (Kurzschwert)",
+      "lateinisch": "gladius",
+      "aussprache": "sprich: GLA-di-us",
+      "bedeutung": "Bedeutung: Schwert",
+      "fakten": [
+        {
+          "beschriftung": "Länge",
+          "wert": "etwa 60 Zentimeter"
+        },
+        {
+          "beschriftung": "Art",
+          "wert": "Kurzschwert"
+        },
+        {
+          "beschriftung": "Getragen",
+          "wert": "in einer Scheide am Gürtel"
+        },
+        {
+          "beschriftung": "Material",
+          "wert": "Klinge aus Eisen, Griff aus Holz oder Knochen"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Das berühmte Schwert der Legionäre war kurz: nur etwa 60 Zentimeter lang.",
+      "text": "Der Gladius ist das Kurzschwert der Legionäre. Er steckte in einer Scheide am Gürtel. Hier ist er nur zum Anschauen da. Zieh an der Lasche Schwert, dann hängt der Legionär ihn sich um.",
+      "hinweisUnsicherheit": "Hinweis: Es gab im Lauf der Zeit verschiedene Formen des Gladius. Die Länge von etwa 60 Zentimetern ist ein Richtwert.",
+      "stichworte": [
+        "Station 3",
+        "Gladius",
+        "Schwert"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie lang sind 60 Zentimeter? Miss es an deinem Arm oder am Lineal nach."
+      ]
+    },
+    {
+      "id": "leg_scutum",
+      "station": 3,
+      "typ": "info",
+      "name": "Scutum (großer Schild)",
+      "lateinisch": "scutum",
+      "aussprache": "sprich: SKU-tum",
+      "bedeutung": "Bedeutung: Schild",
+      "fakten": [
+        {
+          "beschriftung": "Art",
+          "wert": "großer Schild vor dem Körper"
+        },
+        {
+          "beschriftung": "Material",
+          "wert": "Holz, mit Leder bezogen"
+        },
+        {
+          "beschriftung": "Mitte",
+          "wert": "runder Schildbuckel aus Metall"
+        },
+        {
+          "beschriftung": "Zusammen",
+          "wert": "ergibt die „Schildkröte“ (Testudo)"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Mit vielen Scuta zusammen konnten Soldaten ein Dach aus Schilden bilden.",
+      "text": "Das Scutum war der große Schild der Legionäre. Es war groß und schützte den Körper. In der Mitte sitzt ein runder Buckel aus Metall. Mit dem Schieber Schildkröte stellst du viele Schilde zu einem Dach zusammen.",
+      "hinweisUnsicherheit": "Hinweis: Form und Größe der Schilde änderten sich über die Jahrhunderte. Wie sie bemalt waren, ist nur zum Teil bekannt. Das Muster im Buch ist eine Annahme.",
+      "stichworte": [
+        "Station 3",
+        "Scutum",
+        "Schild"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wozu schützt ein Schild? Welche Schilde kennst du von heute?"
+      ]
+    },
+    {
+      "id": "leg_lorica",
+      "station": 3,
+      "typ": "info",
+      "name": "Schienenpanzer",
+      "lateinisch": "lorica segmentata",
+      "aussprache": "sprich: lo-RI-ka seg-men-TA-ta",
+      "bedeutung": "Bedeutung: Panzer aus Teilstücken",
+      "fakten": [
+        {
+          "beschriftung": "Zeit",
+          "wert": "etwa 1. bis 3. Jh. n. Chr."
+        },
+        {
+          "beschriftung": "Caesars Zeit",
+          "wert": "noch nicht belegt"
+        },
+        {
+          "beschriftung": "Gewicht",
+          "wert": "etwa 6 bis 7 Kilogramm (Schätzung)"
+        },
+        {
+          "beschriftung": "Aufbau",
+          "wert": "Eisenstreifen, mit Lederriemen verbunden"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Der Panzer bestand aus vielen Eisenstreifen und bewegte sich beim Gehen mit.",
+      "text": "Der Schienenpanzer schützte Brust, Rücken und Schultern. Die Streifen aus Eisen sind mit Lederriemen verbunden. So kann sich der Legionär bücken und die Arme heben. Aus der Zeit Caesars kennt man diesen Panzer noch nicht.",
+      "hinweisUnsicherheit": "Hinweis: Der Name „lorica segmentata“ ist neuzeitlich, wie die Römer ihn nannten, wissen wir nicht. Das Gewicht ist eine Schätzung.",
+      "stichworte": [
+        "Station 3",
+        "Panzer",
+        "Eisen"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum besteht der Panzer aus Streifen und nicht aus einem Stück?"
+      ]
+    },
+    {
+      "id": "leg_galea",
+      "station": 3,
+      "typ": "info",
+      "name": "Helm",
+      "lateinisch": "galea",
+      "aussprache": "sprich: GA-le-a",
+      "bedeutung": "Bedeutung: Helm",
+      "fakten": [
+        {
+          "beschriftung": "Schutz",
+          "wert": "Kopf, Nacken und Wangen"
+        },
+        {
+          "beschriftung": "Material",
+          "wert": "Eisen oder Bronze"
+        },
+        {
+          "beschriftung": "Zenturio",
+          "wert": "Helmbusch quer über dem Helm"
+        },
+        {
+          "beschriftung": "Form",
+          "wert": "änderte sich über die Jahrhunderte"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Ein Helm schützte mehr als den Kopf: Klappen an den Seiten und hinten deckten Wangen und Nacken.",
+      "text": "Der Helm der Legionäre hieß Galea. Er bestand aus Metall, zum Beispiel aus Eisen oder Bronze. Unser Helm glänzt wie Bronze. Neben dem Kopf schützte er auch Wangen und Nacken.",
+      "hinweisUnsicherheit": "Hinweis: Helme sahen je nach Zeit und Werkstatt verschieden aus. Dies ist eine einfache Form.",
+      "stichworte": [
+        "Station 3",
+        "Helm",
+        "Galea"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wann trägst du selbst einen Helm, und warum?"
+      ]
+    },
+    {
+      "id": "leg_caligae",
+      "station": 3,
+      "typ": "info",
+      "name": "Nagelsandalen (Caligae)",
+      "lateinisch": "caligae",
+      "aussprache": "sprich: ka-LI-gä",
+      "bedeutung": "Bedeutung: Soldatenstiefel",
+      "fakten": [
+        {
+          "beschriftung": "Art",
+          "wert": "schwere Lederstiefel"
+        },
+        {
+          "beschriftung": "Sohle",
+          "wert": "mit Eisennägeln beschlagen"
+        },
+        {
+          "beschriftung": "Getragen von",
+          "wert": "den Soldaten der Legion"
+        },
+        {
+          "beschriftung": "Aussehen",
+          "wert": "vorn offen, mit Riemen geschnürt"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Kaiser Caligula bekam seinen Spitznamen von diesen Stiefeln: „Caligula“ heißt „Stiefelchen“.",
+      "text": "Die Caligae waren die Schuhe der Legionäre. Sie waren aus festem Leder, und unter der Sohle steckten Eisennägel. Auf langen Märschen musste so ein Schuh viel aushalten.",
+      "hinweisUnsicherheit": "Hinweis: Es gab verschiedene Formen der Caligae. Wie viele Nägel eine Sohle hatte, war unterschiedlich.",
+      "stichworte": [
+        "Station 3",
+        "Caligae",
+        "Schuhe"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie lange könntest du in schweren Lederstiefeln marschieren?"
+      ]
+    },
+    {
+      "id": "leg_marschgepaeck",
+      "station": 3,
+      "typ": "info",
+      "name": "Marschgepäck",
+      "lateinisch": "sarcina",
+      "aussprache": "sprich: sar-KI-na",
+      "bedeutung": "Bedeutung: Bündel, Gepäck",
+      "fakten": [
+        {
+          "beschriftung": "Gewicht",
+          "wert": "etwa 20 bis 40 Kilogramm, so genau weiß man es nicht"
+        },
+        {
+          "beschriftung": "Werkzeug",
+          "wert": "Säge, Korb, Hacke, Beil, Riemen, Haken"
+        },
+        {
+          "beschriftung": "Essen",
+          "wert": "Verpflegung für drei Tage"
+        },
+        {
+          "beschriftung": "Quelle",
+          "wert": "Bericht des Josephus, 1. Jh. n. Chr."
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Das Gepäck eines Legionärs wog vermutlich zwischen 20 und 40 Kilogramm. Das ist viel mehr als ein voller Schulranzen.",
+      "text": "Auf dem Marsch trug jeder Legionär sein Gepäck selbst, meist an einer Stange über der Schulter. Darin steckten Werkzeug zum Bauen, Riemen, Haken und Essen für drei Tage. Hier siehst du eine Auswahl.",
+      "hinweisUnsicherheit": "Hinweis: Wie schwer das Gepäck wirklich war, wissen wir nicht genau. Die Schätzungen reichen von etwa 22 bis 45 Kilogramm.",
+      "stichworte": [
+        "Station 3",
+        "Gepäck",
+        "Marsch"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie schwer ist dein Schulranzen? Was wiegt noch einmal so viel?"
+      ]
+    },
+    {
+      "id": "leg_testudo",
+      "station": 3,
+      "typ": "info",
+      "name": "Schildkröte (Testudo)",
+      "lateinisch": "testudo",
+      "aussprache": "sprich: tes-TU-do",
+      "bedeutung": "Bedeutung: Schildkröte",
+      "fakten": [
+        {
+          "beschriftung": "Was",
+          "wert": "Dach aus dicht gehaltenen Schilden"
+        },
+        {
+          "beschriftung": "Schutz",
+          "wert": "gegen Pfeile"
+        },
+        {
+          "beschriftung": "Auch",
+          "wert": "bei Belagerungen"
+        },
+        {
+          "beschriftung": "Gebaut mit",
+          "wert": "dem Scutum"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "testudo",
+        "deutsch": "Schildkröte. So nannten die Römer das Schilddach.",
+        "hinweis": null
+      },
+      "wow": "Das Schilddach sah aus wie der Panzer einer Schildkröte. Daher der Name.",
+      "text": "Bei der Testudo rückten die Soldaten eng zusammen und hielten die Schilde vor sich und über den Köpfen. So entstand ein Schilddach. Es schützte gegen Pfeile und wurde auch bei Belagerungen benutzt. Schiebe den Schieber Schildkröte und sieh zu.",
+      "hinweisUnsicherheit": "Hinweis: Die alten Berichte beschreiben die Testudo nur kurz. Das Bild im Buch ist eine einfache Vorstellung davon.",
+      "stichworte": [
+        "Station 3",
+        "Testudo",
+        "Schilde"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie sieht ein Dach aus Ziegeln aus? Was haben Ziegel und Schilde gemeinsam?"
+      ]
+    },
+    {
+      "id": "leg_lager",
+      "station": 3,
+      "typ": "info",
+      "name": "Marschlager",
+      "lateinisch": "castra",
+      "aussprache": "sprich: KAS-tra",
+      "bedeutung": "Bedeutung: Lager",
+      "fakten": [
+        {
+          "beschriftung": "Form",
+          "wert": "meist quadratisch"
+        },
+        {
+          "beschriftung": "Schutz",
+          "wert": "Graben und Wall mit Pfählen"
+        },
+        {
+          "beschriftung": "Eingänge",
+          "wert": "vier Tore"
+        },
+        {
+          "beschriftung": "Quelle",
+          "wert": "Bericht des Josephus, 1. Jh. n. Chr."
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Die Legionäre bauten ihr Lager selbst, mit Hacke, Säge und Korb.",
+      "text": "Auf Märschen baute das Heer Lager mit Graben, Wall und Pfählen, meist als Quadrat mit vier Toren. Drinnen standen die Zelte in langen Reihen, in der Mitte das Zelt des Feldherrn. Mit dem Regler Lagerbau siehst du, wie es Stück für Stück entsteht.",
+      "hinweisUnsicherheit": "Hinweis: Der Querschnitt im Buch ist vereinfacht. Echte Lager unterschieden sich je nach Zeit und Gelände.",
+      "stichworte": [
+        "Station 3",
+        "Lager",
+        "Graben"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum liegt der Graben außen und die Zelte innen?"
+      ]
+    },
+    {
+      "id": "gans3",
+      "station": 3,
+      "typ": "versteckte Gans",
+      "name": "Die Gans im Marschlager",
+      "lateinisch": "anser",
+      "aussprache": "sprich: AN-ser",
+      "bedeutung": "Bedeutung: anser ist das lateinische Wort für Gans",
+      "fakten": [],
+      "wortAusRom": null,
+      "wow": "Gefunden! Diese Gans trägt einen Legionärshelm.",
+      "text": "Du hast die Gans hinter dem Zelt in der dritten Reihe gefunden. Sie hat sich einen Legionärshelm aufgesetzt und tut so, als gehörte sie zur Legion. Nach der Sage haben Gänse einmal das Kapitol in Rom gerettet.",
+      "hinweisUnsicherheit": "Hinweis: Das ist eine Sage, überliefert in alten Erzählungen. Sie wird meist auf die Zeit um 390 v. Chr. gelegt. Das Datum ist umstritten.",
+      "stichworte": [
+        "Station 3",
+        "Gans",
+        "Sage"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "caesar",
+      "station": 4,
+      "typ": "info",
+      "name": "Gaius Julius Caesar",
+      "lateinisch": "Gaius Iulius Caesar",
+      "aussprache": "sprich: GAI-us YU-li-us KAI-sar",
+      "bedeutung": "Bedeutung: Caesar war der Beiname seiner Familie",
+      "fakten": [
+        {
+          "beschriftung": "Gallien",
+          "wert": "58 bis 50 v. Chr. von ihm erobert"
+        },
+        {
+          "beschriftung": "Rubikon",
+          "wert": "49 v. Chr. mit dem Heer überschritten"
+        },
+        {
+          "beschriftung": "Amt",
+          "wert": "Feldherr, ab Februar 44 v. Chr. Diktator auf Lebenszeit"
+        },
+        {
+          "beschriftung": "Gestorben",
+          "wert": "15. März 44 v. Chr."
+        }
+      ],
+      "wortAusRom": {
+        "wort": "Caesar",
+        "deutsch": "Beiname einer römischen Familie. Daraus wurde unser Wort „Kaiser“, auch das Wort „Zar“.",
+        "hinweis": null
+      },
+      "wow": "Caesar war nie Kaiser, und trotzdem heißt der Kaiser nach ihm. Auch der Monat Juli ist nach ihm benannt.",
+      "text": "Caesar war ein römischer Feldherr und eroberte in acht Jahren Gallien. 49 v. Chr. führte er sein Heer über den Rubikon, und es kam zum Bürgerkrieg. Er wurde sehr mächtig, war aber nie Kaiser. Am 15. März 44 v. Chr. wurde er von Gegnern ermordet.",
+      "hinweisUnsicherheit": "Hinweis: Seinen Spruch „Der Würfel ist gefallen“ überliefern erst Schriftsteller, die über 100 Jahre später lebten, zum Beispiel Sueton und Plutarch. Ob Caesar das so gesagt hat, ist unsicher. Sein Aussehen und sein roter Mantel sind in diesem Buch eine Zeichnung und eine Annahme.",
+      "stichworte": [
+        "Station 4",
+        "Caesar",
+        "Kaiser",
+        "Julius"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum heißt der Herrscher bei uns „Kaiser“, in Russland früher „Zar“?",
+        "Was meint man heute, wenn jemand „den Rubikon überschreitet“?"
+      ]
+    },
+    {
+      "id": "augustus",
+      "station": 4,
+      "typ": "info",
+      "name": "Augustus",
+      "lateinisch": "Augustus",
+      "aussprache": "sprich: au-GUS-tus",
+      "bedeutung": "Bedeutung: der Erhabene, der Ehrwürdige",
+      "fakten": [
+        {
+          "beschriftung": "Titel „Augustus“",
+          "wert": "seit Januar 27 v. Chr."
+        },
+        {
+          "beschriftung": "Er nannte sich",
+          "wert": "„Princeps“, erster Bürger"
+        },
+        {
+          "beschriftung": "Gestorben",
+          "wert": "14 n. Chr."
+        },
+        {
+          "beschriftung": "Monat",
+          "wert": "Der August ist nach ihm benannt (8 v. Chr.)"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "princeps",
+        "deutsch": "der Erste. Davon kommt unser Wort „Prinz“.",
+        "hinweis": null
+      },
+      "wow": "Nach Caesar heißt der Juli, nach Augustus der August. Zwei Römer stehen bis heute in unserem Kalender.",
+      "text": "Augustus hieß zuerst Octavian und war Caesars Großneffe und Erbe. Nach den Bürgerkriegen regierte er allein und bekam 27 v. Chr. den Titel Augustus. Er nannte sich aber lieber „Princeps“, der erste Bürger. Mit ihm beginnt die Kaiserzeit.",
+      "hinweisUnsicherheit": "Hinweis: Das Wort „Kaiser“ gab es damals noch nicht. Dass ihm ein Senator den Lorbeerkranz aufsetzt, ist eine Szene für dieses Buch.",
+      "stichworte": [
+        "Station 4",
+        "Augustus",
+        "Princeps",
+        "Kaiserzeit"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Monatsnamen kennst du, die von Römern stammen?",
+        "Warum wollte Augustus nicht „König“ heißen, sondern „erster Bürger“?"
+      ]
+    },
+    {
+      "id": "kleopatra",
+      "station": 4,
+      "typ": "info",
+      "name": "Kleopatra",
+      "lateinisch": "Kleopatra VII.",
+      "aussprache": "sprich: kle-o-PA-tra",
+      "bedeutung": "Bedeutung: griechischer Name, „Ruhm des Vaters“",
+      "fakten": [
+        {
+          "beschriftung": "Lebte",
+          "wert": "etwa 69 bis 30 v. Chr."
+        },
+        {
+          "beschriftung": "Herrschaft",
+          "wert": "Königin von Ägypten"
+        },
+        {
+          "beschriftung": "Stadt",
+          "wert": "Alexandria am Mittelmeer"
+        },
+        {
+          "beschriftung": "Besonderes",
+          "wert": "letzte aktive Herrscherin des alten Ägypten"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Kleopatra war die letzte Herrscherin des alten Ägypten, die wirklich regierte. Nach ihr herrschten die Römer.",
+      "text": "Kleopatra war Königin von Ägypten. Sie regierte ein reiches Land und verbündete sich mit mächtigen Römern wie Caesar. Als sie im Jahr 30 v. Chr. starb, wurde Ägypten römisch. Hier trägt sie Diadem und Zepter, wie es einer Herrscherin gehört.",
+      "hinweisUnsicherheit": "Hinweis: Wie Kleopatra wirklich aussah, wissen wir nicht, das Bild im Buch ist eine Zeichnung. Vieles über sie schrieben später ihre römischen Gegner.",
+      "stichworte": [
+        "Station 4",
+        "Kleopatra",
+        "Ägypten"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Herrscherinnen und Herrscher kennst du aus anderen Ländern?"
+      ]
+    },
+    {
+      "id": "rubikon",
+      "station": 4,
+      "typ": "info",
+      "name": "Der Rubikon",
+      "lateinisch": "Rubico",
+      "aussprache": "sprich: RU-bi-kon",
+      "bedeutung": "Bedeutung: ein kleiner Grenzfluss in Norditalien",
+      "fakten": [
+        {
+          "beschriftung": "Jahr",
+          "wert": "49 v. Chr."
+        },
+        {
+          "beschriftung": "Wer",
+          "wert": "Caesar mit seinem Heer"
+        },
+        {
+          "beschriftung": "Grenze",
+          "wert": "Ein Feldherr durfte sein Heer nicht nach Italien führen"
+        },
+        {
+          "beschriftung": "Folge",
+          "wert": "Bürgerkrieg gegen Pompeius und den Senat"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Noch heute sagt man „den Rubikon überschreiten“, wenn man etwas beginnt und nicht mehr zurück kann.",
+      "text": "Der Rubikon war ein kleiner Fluss und galt als Grenze nach Italien. Ein Feldherr durfte sein Heer nicht über diese Grenze führen. Doch im Jahr 49 v. Chr. tat Caesar es trotzdem. Danach gab es Krieg zwischen ihm und seinen Gegnern in Rom.",
+      "hinweisUnsicherheit": "Hinweis: Sicher ist vor allem das Jahr 49 v. Chr., nicht alles andere ist so sicher. Den Spruch „Der Würfel ist gefallen“ überliefern erst Schriftsteller, die über 100 Jahre später lebten, zum Beispiel Sueton und Plutarch. Welcher heutige Bach der Rubikon war, ist unter Fachleuten nicht ganz sicher. Kleidung und Schilde der Soldaten sind eine Annahme.",
+      "stichworte": [
+        "Station 4",
+        "Rubikon",
+        "Caesar",
+        "Bürgerkrieg"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo gibt es in deinem Leben einen Punkt, an dem man „nicht mehr zurück kann“?"
+      ]
+    },
+    {
+      "id": "denar",
+      "station": 4,
+      "typ": "info",
+      "name": "Der Denar",
+      "lateinisch": "denarius",
+      "aussprache": "sprich: de-NA-ri-us",
+      "bedeutung": "Bedeutung: „je zehn“, der Zehner",
+      "fakten": [
+        {
+          "beschriftung": "Metall",
+          "wert": "Silber"
+        },
+        {
+          "beschriftung": "Seit",
+          "wert": "etwa 211 v. Chr."
+        },
+        {
+          "beschriftung": "Hauptmünze",
+          "wert": "bis ins frühe dritte Jahrhundert n. Chr."
+        },
+        {
+          "beschriftung": "Geprägt",
+          "wert": "mit Stempel und Hammer"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "moneta",
+        "deutsch": "Beiname der Göttin Juno. Aus „Juno Moneta“ wurde unser Wort „Münze“.",
+        "hinweis": null
+      },
+      "wow": "Viele Münzen waren wie kleine Plakate: Später ließen Herrscher ihr Gesicht darauf prägen, damit alle sie kannten.",
+      "text": "Der Denar war eine kleine Silbermünze. Man bezahlte damit auf dem Markt, und Soldaten bekamen ihren Sold in Münzen. Der Münzer legte ein Stück Silber zwischen zwei Stempel und schlug mit dem Hammer zu. Vorne war oft ein Kopf zu sehen, hinten ein Bild.",
+      "hinweisUnsicherheit": "Hinweis: Die Münze im Buch ist frei gezeichnet. Sie ist keine Abbildung einer echten Münze.",
+      "stichworte": [
+        "Station 4",
+        "Denar",
+        "Münze",
+        "Geld"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wer ist auf unseren Euro-Münzen abgebildet, und was zeigt die andere Seite?"
+      ]
+    },
+    {
+      "id": "lorbeerkranz",
+      "station": 4,
+      "typ": "info",
+      "name": "Der Lorbeerkranz",
+      "lateinisch": "corona laurea",
+      "aussprache": "sprich: ko-RO-na LAU-re-a",
+      "bedeutung": "Bedeutung: Kranz aus Lorbeer",
+      "fakten": [
+        {
+          "beschriftung": "Pflanze",
+          "wert": "Lorbeer, grün das ganze Jahr"
+        },
+        {
+          "beschriftung": "Bedeutung",
+          "wert": "Zeichen für Sieg und Ehre"
+        },
+        {
+          "beschriftung": "Im Buch",
+          "wert": "27 v. Chr., Lorbeer für Augustus (Bild-Idee)"
+        },
+        {
+          "beschriftung": "Heute",
+          "wert": "bei Siegern und in der Redensart „auf den Lorbeeren ausruhen“"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Wer sich „auf seinen Lorbeeren ausruht“, ruht sich auf einem alten Erfolg aus. Der Spruch kommt vom Lorbeerkranz der Sieger.",
+      "text": "Der Lorbeer war für die Römer ein Zeichen für Sieg und Ehre. Siegreiche Feldherren trugen bei ihrem Triumph einen Lorbeerkranz. Auch Augustus wird oft mit Lorbeer gezeigt. Wenn du die Lasche ziehst, bringt ihm ein Senator den Kranz.",
+      "hinweisUnsicherheit": "Hinweis: Überliefert ist, dass der Senat 27 v. Chr. Lorbeer an Augustus’ Haustür anbringen ließ. Dass ihm ein Senator einen Kranz aufsetzt, ist eine Bild-Idee für dieses Buch.",
+      "stichworte": [
+        "Station 4",
+        "Lorbeer",
+        "Augustus",
+        "Sieg"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo siehst du heute noch Kränze oder Blätter als Zeichen für einen Sieg?"
+      ]
+    },
+    {
+      "id": "gans4",
+      "station": 4,
+      "typ": "versteckte Gans",
+      "name": "Gans mit Lorbeerkranz",
+      "lateinisch": "anser",
+      "aussprache": "sprich: AN-ser",
+      "bedeutung": "Bedeutung: anser ist das lateinische Wort für Gans",
+      "fakten": [],
+      "wortAusRom": null,
+      "wow": "Der Lorbeerkranz war in Rom ein Zeichen für Sieg. Du hast die Gans gefunden, also gehört der Kranz ihr!",
+      "text": "Gefunden! Die Gans hat sich in der Münzwerkstatt versteckt, genau unter dem Stapel mit den Denaren. Auf dem Kopf trägt sie einen Lorbeerkranz wie Augustus. Bei dem Lärm der Hämmer hat sie wohl noch niemand bemerkt.",
+      "hinweisUnsicherheit": null,
+      "stichworte": [
+        "Station 4",
+        "Gans"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Was würdest du als Siegerin oder Sieger auf dem Kopf tragen?"
+      ]
+    },
+    {
+      "id": "h_kolosseum",
+      "station": 5,
+      "typ": "info",
+      "name": "Das Kolosseum",
+      "lateinisch": "Amphitheatrum Flavium",
+      "aussprache": "sprich: am-fi-te-AH-trum FLAH-vi-um",
+      "bedeutung": "Bedeutung: Theater mit Sitzen ringsum, gebaut von den Flavier-Kaisern",
+      "fakten": [
+        {
+          "beschriftung": "Eröffnung",
+          "wert": "80 n. Chr. durch Kaiser Titus"
+        },
+        {
+          "beschriftung": "Zuschauer",
+          "wert": "etwa 50.000 (Schätzung)"
+        },
+        {
+          "beschriftung": "Außenmaße",
+          "wert": "etwa 189 mal 156 Meter"
+        },
+        {
+          "beschriftung": "Höhe",
+          "wert": "etwa 45 bis 48 Meter"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "colossus",
+        "deutsch": "Riesenstatue. Daraus wurde unser Wort „Koloss“.",
+        "hinweis": null
+      },
+      "wow": "Das Kolosseum hieß eigentlich ganz anders, und seinen heutigen Namen verdankt es vermutlich einer Riesenstatue, die daneben stand.",
+      "text": "Das Kolosseum ist ein Amphitheater, ein Oval aus Stein mit Sitzreihen rundherum. Gebaut wurde es ab etwa 72 nach Christus, eröffnet wurde es im Jahr 80. Es hat drei Reihen mit Bögen und oben ein weiteres Geschoss. Hier sahen die Menschen Vorführungen und Spiele, mehr dazu erfährst du, wenn du auf die Arena tippst.",
+      "hinweisUnsicherheit": "Hinweis: Der Baubeginn wird meist um 70 bis 72 angesetzt. Wie viele Menschen hineinpassten, weiß man nicht genau, Schätzungen reichen bis etwa 80.000. Die Höhe wird je nach Quelle mit 45 bis 48 Metern angegeben. Die Riesenstatue stellte wohl Kaiser Nero dar. Das Kolosseum im Buch ist stark vereinfacht und hat deutlich weniger Bögen als das echte.",
+      "stichworte": [
+        "Station 5",
+        "Kolosseum",
+        "Bauwerk"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie lang ist ein Fußballplatz? Wie oft würde er in die 189 Meter des Kolosseums passen?",
+        "Gibt es in deiner Nähe ein Stadion? Wie viele Menschen passen hinein?"
+      ]
+    },
+    {
+      "id": "h_arena",
+      "station": 5,
+      "typ": "info",
+      "name": "Die Arena",
+      "lateinisch": "harena",
+      "aussprache": "sprich: ha-RE-na",
+      "bedeutung": "Bedeutung: Sand",
+      "fakten": [],
+      "wortAusRom": {
+        "wort": "harena",
+        "deutsch": "Sand. Der Boden im Kolosseum war mit Sand bedeckt. Daraus wurde unser Wort „Arena“.",
+        "hinweis": null
+      },
+      "wow": "Das Wort „Arena“ heißt im Lateinischen einfach nur „Sand“.",
+      "text": "In der Arena fanden Vorführungen vor Publikum statt. Es gab hier aber auch Kämpfe auf Leben und Tod, bei denen Menschen starben, und Jagden auf Tiere. Kämpfen mussten oft Sklaven, Kriegsgefangene und Verurteilte, manche Gladiatoren meldeten sich auch freiwillig. Dieses Buch zeigt solche Kämpfe nicht, aber sie gehören zur Geschichte des Kolosseums.",
+      "hinweisUnsicherheit": "Hinweis: Wie oft das vorkam und wie viele Menschen und Tiere dabei starben, wird von Fachleuten unterschiedlich beurteilt. Darum stehen hier keine Zahlen.",
+      "stichworte": [
+        "Station 5",
+        "Kolosseum",
+        "Arena",
+        "Sklaverei"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum zeigt dieses Buch die Kämpfe nicht? Was meinst du dazu?",
+        "Wo siehst du heute Menschen, die vor einem großen Publikum etwas vorführen?"
+      ]
+    },
+    {
+      "id": "h_velarium",
+      "station": 5,
+      "typ": "info",
+      "name": "Das Sonnensegel",
+      "lateinisch": "velarium",
+      "aussprache": "sprich: ve-LAH-ri-um",
+      "bedeutung": "Bedeutung: Sonnensegel",
+      "fakten": [
+        {
+          "beschriftung": "Befestigung",
+          "wert": "an etwa 240 Masten rund um den Rand"
+        },
+        {
+          "beschriftung": "Wer zog es",
+          "wert": "Seeleute"
+        },
+        {
+          "beschriftung": "Wozu",
+          "wert": "Schatten für die Zuschauer"
+        },
+        {
+          "beschriftung": "Im Buch",
+          "wert": "nur 16 Masten, stark vereinfacht"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Das riesige Sonnensegel wurde von Seeleuten bedient, so wie auf einem Schiff.",
+      "text": "Im Sommer brannte die Sonne auf die Sitzreihen. Darum spannte man ein riesiges Sonnensegel über die Zuschauerränge. Es hing an Masten rund um den oberen Rand. Seeleute zogen es mit Seilen auf, so saßen die Zuschauer im Schatten.",
+      "hinweisUnsicherheit": "Hinweis: Wie viel vom Kolosseum das Segel genau bedeckte, ist unklar. Auch Farbe und Muster kennt man nicht, die Streifen im Buch sind ausgedacht.",
+      "stichworte": [
+        "Station 5",
+        "Kolosseum",
+        "Segel"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie schützt du dich selbst im Sommer vor der Sonne?",
+        "Welche modernen Stadien haben ein Dach, das man öffnen und schließen kann?"
+      ]
+    },
+    {
+      "id": "h_pantheon",
+      "station": 5,
+      "typ": "info",
+      "name": "Das Pantheon",
+      "lateinisch": "Pantheon",
+      "aussprache": "sprich: PAN-te-on",
+      "bedeutung": "Bedeutung: Tempel für alle Götter",
+      "fakten": [
+        {
+          "beschriftung": "Entstanden",
+          "wert": "um 120 n. Chr. unter Kaiser Hadrian"
+        },
+        {
+          "beschriftung": "Kuppel innen",
+          "wert": "etwa 43 Meter breit"
+        },
+        {
+          "beschriftung": "Loch oben",
+          "wert": "Oculus, etwa 8 bis 9 Meter breit"
+        },
+        {
+          "beschriftung": "Baustoff",
+          "wert": "Beton, oben mit leichtem Zuschlag"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Die riesige Kuppel ist innen etwa 43 Meter breit, und durch das offene Loch oben fällt das Licht herein.",
+      "text": "Das Pantheon war ein Tempel für viele Götter. Vorne hat es einen Säulengang mit Giebel, dahinter ein Rund mit einer riesigen Kuppel aus Beton. Oben in der Kuppel ist ein offenes Loch, der Oculus. Das Pantheon steht noch heute in Rom.",
+      "hinweisUnsicherheit": "Hinweis: Die genaue Bauzeit ist unsicher, meist wird etwa 118 bis 128 genannt. Ein älterer Bau von Agrippa stand schon vorher an derselben Stelle. Im Buch ist das Pantheon vereinfacht.",
+      "stichworte": [
+        "Station 5",
+        "Pantheon",
+        "Bauwerk",
+        "Beton"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum ist es eine Leistung, eine so große Kuppel ohne Stahl zu bauen?",
+        "Wo gibt es in deiner Stadt eine Kuppel?"
+      ]
+    },
+    {
+      "id": "h_trajanssaeule",
+      "station": 5,
+      "typ": "info",
+      "name": "Die Trajanssäule",
+      "lateinisch": "Columna Traiani",
+      "aussprache": "sprich: ko-LUM-na tra-JAH-ni",
+      "bedeutung": "Bedeutung: Säule des Kaisers Trajan",
+      "fakten": [
+        {
+          "beschriftung": "Höhe",
+          "wert": "etwa 38 Meter mit Sockel"
+        },
+        {
+          "beschriftung": "Geweiht",
+          "wert": "113 n. Chr."
+        },
+        {
+          "beschriftung": "Bilderband",
+          "wert": "läuft in einer Spirale um die Säule"
+        },
+        {
+          "beschriftung": "Thema",
+          "wert": "Kriege gegen die Daker (101 bis 106 n. Chr.)"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Die Bilder auf der Säule erzählen eine ganze Geschichte, wie ein Comic aus Stein.",
+      "text": "Kaiser Trajan ließ die Säule als Siegesdenkmal bauen. Ein Bilderband windet sich in einer Spirale um den Schaft nach oben. Es erzählt von seinen Kriegen gegen die Daker, die im Gebiet des heutigen Rumänien lebten. Nach dem Sieg wurde Dakien eine römische Provinz.",
+      "hinweisUnsicherheit": "Hinweis: Im Buch sind keine Bilder auf der Säule zu sehen, das Band ist nur angedeutet.",
+      "stichworte": [
+        "Station 5",
+        "Trajan",
+        "Denkmal"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Denkmäler kennst du, die an einen Sieg oder ein großes Ereignis erinnern?"
+      ]
+    },
+    {
+      "id": "h_forum",
+      "station": 5,
+      "typ": "info",
+      "name": "Das Forum Romanum",
+      "lateinisch": "Forum Romanum",
+      "aussprache": "sprich: FO-rum ro-MAH-num",
+      "bedeutung": "Bedeutung: der römische Marktplatz",
+      "fakten": [
+        {
+          "beschriftung": "Was war es",
+          "wert": "der wichtigste öffentliche Platz Roms"
+        },
+        {
+          "beschriftung": "Dort fanden statt",
+          "wert": "Versammlungen und Gericht"
+        },
+        {
+          "beschriftung": "Dort gab es",
+          "wert": "Läden und Tempel"
+        },
+        {
+          "beschriftung": "Im Buch",
+          "wert": "ein kleiner, vereinfachter Teil"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "forum",
+        "deutsch": "Marktplatz. Daraus wurde unser Wort „Forum“, ein Ort zum Reden und Austauschen.",
+        "hinweis": null
+      },
+      "wow": "Auf dem Forum konnte man am selben Tag einkaufen, einer Gerichtsverhandlung zuhören und eine Rede erleben.",
+      "text": "Das Forum Romanum war der wichtigste öffentliche Platz in Rom. Hier trafen sich die Menschen zu Versammlungen, vor Gericht und beim Einkaufen. Rund um den Platz standen Läden und Tempel. Im Buch siehst du nur einen kleinen, vereinfachten Teil.",
+      "hinweisUnsicherheit": null,
+      "stichworte": [
+        "Station 5",
+        "Forum",
+        "Marktplatz"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo trifft man sich heute in deiner Stadt, um Dinge zu besprechen?",
+        "Wo hast du das Wort „Forum“ schon gehört?"
+      ]
+    },
+    {
+      "id": "h_marktstand",
+      "station": 5,
+      "typ": "info",
+      "name": "Der Marktstand",
+      "lateinisch": null,
+      "aussprache": null,
+      "bedeutung": "Bedeutung: hier wird verkauft",
+      "fakten": [
+        {
+          "beschriftung": "Verkauft wurde",
+          "wert": "Obst, Gemüse, Krüge, Stoffe"
+        },
+        {
+          "beschriftung": "Bezahlt wurde",
+          "wert": "mit Münzen"
+        },
+        {
+          "beschriftung": "Ort",
+          "wert": "Märkte und Läden rund um das Forum"
+        },
+        {
+          "beschriftung": "Im Buch",
+          "wert": "ausgedacht, kein bestimmter Stand"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Dank der Straßen und Schiffe kamen Waren aus dem ganzen Reich nach Rom.",
+      "text": "Auf dem Markt am Forum gab es Obst, Gemüse, Krüge und Stoffe. Die Händler priesen ihre Waren an, und man feilschte um den Preis. Bezahlt wurde mit Münzen. Viele Waren kamen aus fernen Teilen des Reiches.",
+      "hinweisUnsicherheit": null,
+      "stichworte": [
+        "Station 5",
+        "Markt",
+        "Handel"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Was würdest du auf einem römischen Markt kaufen?",
+        "Was kommt bei uns heute aus fernen Ländern auf den Tisch?"
+      ]
+    },
+    {
+      "id": "h_saenfte",
+      "station": 5,
+      "typ": "info",
+      "name": "Die Sänfte",
+      "lateinisch": "lectica",
+      "aussprache": "sprich: lek-TI-ka",
+      "bedeutung": "Bedeutung: Trage, kleine Liege",
+      "fakten": [
+        {
+          "beschriftung": "Wer saß darin",
+          "wert": "meist wohlhabende Römer"
+        },
+        {
+          "beschriftung": "Wer trug sie",
+          "wert": "meist Sklaven"
+        },
+        {
+          "beschriftung": "Wozu",
+          "wert": "bequem durch die vollen Straßen"
+        },
+        {
+          "beschriftung": "Im Buch",
+          "wert": "nur zwei Träger, vereinfacht"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "In Rom war es richtig voll, denn hier lebten vermutlich eine halbe bis eine Million Menschen.",
+      "text": "Wohlhabende Römer ließen sich in einer Sänfte durch die Stadt tragen. In den engen, vollen Straßen war das bequemer als zu Fuß zu gehen. Die Träger waren meist Sklaven. Sklaverei war ein fester Teil der römischen Gesellschaft: Sklaven gehörten ihren Besitzern und konnten nicht frei über ihr Leben entscheiden.",
+      "hinweisUnsicherheit": "Hinweis: Wie viele Menschen im Römischen Reich Sklaven waren, schätzen Fachleute unterschiedlich.",
+      "stichworte": [
+        "Station 5",
+        "Sänfte",
+        "Sklaverei",
+        "Stadtleben"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie würdest du dich heute durch eine volle Stadt bewegen?",
+        "Was bedeutet es, wenn ein Mensch einem anderen „gehört“?"
+      ]
+    },
+    {
+      "id": "h_meilenstein",
+      "station": 5,
+      "typ": "info",
+      "name": "Der Meilenstein",
+      "lateinisch": "miliarium",
+      "aussprache": "sprich: mi-li-AH-ri-um",
+      "bedeutung": "Bedeutung: Stein für die Meilen",
+      "fakten": [
+        {
+          "beschriftung": "Aufgabe",
+          "wert": "zeigte Entfernungen an der Straße an"
+        },
+        {
+          "beschriftung": "Meile",
+          "wert": "von lateinisch mille passus"
+        },
+        {
+          "beschriftung": "Wörtlich",
+          "wert": "tausend Doppelschritte"
+        },
+        {
+          "beschriftung": "Titelseite",
+          "wert": "dort steht der Goldene Meilenstein"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "mille passus",
+        "deutsch": "tausend Doppelschritte. Daraus wurde unsere „Meile“.",
+        "hinweis": null
+      },
+      "wow": "Der Weg nach Rom war mit Steinen markiert, die den Reisenden sagten, wie weit es noch ist.",
+      "text": "An römischen Straßen standen Steine, die Entfernungen angaben. Das Wort Meile kommt von „mille passus“, tausend Doppelschritte. So einen Stein hast du schon auf der Titelseite gesehen, dort als Goldenen Meilenstein mit Zeitrad. Viele Hauptstraßen liefen auf Rom zu. Daher sagt man bis heute: Alle Wege führen nach Rom.",
+      "hinweisUnsicherheit": "Hinweis: Wie lang eine römische Meile in Metern war, ist hier nicht angegeben. Die Beschriftung des Steins im Buch ist ausgedacht.",
+      "stichworte": [
+        "Station 5",
+        "Meilenstein",
+        "Straße",
+        "Titelseite"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Eine römische Meile hatte tausend Doppelschritte. Wie viele Schritte sind das? Finde heraus, wie viele Meter eine römische Meile hatte.",
+        "Wo findest du heute Entfernungsangaben an der Straße?"
+      ]
+    },
+    {
+      "id": "h_reichskarte",
+      "station": 5,
+      "typ": "info",
+      "name": "Das Reich um das Jahr 117",
+      "lateinisch": "Imperium Romanum",
+      "aussprache": "sprich: im-PE-ri-um ro-MAH-num",
+      "bedeutung": "Bedeutung: Herrschaftsgebiet der Römer",
+      "fakten": [
+        {
+          "beschriftung": "Zeit",
+          "wert": "größte Ausdehnung unter Kaiser Trajan (98 bis 117)"
+        },
+        {
+          "beschriftung": "Im Norden",
+          "wert": "bis Nordengland und zur Rhein-Donau-Grenze"
+        },
+        {
+          "beschriftung": "Im Osten",
+          "wert": "bis zum Euphrat"
+        },
+        {
+          "beschriftung": "Fläche",
+          "wert": "etwa 5 Millionen Quadratkilometer (Schätzung)"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Das Reich war damals etwa 14-mal so groß wie das heutige Deutschland.",
+      "text": "Unter Kaiser Trajan wurde das Reich so groß wie nie zuvor. Es reichte von Britannien bis zum Euphrat. Im Inneren war es vergleichsweise friedlich, diese Zeit nennt man Pax Romana, römischen Frieden. Auf der Karte siehst du das Reich, wie es um das Jahr 117 aussah.",
+      "hinweisUnsicherheit": "Hinweis: Mesopotamien, östlich des Euphrat, gehörte nur von 115 bis 117 dazu. Die Fläche ist eine Schätzung. Die Jahre der Pax Romana, etwa 27 vor Christus bis 180 nach Christus, sind eine Verabredung der Fachleute. Die Grenzen auf der Karte sind stark vereinfacht.",
+      "stichworte": [
+        "Station 5",
+        "Reichskarte",
+        "Trajan",
+        "Pax Romana"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche heutigen Länder siehst du auf der Karte? Zähle ein paar auf.",
+        "Wie weit ist es von Britannien bis zum Euphrat? Schätze mit Hilfe des Kartenmaßstabs."
+      ]
+    },
+    {
+      "id": "h_rom",
+      "station": 5,
+      "typ": "info",
+      "name": "Die Stadt Rom",
+      "lateinisch": "Roma",
+      "aussprache": "sprich: RO-ma",
+      "bedeutung": "Bedeutung: die Hauptstadt des Reiches",
+      "fakten": [
+        {
+          "beschriftung": "Einwohner",
+          "wert": "vermutlich 0,5 bis 1 Million (Schätzung)"
+        },
+        {
+          "beschriftung": "Lesart A",
+          "wert": "etwa 1 Million"
+        },
+        {
+          "beschriftung": "Lesart B",
+          "wert": "etwa 450.000"
+        },
+        {
+          "beschriftung": "Sicher ist",
+          "wert": "eine der größten Städte der Antike"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Vermutlich lebten in Rom zwischen 450.000 und einer Million Menschen, genau weiß das niemand.",
+      "text": "Rom war die Hauptstadt des Reiches und eine riesige Stadt. Vermutlich lebten hier eine halbe bis eine Million Menschen. Genau weiß das niemand, denn aus dieser Zeit gibt es keine sicheren Zahlen. Reiche und Arme, Freie und Sklaven wohnten dicht beieinander.",
+      "hinweisUnsicherheit": "Hinweis: Die meisten Fachleute nehmen etwa eine Million an. Eine bekannte Berechnung kommt auf nur etwa 450.000. Beide Lesarten sind Schätzungen.",
+      "stichworte": [
+        "Station 5",
+        "Rom",
+        "Einwohner"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie viele Einwohner hat deine Stadt? Vergleiche mit Rom."
+      ]
+    },
+    {
+      "id": "gans5",
+      "station": 5,
+      "typ": "versteckte Gans",
+      "name": "Gans mit Reisehut",
+      "lateinisch": "anser",
+      "aussprache": "sprich: AN-ser",
+      "bedeutung": "Bedeutung: Gans",
+      "fakten": [
+        {
+          "beschriftung": "Fundort",
+          "wert": "auf dem Marktstand am Forum"
+        },
+        {
+          "beschriftung": "Gans Nummer",
+          "wert": "5 von 8"
+        },
+        {
+          "beschriftung": "Hut",
+          "wert": "blauer Reisehut"
+        },
+        {
+          "beschriftung": "Sage",
+          "wert": "Gänse retteten das Kapitol"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Der Sage nach haben Gänse einmal Rom gerettet, weil sie laut schnatterten.",
+      "text": "Du hast die Gans vom Forum gefunden! Sie sitzt auf dem Marktstand und trägt einen Reisehut, denn auf Roms Straßen war immer viel los. Nach der Sage warnten Gänse auf dem Kapitol die Römer vor einem nächtlichen Überfall der Gallier. Ob es wirklich so war, weiß man nicht.",
+      "hinweisUnsicherheit": "Hinweis: Das ist eine Sage. Dass die Gallier Rom um 390 vor Christus plünderten (nach anderer Zählung 387 oder 386), gilt als gesichert, die Gänse sind nur überliefert.",
+      "stichworte": [
+        "Station 5",
+        "Gans",
+        "Sage"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Tiere warnen heute bei uns vor Fremden?"
+      ]
+    },
+    {
+      "id": "kind",
+      "station": 6,
+      "typ": "info",
+      "name": "Kind mit Wachstafel",
+      "lateinisch": "tabula cerata",
+      "aussprache": "sprich: TA-bu-la ke-RAH-ta",
+      "bedeutung": "Bedeutung: Wachstafel",
+      "fakten": [
+        {
+          "beschriftung": "Alter",
+          "wert": "Schulbeginn mit etwa 6 bis 7 Jahren"
+        },
+        {
+          "beschriftung": "Schreibzeug",
+          "wert": "Griffel (lateinisch: stilus) und Wachs"
+        },
+        {
+          "beschriftung": "Lehrer",
+          "wert": "der „litterator“, er brachte Lesen und Schreiben bei"
+        },
+        {
+          "beschriftung": "Pflicht?",
+          "wert": "Nein, es gab keine Schulpflicht"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "schola",
+        "deutsch": "freie Zeit, Muße. Daraus wurde unser Wort „Schule“.",
+        "hinweis": null
+      },
+      "wow": "Aufgeschrieben wurde in Wachs: Mit dem flachen Ende des Griffels konnte man alles wieder glatt streichen.",
+      "text": "Ob ein Kind zur Schule ging, hing vom Stand und vom Geld der Familie ab. Die Schulen waren privat, und man musste Schulgeld zahlen. Arme Familien konnten das Schulgeld oft nicht zahlen, und Mädchen gingen seltener zur Schule. Manche Mädchen lernten aber doch Lesen und Schreiben.",
+      "hinweisUnsicherheit": "Hinweis: Genaue Zahlen, wie viele Kinder zur Schule gingen, kennen wir nicht.",
+      "stichworte": [
+        "Station 6",
+        "Schule",
+        "Wachstafel"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Was ist heute anders als in der römischen Schule?",
+        "Wer darf heute in die Schule gehen?"
+      ]
+    },
+    {
+      "id": "wachstafel",
+      "station": 6,
+      "typ": "info",
+      "name": "Die Wachstafel",
+      "lateinisch": "stilus",
+      "aussprache": "sprich: STI-lus",
+      "bedeutung": "Bedeutung: Griffel",
+      "fakten": [
+        {
+          "beschriftung": "Material",
+          "wert": "Holzrahmen mit einer Schicht Wachs"
+        },
+        {
+          "beschriftung": "Spitzes Ende",
+          "wert": "zum Ritzen der Buchstaben"
+        },
+        {
+          "beschriftung": "Flaches Ende",
+          "wert": "zum Glattstreichen"
+        },
+        {
+          "beschriftung": "Zahlen",
+          "wert": "I, V, X, L, C, D und M"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Römische Zahlen sind Striche und Buchstaben: I ist eins, V ist fünf, X ist zehn.",
+      "text": "Mit dem Regler Schultag schreibt der Griffel Zahlen ins Wachs. Ein kleiner Strich vor einer größeren Zahl wird abgezogen: IV heißt vier. Man schrieb aber auch IIII. Beide Schreibweisen waren üblich.",
+      "hinweisUnsicherheit": null,
+      "stichworte": [
+        "Station 6",
+        "Schule",
+        "Zahlen"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie schreibst du 14 mit römischen Zahlen?",
+        "Welche Zahl ist XIX?"
+      ]
+    },
+    {
+      "id": "baecker",
+      "station": 6,
+      "typ": "info",
+      "name": "Der Bäcker",
+      "lateinisch": "pistor",
+      "aussprache": "sprich: PIS-tor",
+      "bedeutung": "Bedeutung: Bäcker (eigentlich: Müller, Stampfer)",
+      "fakten": [
+        {
+          "beschriftung": "Arbeit",
+          "wert": "Mehl mahlen, Teig kneten, Brot backen"
+        },
+        {
+          "beschriftung": "Ofen",
+          "wert": "gemauert, mit Holz geheizt"
+        },
+        {
+          "beschriftung": "Verkauf",
+          "wert": "oft im eigenen Laden an der Straße"
+        },
+        {
+          "beschriftung": "Arbeitskräfte",
+          "wert": "Freie und auch Sklaven"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "In Pompeji gab es viele Bäckereien. Das Brot war ein wichtiges Essen für fast alle.",
+      "text": "In der Bäckerei wurde Teig geknetet und Brot im Ofen gebacken. In vielen Betrieben arbeiteten auch Sklaven. Sie waren nicht frei und bekamen oft keinen Lohn. Das gehörte zum Alltag in römischen Städten.",
+      "hinweisUnsicherheit": "Hinweis: Wie viele Bäckereien genau in Pompeji standen, wird von Fachleuten unterschiedlich gezählt.",
+      "stichworte": [
+        "Station 6",
+        "Bäcker",
+        "Brot"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo kaufst du heute dein Brot?",
+        "Wer arbeitet in einer Bäckerei von heute?"
+      ]
+    },
+    {
+      "id": "haendler",
+      "station": 6,
+      "typ": "info",
+      "name": "Der Händler in der Taberna",
+      "lateinisch": "taberna",
+      "aussprache": "sprich: ta-BER-na",
+      "bedeutung": "Bedeutung: Bude, Laden",
+      "fakten": [
+        {
+          "beschriftung": "Laden",
+          "wert": "ein kleiner Raum zur Straße hin, offen"
+        },
+        {
+          "beschriftung": "Wohnen",
+          "wert": "oft wohnte der Händler gleich dahinter"
+        },
+        {
+          "beschriftung": "Verkauf",
+          "wert": "Öl, Wein, Stoffe, Töpfe, Gemüse"
+        },
+        {
+          "beschriftung": "Nachts",
+          "wert": "mit Holzläden verschlossen"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "taberna",
+        "deutsch": "Bude, Laden. Daraus wurde unser Wort „Taverne“.",
+        "hinweis": null
+      },
+      "wow": "Tagsüber stand die ganze Vorderseite des Ladens offen, wie ein riesiges Schaufenster.",
+      "text": "Tabernae lagen dicht an dicht an der Straße. Tagsüber waren sie weit offen, die Waren standen auf einer Theke. Nachts schloss man sie mit Holzbrettern. Auch Handwerker wie Schmiede arbeiteten in solchen Läden.",
+      "hinweisUnsicherheit": "Hinweis: Die Größe der Läden war sehr verschieden.",
+      "stichworte": [
+        "Station 6",
+        "Laden",
+        "Taverne"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Läden gibt es in deiner Straße?",
+        "Was kauft deine Familie, und wo?"
+      ]
+    },
+    {
+      "id": "imbiss",
+      "station": 6,
+      "typ": "info",
+      "name": "Der Imbiss",
+      "lateinisch": "thermopolium",
+      "aussprache": "sprich: ter-mo-PO-li-um",
+      "bedeutung": "Bedeutung: Ort, an dem Warmes verkauft wird",
+      "fakten": [
+        {
+          "beschriftung": "Aufbau",
+          "wert": "Theke mit eingelassenen Tongefäßen"
+        },
+        {
+          "beschriftung": "Inhalt",
+          "wert": "warme Speisen und Getränke"
+        },
+        {
+          "beschriftung": "Fund",
+          "wert": "in Pompeji 2019 und 2020 freigelegt"
+        },
+        {
+          "beschriftung": "Bilder",
+          "wert": "bemalte Theke mit Tieren, zum Beispiel Enten und Hahn"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Das war das Fast Food der Römer: schnell etwas Warmes und gleich weitergehen.",
+      "text": "Viele Menschen hatten zu Hause keine eigene Küche. Darum aßen sie am Imbiss. Die Speisen standen in großen Tongefäßen, die in die Theke eingelassen waren. Bemalt war die Theke mit bunten Bildern.",
+      "hinweisUnsicherheit": "Hinweis: Unser Bild ist vereinfacht und zeigt nicht den echten Fund.",
+      "stichworte": [
+        "Station 6",
+        "Imbiss",
+        "Essen"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo isst du, wenn es schnell gehen muss?",
+        "Warum hatten viele Römer keine Küche?"
+      ]
+    },
+    {
+      "id": "haus",
+      "station": 6,
+      "typ": "info",
+      "name": "Das Haus mit dem offenen Hof",
+      "lateinisch": "atrium und impluvium",
+      "aussprache": "sprich: AH-tri-um und im-PLU-vi-um",
+      "bedeutung": "Bedeutung: Haupthof und Regenbecken",
+      "fakten": [
+        {
+          "beschriftung": "Atrium",
+          "wert": "offener Haupthof des Hauses"
+        },
+        {
+          "beschriftung": "Impluvium",
+          "wert": "Becken unter der Dachöffnung"
+        },
+        {
+          "beschriftung": "Dach",
+          "wert": "neigt sich nach innen, Regen fließt ins Becken"
+        },
+        {
+          "beschriftung": "Straßenseite",
+          "wert": "wenige Fenster, viel Wand"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Das Dach hatte eine Öffnung: So kam Licht in den Hof, und der Regen füllte das Becken.",
+      "text": "Reiche Familien wohnten in Häusern mit einem Hof in der Mitte. Rings um den Hof lagen die Zimmer. Das Wasser aus dem Becken konnte man im Haus benutzen. Von der Straße aus sah man nur eine schlichte Mauer.",
+      "hinweisUnsicherheit": "Hinweis: In deinem Buch ist das Haus vereinfacht und die Größe der Räume ist angepasst.",
+      "stichworte": [
+        "Station 6",
+        "Haus",
+        "Atrium"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie kommt bei euch Licht ins Haus?",
+        "Wozu kann man Regenwasser nutzen?"
+      ]
+    },
+    {
+      "id": "trittsteine",
+      "station": 6,
+      "typ": "info",
+      "name": "Die Trittsteine",
+      "lateinisch": "lapides",
+      "aussprache": "sprich: LA-pi-des",
+      "bedeutung": "Bedeutung: Steine",
+      "fakten": [
+        {
+          "beschriftung": "Zweck",
+          "wert": "trockene Füße, wenn Wasser in der Straße floss"
+        },
+        {
+          "beschriftung": "Lücken",
+          "wert": "dazwischen fuhren die Wagen"
+        },
+        {
+          "beschriftung": "Wo",
+          "wert": "oft an Kreuzungen"
+        },
+        {
+          "beschriftung": "Höhe",
+          "wert": "höher als die Straße, so blieb man trocken"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Die Räder der Karren passten genau durch die Lücken zwischen den Steinen.",
+      "text": "In den Straßen von Pompeji lief bei Regen oft Wasser, und manchmal auch Schmutz. Darum legte man hohe Steine quer über die Straße. Fußgänger hüpften von Stein zu Stein, Wagen fuhren durch die Lücken.",
+      "hinweisUnsicherheit": "Hinweis: Wie hoch die Steine genau waren, war von Straße zu Straße verschieden. Eine Gesamtzahl der Steine nennen wir nicht.",
+      "stichworte": [
+        "Station 6",
+        "Straße",
+        "Trittsteine"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo hüpfst du heute über Pfützen?",
+        "Warum müssen die Lücken so breit wie ein Wagen sein?"
+      ]
+    },
+    {
+      "id": "thermen",
+      "station": 6,
+      "typ": "info",
+      "name": "Die Thermen",
+      "lateinisch": "thermae",
+      "aussprache": "sprich: TER-me",
+      "bedeutung": "Bedeutung: warme Bäder",
+      "fakten": [
+        {
+          "beschriftung": "Kalt",
+          "wert": "Frigidarium"
+        },
+        {
+          "beschriftung": "Lauwarm",
+          "wert": "Tepidarium"
+        },
+        {
+          "beschriftung": "Heiß",
+          "wert": "Caldarium"
+        },
+        {
+          "beschriftung": "Heizung",
+          "wert": "warme Luft unter dem Boden (Hypokaustum)"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Die Thermen waren Bad, Treffpunkt und Sportplatz in einem.",
+      "text": "In den Thermen traf man Freunde und badete. Eine übliche Reihenfolge war: erst lauwarm, dann heiß, zum Schluss kalt. Die Reihenfolge war aber nicht überall gleich.",
+      "hinweisUnsicherheit": "Hinweis: Wie die Räume genau aufgebaut waren, unterschied sich von Stadt zu Stadt.",
+      "stichworte": [
+        "Station 6",
+        "Thermen",
+        "Baden"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Was machst du im Schwimmbad, und was machten die Römer?",
+        "Warum ist ein kalter Raum nach dem heißen angenehm?"
+      ]
+    },
+    {
+      "id": "brunnen",
+      "station": 6,
+      "typ": "info",
+      "name": "Der Straßenbrunnen",
+      "lateinisch": "fons",
+      "aussprache": "sprich: FONS",
+      "bedeutung": "Bedeutung: Quelle, Brunnen",
+      "fakten": [
+        {
+          "beschriftung": "Wo",
+          "wert": "an Straßenecken"
+        },
+        {
+          "beschriftung": "Wasser",
+          "wert": "kam durch Leitungen in die Stadt"
+        },
+        {
+          "beschriftung": "Wer holte es",
+          "wert": "viele Menschen und Sklaven mit Krügen"
+        },
+        {
+          "beschriftung": "Treffpunkt",
+          "wert": "hier wurde geredet"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Nicht jedes Haus hatte fließendes Wasser, darum standen Brunnen an der Straße.",
+      "text": "An vielen Ecken stand ein Brunnen mit einem steinernen Becken. Man holte Wasser für Küche und Haushalt. Der Brunnen war auch ein Treffpunkt, ein bisschen wie heute eine Bank oder ein Spielplatz.",
+      "hinweisUnsicherheit": "Hinweis: Wie das Wasser genau in die Stadt kam, ist in Station 7 ein Thema.",
+      "stichworte": [
+        "Station 6",
+        "Brunnen",
+        "Wasser"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo kommt dein Wasser zu Hause her?",
+        "Wozu brauchst du am Tag Wasser?"
+      ]
+    },
+    {
+      "id": "hund",
+      "station": 6,
+      "typ": "info",
+      "name": "Achtung, Hund!",
+      "lateinisch": "cave canem",
+      "aussprache": "sprich: KA-we KA-nem",
+      "bedeutung": "Bedeutung: Hüte dich vor dem Hund",
+      "fakten": [
+        {
+          "beschriftung": "Ort",
+          "wert": "im Eingang des Hauses des tragischen Dichters"
+        },
+        {
+          "beschriftung": "Bild",
+          "wert": "ein angeketteter Hund aus Mosaiksteinchen"
+        },
+        {
+          "beschriftung": "Warnung",
+          "wert": "„Hüte dich vor dem Hund“"
+        },
+        {
+          "beschriftung": "Unsere Zeichnung",
+          "wert": "frei nachgemalt, nicht das Original"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Schon vor fast 2.000 Jahren gab es das Schild „Vorsicht, bissiger Hund“, nur eben aus Steinchen.",
+      "text": "Im Eingang eines Hauses in Pompeji liegt ein Mosaik. Es zeigt einen Hund an der Kette. Darunter steht die Warnung. Besucher sollten sich in Acht nehmen. Unser Bild ist eine eigene Zeichnung im Stil dieses Mosaiks.",
+      "hinweisUnsicherheit": null,
+      "stichworte": [
+        "Station 6",
+        "Mosaik",
+        "Hund"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo hängt heute ein Warnschild?",
+        "Warum macht man ein Mosaik und kein Schild aus Holz?"
+      ]
+    },
+    {
+      "id": "graffiti",
+      "station": 6,
+      "typ": "info",
+      "name": "Die Wandkritzelei",
+      "lateinisch": "graffiti",
+      "aussprache": "sprich: gra-FI-ti",
+      "bedeutung": "Bedeutung: eingeritzte Schrift (italienisch: graffiare, kratzen)",
+      "fakten": [
+        {
+          "beschriftung": "Anzahl",
+          "wert": "weit über 10.000 Inschriften (Zahl schwankt)"
+        },
+        {
+          "beschriftung": "Inhalt",
+          "wert": "Grüße, Witze, Wahlaufrufe, Kinderzeichnungen"
+        },
+        {
+          "beschriftung": "Wo",
+          "wert": "auf Hauswänden und Mauern"
+        },
+        {
+          "beschriftung": "Unser Spruch",
+          "wert": "frei erfunden im Stil echter Sprüche"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Die Menschen in Pompeji haben mit dem Griffel an die Wand geschrieben, genau wie manche heute.",
+      "text": "An vielen Wänden stehen kurze Botschaften. Man grüßte Freunde, machte Witze oder warb für einen Kandidaten bei der Wahl. Der Spruch hier heißt sinngemäß: „Gaius war hier. Das Brot schmeckt!“",
+      "hinweisUnsicherheit": "Hinweis: Dieser Spruch ist erfunden. Echte Sprüche klingen ähnlich, wir haben bewusst nur Harmloses gewählt.",
+      "stichworte": [
+        "Station 6",
+        "Graffiti",
+        "Schrift"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Was darf man heute an eine Wand schreiben, und was nicht?",
+        "Was erzählen uns solche Sprüche über das Leben damals?"
+      ]
+    },
+    {
+      "id": "vesuv",
+      "station": 6,
+      "typ": "info",
+      "name": "Der Vesuv und Pompeji",
+      "lateinisch": "mons Vesuvius",
+      "aussprache": "sprich: MONS we-SU-wi-us",
+      "bedeutung": "Bedeutung: der Berg Vesuv",
+      "fakten": [
+        {
+          "beschriftung": "Stadt",
+          "wert": "Pompeji, am Fuß des Berges"
+        },
+        {
+          "beschriftung": "Einwohner",
+          "wert": "etwa 10.000 bis 20.000, je nach Quelle"
+        },
+        {
+          "beschriftung": "Jahr",
+          "wert": "79 n. Chr.: Ausbruch des Vesuvs"
+        },
+        {
+          "beschriftung": "Zeit im Jahr",
+          "wert": "Spätsommer oder Herbst 79"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Weil das Leben hier 79 n. Chr. endete, wissen wir heute so viel über den Alltag der Römer.",
+      "text": "Auf deinem Bild ist der Berg ruhig. Bis zum Jahr 79 n. Chr. kennen wir das Leben in Pompeji. Vieles blieb erhalten, darum können wir es heute erforschen.",
+      "hinweisUnsicherheit": "Hinweis: Das Jahr 79 ist sicher, der genaue Tag nicht: Spätsommer oder Herbst. Ein Fund von 2018 spricht eher für den Herbst.",
+      "stichworte": [
+        "Station 6",
+        "Vesuv",
+        "Pompeji"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum helfen uns Funde aus Pompeji, den Alltag der Römer zu verstehen?"
+      ]
+    },
+    {
+      "id": "gans6",
+      "station": 6,
+      "typ": "versteckte Gans",
+      "name": "Die Gans mit dem roten Kopftuch",
+      "lateinisch": "anser",
+      "aussprache": "sprich: AN-ser",
+      "bedeutung": "Bedeutung: anser ist das lateinische Wort für Gans",
+      "fakten": [],
+      "wortAusRom": null,
+      "wow": "Sie watschelt im Hof des Hauses herum, gleich neben dem Regenbecken.",
+      "text": "Gänse waren Hoftiere. Nach einer Sage haben Gänse einst das Kapitol in Rom gerettet, weil sie Lärm schlugen. Die Gans hier trägt ein rotes Kopftuch und passt auf den Hof auf.",
+      "hinweisUnsicherheit": "Hinweis: Die Sage von den Gänsen auf dem Kapitol ist nicht als Tatsache belegt.",
+      "stichworte": [
+        "Station 6",
+        "Gans"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "aquaedukt",
+      "station": 7,
+      "typ": "info",
+      "name": "Aquädukt",
+      "lateinisch": "aquaeductus",
+      "aussprache": "sprich: a-kwä-DUK-tus",
+      "bedeutung": "Bedeutung: Wasserleitung („Wasser führen“)",
+      "fakten": [
+        {
+          "beschriftung": "In Rom",
+          "wert": "11 Fernleitungen bis 226 n. Chr."
+        },
+        {
+          "beschriftung": "Die erste",
+          "wert": "Aqua Appia, 312 v. Chr."
+        },
+        {
+          "beschriftung": "Pont du Gard",
+          "wert": "etwa 48,8 m hoch, drei Bogenreihen"
+        },
+        {
+          "beschriftung": "Gefälle dort",
+          "wert": "etwa 3,4 cm auf 100 m (gerechnet)"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "aqua + ducere",
+        "deutsch": "Wasser + führen. Daraus wurde „Aquädukt“.",
+        "hinweis": null
+      },
+      "wow": "Das Wasser floss nur bergab, ohne Pumpe. Bei der Leitung zum Pont du Gard sinkt die Rinne auf 100 Metern nur etwa 3 Zentimeter, das ist weniger als eine Handbreit.",
+      "text": "Ein Aquädukt bringt Wasser aus den Bergen in die Stadt. Die Rinne oben ist nur ganz leicht geneigt, damit das Wasser langsam bergab fließt. Wo ein Tal im Weg ist, tragen Bögen die Rinne. Beim Pont du Gard in Frankreich stehen drei Bogenreihen übereinander.",
+      "hinweisUnsicherheit": "Hinweis: Beim Gefälle widersprechen sich die Quellen. Der Baumeister Vitruv empfahl etwa 1 zu 200, gemessen wurden eher 1 zu 3000 bis 1 zu 5000. Im Buch ist die Neigung stark übertrieben. Wann der Pont du Gard gebaut wurde, ist umstritten (um 19 v. Chr. oder Mitte des 1. Jahrhunderts n. Chr.): vor ungefähr 2000 Jahren. Die Bögen im Buch sind vereinfacht.",
+      "stichworte": [
+        "Station 7",
+        "Wasser",
+        "Aquädukt"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum braucht Wasser ein Gefälle, um zu fließen?",
+        "Rechne: Wie viele Zentimeter sinkt die Leitung des Pont du Gard auf einem Kilometer?"
+      ]
+    },
+    {
+      "id": "strasse",
+      "station": 7,
+      "typ": "info",
+      "name": "Römische Straße",
+      "lateinisch": "via strata",
+      "aussprache": "sprich: WI-a STRAH-ta",
+      "bedeutung": "Bedeutung: gepflasterter Weg",
+      "fakten": [
+        {
+          "beschriftung": "Unten",
+          "wert": "statumen: faustgroße Steine"
+        },
+        {
+          "beschriftung": "Darüber",
+          "wert": "rudus: Steinbrocken mit Kalk"
+        },
+        {
+          "beschriftung": "Dann",
+          "wert": "nucleus: eine feinere Schicht"
+        },
+        {
+          "beschriftung": "Oben",
+          "wert": "pavimentum: Platten"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "via strata",
+        "deutsch": "gepflasterter Weg. Daraus wurde „Straße“.",
+        "hinweis": null
+      },
+      "wow": "Die Römer hatten schätzungsweise 300.000 Kilometer Straßen. Wo sie genau verliefen, weiß man nur bei etwa 8.000 Kilometern.",
+      "text": "Eine Straße bestand aus mehreren Lagen. Unten liegen große Steine, darüber Steinbrocken mit Kalk, dann eine feinere Schicht und ganz oben Platten. Gebaut haben die Straßen Soldaten, Handwerker und Sklaven. Zieh den Schieber „Straßenschichten“ und bau mit!",
+      "hinweisUnsicherheit": "Hinweis: Das ist ein Idealschema, die Namen der Lagen kennen wir von Vitruv, der damit eigentlich Fußböden beschreibt; Forscher übertragen sie auf Straßen. Viele Straßen waren einfacher gebaut. Die Zahlen zum Straßennetz sind Schätzungen.",
+      "stichworte": [
+        "Station 7",
+        "Straße",
+        "Schichten"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum liegen unten die größten Steine?",
+        "Welche Lage heißt pavimentum, und was liegt direkt darunter?"
+      ]
+    },
+    {
+      "id": "tretradkran",
+      "station": 7,
+      "typ": "info",
+      "name": "Tretradkran",
+      "lateinisch": "Kran mit Laufrad",
+      "aussprache": null,
+      "bedeutung": "Bedeutung: Ein Mensch läuft im Rad und hebt die Last",
+      "fakten": [
+        {
+          "beschriftung": "Antrieb",
+          "wert": "Mensch im Laufrad"
+        },
+        {
+          "beschriftung": "Mit Tretrad",
+          "wert": "etwa 6 Tonnen (Schätzung)"
+        },
+        {
+          "beschriftung": "Flaschenzug mit Winde",
+          "wert": "etwa 3 Tonnen (Schätzung)"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Mit dem Tretrad ließ sich nach Schätzung etwa doppelt so viel heben wie mit einem Flaschenzug mit Winde.",
+      "text": "Im Tretradkran läuft ein Mensch im Inneren eines großen Holzrades. Das Rad dreht eine Welle, das Seil wickelt sich auf, und die Last steigt nach oben. Solche Kräne gab es auf Baustellen. Dreh an der Kurbel „Tretrad“ und sieh zu!",
+      "hinweisUnsicherheit": "Hinweis: Zum Tretradkran haben wir nur eine einzige Quelle gefunden (Wikipedia), die Tonnen sind Schätzungen. Wie genau römische Kräne gebaut waren, ist unsicher. Unsere Zeichnung ist vereinfacht.",
+      "stichworte": [
+        "Station 7",
+        "Kran",
+        "Technik"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum wird das Heben leichter, wenn man ein Rad dreht, statt nur zu ziehen?",
+        "Wo siehst du heute Kräne? Wie werden sie angetrieben?"
+      ]
+    },
+    {
+      "id": "moertel",
+      "station": 7,
+      "typ": "info",
+      "name": "Mörtelwanne",
+      "lateinisch": "opus caementicium",
+      "aussprache": "sprich: O-pus kä-men-TI-ki-um",
+      "bedeutung": "Bedeutung: römischer Beton",
+      "fakten": [
+        {
+          "beschriftung": "Zutaten",
+          "wert": "gebrannter Kalk, Vulkanasche (Puzzolan), Wasser"
+        },
+        {
+          "beschriftung": "Vulkanasche",
+          "wert": "zum Beispiel aus Pozzuoli"
+        },
+        {
+          "beschriftung": "Kalk gebrannt bei",
+          "wert": "etwa 900 °C"
+        },
+        {
+          "beschriftung": "Abbinden",
+          "wert": "bei reinem Kalk: dauert lange"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Römischer Beton enthielt Vulkanasche, und manche Bauwerke daraus stehen nach fast 2.000 Jahren noch.",
+      "text": "In der Wanne rührt ein Arbeiter Mörtel an. Dafür braucht er gebrannten Kalk, Vulkanasche und Wasser. Die Masse wird hart wie Stein. Mit der Lasche „Beton“ siehst du die Zutaten nacheinander.",
+      "hinweisUnsicherheit": "Hinweis: Ob und welche Steinbrocken dazukamen, steht in unseren Quellen nicht ausdrücklich, darum sagen wir hier „Mörtel“. Forscher einer MIT-Studie (2023) vermuten, dass Kalkeinschlüsse Risse im Römerbeton wieder verschließen können (im Labor nach zwei Wochen). Ob das allein die Haltbarkeit erklärt, ist offen.",
+      "stichworte": [
+        "Station 7",
+        "Beton",
+        "Mörtel"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche drei Zutaten braucht römischer Mörtel?",
+        "Warum ist ein Baustoff, der Jahrhunderte hält, gut für die Umwelt?"
+      ]
+    },
+    {
+      "id": "kalkkreislauf",
+      "station": 7,
+      "typ": "info",
+      "name": "Der Kalkkreislauf",
+      "lateinisch": "Kalk brennen, löschen, abbinden",
+      "aussprache": null,
+      "bedeutung": "Bedeutung: aus Kalkstein wird Mörtel, und der wird an der Luft wieder zu Calciumcarbonat",
+      "fakten": [
+        {
+          "beschriftung": "1 Brennen",
+          "wert": "CaCO<sub>3</sub> → CaO + CO<sub>2</sub> (etwa 900 °C)"
+        },
+        {
+          "beschriftung": "2 Löschen",
+          "wert": "CaO + H<sub>2</sub>O → Ca(OH)<sub>2</sub> (viel Wärme!)"
+        },
+        {
+          "beschriftung": "3 Abbinden",
+          "wert": "Ca(OH)<sub>2</sub> + CO<sub>2</sub> → CaCO<sub>3</sub> + H<sub>2</sub>O (dauert lange)"
+        },
+        {
+          "beschriftung": "Achtung",
+          "wert": "Nicht zu Hause nachmachen! Gebrannter Kalk ätzt."
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Beim Kalkmörtel entsteht am Ende wieder Calciumcarbonat, derselbe Stoff wie Kalkstein. Das Gas CO<sub>2</sub> wird dabei erst frei und später wieder eingebaut.",
+      "text": "Kalkstein wird heiß gebrannt. Dabei entweicht das Gas Kohlenstoffdioxid, und gebrannter Kalk bleibt übrig. Mit Wasser wird er zu gelöschtem Kalk, und das wird richtig warm. An der Luft nimmt der gelöschte Kalk wieder Kohlenstoffdioxid auf und wird zu Kalkstein. Beim Römerbeton reagiert zusätzlich die Vulkanasche mit.",
+      "hinweisUnsicherheit": "Hinweis: Nicht zu Hause nachmachen! Gebrannter Kalk ätzt, besonders die Augen, und reagiert heftig mit Wasser. Das Schaubild erklärt nur, was passiert; es ist keine Bastelanleitung. Ob Kalkeinschlüsse Risse im Römerbeton heilen und ob das die Haltbarkeit erklärt, ist neuere Forschung und offen.",
+      "stichworte": [
+        "Station 7",
+        "Chemie",
+        "Kalk"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Schreibe den Kreislauf als Schaubild auf: Welcher Stoff entsteht in jedem Schritt?",
+        "Welche der Stoffe sind Gase, Feststoffe oder Flüssigkeiten?",
+        "Warum ist das Löschen von gebranntem Kalk gefährlich?"
+      ]
+    },
+    {
+      "id": "hypokaustum",
+      "station": 7,
+      "typ": "info",
+      "name": "Hypokaustum",
+      "lateinisch": "hypocaustum",
+      "aussprache": "sprich: hü-po-KAUS-tum",
+      "bedeutung": "Bedeutung: die Fußbodenheizung der Römer",
+      "fakten": [
+        {
+          "beschriftung": "Aufbau",
+          "wert": "Hohlboden auf Ziegelpfeilern"
+        },
+        {
+          "beschriftung": "Wärme",
+          "wert": "heiße Luft und Rauchgase vom Ofen strömen darunter"
+        },
+        {
+          "beschriftung": "Wände",
+          "wert": "warme Luft zieht auch durch Kanäle in der Wand"
+        },
+        {
+          "beschriftung": "Im Bad",
+          "wert": "frigidarium kalt, tepidarium lauwarm, caldarium heiß"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Der ganze Boden wurde von unten warm, und die Wände auch.",
+      "text": "In einem Ofen brennt Feuer. Die heiße Luft strömt unter den Boden, der auf vielen kleinen Ziegelpfeilern steht. Von dort zieht sie in Kanälen die Wände hoch. So wurden römische Bäder warm. Zieh die Lasche „Fußbodenheizung“ und sieh die Wärme strömen!",
+      "hinweisUnsicherheit": "Hinweis: Im Buch ist die Wärme nur als bunte Wellen gemalt, damit man sie sieht. Die Reihenfolge der Baderäume war nicht überall gleich; „erst lauwarm, dann heiß, zum Schluss kalt“ war eine übliche Abfolge.",
+      "stichworte": [
+        "Station 7",
+        "Heizung",
+        "Thermen"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum steigt warme Luft nach oben?",
+        "Wie heizt deine Schule oder deine Wohnung?"
+      ]
+    },
+    {
+      "id": "bleirohr",
+      "station": 7,
+      "typ": "info",
+      "name": "Bleirohr",
+      "lateinisch": "plumbum",
+      "aussprache": "sprich: PLUM-bum",
+      "bedeutung": "Bedeutung: Blei",
+      "fakten": [
+        {
+          "beschriftung": "Zeichen",
+          "wert": "Pb (von plumbum)"
+        },
+        {
+          "beschriftung": "Leitungswasser in Rom",
+          "wert": "enthielt mehr Blei als Quellwasser"
+        },
+        {
+          "beschriftung": "Einschätzung",
+          "wert": "wohl nicht gefährlich viel"
+        },
+        {
+          "beschriftung": "Warnung",
+          "wert": "Vitruv warnte vor Bleirohren"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "plumbum",
+        "deutsch": "Blei. Daher das Zeichen Pb. Auch das englische „plumber“ (Klempner) hat diese Wurzel.",
+        "hinweis": null
+      },
+      "wow": "Das chemische Zeichen Pb für Blei kommt vom lateinischen plumbum.",
+      "text": "In Rom floss das Wasser auch durch Rohre aus Blei. Forscher fanden im Leitungswasser mehr Blei als im Quellwasser, aber wohl nicht gefährlich viel. Wahrscheinlich schützte eine Kalkschicht im Rohr. Ganz sicher ist das nicht, und der Baumeister Vitruv warnte trotzdem vor Bleirohren.",
+      "hinweisUnsicherheit": "Hinweis: Die Forschung ist sich nicht ganz einig. „Die Bleivergiftung ließ Rom untergehen“ gilt als zu einfach. Die Kalkschicht als Schutz ist eine Vermutung.",
+      "stichworte": [
+        "Station 7",
+        "Blei",
+        "Wasser"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wofür steht das Zeichen Pb im Periodensystem?",
+        "Warum nimmt man heute für Trinkwasser keine Bleirohre mehr?"
+      ]
+    },
+    {
+      "id": "glasblaeserpfeife",
+      "station": 7,
+      "typ": "info",
+      "name": "Glasbläserpfeife",
+      "lateinisch": "Glasblasen",
+      "aussprache": null,
+      "bedeutung": "Bedeutung: ein langes Rohr, mit dem man Glas aufbläst",
+      "fakten": [
+        {
+          "beschriftung": "Glasblasen",
+          "wert": "etwa um 50 v. Chr."
+        },
+        {
+          "beschriftung": "Wo",
+          "wert": "im östlichen Mittelmeerraum"
+        },
+        {
+          "beschriftung": "Danach",
+          "wert": "billiges Alltagsglas"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Erst seit dem Glasblasen gab es billiges Glas für den Alltag.",
+      "text": "Der Glasbläser bläst durch eine lange Pfeife in einen glühenden Glasklumpen. Der Klumpen wird zu einem Gefäß, so ähnlich wie ein Luftballon. Mit dieser Erfindung wurde Glas billig.",
+      "hinweisUnsicherheit": "Hinweis: „Um 50 v. Chr.“ ist eine ungefähre Zeitangabe. Wie eine römische Glaswerkstatt genau aussah, zeigen wir vereinfacht.",
+      "stichworte": [
+        "Station 7",
+        "Glas",
+        "Handwerk"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Dinge in deinem Zimmer sind aus Glas?",
+        "Warum ist Glas durchsichtig?"
+      ]
+    },
+    {
+      "id": "ziegel",
+      "station": 7,
+      "typ": "info",
+      "name": "Ziegel",
+      "lateinisch": "tegula",
+      "aussprache": "sprich: TE-gu-la",
+      "bedeutung": "Bedeutung: Dachziegel",
+      "fakten": [
+        {
+          "beschriftung": "Wort",
+          "wert": "aus tegula wurde „Ziegel“"
+        },
+        {
+          "beschriftung": "Herstellung",
+          "wert": "Lehm formen und im Ofen brennen"
+        },
+        {
+          "beschriftung": "Verwendung",
+          "wert": "Dächer und Pfeiler der Fußbodenheizung"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "tegula",
+        "deutsch": "Dachziegel. Daraus wurde „Ziegel“.",
+        "hinweis": null
+      },
+      "wow": "Dein Wort „Ziegel“ ist ein Wort aus Rom.",
+      "text": "Ziegel werden aus feuchtem Ton oder Lehm geformt und dann im Ofen gebrannt. Dadurch werden sie hart und halten Wind und Regen aus. Die Römer deckten Dächer damit und bauten Pfeiler für die Fußbodenheizung. Das Wort kommt vom lateinischen tegula.",
+      "hinweisUnsicherheit": "Hinweis: Wie Ziegel genau hergestellt wurden, zeigen wir stark vereinfacht.",
+      "stichworte": [
+        "Station 7",
+        "Ziegel",
+        "Wort aus Rom"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Woraus sind die Dachziegel auf deinem Haus oder deiner Schule?",
+        "Welches Wort aus dieser Station stammt noch aus dem Lateinischen: „Straße“, „Aquädukt“ oder beide?"
+      ]
+    },
+    {
+      "id": "gans7",
+      "station": 7,
+      "typ": "versteckte Gans",
+      "name": "Die Gans mit dem Strohhut",
+      "lateinisch": "anser",
+      "aussprache": "sprich: AN-ser",
+      "bedeutung": "Bedeutung: anser ist das lateinische Wort für Gans",
+      "fakten": [],
+      "wortAusRom": null,
+      "wow": "Von ganz oben auf dem Aquädukt sieht die Gans das ganze Wasser fließen.",
+      "text": "Die Gans sitzt hoch oben auf der obersten Bogenreihe und trägt einen Strohhut gegen die Morgensonne. Nach einer Sage haben Gänse einst das Kapitol in Rom gerettet.",
+      "hinweisUnsicherheit": "Hinweis: Die Sage von den Gänsen auf dem Kapitol ist nicht als Tatsache belegt.",
+      "stichworte": [
+        "Station 7",
+        "Gans"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "limes",
+      "station": 8,
+      "typ": "info",
+      "name": "Der Limes am Niederrhein",
+      "lateinisch": "limes",
+      "aussprache": "sprich: LI-mes",
+      "bedeutung": "Bedeutung: Grenzweg, Grenze",
+      "fakten": [
+        {
+          "beschriftung": "Länge",
+          "wert": "rund 400 Kilometer am Rhein"
+        },
+        {
+          "beschriftung": "Grenze",
+          "wert": "der Fluss selbst, die „nasse Grenze“, keine Mauer"
+        },
+        {
+          "beschriftung": "Welterbe",
+          "wert": "seit 2021 von der UNESCO anerkannt"
+        },
+        {
+          "beschriftung": "Heute",
+          "wert": "viele Spuren liegen unter Feldern und Städten"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "limes",
+        "deutsch": "Grenzweg, später Grenze. Das Wort „Limes“ benutzen wir bis heute.",
+        "hinweis": null
+      },
+      "wow": "Am Rhein gab es keine Mauer. Der breite Fluss war die Grenze, und Kastelle und Wachtürme am Ufer passten auf.",
+      "text": "Der Limes war eine Grenze des Römischen Reiches. Hier am Niederrhein verlief sie am Fluss. Soldaten in Kastellen und Türmen beobachteten das Ufer, kontrollierten Waren und Reisende und holten bei Bedarf Hilfe.",
+      "hinweisUnsicherheit": "Hinweis: Wie viele Bauwerke genau zum Welterbe gehören, zählt die UNESCO je nach Dokument etwas anders.",
+      "stichworte": [
+        "Limes",
+        "Rhein",
+        "Welterbe"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum ist ein Fluss eine gute Grenze?",
+        "Welche Grenzen kennst du heute, die ein Fluss bildet?"
+      ]
+    },
+    {
+      "id": "wachturm",
+      "station": 8,
+      "typ": "info",
+      "name": "Wachturm",
+      "lateinisch": "turris",
+      "aussprache": "sprich: TUR-ris",
+      "bedeutung": "Bedeutung: Turm",
+      "fakten": [
+        {
+          "beschriftung": "Aufgabe",
+          "wert": "Ufer und Fluss beobachten"
+        },
+        {
+          "beschriftung": "Abstand",
+          "wert": "die Türme standen in Sichtweite"
+        },
+        {
+          "beschriftung": "Besatzung",
+          "wert": "Soldaten aus dem nahen Kastell"
+        },
+        {
+          "beschriftung": "Signale",
+          "wert": "Feuer, Rauch oder Horn"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Wenn ein Turm ein Signal sah, konnte das nächste es weitergeben, und das Kastell wusste schnell Bescheid.",
+      "text": "Von oben sahen die Wachen weit über den Fluss. Entdeckten sie etwas, gaben sie ein Zeichen. Dann machten sich Soldaten aus dem Kastell auf den Weg. Zieh die Lasche Wachturm, dann leuchtet das Signalfeuer.",
+      "hinweisUnsicherheit": "Hinweis: Mit welchen Signalen die Türme am Rhein genau arbeiteten, sagen die Quellen unterschiedlich: Rauch, Horn oder Feuer. Die Zahlen für den Limes in Süddeutschland gelten hier nicht.",
+      "stichworte": [
+        "Limes",
+        "Wachturm",
+        "Signal"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie würdest du heute ein Warnsignal über weite Strecken weitergeben?"
+      ]
+    },
+    {
+      "id": "xanten",
+      "station": 8,
+      "typ": "info",
+      "name": "Legionslager bei Xanten",
+      "lateinisch": "Vetera",
+      "aussprache": "sprich: WE-te-ra",
+      "bedeutung": "Bedeutung: „die alten (Lager)“",
+      "fakten": [
+        {
+          "beschriftung": "Lager",
+          "wert": "Vetera auf dem Fürstenberg, seit etwa 13 bis 12 v. Chr."
+        },
+        {
+          "beschriftung": "Stadt",
+          "wert": "Colonia Ulpia Traiana, Stadtrecht um 100 n. Chr."
+        },
+        {
+          "beschriftung": "Heute",
+          "wert": "Archäologischer Park Xanten, du kannst ihn besuchen"
+        },
+        {
+          "beschriftung": "Lage",
+          "wert": "am Niederrhein"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Auf dem Fürstenberg stand ein großes Legionslager, und später wuchs in der Nähe eine Stadt mit Mauer, Tempeln und Amphitheater.",
+      "text": "Bei Xanten lag eines der großen Legionslager am Rhein. In der Nähe bekam um das Jahr 100 eine römische Stadt ihre Stadtrechte. Das Bild im Buch ist stark vereinfacht. Heute kannst du im Archäologischen Park spazieren gehen.",
+      "hinweisUnsicherheit": "Hinweis: Das Lager und die Stadt lagen an verschiedenen Stellen. Im Buch stehen sie vereinfacht nebeneinander. Die Jahreszahlen sind ungefähre Angaben.",
+      "stichworte": [
+        "Xanten",
+        "Legionslager",
+        "Colonia"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie weit ist es von deinem Wohnort bis zum Archäologischen Park Xanten?",
+        "Was würdest du dort suchen?"
+      ]
+    },
+    {
+      "id": "koeln",
+      "station": 8,
+      "typ": "info",
+      "name": "Köln",
+      "lateinisch": "Colonia Claudia Ara Agrippinensium",
+      "aussprache": "sprich: ko-LO-ni-a KLAU-di-a A-ra a-grip-pi-NEN-si-um",
+      "bedeutung": "Bedeutung: Kolonie des Claudius beim Altar der Agrippinenser",
+      "fakten": [
+        {
+          "beschriftung": "Stadtrecht",
+          "wert": "um 50 n. Chr."
+        },
+        {
+          "beschriftung": "Name",
+          "wert": "nach Agrippina der Jüngeren, die dort geboren wurde"
+        },
+        {
+          "beschriftung": "Davor",
+          "wert": "Siedlung und Altar der Ubier (Ara Ubiorum)"
+        },
+        {
+          "beschriftung": "Heute",
+          "wert": "Köln, Großstadt am Rhein"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "colonia",
+        "deutsch": "Siedlung, Pflanzstadt. Daraus wurde der Name „Köln“.",
+        "hinweis": null
+      },
+      "wow": "Der Name „Köln“ steckt schon im langen römischen Stadtnamen: Colonia.",
+      "text": "Um das Jahr 50 bekam Köln das römische Stadtrecht und hieß nun Colonia. Es war eine der großen Städte am Rhein. Von der Mauer und den Straßen finden Forscher bis heute Reste unter der heutigen Stadt.",
+      "hinweisUnsicherheit": "Hinweis: Warum die Stadt gerade damals aufgewertet wurde, ist nicht ganz sicher. Das Bild im Buch ist eine vereinfachte Papierstadt.",
+      "stichworte": [
+        "Köln",
+        "Colonia",
+        "Stadt"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo siehst du in Köln heute noch etwas Römisches?"
+      ]
+    },
+    {
+      "id": "schiff",
+      "station": 8,
+      "typ": "info",
+      "name": "Handelsschiff",
+      "lateinisch": "navis",
+      "aussprache": "sprich: NA-wis",
+      "bedeutung": "Bedeutung: Schiff",
+      "fakten": [
+        {
+          "beschriftung": "Antrieb",
+          "wert": "Ruder und Segel, oft auch Treideln vom Ufer"
+        },
+        {
+          "beschriftung": "Ladung im Bild",
+          "wert": "Krüge und Fässer als Beispiele"
+        },
+        {
+          "beschriftung": "Strecke",
+          "wert": "auf dem Rhein flussabwärts Richtung Meer"
+        },
+        {
+          "beschriftung": "Wichtig",
+          "wert": "Der Fluss war die Hauptstraße der Provinz"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Auf dem Wasser kamen schwere Lasten viel leichter voran als auf einem Karren über Land.",
+      "text": "Der Rhein war eine wichtige Handelsstraße. Auf Schiffen wie diesem reisten Waren, Soldatenvorräte und Menschen. Mit dem Schieber Rheinschiff fährt es flussabwärts bis zum Hafen.",
+      "hinweisUnsicherheit": "Hinweis: Das Schiff im Buch ist eine vereinfachte Zeichnung. Welche Waren genau transportiert wurden, wissen wir nicht für jede Fahrt.",
+      "stichworte": [
+        "Schiff",
+        "Handel",
+        "Rhein"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum fahren auch heute noch viele Schiffe auf dem Rhein?"
+      ]
+    },
+    {
+      "id": "haendler",
+      "station": 8,
+      "typ": "info",
+      "name": "Germanischer Händler",
+      "lateinisch": "Germani",
+      "aussprache": "sprich: ger-MA-ni",
+      "bedeutung": "Bedeutung: die Germanen",
+      "fakten": [
+        {
+          "beschriftung": "Wer",
+          "wert": "Freie Germanen lebten östlich des Rheins"
+        },
+        {
+          "beschriftung": "Austausch",
+          "wert": "an den Übergängen wurde getauscht und gehandelt"
+        },
+        {
+          "beschriftung": "Kontrolle",
+          "wert": "Soldaten achteten auf Verkehr und Zoll"
+        },
+        {
+          "beschriftung": "Waren",
+          "wert": "im Bild nur ein Korb als Beispiel"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Über die Grenze liefen nicht nur Soldaten: Es gab auch Handel, Tausch und Besuche.",
+      "text": "Die Grenze trennte nicht alles. An bestimmten Stellen trafen sich Menschen von beiden Seiten und tauschten Waren. Die Römer kontrollierten dabei den Verkehr. Hier siehst du einen germanischen Händler im friedlichen Austausch mit einem Römer.",
+      "hinweisUnsicherheit": "Hinweis: Welche Waren genau getauscht wurden, ist nur unsicher bekannt. Darum zeigt das Bild nur einen Korb als Beispiel.",
+      "stichworte": [
+        "Germanen",
+        "Handel",
+        "Grenze"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Was könnte man früher getauscht haben?",
+        "Wo tauscht oder handelt ihr heute?"
+      ]
+    },
+    {
+      "id": "inschrift",
+      "station": 8,
+      "typ": "info",
+      "name": "Inschriftenstein",
+      "lateinisch": "inscriptio",
+      "aussprache": "sprich: in-SKRIP-ti-o",
+      "bedeutung": "Bedeutung: Inschrift, Beschriftung",
+      "fakten": [
+        {
+          "beschriftung": "Material",
+          "wert": "Stein, in den Buchstaben gemeißelt sind"
+        },
+        {
+          "beschriftung": "Inhalt",
+          "wert": "oft Namen, Truppe oder ein Dank an die Götter"
+        },
+        {
+          "beschriftung": "Schrift",
+          "wert": "lateinische Großbuchstaben"
+        },
+        {
+          "beschriftung": "Bedeutung",
+          "wert": "wichtige Quelle für Forscher"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "inscriptio",
+        "deutsch": "Aufschrift. Daraus kommt unser Wort „Inschrift“.",
+        "hinweis": null
+      },
+      "wow": "Aus solchen Steinen wissen wir die Namen von Menschen, die vor fast 2.000 Jahren am Rhein lebten.",
+      "text": "Römer ließen Namen, Dank oder Erinnerungen in Stein meißeln. Solche Steine sind bis heute erhalten und für Forscher wie ein Brief aus alter Zeit. Der Stein im Buch ist ein Beispiel und zeigt kein echtes Fundstück.",
+      "hinweisUnsicherheit": "Hinweis: Die Buchstaben auf dem Stein im Buch sind erfunden und stehen für eine typische Widmung.",
+      "stichworte": [
+        "Inschrift",
+        "Quelle",
+        "Latein"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Was würdest du in einen Stein meißeln lassen?"
+      ]
+    },
+    {
+      "id": "konstantin",
+      "station": 8,
+      "typ": "info",
+      "name": "Kaiser Konstantin",
+      "lateinisch": "Constantinus",
+      "aussprache": "sprich: kon-stan-TI-nus",
+      "bedeutung": "Bedeutung: der Beständige",
+      "fakten": [
+        {
+          "beschriftung": "Jahr",
+          "wert": "313 n. Chr."
+        },
+        {
+          "beschriftung": "Ereignis",
+          "wert": "Christen wurden im Reich geduldet"
+        },
+        {
+          "beschriftung": "Mit",
+          "wert": "Konstantin und der Kaiser Licinius"
+        },
+        {
+          "beschriftung": "Staatsreligion",
+          "wert": "erst 380 unter Theodosius"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Vor 313 mussten Christen im Römischen Reich oft vorsichtig sein, zeitweise wurden sie verfolgt. Danach durften sie ihren Glauben im ganzen Reich offen leben.",
+      "text": "Im Jahr 313 einigten sich Kaiser Konstantin und Kaiser Licinius darauf, dass Christen ihren Glauben ausüben durften. Das veränderte das Reich langsam. Zur Staatsreligion wurde das Christentum aber erst 380.",
+      "hinweisUnsicherheit": "Hinweis: Ob man das „Edikt von Mailand“ nennen darf, ist unter Fachleuten umstritten. Sicher ist die Duldung der Christen um 313. Die Bedeutung des Namens ist eine allgemeine Übersetzung.",
+      "stichworte": [
+        "Konstantin",
+        "313",
+        "Christentum"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Was bedeutet Religionsfreiheit für dich?"
+      ]
+    },
+    {
+      "id": "teilung395",
+      "station": 8,
+      "typ": "info",
+      "name": "Die Teilung 395",
+      "lateinisch": "Imperium Romanum",
+      "aussprache": "sprich: im-PE-ri-um ro-MAH-num",
+      "bedeutung": "Bedeutung: das Römische Reich",
+      "fakten": [
+        {
+          "beschriftung": "Jahr",
+          "wert": "395 n. Chr."
+        },
+        {
+          "beschriftung": "Anlass",
+          "wert": "Tod von Kaiser Theodosius I."
+        },
+        {
+          "beschriftung": "Osten",
+          "wert": "Kaiser Arcadius"
+        },
+        {
+          "beschriftung": "Westen",
+          "wert": "Kaiser Honorius"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Nach 395 wurde das Reich nie wieder dauerhaft von einem einzigen Kaiser regiert.",
+      "text": "Nach dem Tod von Theodosius bekamen seine Söhne je eine Hälfte: Arcadius den Osten, Honorius den Westen. Aus zwei Verwaltungen wurden mit der Zeit zwei getrennte Reiche. Der Osten blieb stark, der Westen wurde schwächer.",
+      "hinweisUnsicherheit": "Hinweis: Das Reich war schon vorher oft von mehreren Herrschern verwaltet worden. 395 gilt als Datum, ab dem die Trennung bleibt.",
+      "stichworte": [
+        "395",
+        "Teilung",
+        "Ostrom"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Warum ist es schwer, ein riesiges Reich von einer Stadt aus zu regieren?"
+      ]
+    },
+    {
+      "id": "ende476",
+      "station": 8,
+      "typ": "info",
+      "name": "Das Jahr 476",
+      "lateinisch": "Romulus Augustulus",
+      "aussprache": "sprich: RO-mu-lus au-GUS-tu-lus",
+      "bedeutung": "Bedeutung: „Kleiner Augustus“, der letzte Kaiser im Westen",
+      "fakten": [
+        {
+          "beschriftung": "Jahr",
+          "wert": "476 n. Chr."
+        },
+        {
+          "beschriftung": "Ereignis",
+          "wert": "Odoaker setzt den Kindkaiser Romulus Augustulus ab"
+        },
+        {
+          "beschriftung": "Danach",
+          "wert": "neue Reiche im Westen"
+        },
+        {
+          "beschriftung": "Osten",
+          "wert": "Oströmisches Reich bis 1453"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Es gab keinen großen Knall. Das Oströmische Reich bestand noch fast 1.000 Jahre weiter, bis 1453.",
+      "text": "Im Jahr 476 setzte Odoaker den jungen Kaiser im Westen ab. Für viele Menschen ging das Leben einfach weiter. Städte, Straßen, die lateinische Sprache und der Glaube blieben. Politisch endete der Westen, kulturell lebte Rom weiter.",
+      "hinweisUnsicherheit": "Hinweis: Forscher streiten darüber, ob man von „Untergang“ oder von „langsamem Wandel“ sprechen soll. Dass 476 das Ende ist, ist eine Verabredung.",
+      "stichworte": [
+        "476",
+        "Ende",
+        "Wandel"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Was verändert sich langsam und merkt man es kaum?",
+        "Warum nennen manche 476 kein „Ende“?"
+      ]
+    },
+    {
+      "id": "wald",
+      "station": 8,
+      "typ": "info",
+      "name": "Der große Wald in Germanien",
+      "lateinisch": "Germania",
+      "aussprache": "sprich: ger-MA-ni-a",
+      "bedeutung": "Bedeutung: das Land der Germanen",
+      "fakten": [
+        {
+          "beschriftung": "Jahr",
+          "wert": "9 n. Chr. (Varusschlacht)"
+        },
+        {
+          "beschriftung": "Ort",
+          "wert": "wahrscheinlich bei Kalkriese nahe Osnabrück"
+        },
+        {
+          "beschriftung": "Wald",
+          "wert": "dichte Wälder östlich des Rheins"
+        },
+        {
+          "beschriftung": "Folge",
+          "wert": "Der Rhein blieb lange die Grenze"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Wo genau im Jahr 9 n. Chr. die Varusschlacht stattfand, wissen Forscher bis heute nicht sicher.",
+      "text": "Östlich des Rheins lagen große Wälder. Im Jahr 9 n. Chr. fand dort eine berühmte Auseinandersetzung zwischen Römern und Germanen statt. Danach blieb der Rhein am Niederrhein für lange Zeit die Grenze.",
+      "hinweisUnsicherheit": "Hinweis: Kalkriese gilt vielen Forschern als wahrscheinlicher Ort, bewiesen ist das nicht. Manche Funde passen auch zu Feldzügen um 15/16 n. Chr. Das Buch zeigt nur Landschaft und Jahreszahl.",
+      "stichworte": [
+        "Germanen",
+        "Varusschlacht",
+        "9"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie verändert ein Wald den Weg einer Armee?"
+      ]
+    },
+    {
+      "id": "werthausen",
+      "station": 8,
+      "typ": "info",
+      "name": "Duisburg-Werthausen und Moers-Asberg",
+      "lateinisch": "Niedergermanischer Limes",
+      "aussprache": "sprich: NIE-der-ger-MA-ni-scher LI-mes",
+      "bedeutung": "Bedeutung: der Limes am Niederrhein",
+      "fakten": [
+        {
+          "beschriftung": "Welterbe",
+          "wert": "UNESCO seit 2021"
+        },
+        {
+          "beschriftung": "Werthausen",
+          "wert": "Kleinkastell, etwa Ende 1. bis Mitte 3. Jh."
+        },
+        {
+          "beschriftung": "Asberg",
+          "wert": "in Moers, auch im UNESCO-Dossier"
+        },
+        {
+          "beschriftung": "Nähe",
+          "wert": "in unserer Region, bei Duisburg"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Auch ganz in unserer Nähe, bei Duisburg und Moers, liegen Teile des Welterbes Niedergermanischer Limes.",
+      "text": "Der Niedergermanische Limes ist UNESCO-Welterbe. Zwei Orte davon liegen bei uns: Duisburg-Werthausen und Moers-Asberg. In Werthausen stand ein kleines Kastell. Vieles liegt heute im Boden, doch Forscher kennen die Fundplätze.",
+      "hinweisUnsicherheit": "Hinweis: Der Rhein hat im Lauf der Jahrhunderte seinen Verlauf geändert. Wo die Römer das Ufer sahen, ist heute oft Land.",
+      "stichworte": [
+        "Duisburg",
+        "Moers",
+        "Welterbe"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wo ist der nächste Fundplatz von deinem Wohnort aus?",
+        "Wie könnte man etwas schützen, das man kaum noch sieht?"
+      ]
+    },
+    {
+      "id": "roemer_bei_uns",
+      "station": 8,
+      "typ": "info",
+      "name": "Römer bei uns",
+      "lateinisch": "Rhenus",
+      "aussprache": "sprich: RE-nus",
+      "bedeutung": "Bedeutung: der Rhein (lateinischer Name)",
+      "fakten": [
+        {
+          "beschriftung": "Xanten",
+          "wert": "Legionslager und Stadt am Niederrhein"
+        },
+        {
+          "beschriftung": "Köln",
+          "wert": "große Stadt, Stadtrecht um 50 n. Chr."
+        },
+        {
+          "beschriftung": "Limes",
+          "wert": "rund 400 Kilometer am Rhein, Welterbe seit 2021"
+        },
+        {
+          "beschriftung": "Bei uns",
+          "wert": "Duisburg-Werthausen und Moers-Asberg"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "Rhenus",
+        "deutsch": "Rhein. Der Fluss trug schon bei den Römern seinen Namen.",
+        "hinweis": null
+      },
+      "wow": "Du musst nicht nach Rom fahren: Römische Spuren findest du auch am Niederrhein.",
+      "text": "Auf der Karte siehst du, wo am Rhein Römer lebten: in Xanten, in Köln und dazwischen am Limes. Auch Duisburg und Moers gehören dazu. Wer sucht, findet noch heute Mauerreste, Scherben und Inschriften.",
+      "hinweisUnsicherheit": "Hinweis: Die Karte ist stark vereinfacht und nicht maßstabsgetreu.",
+      "stichworte": [
+        "Karte",
+        "Rhein",
+        "Römer bei uns"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Plane einen Ausflug: Welchen römischen Ort am Rhein würdest du als Erstes besuchen?"
+      ]
+    },
+    {
+      "id": "zeit_kastell",
+      "station": 8,
+      "typ": "info",
+      "name": "Das Kastell",
+      "lateinisch": "castellum",
+      "aussprache": "sprich: kas-TEL-lum",
+      "bedeutung": "Bedeutung: kleines Lager, kleine Festung",
+      "fakten": [
+        {
+          "beschriftung": "Aufgabe",
+          "wert": "Stützpunkt für Soldaten am Limes"
+        },
+        {
+          "beschriftung": "Aufbau",
+          "wert": "Mauer, Tore und Türme"
+        },
+        {
+          "beschriftung": "Besatzung",
+          "wert": "meist Hilfstruppen (Auxiliare)"
+        },
+        {
+          "beschriftung": "Bei uns",
+          "wert": "etwa das Kleinkastell Werthausen"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "castellum",
+        "deutsch": "kleines Lager. Daraus wurde „Kastell“.",
+        "hinweis": null
+      },
+      "wow": "Ein Kastell war wie eine kleine Festung mit Platz für die Soldaten und ihr Gepäck.",
+      "text": "Das Kastell im Buch ist eine vereinfachte Festung am Limes. Soldaten wohnten hier, bewachten die Grenze und konnten schnell zu den Wachtürmen ausrücken. Schieb den Regler Zeit, dann siehst du, was später daraus wird.",
+      "hinweisUnsicherheit": "Hinweis: Echte Kastelle sahen je nach Zeit und Ort verschieden aus. Dieses ist ein Beispiel.",
+      "stichworte": [
+        "Kastell",
+        "Limes",
+        "Soldaten"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "zeit_ruine",
+      "station": 8,
+      "typ": "info",
+      "name": "Die Ruine",
+      "lateinisch": "ruina",
+      "aussprache": "sprich: ru-I-na",
+      "bedeutung": "Bedeutung: Einsturz, Trümmer",
+      "fakten": [
+        {
+          "beschriftung": "Was bleibt",
+          "wert": "Fundamente, Mauerreste, Scherben"
+        },
+        {
+          "beschriftung": "Warum",
+          "wert": "Steine wurden oft für neue Häuser wiederverwendet"
+        },
+        {
+          "beschriftung": "Zeit",
+          "wert": "über viele Jahrhunderte"
+        },
+        {
+          "beschriftung": "Heute",
+          "wert": "Forscher graben vorsichtig Schicht für Schicht"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "ruina",
+        "deutsch": "Einsturz. Daraus wurde „Ruine“.",
+        "hinweis": null
+      },
+      "wow": "Aus alten Mauern holten sich spätere Menschen Steine für neue Häuser. Darum ist von Römerbauten oft nur wenig übrig.",
+      "text": "Wenn niemand ein Kastell mehr nutzt, verfällt es langsam. Gras wächst, Mauern bröckeln. Das geschah nicht an einem Tag, sondern über viele Jahre. Manche Steine fanden in neuen Häusern ein zweites Leben.",
+      "hinweisUnsicherheit": "Hinweis: Wie schnell ein Ort verfällt, hängt davon ab, ob Menschen ihn weiter nutzen.",
+      "stichworte": [
+        "Ruine",
+        "Wandel",
+        "Archäologie"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "zeit_heute",
+      "station": 8,
+      "typ": "info",
+      "name": "Die Stadt von heute",
+      "lateinisch": "urbs",
+      "aussprache": "sprich: URPS",
+      "bedeutung": "Bedeutung: Stadt",
+      "fakten": [
+        {
+          "beschriftung": "Orte",
+          "wert": "Köln und andere Städte am Rhein"
+        },
+        {
+          "beschriftung": "Römisches",
+          "wert": "Straßenverlauf, Wörter, Mauerreste"
+        },
+        {
+          "beschriftung": "Neu",
+          "wert": "Häuser, Kirchtürme, Autos und Fahrräder"
+        },
+        {
+          "beschriftung": "Frage",
+          "wert": "Was ist alt, was ist neu?"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "urbs",
+        "deutsch": "Stadt. Daraus kommt das Wort „urban“ („städtisch“).",
+        "hinweis": null
+      },
+      "wow": "Manche Städte am Rhein, zum Beispiel Köln, stehen dort, wo die Römer schon eine Stadt gebaut haben.",
+      "text": "Aus manchem römischen Lager und mancher Colonia wurde eine Stadt, die bis heute besteht. Straßen, Namen und Wörter blieben, vieles andere änderte sich. Die Stadt im Bild ist eine erfundene Beispielstadt.",
+      "hinweisUnsicherheit": "Hinweis: Nicht jede Stadt am Rhein ist römischen Ursprungs. Köln ist es; in Xanten liegt die römische Stadt neben der heutigen Stadt.",
+      "stichworte": [
+        "Heute",
+        "Stadt",
+        "Wandel"
+      ],
+      "fragenFuerArbeitsblatt": []
+    },
+    {
+      "id": "t_fenster",
+      "station": 8,
+      "typ": "info",
+      "name": "Fenster",
+      "lateinisch": "fenestra",
+      "aussprache": "sprich: fe-NES-tra",
+      "bedeutung": "Bedeutung: Fenster, Öffnung in der Wand",
+      "fakten": [
+        {
+          "beschriftung": "Deutsch",
+          "wert": "Fenster"
+        },
+        {
+          "beschriftung": "Lateinisch",
+          "wert": "fenestra"
+        },
+        {
+          "beschriftung": "Italienisch",
+          "wert": "finestra"
+        },
+        {
+          "beschriftung": "Herkunft",
+          "wert": "das lateinische Wort ist vermutlich selbst etruskisch"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "fenestra",
+        "deutsch": "Fenster. Von den Römern übernahmen wir das Wort.",
+        "hinweis": "Hinweis: Fachleute vermuten, dass die Römer das Wort von den Etruskern hatten."
+      },
+      "wow": "Unser Wort Fenster klingt in Italien fast gleich: finestra.",
+      "text": "Römische Häuser aus Stein hatten Öffnungen in den Wänden, damit Licht und Luft hineinkamen. Das lateinische Wort dafür lernten die Menschen nördlich der Alpen kennen und behielten es. Heute sagst du jeden Tag „Fenster“.",
+      "hinweisUnsicherheit": "Hinweis: Die Herkunft des lateinischen Wortes ist nicht ganz sicher.",
+      "stichworte": [
+        "Lehnwort",
+        "Fenster",
+        "Latein"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie viele Fenster hat dein Klassenzimmer?",
+        "Welches Wort für „Fenster“ kennst du aus einer anderen Sprache?"
+      ]
+    },
+    {
+      "id": "t_strasse",
+      "station": 8,
+      "typ": "info",
+      "name": "Straße",
+      "lateinisch": "via strata",
+      "aussprache": "sprich: WI-a STRAH-ta",
+      "bedeutung": "Bedeutung: gepflasterter Weg",
+      "fakten": [
+        {
+          "beschriftung": "Deutsch",
+          "wert": "Straße"
+        },
+        {
+          "beschriftung": "Lateinisch",
+          "wert": "via strata"
+        },
+        {
+          "beschriftung": "Englisch",
+          "wert": "street"
+        },
+        {
+          "beschriftung": "Gemeint",
+          "wert": "ein befestigter, gepflasterter Weg"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "via strata",
+        "deutsch": "gepflasterter Weg. Aus strata wurde unser Wort „Straße“.",
+        "hinweis": null
+      },
+      "wow": "Auch das englische Wort „street“ stammt von strata ab.",
+      "text": "Die Römer bauten feste Straßen, wie du sie auf der Reise durch dieses Buch gesehen hast. Eine gepflasterte Straße hieß „via strata“, „gepflasterter Weg“. Bei uns blieb daraus das Wort Straße.",
+      "hinweisUnsicherheit": "Hinweis: Mehr über römische Straßen steht in Station 7.",
+      "stichworte": [
+        "Lehnwort",
+        "Straße",
+        "Latein"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Straße in deiner Nähe könnte schon sehr alt sein?"
+      ]
+    },
+    {
+      "id": "t_mauer",
+      "station": 8,
+      "typ": "info",
+      "name": "Mauer",
+      "lateinisch": "murus",
+      "aussprache": "sprich: MU-rus",
+      "bedeutung": "Bedeutung: Mauer, Stadtmauer",
+      "fakten": [
+        {
+          "beschriftung": "Deutsch",
+          "wert": "Mauer"
+        },
+        {
+          "beschriftung": "Lateinisch",
+          "wert": "murus"
+        },
+        {
+          "beschriftung": "Im Deutschen",
+          "wert": "seit dem 8. Jahrhundert belegt"
+        },
+        {
+          "beschriftung": "Baustoff",
+          "wert": "Stein statt Holz"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "murus",
+        "deutsch": "Mauer. Das Wort kam mit dem Steinbau zu uns.",
+        "hinweis": null
+      },
+      "wow": "Mit dem Steinbau kam bei uns auch das Wort Mauer.",
+      "text": "Die Römer bauten Mauern aus Stein, zum Beispiel um ihre Städte und Kastelle. Das lateinische Wort murus nahmen die Menschen in Germanien auf und sagten bald „Mauer“. Das Wort ist über tausend Jahre alt.",
+      "hinweisUnsicherheit": "Hinweis: Dem Wort murus bist du schon in Station 1 begegnet.",
+      "stichworte": [
+        "Lehnwort",
+        "Mauer",
+        "Latein"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Mauern kennst du in deiner Stadt?"
+      ]
+    },
+    {
+      "id": "t_ziegel",
+      "station": 8,
+      "typ": "info",
+      "name": "Ziegel",
+      "lateinisch": "tegula",
+      "aussprache": "sprich: TE-gu-la",
+      "bedeutung": "Bedeutung: Dachziegel",
+      "fakten": [
+        {
+          "beschriftung": "Deutsch",
+          "wert": "Ziegel"
+        },
+        {
+          "beschriftung": "Lateinisch",
+          "wert": "tegula"
+        },
+        {
+          "beschriftung": "Gebrannt aus",
+          "wert": "Ton oder Lehm im Ofen"
+        },
+        {
+          "beschriftung": "Bauleute",
+          "wert": "Soldaten und Handwerker"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "tegula",
+        "deutsch": "Dachziegel. Daraus wurde „Ziegel“.",
+        "hinweis": null
+      },
+      "wow": "Römische Dachziegel erkennst du an ihrer flachen Form mit einem Rand an der Seite.",
+      "text": "Aus Ton gebrannte Ziegel decken Dächer und bauen Mauern. Die Römer brachten das Wissen darüber mit. Aus dem lateinischen Wort tegula, das ein Dachziegel war, entstand bei uns das Wort Ziegel.",
+      "hinweisUnsicherheit": "Hinweis: Dem Wort tegula bist du schon in Station 7 begegnet.",
+      "stichworte": [
+        "Lehnwort",
+        "Ziegel",
+        "Latein"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Woran erkennst du, dass ein Haus mit Ziegeln gebaut ist?"
+      ]
+    },
+    {
+      "id": "t_kaiser",
+      "station": 8,
+      "typ": "info",
+      "name": "Kaiser",
+      "lateinisch": "Caesar",
+      "aussprache": "sprich: KAI-sar",
+      "bedeutung": "Bedeutung: Beiname von Julius Caesar, später Titel",
+      "fakten": [
+        {
+          "beschriftung": "Deutsch",
+          "wert": "Kaiser"
+        },
+        {
+          "beschriftung": "Lateinisch",
+          "wert": "Caesar"
+        },
+        {
+          "beschriftung": "Russisch",
+          "wert": "Zar, ebenfalls von Caesar"
+        },
+        {
+          "beschriftung": "Caesar selbst",
+          "wert": "war nie Kaiser"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "Caesar",
+        "deutsch": "Beiname der Familie von Julius Caesar. Später der Titel der Herrscher.",
+        "hinweis": null
+      },
+      "wow": "Auch das russische Wort Zar kommt von Caesar.",
+      "text": "Julius Caesar war nie Kaiser. Seinen Namen übernahmen aber spätere Herrscher als Titel. So wurde aus Caesar das deutsche Wort Kaiser, und im Russischen aus demselben Namen der Zar.",
+      "hinweisUnsicherheit": "Hinweis: Augustus nannte sich selbst lieber „Princeps“, den ersten Bürger. Ob „Kaiser“ das älteste Lehnwort ist, ist nur eine Vermutung.",
+      "stichworte": [
+        "Lehnwort",
+        "Kaiser",
+        "Caesar"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Herrschertitel kennst du noch?"
+      ]
+    },
+    {
+      "id": "t_wein",
+      "station": 8,
+      "typ": "info",
+      "name": "Wein",
+      "lateinisch": "vinum",
+      "aussprache": "sprich: WI-num",
+      "bedeutung": "Bedeutung: Wein",
+      "fakten": [
+        {
+          "beschriftung": "Deutsch",
+          "wert": "Wein"
+        },
+        {
+          "beschriftung": "Lateinisch",
+          "wert": "vinum"
+        },
+        {
+          "beschriftung": "Verwandt",
+          "wert": "Winzer"
+        },
+        {
+          "beschriftung": "Herkunft von vinum",
+          "wert": "ungeklärt"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "vinum",
+        "deutsch": "Wein. Die Römer brachten den Wein und das Wort zu uns.",
+        "hinweis": "Hinweis: Woher das lateinische Wort selbst stammt, weiß man nicht sicher."
+      },
+      "wow": "Auch das Wort Winzer gehört zur Familie von vinum.",
+      "text": "In Rom gehörte der Wein zum Alltag. Mit den Römern kam er an den Rhein, und mit ihm das Wort. Die Wörter Wein und Winzer erinnern noch heute daran.",
+      "hinweisUnsicherheit": "Hinweis: Kinder trinken keinen Wein. Das Wort aber kannst du trotzdem gut merken.",
+      "stichworte": [
+        "Lehnwort",
+        "Wein",
+        "Latein"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Wörter aus dem Essen und Trinken kommen noch aus dem Lateinischen?"
+      ]
+    },
+    {
+      "id": "t_kaese",
+      "station": 8,
+      "typ": "info",
+      "name": "Käse",
+      "lateinisch": "caseus",
+      "aussprache": "sprich: KA-se-us",
+      "bedeutung": "Bedeutung: Käse",
+      "fakten": [
+        {
+          "beschriftung": "Deutsch",
+          "wert": "Käse"
+        },
+        {
+          "beschriftung": "Lateinisch",
+          "wert": "caseus"
+        },
+        {
+          "beschriftung": "Englisch",
+          "wert": "cheese"
+        },
+        {
+          "beschriftung": "Gemacht aus",
+          "wert": "Milch"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "caseus",
+        "deutsch": "Käse. Das Wort übernahmen die Menschen bei uns von den Römern.",
+        "hinweis": null
+      },
+      "wow": "Auch das englische Wort „cheese“ stammt von caseus ab.",
+      "text": "Käse machten Menschen schon lange, doch das Wort dafür kam von den Römern. Aus dem lateinischen caseus wurde bei uns Käse.",
+      "hinweisUnsicherheit": "Hinweis: Wie alt Käse bei uns ist, wissen wir nicht genau. Sicher ist, dass das Wort aus dem Lateinischen kommt.",
+      "stichworte": [
+        "Lehnwort",
+        "Käse",
+        "Latein"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Wie viele Käsesorten kennst du?"
+      ]
+    },
+    {
+      "id": "t_muenze",
+      "station": 8,
+      "typ": "info",
+      "name": "Münze",
+      "lateinisch": "moneta",
+      "aussprache": "sprich: mo-NE-ta",
+      "bedeutung": "Bedeutung: Beiname der Göttin Juno, bei deren Tempel Geld geprägt wurde",
+      "fakten": [
+        {
+          "beschriftung": "Deutsch",
+          "wert": "Münze"
+        },
+        {
+          "beschriftung": "Lateinisch",
+          "wert": "moneta"
+        },
+        {
+          "beschriftung": "Englisch",
+          "wert": "money"
+        },
+        {
+          "beschriftung": "Göttin",
+          "wert": "Juno Moneta"
+        }
+      ],
+      "wortAusRom": {
+        "wort": "moneta",
+        "deutsch": "Münze, Münzstätte. Der Name geht auf die Göttin Juno Moneta zurück.",
+        "hinweis": null
+      },
+      "wow": "Das englische Wort „money“ stammt ebenfalls von moneta ab.",
+      "text": "In Rom wurde bei dem Tempel der Göttin Juno Moneta Geld geprägt. So wurde moneta zum Wort für Münze und Münzstätte. Daraus entstand bei uns das Wort Münze.",
+      "hinweisUnsicherheit": "Hinweis: Den Denar, eine römische Münze, kennst du aus Station 4.",
+      "stichworte": [
+        "Lehnwort",
+        "Münze",
+        "Latein"
+      ],
+      "fragenFuerArbeitsblatt": [
+        "Welche Münzen hast du heute in der Tasche, und was ist darauf zu sehen?"
+      ]
+    },
+    {
+      "id": "gans8",
+      "station": 8,
+      "typ": "versteckte Gans",
+      "name": "Die Gans am Rhein",
+      "lateinisch": "anser",
+      "aussprache": "sprich: AN-ser",
+      "bedeutung": "Bedeutung: anser ist das lateinische Wort für Gans",
+      "fakten": [
+        {
+          "beschriftung": "Mütze und Schal",
+          "wert": "am Rhein ist es morgens kühl"
+        },
+        {
+          "beschriftung": "Sage",
+          "wert": "Gänse retteten das Kapitol in Rom"
+        },
+        {
+          "beschriftung": "Heute",
+          "wert": "am Niederrhein rasten im Winter viele Wildgänse"
+        },
+        {
+          "beschriftung": "Gans Nummer",
+          "wert": "8 von 8"
+        }
+      ],
+      "wortAusRom": null,
+      "wow": "Du hast alle Gänse gefunden, die auf der Straße nach Rom gesessen haben!",
+      "text": "Diese Gans steht am Ufer im Morgendunst und trägt Zipfelmütze und Schal. Nach einer Sage haben Gänse in Rom einmal die Burg auf dem Kapitol gerettet, weil sie laut schnatterten, als Feinde heranschlichen.",
+      "hinweisUnsicherheit": "Hinweis: Die Sage von den Gänsen auf dem Kapitol ist nicht als Tatsache belegt.",
+      "stichworte": [
+        "Gans",
+        "Rhein",
+        "Sage"
+      ],
+      "fragenFuerArbeitsblatt": []
+    }
+  ],
+  "zeitfenster": [
+    {
+      "id": "hirten",
+      "jahr": -753,
+      "zeit": "753 v. Chr. (Sage)",
+      "zeitalter": "Königszeit",
+      "titel": "Hirtenfeuer am Tiber",
+      "text": "Abends sitzen Hirten am Feuer, und die Schafe ruhen. Auf dem Hügel stehen Strohhütten.",
+      "merksatz": "Nach der Sage gründete Romulus die Stadt 753 v. Chr. Schon lange davor lebten dort Hirten."
+    },
+    {
+      "id": "forum",
+      "jahr": -509,
+      "zeit": "um 509 v. Chr.",
+      "zeitalter": "Republik",
+      "titel": "Bürger stimmen auf dem Forum ab",
+      "text": "Auf dem Forum versammeln sich die Bürger. Viele heben die Arme, auf der Bühne stehen zwei Männer.",
+      "merksatz": "Um 509 v. Chr. jagten die Römer nach der Überlieferung ihren letzten König fort. Danach wählten sie jedes Jahr zwei Konsuln."
+    },
+    {
+      "id": "alpen",
+      "jahr": -218,
+      "zeit": "218 v. Chr.",
+      "zeitalter": "Republik",
+      "titel": "Elefanten am Alpenpass",
+      "text": "Hannibal führt sein Heer im Herbst über die verschneiten Alpen. Auch Elefanten stapfen durch den Schnee.",
+      "merksatz": "Welcher Pass es war, wissen Forscher bis heute nicht sicher. Von den Elefanten kamen nur wenige durch."
+    },
+    {
+      "id": "karthago",
+      "jahr": -146,
+      "zeit": "146 v. Chr.",
+      "zeitalter": "Republik",
+      "titel": "Karthagos Hafen liegt still",
+      "text": "Die Sonne geht unter, und die Schiffe liegen ruhig im Hafen. Möwen kreisen über dem Wasser.",
+      "merksatz": "Karthago war eine reiche Handelsstadt in Nordafrika. 146 v. Chr. endete der Krieg mit Rom: Die Römer zerstörten die Stadt, und das Gebiet wurde zur römischen Provinz Africa. Das Bild zeigt den Hafen, wie er davor gewesen sein könnte (erfunden)."
+    },
+    {
+      "id": "rubikon",
+      "jahr": -49,
+      "zeit": "49 v. Chr.",
+      "zeitalter": "Republik",
+      "titel": "Soldaten am Flussufer",
+      "text": "Soldaten stehen am Rubikon. Ihr Feldherr Caesar zeigt über den kleinen Fluss.",
+      "merksatz": "Mit seinem Heer überschritt Caesar 49 v. Chr. den Rubikon. Bis heute sagt man „den Rubikon überschreiten“, wenn es kein Zurück mehr gibt."
+    },
+    {
+      "id": "augustus",
+      "jahr": -27,
+      "zeit": "27 v. Chr.",
+      "zeitalter": "Kaiserzeit",
+      "titel": "Lorbeerkranz für Augustus",
+      "text": "Ein Senator ehrt Augustus mit einem Lorbeerkranz. Lorbeer ist ein Zeichen für Sieg und Ehre.",
+      "merksatz": "27 v. Chr. bekam Octavian den Ehrennamen „Augustus“. Er nannte sich selbst lieber „Princeps“, das heißt „erster Bürger“."
+    },
+    {
+      "id": "koeln",
+      "jahr": 50,
+      "zeit": "um 50 n. Chr.",
+      "zeitalter": "Kaiserzeit",
+      "titel": "Markttag in Köln",
+      "text": "Am Rhein ist Markttag mit Obst, Töpfen und Käse. Ein Schiff fährt am Ufer vorbei.",
+      "merksatz": "Um 50 n. Chr. bekam die Stadt den Namen Colonia Claudia Ara Agrippinensium. Aus „Colonia“ wurde später „Köln“."
+    },
+    {
+      "id": "pompeji",
+      "jahr": 79,
+      "zeit": "79 n. Chr.",
+      "zeitalter": "Kaiserzeit",
+      "titel": "Ein ruhiger Morgen in Pompeji",
+      "text": "Ein ganz normaler Morgen: Die Leute holen Brot und Wasser, und der Vesuv steht ruhig am Horizont.",
+      "merksatz": "Im Jahr 79 n. Chr. brach der Vesuv aus, im Spätsommer oder Herbst. Der genaue Tag ist unter Forschern umstritten."
+    },
+    {
+      "id": "kolosseum",
+      "jahr": 80,
+      "zeit": "80 n. Chr.",
+      "zeitalter": "Kaiserzeit",
+      "titel": "Das Kolosseum wird eröffnet",
+      "text": "Fahnen flattern, und viele Menschen strömen zum Fest. Neben dem Bau steht eine Riesenstatue.",
+      "merksatz": "Kaiser Titus weihte es 80 n. Chr. ein. Der Name „Kolosseum“ kommt wohl von einer Riesenstatue (lat. colossus) daneben. Das oberste Stockwerk kam erst unter Domitian dazu; das Bild zeigt den fertigen Bau."
+    },
+    {
+      "id": "trajan",
+      "jahr": 117,
+      "zeit": "117 n. Chr.",
+      "zeitalter": "Kaiserzeit",
+      "titel": "Das Reich ist am größten",
+      "text": "Unter Kaiser Trajan reicht das Reich von Britannien bis zum Euphrat. Das Mittelmeer liegt mittendrin.",
+      "merksatz": "Es war etwa 5 Millionen Quadratkilometer groß, rund 14-mal so groß wie Deutschland (Schätzung). Mesopotamien gehörte nur von 115 bis 117 dazu."
+    },
+    {
+      "id": "wall",
+      "jahr": 122,
+      "zeit": "ab 122 n. Chr.",
+      "zeitalter": "Kaiserzeit",
+      "titel": "Soldaten bauen den Grenzwall",
+      "text": "In Britannien legen Soldaten die Waffen beiseite und mauern. Mit Seil und Rolle ziehen sie die Steine hoch.",
+      "merksatz": "Der Hadrianswall wurde wohl ab 122 n. Chr. gebaut, vor allem von den drei Legionen in Britannien."
+    },
+    {
+      "id": "konstantin",
+      "jahr": 313,
+      "zeit": "313 n. Chr.",
+      "zeitalter": "Spätantike",
+      "titel": "Konstantin und ein neuer Glaube",
+      "text": "Kaiser Konstantin hält eine Schriftrolle. Christen dürfen jetzt offen ihren Glauben leben. Die Kirche im Bild ist erfunden.",
+      "merksatz": "Konstantin und Licinius erlaubten den Christen 313, ihren Glauben frei zu leben. Zur Staatsreligion wurde das Christentum erst 380."
+    },
+    {
+      "id": "teilung",
+      "jahr": 395,
+      "zeit": "395 n. Chr.",
+      "zeitalter": "Spätantike",
+      "titel": "Das Reich wird geteilt",
+      "text": "Nach dem Tod von Kaiser Theodosius bekommt jeder seiner Söhne eine Hälfte: den Westen und den Osten.",
+      "merksatz": "Arcadius herrschte im Osten, Honorius im Westen. Danach wurde das Reich nie wieder dauerhaft vereint."
+    },
+    {
+      "id": "strasse",
+      "jahr": 476,
+      "zeit": "476 n. Chr.",
+      "zeitalter": "Spätantike",
+      "titel": "Eine stille Straße",
+      "text": "Es wird Abend, und die Straße ist leer. Eine Flöte spielt leise, bis der Ton verklingt.",
+      "merksatz": "Odoaker setzte 476 den Kindkaiser Romulus Augustulus ab; Ostrom bestand bis 1453. Wie römische Musik klang, weiß man kaum. Die Flötenmelodie hier ist erfunden."
+    }
+  ],
+  "arbeitsblattIdeen": [
+    {
+      "thema": "Zeitstrahl",
+      "aufgabe": "Ordne die Szenen des Zeitfensters (Feld zeitfenster, Feld jahr) auf einem Zeitstrahl von 753 v. Chr. bis 476 n. Chr. Wie viele Jahre liegen zwischen dem ersten und dem letzten Jahr? (Es gibt kein Jahr 0: 753 + 476 − 1 = 1228.)"
+    },
+    {
+      "thema": "Lehnwörter",
+      "aufgabe": "Sammle alle lateinischen Wörter aus den Karten (Feld wortAusRom) und finde ihr deutsches Wort. Welche kennst du noch aus anderen Sprachen?"
+    },
+    {
+      "thema": "Chemie: Kalkkreislauf",
+      "aufgabe": "Station 7, Karte „Kalkkreislauf“: Stelle die drei Reaktionsgleichungen auf (Brennen, Löschen, Abbinden). Wie viel gebrannten Kalk (CaO) erhältst du aus 1 t reinem Kalkstein (CaCO₃)? Rechne mit M(CaCO₃) = 100 g/mol und M(CaO) = 56 g/mol."
+    },
+    {
+      "thema": "Reichskarte",
+      "aufgabe": "Titelseite: Stelle das Zeitrad auf die sieben Stufen der Karte und schreibe auf, welche Gebiete jeweils neu dazukommen."
+    },
+    {
+      "thema": "Quellen prüfen",
+      "aufgabe": "Suche eine Karte mit dem Feld hinweisUnsicherheit. Warum ist die Aussage unsicher? Wie könnte man mehr herausfinden?"
+    },
+    {
+      "thema": "Spurensuche",
+      "aufgabe": "Station 8: Welche römischen Spuren findest du in deiner Stadt oder Region (Namen, Straßen, Mauerreste, Wörter)?"
+    }
+  ],
+  "lizenz": "Texte: eigene Formulierung, frei für den Unterricht (CC BY-SA 4.0, siehe LICENSE-CONTENT)."
+}

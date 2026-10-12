@@ -1,9 +1,9 @@
-Texte, Karten und Arbeitsmaterial des „Großen Dinosaurier-Popup-Buchs“
+Texte, Karten und Arbeitsmaterial des „Großen Popup-Buchs vom Römischen Reich“
 Copyright (c) 2026 Stephan Wilski
 Lizenz: Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)
 Zusammenfassung: https://creativecommons.org/licenses/by-sa/4.0/deed.de
 
-Geltungsbereich: src/data/ (pages.de.js, animals.de.js, speech.js), src/ui/zeitszenen.js (Texte der Zeitfenster),
+Geltungsbereich: src/data/ (pages.de.js, animals.de.js, s0.de.js bis s8.de.js, speech.js), src/ui/zeitszenen.js (Texte der Zeitfenster),
 texte.json, facts.md, README.md und docs/. Der Quellcode steht unter der MIT-Lizenz (siehe LICENSE).
 
 Es folgt der vollständige rechtsverbindliche Lizenztext (Quelle: https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt).
