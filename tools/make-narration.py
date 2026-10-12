@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-make-narration.py  --  Erzaehlstimme fuer "Das grosse Dinosaurier-Popup-Buch"
+make-narration.py  --  Erzaehlstimme fuer "Das grosse Popup-Buch vom Roemischen Reich"
 =========================================================================
 
 Offline-Neuro-TTS: Piper "de_DE-thorsten-medium" (Thorsten Mueller, CC0) ueber
@@ -83,43 +83,20 @@ PAUSE_WOW = 0.34         # nach der Interjektion "Wau!"
 #     NICHT angefasst; bitte dort (src/data/speech.js) korrigieren, dann kann
 #     der Eintrag hier entfallen.
 TEXT_FIXES = [
-    (r"\bEr lebte Gruppe: vor", "Die Gruppe lebte vor"),            # card_multituberculate
-    (r"Millionen\s+\)", "Millionen Jahren)"),                         # card_hominiden (3x)
-    (r"(Art: [\d,]+ bis [\d,]+ Millionen)$", r"\1 Jahren"),          # card_lucy (Satzende fehlt)
+    (r"\bTheodosius I\.", "Theodosius der Erste"),               # card_teilung395 (sonst Satzende nach "I.")
 ]
 
 # (2) Aussprache: Respelling in deutscher Orthografie (espeak-ng "de" liest sonst
-#     falsch).  Reihenfolge wichtig (laengere Muster zuerst).
+#     falsch).  Reihenfolge wichtig (laengere Muster zuerst).  Nur hier, nicht in
+#     den Anzeige-Texten.  Geprueft mit `--ipa` (espeak-IPA) und Whisper-Stichprobe.
 PRONUNCIATION = [
-    (r"\bLucy in the Sky with Diamonds\b", "Lucy in ße Skai wiss Daimonds"),
-    (r"\bSpace Shuttle\b", "Speis Schattel"),
-    (r"\bBeatles\b", "Bietels"),
     (r"\bPop-?[Uu]p\b", "Popp App"),           # sonst "Pohp-uhp"; Leerzeichen = Knacklaut vor "App"
     (r"\bWow\b", "Wau"),                       # sonst "wohf"
-    (r"\bBabys\b", "Behbies"),                 # Auswahl B (Hoerprobe 10.10.): sonst Umschaltung ins Englische
-    (r"\bBaby\b", "Behbi"),
-    (r"\bCartoon\b", "Kartuhn"),
-    (r"\bCousins\b", "Kusangs"),              # Auswahl D (Hoerprobe 10.10.)
-    (r"\bDinosaurier", "Dino-Sau-ri-er"),     # Auswahl B: sonst Betonung auf der letzten Silbe (auch Dinosauriern, Dinosaurierzeit)
-    (r"\bBaumkronen\b", "Baum-Kronen"),       # Auswahl B
-    (r"\bLagune\b", "La-gune"),               # Auswahl A
-    (r"\bVulkanasche\b", "Vulkan Asche"),     # Auswahl D
-    (r"\bMary\b", "Märi"),
-    (r"\bLeakey\b", "Liki"),
-    (r"\bMaastricht\b", "Maas-tricht"),        # sonst "Maaschtricht"
-    (r"\bPang(?:ä|ae)a\b", "Pann-gäa"),         # sonst fehlt das g ("Pangäa" -> "Pang-ä-a")
-    (r"\bChicxulub\b", "Tschikschulub"),
-    (r"\bTschad\b", "Tschatt"),               # sonst langes a ("Tschaad")
-    (r"\bPakicetus\b", "Pakizetus"),
-    (r"\bTriceratops\b", "Trizeratops"),
-    (r"\bThagomizer\b", "Tagomaiser"),
-    (r"\bSahelanthropus\b", "Sa-helantropus"), # sonst verschluckt espeak das h
-    (r"\bCoelophysis\b", "Zölofüsis"),
-    (r"\bRhamphorhynchus\b", "Ramforünkus"),
-    (r"\bPteranodon\b", "Teranodon"),          # sonst "Pe-te-ranodon"
-    (r"\bAusträlopitekus\b", "Australopitekus"),
-    (r"\bKompsonathus\b", "Kompsognathus"),
-    (r"\bCompsognathus\b", "Kompsognathus"),
+    (r"\b(?:Caesar|Cäsar)", "Zäsar"),          # espeak liest "Käsar"; auch Caesars, Caesar-
+    (r"\bPopulusque\b", "Populuskwe"),         # -que fehlt sonst ganz
+    (r"\bCCAA\b", "Ze Ze A A"),
+    (r"\bUNESCO\b", "Unesko"),
+    (r"\bVulkanasche\b", "Vulkan Asche"),
 ]
 
 _ONES = ["null", "ein", "zwei", "drei", "vier", "fünf", "sechs", "sieben", "acht", "neun", "zehn",
@@ -157,6 +134,23 @@ def year_words(n):  # 1100..1999 -> "achtzehnhunderteinundsechzig"
     return _lt100(h) + "hundert" + (_lt100(r) if r else "")
 
 
+_ORD_STEM = {1: "erst", 2: "zweit", 3: "dritt", 7: "siebt", 8: "acht"}
+_ORD_NEXT = r"(?=Jahrhundert|bis |Januar|Februar|März|April|Mai |Juni|Juli|August|September|Oktober|November|Dezember)"
+
+
+def ordinal(n, ending="en"):
+    """1 -> erst+en, 15 -> fuenfzehnt+en, 21 -> einundzwanzigst+en."""
+    stem = _ORD_STEM.get(n) or (cardinal(n) + ("t" if n < 20 else "st"))
+    return stem + ending
+
+
+def speak_ordinals(s):
+    s = re.sub(r"\((\d{1,2})\. (?=Jahrhundert)", lambda m: "(" + ordinal(int(m[1]), "es") + " ", s)   # "(1. Jahrhundert ...)"
+    s = re.sub(r"\b(\d{1,2})\. " + _ORD_NEXT, lambda m: ordinal(int(m[1])) + " ", s)
+    s = re.sub(r"\b(\d{1,3})\.(\d{3})\b", lambda m: m[1] + m[2], s)                               # 1.200 -> 1200
+    return s
+
+
 def speak_numbers(s):
     """Zahlen/Uhrzeiten -> Woerter (espeak liest '22:47' und Jahreszahlen falsch)."""
     s = re.sub(r"\b(\d{1,2}):(\d{2})(?:\s*Uhr)?",
@@ -173,6 +167,7 @@ def to_spoken(sentence):
     s = sentence
     for pat, rep in TEXT_FIXES:
         s = re.sub(pat, rep, s)
+    s = speak_ordinals(s)
     s = speak_numbers(s)
     s = re.sub(r"\s*\(", ", ", s)                      # Klammern -> Kommapausen
     s = re.sub(r"\)\s*(?=[A-Za-zÄÖÜäöüß])", ", ", s)
@@ -190,7 +185,10 @@ def to_spoken(sentence):
 def split_sentences(text):
     t = re.sub(r"\s+", " ", text.strip())
     t = re.sub(r"(?<=[^.!?:\s]) (?=Wow!)", "\x00", t)      # "... Millionen Wow!" -> eigener Satz
-    return [p for p in re.split(r"(?<=[.!?]) +|\x00", t) if p.strip()]
+    # Ordnungszahlen ("1. Jahrhundert", "15. Maerz") und "Theodosius I." sind kein Satzende
+    t = re.sub(r"\b(\d{1,2}\.) " + _ORD_NEXT, "\\1\x01", t)
+    t = re.sub(r"\b([IVX]+\.) (?=[a-zäöü])", "\\1\x01", t)
+    return [p.replace("\x01", " ") for p in re.split(r"(?<=[.!?]) +|\x00", t) if p.strip()]
 
 
 # --------------------------------------------------------------------------
