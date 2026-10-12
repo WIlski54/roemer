@@ -1,0 +1,2370 @@
+{
+ "cover": [
+  {
+   "text": "Das große Dinosaurier-Pop-up-Buch.",
+   "start": 0.12,
+   "end": 2.238
+  },
+  {
+   "text": "Eine Reise durch die Erdzeitalter.",
+   "start": 2.478,
+   "end": 4.134
+  },
+  {
+   "text": "Tippe auf das Buch, dann geht es los!",
+   "start": 4.374,
+   "end": 6.18
+  }
+ ],
+ "page0": [
+  {
+   "text": "Willkommen im großen Dinosaurier-Popup-Buch!",
+   "start": 0.12,
+   "end": 2.466
+  },
+  {
+   "text": "Wir reisen gemeinsam durch viele Millionen Jahre.",
+   "start": 2.766,
+   "end": 5.43
+  },
+  {
+   "text": "Zuerst schauen wir auf die Erduhr.",
+   "start": 5.67,
+   "end": 7.296
+  },
+  {
+   "text": "Stell dir vor, die ganze Geschichte der Erde passt auf einen einzigen Tag.",
+   "start": 7.536,
+   "end": 11.267
+  },
+  {
+   "text": "Zieh an der Lasche und dreh den Zeiger!",
+   "start": 11.507,
+   "end": 13.403
+  }
+ ],
+ "page1": [
+  {
+   "text": "Wir sind in der Trias, vor gut zweihundert Millionen Jahren.",
+   "start": 0.12,
+   "end": 3.293
+  },
+  {
+   "text": "Alles Land der Erde hängt zusammen: ein einziger Riesenkontinent namens Pangaea.",
+   "start": 3.533,
+   "end": 7.474
+  },
+  {
+   "text": "Es ist heiß und trocken.",
+   "start": 7.714,
+   "end": 9.071
+  },
+  {
+   "text": "Die ersten Dinosaurier sind noch klein und sehr flink.",
+   "start": 9.311,
+   "end": 12.334
+  },
+  {
+   "text": "Zieh an der Lasche und lass das Rudel rennen!",
+   "start": 12.574,
+   "end": 14.759
+  }
+ ],
+ "page2": [
+  {
+   "text": "Willkommen im Jura-Wald.",
+   "start": 0.12,
+   "end": 1.447
+  },
+  {
+   "text": "Hier ist es feucht und grün, und die Bäume sind hoch.",
+   "start": 1.687,
+   "end": 4.418
+  },
+  {
+   "text": "Der Riese in der Mitte ist ein Sauropode.",
+   "start": 4.658,
+   "end": 6.783
+  },
+  {
+   "text": "Mit dem langen Hals frisst er Blätter aus den Baumkronen.",
+   "start": 7.023,
+   "end": 9.757
+  },
+  {
+   "text": "Aber pass auf: Hinter dem Baumstamm schaut ein Jäger hervor.",
+   "start": 9.997,
+   "end": 12.99
+  },
+  {
+   "text": "Schiebe den Hals nach oben und schwing den Schwanz!",
+   "start": 13.23,
+   "end": 15.525
+  }
+ ],
+ "page3": [
+  {
+   "text": "Wir sind in einer warmen Lagune im heutigen Bayern, vor etwa hundertfünfzig Millionen Jahren.",
+   "start": 0.12,
+   "end": 5.498
+  },
+  {
+   "text": "Hier lebten Archaeopteryx, der Urvogel, und viele andere Tiere.",
+   "start": 5.738,
+   "end": 9.02
+  },
+  {
+   "text": "Wenn ein Tier starb, sank es in den feinen Kalkschlamm.",
+   "start": 9.26,
+   "end": 11.994
+  },
+  {
+   "text": "Zieh am Schieber Zeit vergeht und sieh, wie daraus ein Fossil wird!",
+   "start": 12.234,
+   "end": 15.966
+  }
+ ],
+ "page4": [
+  {
+   "text": "Hier ist das Meer der Kreidezeit.",
+   "start": 0.12,
+   "end": 1.652
+  },
+  {
+   "text": "Über den Wellen segelt ein Flugsaurier, und unter Wasser schwimmen riesige Reptilien.",
+   "start": 1.892,
+   "end": 6.561
+  },
+  {
+   "text": "Aber Achtung: Keines dieser Tiere ist ein Dinosaurier.",
+   "start": 6.801,
+   "end": 9.764
+  },
+  {
+   "text": "Sie sind Cousins.",
+   "start": 10.004,
+   "end": 11.012
+  },
+  {
+   "text": "Zieh an den Laschen, dann stürzt Pteranodon nach einem Fisch.",
+   "start": 11.252,
+   "end": 14.165
+  },
+  {
+   "text": "Und tippe auf die Wellen!",
+   "start": 14.405,
+   "end": 15.593
+  }
+ ],
+ "page5": [
+  {
+   "text": "Jetzt sind wir kurz vor dem Ende der Dinosaurierzeit, in Nordamerika.",
+   "start": 0.12,
+   "end": 3.861
+  },
+  {
+   "text": "Hier leben die berühmtesten Dinosaurier: Tyrannosaurus rex, Triceratops und Ankylosaurus.",
+   "start": 4.101,
+   "end": 9.699
+  },
+  {
+   "text": "Zieh an der Lasche und lass den Tierrex zubeißen!",
+   "start": 9.939,
+   "end": 12.513
+  },
+  {
+   "text": "Und such das winzige Säugetier, das sich hier versteckt.",
+   "start": 12.813,
+   "end": 15.776
+  }
+ ],
+ "page6": [
+  {
+   "text": "Das hier ist eine Nistkolonie in Montana, vor etwa fünfundsiebzig Millionen Jahren.",
+   "start": 0.12,
+   "end": 5.019
+  },
+  {
+   "text": "Maiasaura bedeutet gute Mutter-Echse.",
+   "start": 5.259,
+   "end": 7.4
+  },
+  {
+   "text": "Zieh an der Lasche Schlüpfe, dann brechen die Eier auf.",
+   "start": 7.64,
+   "end": 10.255
+  },
+  {
+   "text": "Und mit dem Schieber Sonnenuntergang kuscheln sich die Babys an.",
+   "start": 10.495,
+   "end": 13.658
+  }
+ ],
+ "page7": [
+  {
+   "text": "Das ist der Tag, an dem sich alles veränderte.",
+   "start": 0.12,
+   "end": 2.355
+  },
+  {
+   "text": "Vor etwa sechsundsechzig Millionen Jahren raste ein Asteroid auf die Erde zu.",
+   "start": 2.595,
+   "end": 7.109
+  },
+  {
+   "text": "Zieh an der Lasche Meteor und sieh, was passiert.",
+   "start": 7.349,
+   "end": 9.813
+  },
+  {
+   "text": "Wichtig: Es ist nichts Schlimmes zu sehen.",
+   "start": 10.053,
+   "end": 12.009
+  },
+  {
+   "text": "Und am Ende gibt es auch eine gute Nachricht.",
+   "start": 12.249,
+   "end": 14.514
+  }
+ ],
+ "page8": [
+  {
+   "text": "Das ist die letzte Seite.",
+   "start": 0.12,
+   "end": 1.365
+  },
+  {
+   "text": "Nach dem Einschlag ändert sich die Welt.",
+   "start": 1.605,
+   "end": 3.651
+  },
+  {
+   "text": "Die Säugetiere breiten sich aus, und es gibt bald viele neue Arten.",
+   "start": 3.891,
+   "end": 7.672
+  },
+  {
+   "text": "Links wachsen aus Farnen Wälder.",
+   "start": 7.912,
+   "end": 9.818
+  },
+  {
+   "text": "Rechts kannst du am Zeitsprung-Regler ziehen.",
+   "start": 10.058,
+   "end": 12.273
+  },
+  {
+   "text": "Die Landschaft verändert sich, bis du in Laetoli ankommst, vor drei Komma sieben Millionen Jahren.",
+   "start": 12.513,
+   "end": 17.791
+  },
+  {
+   "text": "Dort gehen frühe Vormenschen durch frische Vulkanasche.",
+   "start": 18.031,
+   "end": 20.878
+  }
+ ],
+ "card_coelophysis": [
+  {
+   "text": "Zölofüsis.",
+   "start": 0.12,
+   "end": 1.008
+  },
+  {
+   "text": "Der Name bedeutet: Hohlform, weil die Knochen innen hohl waren.",
+   "start": 1.428,
+   "end": 4.691
+  },
+  {
+   "text": "Er lebte vor etwa 216 bis 203 Millionen Jahren.",
+   "start": 4.931,
+   "end": 8.892
+  },
+  {
+   "text": "Wow!",
+   "start": 9.132,
+   "end": 9.581
+  },
+  {
+   "text": "Ein Schädel von Coelophysis flog 1998 mit einem Space Shuttle zur Raumstation Mir.",
+   "start": 9.921,
+   "end": 15.907
+  },
+  {
+   "text": "Coelophysis war schlank und sehr schnell.",
+   "start": 16.147,
+   "end": 18.222
+  },
+  {
+   "text": "Mit den langen Beinen und dem leichten Körper konnte sie gut rennen.",
+   "start": 18.462,
+   "end": 21.914
+  },
+  {
+   "text": "Man hat viele Skelette zusammen gefunden.",
+   "start": 22.154,
+   "end": 24.369
+  },
+  {
+   "text": "Vielleicht lebten die Tiere in Gruppen.",
+   "start": 24.609,
+   "end": 26.584
+  }
+ ],
+ "card_plateosaurus": [
+  {
+   "text": "Plateosaurus.",
+   "start": 0.12,
+   "end": 1.188
+  },
+  {
+   "text": "Der Name bedeutet: breite Echse.",
+   "start": 1.608,
+   "end": 3.653
+  },
+  {
+   "text": "Er lebte vor etwa 214 bis 204 Millionen Jahren.",
+   "start": 3.893,
+   "end": 7.914
+  },
+  {
+   "text": "Wow!",
+   "start": 8.154,
+   "end": 8.603
+  },
+  {
+   "text": "In Trossingen in Baden-Württemberg wurden sehr viele Plateosaurier an einem Ort gefunden.",
+   "start": 8.943,
+   "end": 13.822
+  },
+  {
+   "text": "Plateosaurus hatte einen langen Hals und kleinen Kopf.",
+   "start": 14.062,
+   "end": 17.195
+  },
+  {
+   "text": "Er fraß Pflanzen.",
+   "start": 17.435,
+   "end": 18.385
+  },
+  {
+   "text": "Er lief wohl meistens auf zwei Beinen, vielleicht stand er aber auch auf allen vieren.",
+   "start": 18.625,
+   "end": 22.696
+  }
+ ],
+ "card_eoraptor": [
+  {
+   "text": "Eorapptor.",
+   "start": 0.12,
+   "end": 0.859
+  },
+  {
+   "text": "Der Name bedeutet: Räuber der Morgenröte.",
+   "start": 1.279,
+   "end": 3.634
+  },
+  {
+   "text": "Er lebte vor etwa 231 Millionen Jahren.",
+   "start": 3.874,
+   "end": 7.356
+  },
+  {
+   "text": "Wow!",
+   "start": 7.596,
+   "end": 8.045
+  },
+  {
+   "text": "Eoraptor gehört zu den ältesten Dinosauriern, die wir kennen.",
+   "start": 8.385,
+   "end": 11.797
+  },
+  {
+   "text": "Eoraptor war klein und flink.",
+   "start": 12.037,
+   "end": 13.703
+  },
+  {
+   "text": "Seine Zähne sahen unterschiedlich aus.",
+   "start": 13.943,
+   "end": 15.891
+  },
+  {
+   "text": "Deshalb denken Forscher: Er fraß wohl Tiere und vielleicht auch Pflanzen.",
+   "start": 16.131,
+   "end": 19.783
+  }
+ ],
+ "card_morganucodon": [
+  {
+   "text": "Morganukodon.",
+   "start": 0.12,
+   "end": 1.038
+  },
+  {
+   "text": "Der Name bedeutet: Zahn aus Glamorgan (einer Gegend in Wales).",
+   "start": 1.458,
+   "end": 4.631
+  },
+  {
+   "text": "Er lebte vor etwa 205 Millionen Jahren.",
+   "start": 4.871,
+   "end": 7.724
+  },
+  {
+   "text": "Wow!",
+   "start": 7.964,
+   "end": 8.413
+  },
+  {
+   "text": "Säugetiere gibt es schon fast so lange wie Dinosaurier.",
+   "start": 8.753,
+   "end": 11.527
+  },
+  {
+   "text": "Morganucodon war winzig und wahrscheinlich nachts unterwegs.",
+   "start": 11.767,
+   "end": 15.109
+  },
+  {
+   "text": "Du hast ein verstecktes Säugetier gefunden!",
+   "start": 15.349,
+   "end": 17.514
+  },
+  {
+   "text": "Morganucodon jagte Insekten.",
+   "start": 17.814,
+   "end": 19.511
+  },
+  {
+   "text": "Es hatte wahrscheinlich schon ein Fell.",
+   "start": 19.751,
+   "end": 21.307
+  }
+ ],
+ "card_pangaea": [
+  {
+   "text": "Pangäa.",
+   "start": 0.12,
+   "end": 0.818
+  },
+  {
+   "text": "Der Name bedeutet: ganze Erde.",
+   "start": 1.238,
+   "end": 3.114
+  },
+  {
+   "text": "Er lebte vor etwa 335 bis 175 Millionen Jahren.",
+   "start": 3.354,
+   "end": 8.123
+  },
+  {
+   "text": "Wow!",
+   "start": 8.363,
+   "end": 8.812
+  },
+  {
+   "text": "Damals konnte ein Tier theoretisch zu Fuß von einem Ende der Welt zum anderen laufen.",
+   "start": 9.152,
+   "end": 13.562
+  },
+  {
+   "text": "In der Trias hingen alle Kontinente zusammen.",
+   "start": 13.802,
+   "end": 16.114
+  },
+  {
+   "text": "Das war ein einziger Riesenkontinent.",
+   "start": 16.354,
+   "end": 18.2
+  },
+  {
+   "text": "Rundherum lag das Urmeer Panthalassa.",
+   "start": 18.44,
+   "end": 20.539
+  },
+  {
+   "text": "Später brach Pangaea langsam auseinander.",
+   "start": 20.779,
+   "end": 23.134
+  },
+  {
+   "text": "Die Teile bewegen sich bis heute: jedes Jahr ein paar Zentimeter.",
+   "start": 23.374,
+   "end": 26.674
+  }
+ ],
+ "card_brachiosaurus": [
+  {
+   "text": "Giraffatitan.",
+   "start": 0.12,
+   "end": 1.218
+  },
+  {
+   "text": "Der Name bedeutet: Giraffen-Titan.",
+   "start": 1.638,
+   "end": 3.693
+  },
+  {
+   "text": "Er lebte vor etwa 150 Millionen Jahren.",
+   "start": 3.933,
+   "end": 6.507
+  },
+  {
+   "text": "Wow!",
+   "start": 6.747,
+   "end": 7.196
+  },
+  {
+   "text": "Sein Skelett im Museum für Naturkunde in Berlin ist über 12 Meter hoch.",
+   "start": 7.536,
+   "end": 11.518
+  },
+  {
+   "text": "Es gehört zu den größten Dinosaurierskeletten der Welt.",
+   "start": 11.758,
+   "end": 14.592
+  },
+  {
+   "text": "Seine Vorderbeine waren länger als die Hinterbeine, ähnlich wie bei einer Giraffe.",
+   "start": 14.832,
+   "end": 18.883
+  },
+  {
+   "text": "Mit dem langen Hals erreichte er Blätter in den Baumkronen.",
+   "start": 19.123,
+   "end": 22.226
+  }
+ ],
+ "card_stegosaurus": [
+  {
+   "text": "Stegosaurus.",
+   "start": 0.12,
+   "end": 1.028
+  },
+  {
+   "text": "Der Name bedeutet: Dach-Echse.",
+   "start": 1.448,
+   "end": 3.144
+  },
+  {
+   "text": "Er lebte vor etwa 155 bis 150 Millionen Jahren.",
+   "start": 3.384,
+   "end": 7.684
+  },
+  {
+   "text": "Wow!",
+   "start": 7.924,
+   "end": 8.373
+  },
+  {
+   "text": "Die vier Stacheln am Schwanz heißen Thagomizer.",
+   "start": 8.713,
+   "end": 11.082
+  },
+  {
+   "text": "Den Namen hat sich ein Zeichner für einen Cartoon ausgedacht.",
+   "start": 11.322,
+   "end": 14.415
+  },
+  {
+   "text": "Auf dem Rücken trug Stegosaurus große Knochenplatten.",
+   "start": 14.655,
+   "end": 17.389
+  },
+  {
+   "text": "Sie waren von Haut überzogen.",
+   "start": 17.629,
+   "end": 19.236
+  },
+  {
+   "text": "Wozu sie dienten, wissen wir nicht genau: zum Angeben, zur Wärme oder zur Kühlung.",
+   "start": 19.476,
+   "end": 23.756
+  }
+ ],
+ "card_allosaurus": [
+  {
+   "text": "Allosaurus.",
+   "start": 0.12,
+   "end": 0.938
+  },
+  {
+   "text": "Der Name bedeutet: andere Echse.",
+   "start": 1.358,
+   "end": 3.174
+  },
+  {
+   "text": "Er lebte vor etwa 155 bis 145 Millionen Jahren.",
+   "start": 3.414,
+   "end": 7.974
+  },
+  {
+   "text": "Wow!",
+   "start": 8.214,
+   "end": 8.663
+  },
+  {
+   "text": "Forscher vermuten, dass Allosaurus mit dem Kopf zuschlug wie mit einem Beil.",
+   "start": 9.003,
+   "end": 12.904
+  },
+  {
+   "text": "Allosaurus war einer der größten Jäger seiner Zeit.",
+   "start": 13.144,
+   "end": 15.848
+  },
+  {
+   "text": "Sein Kopf war leicht gebaut, sein Hals kräftig.",
+   "start": 16.088,
+   "end": 18.512
+  },
+  {
+   "text": "Er trug dreifingrige Hände mit großen Krallen.",
+   "start": 18.752,
+   "end": 21.097
+  }
+ ],
+ "card_castorocauda": [
+  {
+   "text": "Kastorokauda.",
+   "start": 0.12,
+   "end": 1.178
+  },
+  {
+   "text": "Der Name bedeutet: Biber-Schwanz.",
+   "start": 1.598,
+   "end": 3.354
+  },
+  {
+   "text": "Er lebte vor etwa 160 bis 164 Millionen Jahren.",
+   "start": 3.594,
+   "end": 7.654
+  },
+  {
+   "text": "Wow!",
+   "start": 7.894,
+   "end": 8.343
+  },
+  {
+   "text": "Es schwamm und tauchte wie ein Otter, mitten in der Dinosaurierzeit.",
+   "start": 8.683,
+   "end": 12.375
+  },
+  {
+   "text": "Du hast ein verstecktes Säugetier gefunden!",
+   "start": 12.615,
+   "end": 14.78
+  },
+  {
+   "text": "Castorocauda hatte einen flachen Schwanz wie ein Biber und Schwimmfüße.",
+   "start": 15.08,
+   "end": 19.011
+  },
+  {
+   "text": "Es fing Fische.",
+   "start": 19.251,
+   "end": 20.023
+  }
+ ],
+ "card_archaeopteryx": [
+  {
+   "text": "Archäoppterix.",
+   "start": 0.12,
+   "end": 1.028
+  },
+  {
+   "text": "Der Name bedeutet: alter Flügel oder alte Feder.",
+   "start": 1.448,
+   "end": 4.112
+  },
+  {
+   "text": "Er lebte vor etwa 150 Millionen Jahren.",
+   "start": 4.352,
+   "end": 6.926
+  },
+  {
+   "text": "Wow!",
+   "start": 7.166,
+   "end": 7.615
+  },
+  {
+   "text": "1861 wurde in Bayern eine einzelne Feder gefunden.",
+   "start": 7.955,
+   "end": 11.97
+  },
+  {
+   "text": "Kurz danach das erste Skelett.",
+   "start": 12.21,
+   "end": 13.86
+  },
+  {
+   "text": "Archaeopteryx hatte Federn und Flügel, aber auch Zähne und einen langen Knochenschwanz.",
+   "start": 14.1,
+   "end": 19.019
+  },
+  {
+   "text": "Er sah halb aus wie ein Vogel und halb wie ein kleiner Dinosaurier.",
+   "start": 19.259,
+   "end": 22.734
+  }
+ ],
+ "card_compsognathus": [
+  {
+   "text": "Kompsonathus.",
+   "start": 0.12,
+   "end": 1.138
+  },
+  {
+   "text": "Der Name bedeutet: feiner Kiefer.",
+   "start": 1.558,
+   "end": 3.239
+  },
+  {
+   "text": "Er lebte vor etwa 150 Millionen Jahren.",
+   "start": 3.479,
+   "end": 6.053
+  },
+  {
+   "text": "Wow!",
+   "start": 6.293,
+   "end": 6.742
+  },
+  {
+   "text": "Im Bauch eines Skeletts fand man eine kleine Echse.",
+   "start": 7.082,
+   "end": 9.716
+  },
+  {
+   "text": "Das war wohl seine letzte Mahlzeit.",
+   "start": 9.956,
+   "end": 11.682
+  },
+  {
+   "text": "Compsognathus war einer der kleinsten Dinosaurier.",
+   "start": 11.922,
+   "end": 14.705
+  },
+  {
+   "text": "Er rannte schnell auf zwei Beinen.",
+   "start": 14.945,
+   "end": 16.55
+  },
+  {
+   "text": "Er jagte kleine Echsen.",
+   "start": 16.79,
+   "end": 18.047
+  }
+ ],
+ "card_rhamphorhynchus": [
+  {
+   "text": "Ramforünkus.",
+   "start": 0.12,
+   "end": 1.058
+  },
+  {
+   "text": "Der Name bedeutet: Schnabelschnauze.",
+   "start": 1.478,
+   "end": 3.513
+  },
+  {
+   "text": "Er lebte vor etwa 150 Millionen Jahren.",
+   "start": 3.753,
+   "end": 6.327
+  },
+  {
+   "text": "Wow!",
+   "start": 6.567,
+   "end": 7.016
+  },
+  {
+   "text": "Am Ende des langen Schwanzes saß ein rautenförmiges Segel.",
+   "start": 7.356,
+   "end": 10.738
+  },
+  {
+   "text": "Wahrscheinlich half es beim Steuern.",
+   "start": 10.978,
+   "end": 12.505
+  },
+  {
+   "text": "Rhamphorhynchus war ein Flugsaurier, aber kein Dinosaurier.",
+   "start": 12.745,
+   "end": 16.057
+  },
+  {
+   "text": "Er fing Fische mit spitzen Zähnen, die nach vorne zeigten.",
+   "start": 16.297,
+   "end": 19.34
+  }
+ ],
+ "card_limulus": [
+  {
+   "text": "Mesolimulus.",
+   "start": 0.12,
+   "end": 1.048
+  },
+  {
+   "text": "Der Name bedeutet: etwa mittlerer Schiefer, Name des Fossils.",
+   "start": 1.468,
+   "end": 4.631
+  },
+  {
+   "text": "Er lebte vor etwa 150 Millionen Jahren.",
+   "start": 4.871,
+   "end": 7.445
+  },
+  {
+   "text": "Wow!",
+   "start": 7.685,
+   "end": 8.134
+  },
+  {
+   "text": "Pfeilschwanzkrebse gibt es seit über 400 Millionen Jahren.",
+   "start": 8.474,
+   "end": 12.086
+  },
+  {
+   "text": "Ihr Blut ist blau.",
+   "start": 12.326,
+   "end": 13.324
+  },
+  {
+   "text": "Er ist kein richtiger Krebs, sondern näher mit Spinnen verwandt.",
+   "start": 13.564,
+   "end": 16.896
+  },
+  {
+   "text": "Die Fossilien liegen oft am Ende ihrer eigenen Spur im Kalkstein.",
+   "start": 17.136,
+   "end": 20.808
+  }
+ ],
+ "card_ichthyosaurus": [
+  {
+   "text": "Oftalmosaurus.",
+   "start": 0.12,
+   "end": 1.237
+  },
+  {
+   "text": "Der Name bedeutet: Augen-Echse.",
+   "start": 1.657,
+   "end": 3.522
+  },
+  {
+   "text": "Er lebte vor etwa 165 bis 150 Millionen Jahren.",
+   "start": 3.762,
+   "end": 7.993
+  },
+  {
+   "text": "Wow!",
+   "start": 8.233,
+   "end": 8.682
+  },
+  {
+   "text": "Ichthyosaurier brachten ihre Jungen lebend im Wasser zur Welt.",
+   "start": 9.022,
+   "end": 12.264
+  },
+  {
+   "text": "Er sah aus wie ein Delfin, ist aber ein Meeresreptil.",
+   "start": 12.504,
+   "end": 15.302
+  },
+  {
+   "text": "Seine Augen waren riesig.",
+   "start": 15.542,
+   "end": 16.879
+  },
+  {
+   "text": "So konnte er auch im dunklen Wasser jagen.",
+   "start": 17.119,
+   "end": 19.204
+  }
+ ],
+ "card_fossil": [
+  {
+   "text": "Wie wird ein Fossil?",
+   "start": 0.12,
+   "end": 1.194
+  },
+  {
+   "text": "Wow!",
+   "start": 1.614,
+   "end": 2.063
+  },
+  {
+   "text": "Weil im Kalkschlamm kaum Sauerstoff war, haben sich die Tiere dort nicht zersetzt.",
+   "start": 2.403,
+   "end": 6.624
+  },
+  {
+   "text": "Erstens: Ein Tier stirbt und sinkt in den feinen Kalkschlamm.",
+   "start": 6.864,
+   "end": 9.967
+  },
+  {
+   "text": "Zweitens: Am Boden ist fast kein Sauerstoff, deshalb fault es kaum.",
+   "start": 10.207,
+   "end": 13.948
+  },
+  {
+   "text": "Drittens: Schlamm deckt es schnell zu.",
+   "start": 14.188,
+   "end": 15.844
+  },
+  {
+   "text": "Viertens: Mineralien aus dem Wasser füllen die Hohlräume und machen aus Knochen und Federabdrücken Stein.",
+   "start": 16.084,
+   "end": 21.794
+  },
+  {
+   "text": "So ist Archaeopteryx bis heute erhalten.",
+   "start": 22.034,
+   "end": 24.269
+  }
+ ],
+ "card_pteranodon": [
+  {
+   "text": "Teranodon.",
+   "start": 0.12,
+   "end": 0.928
+  },
+  {
+   "text": "Der Name bedeutet: Flügel ohne Zähne.",
+   "start": 1.348,
+   "end": 3.256
+  },
+  {
+   "text": "Er lebte vor etwa 86 bis 84 Millionen Jahren.",
+   "start": 3.496,
+   "end": 7.307
+  },
+  {
+   "text": "Wow!",
+   "start": 7.547,
+   "end": 7.996
+  },
+  {
+   "text": "Pteranodon hatte gar keine Zähne.",
+   "start": 8.336,
+   "end": 9.972
+  },
+  {
+   "text": "Der lange Kamm am Kopf diente wohl zum Imponieren.",
+   "start": 10.212,
+   "end": 12.886
+  },
+  {
+   "text": "Pteranodon segelte über dem Meer und tauchte nach Fischen.",
+   "start": 13.126,
+   "end": 16.179
+  },
+  {
+   "text": "Seine Flügel waren Flughäute zwischen dem Körper und einem sehr langen Fingerknochen.",
+   "start": 16.419,
+   "end": 20.62
+  }
+ ],
+ "card_elasmosaurus": [
+  {
+   "text": "Elasmosaurus.",
+   "start": 0.12,
+   "end": 1.168
+  },
+  {
+   "text": "Der Name bedeutet: Plattenechse.",
+   "start": 1.588,
+   "end": 3.26
+  },
+  {
+   "text": "Er lebte vor etwa 80 Millionen Jahren.",
+   "start": 3.5,
+   "end": 5.834
+  },
+  {
+   "text": "Wow!",
+   "start": 6.074,
+   "end": 6.523
+  },
+  {
+   "text": "Elasmosaurus hatte über 70 Halswirbel.",
+   "start": 6.863,
+   "end": 9.242
+  },
+  {
+   "text": "Eine Giraffe hat nur 7.",
+   "start": 9.482,
+   "end": 10.919
+  },
+  {
+   "text": "Der Hals war länger als der Rest des Körpers.",
+   "start": 11.159,
+   "end": 13.494
+  },
+  {
+   "text": "Mit vier Paddeln schwamm Elasmosaurus durch das Meer.",
+   "start": 13.734,
+   "end": 16.527
+  }
+ ],
+ "card_mosasaurus": [
+  {
+   "text": "Mosasaurus.",
+   "start": 0.12,
+   "end": 0.888
+  },
+  {
+   "text": "Der Name bedeutet: Maas-Echse, nach dem Fluss Maas.",
+   "start": 1.308,
+   "end": 3.875
+  },
+  {
+   "text": "Er lebte vor etwa 82 bis 66 Millionen Jahren.",
+   "start": 4.115,
+   "end": 7.966
+  },
+  {
+   "text": "Wow!",
+   "start": 8.206,
+   "end": 8.655
+  },
+  {
+   "text": "Der erste Schädel wurde in Maastricht gefunden.",
+   "start": 8.995,
+   "end": 11.39
+  },
+  {
+   "text": "Er half Forschern zu verstehen, dass Tierarten aussterben können.",
+   "start": 11.63,
+   "end": 14.992
+  },
+  {
+   "text": "Mosasaurus war ein riesiger Jäger im Meer.",
+   "start": 15.232,
+   "end": 17.617
+  },
+  {
+   "text": "Er ist mit den heutigen Waranen verwandt.",
+   "start": 17.857,
+   "end": 19.782
+  },
+  {
+   "text": "Sein Maul war voller Zähne, auch am Gaumen.",
+   "start": 20.022,
+   "end": 22.407
+  }
+ ],
+ "card_trex": [
+  {
+   "text": "Türanosaurus Rex.",
+   "start": 0.12,
+   "end": 1.467
+  },
+  {
+   "text": "Der Name bedeutet: König der Tyrannen-Echsen.",
+   "start": 1.887,
+   "end": 4.042
+  },
+  {
+   "text": "Er lebte vor etwa 68 bis 66 Millionen Jahren.",
+   "start": 4.282,
+   "end": 7.854
+  },
+  {
+   "text": "Wow!",
+   "start": 8.094,
+   "end": 8.543
+  },
+  {
+   "text": "Tierrex lebte zeitlich näher an uns als am Stegosaurus.",
+   "start": 8.883,
+   "end": 12.136
+  },
+  {
+   "text": "Zwischen Stegosaurus und Tierrex liegen etwa 84 Millionen Jahre.",
+   "start": 12.376,
+   "end": 16.795
+  },
+  {
+   "text": "Tierrex hatte einen riesigen Kopf mit kräftigem Biss.",
+   "start": 17.035,
+   "end": 19.889
+  },
+  {
+   "text": "Seine Arme waren kurz und hatten nur zwei Finger.",
+   "start": 20.129,
+   "end": 22.659
+  },
+  {
+   "text": "Auf den starken Hinterbeinen konnte er gut laufen.",
+   "start": 22.899,
+   "end": 25.424
+  }
+ ],
+ "card_triceratops": [
+  {
+   "text": "Trizeratops.",
+   "start": 0.12,
+   "end": 1.058
+  },
+  {
+   "text": "Der Name bedeutet: Dreihorn-Gesicht.",
+   "start": 1.478,
+   "end": 3.354
+  },
+  {
+   "text": "Er lebte vor etwa 68 bis 66 Millionen Jahren.",
+   "start": 3.594,
+   "end": 7.165
+  },
+  {
+   "text": "Wow!",
+   "start": 7.405,
+   "end": 7.854
+  },
+  {
+   "text": "Der Schädel von Triceratops konnte fast 2 Meter lang werden.",
+   "start": 8.194,
+   "end": 11.507
+  },
+  {
+   "text": "Triceratops trug drei Hörner und einen Nackenschild aus Knochen.",
+   "start": 11.747,
+   "end": 15.588
+  },
+  {
+   "text": "Mit dem scharfen Schnabel schnitt er zähe Pflanzen ab.",
+   "start": 15.828,
+   "end": 18.378
+  }
+ ],
+ "card_ankylosaurus": [
+  {
+   "text": "Ankülosaurus.",
+   "start": 0.12,
+   "end": 1.168
+  },
+  {
+   "text": "Der Name bedeutet: steife Echse.",
+   "start": 1.588,
+   "end": 3.433
+  },
+  {
+   "text": "Er lebte vor etwa 68 bis 66 Millionen Jahren.",
+   "start": 3.673,
+   "end": 7.245
+  },
+  {
+   "text": "Wow!",
+   "start": 7.485,
+   "end": 7.934
+  },
+  {
+   "text": "Mit der Knochenkeule am Schwanz konnte Ankylosaurus sehr kräftig zuschlagen.",
+   "start": 8.274,
+   "end": 12.764
+  },
+  {
+   "text": "Ankylosaurus war wie ein lebender Panzer.",
+   "start": 13.004,
+   "end": 15.359
+  },
+  {
+   "text": "Auf dem Rücken trug er Knochenplatten mit Spitzen.",
+   "start": 15.599,
+   "end": 17.955
+  },
+  {
+   "text": "Die Schwanzkeule diente wohl zur Verteidigung.",
+   "start": 18.195,
+   "end": 20.54
+  }
+ ],
+ "card_didelphodon": [
+  {
+   "text": "Didelfodon.",
+   "start": 0.12,
+   "end": 0.878
+  },
+  {
+   "text": "Der Name bedeutet: Beutelratten-Zahn.",
+   "start": 1.298,
+   "end": 3.284
+  },
+  {
+   "text": "Er lebte vor etwa 68 bis 66 Millionen Jahren.",
+   "start": 3.524,
+   "end": 7.096
+  },
+  {
+   "text": "Wow!",
+   "start": 7.336,
+   "end": 7.785
+  },
+  {
+   "text": "Didelphodon hatte einen sehr kräftigen Biss.",
+   "start": 8.125,
+   "end": 10.2
+  },
+  {
+   "text": "Damit knackte er wohl sogar Schneckenhäuser.",
+   "start": 10.44,
+   "end": 12.515
+  },
+  {
+   "text": "Du hast ein verstecktes Säugetier gefunden!",
+   "start": 12.755,
+   "end": 14.92
+  },
+  {
+   "text": "Didelphodon gehörte zu den Beuteltier-Verwandten.",
+   "start": 15.22,
+   "end": 17.852
+  },
+  {
+   "text": "Er war eines der größten Säugetiere seiner Zeit.",
+   "start": 18.092,
+   "end": 20.666
+  }
+ ],
+ "card_maiasaura": [
+  {
+   "text": "Maiasaura.",
+   "start": 0.12,
+   "end": 0.878
+  },
+  {
+   "text": "Der Name bedeutet: gute Mutter-Echse.",
+   "start": 1.298,
+   "end": 3.234
+  },
+  {
+   "text": "Er lebte vor etwa 76 bis 74 Millionen Jahren.",
+   "start": 3.474,
+   "end": 7.046
+  },
+  {
+   "text": "Wow!",
+   "start": 7.286,
+   "end": 7.735
+  },
+  {
+   "text": "Maiasaura-Knochen flogen 1985 mit einem Space Shuttle ins All.",
+   "start": 8.075,
+   "end": 12.918
+  },
+  {
+   "text": "Es war der erste Dinosaurier im Weltraum.",
+   "start": 13.158,
+   "end": 15.353
+  },
+  {
+   "text": "In Montana fand man ganze Nistplätze mit Eiern und Jungtieren.",
+   "start": 15.593,
+   "end": 19.255
+  },
+  {
+   "text": "Die Tiere nisteten in Gruppen.",
+   "start": 19.495,
+   "end": 21.141
+  },
+  {
+   "text": "Die Jungen blieben wahrscheinlich eine Weile im Nest.",
+   "start": 21.381,
+   "end": 23.766
+  }
+ ],
+ "card_maiasaura_baby": [
+  {
+   "text": "Maiasaura-Baby.",
+   "start": 0.12,
+   "end": 1.088
+  },
+  {
+   "text": "Er lebte vor etwa 76 bis 74 Millionen Jahren.",
+   "start": 1.508,
+   "end": 5.08
+  },
+  {
+   "text": "Wow!",
+   "start": 5.32,
+   "end": 5.769
+  },
+  {
+   "text": "Aus einem kleinen Ei wurde ein Tier von rund 9 Meter Länge.",
+   "start": 6.109,
+   "end": 9.271
+  },
+  {
+   "text": "Maiasaura-Babys wuchsen schnell.",
+   "start": 9.511,
+   "end": 11.347
+  },
+  {
+   "text": "Sie brauchten nur wenige Jahre bis zur Größe der Erwachsenen.",
+   "start": 11.587,
+   "end": 14.81
+  }
+ ],
+ "card_oviraptor": [
+  {
+   "text": "Oviraptor.",
+   "start": 0.12,
+   "end": 0.968
+  },
+  {
+   "text": "Der Name bedeutet: Eier-Dieb.",
+   "start": 1.388,
+   "end": 2.974
+  },
+  {
+   "text": "Der Name ist ein Irrtum.",
+   "start": 3.214,
+   "end": 4.641
+  },
+  {
+   "text": "Er lebte vor etwa 75 bis 71 Millionen Jahren.",
+   "start": 4.881,
+   "end": 8.493
+  },
+  {
+   "text": "Wow!",
+   "start": 8.733,
+   "end": 9.182
+  },
+  {
+   "text": "Oviraptor war kein Eierdieb.",
+   "start": 9.522,
+   "end": 11.112
+  },
+  {
+   "text": "Verwandte wurden auf ihren Nestern gefunden, die Federarme über den Eiern.",
+   "start": 11.352,
+   "end": 15.463
+  },
+  {
+   "text": "Zuerst fand man einen Oviraptor in der Nähe von Eiern und dachte, er klaut sie.",
+   "start": 15.703,
+   "end": 20.053
+  },
+  {
+   "text": "Später stellte sich heraus: Es waren seine eigenen Eier.",
+   "start": 20.293,
+   "end": 23.286
+  },
+  {
+   "text": "Er brütete sie aus.",
+   "start": 23.526,
+   "end": 24.614
+  }
+ ],
+ "card_multituberculate": [
+  {
+   "text": "Multituberkulata.",
+   "start": 0.12,
+   "end": 1.247
+  },
+  {
+   "text": "Der Name bedeutet: viele Höcker an den Backenzähnen.",
+   "start": 1.667,
+   "end": 4.351
+  },
+  {
+   "text": "Die Gruppe lebte vor etwa 165 bis 35 Millionen Jahren.",
+   "start": 4.591,
+   "end": 9.101
+  },
+  {
+   "text": "Wow!",
+   "start": 9.341,
+   "end": 9.79
+  },
+  {
+   "text": "Diese Gruppe war über 100 Millionen Jahre lang erfolgreich, länger als manche Dinosaurier.",
+   "start": 10.13,
+   "end": 15.238
+  },
+  {
+   "text": "Du hast ein verstecktes Säugetier gefunden!",
+   "start": 15.478,
+   "end": 17.644
+  },
+  {
+   "text": "Vielhöckerzähner sahen aus wie Nagetiere.",
+   "start": 17.944,
+   "end": 20.298
+  },
+  {
+   "text": "Sie waren aber nicht mit Mäusen verwandt.",
+   "start": 20.538,
+   "end": 22.264
+  }
+ ],
+ "card_purgatorius": [
+  {
+   "text": "Purgatorius.",
+   "start": 0.12,
+   "end": 0.988
+  },
+  {
+   "text": "Der Name bedeutet: nach dem Fundort Purgatory Hill (Fegefeuer-Hügel).",
+   "start": 1.408,
+   "end": 5.449
+  },
+  {
+   "text": "Er lebte vor etwa 66 bis 65 Millionen Jahren.",
+   "start": 5.689,
+   "end": 9.268
+  },
+  {
+   "text": "Wow!",
+   "start": 9.508,
+   "end": 9.957
+  },
+  {
+   "text": "Er wird oft zu den ältesten Verwandten der Primaten gezählt.",
+   "start": 10.297,
+   "end": 13.3
+  },
+  {
+   "text": "Zu den Primaten gehören auch Affen und wir Menschen.",
+   "start": 13.54,
+   "end": 16.234
+  },
+  {
+   "text": "Du hast ein verstecktes Säugetier gefunden!",
+   "start": 16.474,
+   "end": 18.639
+  },
+  {
+   "text": "Purgatorius kletterte wohl in Bäumen.",
+   "start": 18.939,
+   "end": 21.004
+  },
+  {
+   "text": "Er überlebte die Zeit nach dem Einschlag.",
+   "start": 21.244,
+   "end": 23.409
+  }
+ ],
+ "card_hyracotherium": [
+  {
+   "text": "Hürakotherium.",
+   "start": 0.12,
+   "end": 1.198
+  },
+  {
+   "text": "Der Name bedeutet: Klippschliefer-Tier.",
+   "start": 1.618,
+   "end": 3.473
+  },
+  {
+   "text": "Er lebte vor etwa 55 bis 50 Millionen Jahren.",
+   "start": 3.713,
+   "end": 7.335
+  },
+  {
+   "text": "Wow!",
+   "start": 7.575,
+   "end": 8.024
+  },
+  {
+   "text": "Es hatte vorn vier Zehen und hinten drei.",
+   "start": 8.364,
+   "end": 10.509
+  },
+  {
+   "text": "Heutige Pferde laufen nur noch auf einer Zehe.",
+   "start": 10.749,
+   "end": 12.904
+  },
+  {
+   "text": "Das Urpferdchen lebte im Wald und knabberte Blätter.",
+   "start": 13.144,
+   "end": 16.078
+  },
+  {
+   "text": "Aus solchen Tieren entwickelten sich im Laufe von Millionen Jahren die Pferde.",
+   "start": 16.318,
+   "end": 20.239
+  },
+  {
+   "text": "Verwandte lebten auch in Deutschland, in der Grube Messel bei Darmstadt.",
+   "start": 20.479,
+   "end": 24.17
+  }
+ ],
+ "card_gastornis": [
+  {
+   "text": "Gastornis.",
+   "start": 0.12,
+   "end": 0.808
+  },
+  {
+   "text": "Der Name bedeutet: Gastons Vogel, nach dem Entdecker Gaston Planté.",
+   "start": 1.228,
+   "end": 4.57
+  },
+  {
+   "text": "Er lebte vor etwa 56 bis 45 Millionen Jahren.",
+   "start": 4.81,
+   "end": 8.57
+  },
+  {
+   "text": "Wow!",
+   "start": 8.81,
+   "end": 9.259
+  },
+  {
+   "text": "Gastornis war ein riesiger Laufvogel und damit ein Nachfahre der Dinosaurier.",
+   "start": 9.599,
+   "end": 13.769
+  },
+  {
+   "text": "Vögel sind ja Dinosaurier.",
+   "start": 14.009,
+   "end": 15.666
+  },
+  {
+   "text": "Er konnte nicht fliegen.",
+   "start": 15.906,
+   "end": 17.018
+  },
+  {
+   "text": "Sein Schnabel war riesig und sehr kräftig.",
+   "start": 17.258,
+   "end": 19.703
+  },
+  {
+   "text": "Früher hielt man ihn für einen Jäger.",
+   "start": 19.943,
+   "end": 21.739
+  },
+  {
+   "text": "Heute denken viele Forscher, dass er vor allem Pflanzen fraß.",
+   "start": 21.979,
+   "end": 25.012
+  }
+ ],
+ "card_plesiadapis": [
+  {
+   "text": "Plesiadapis.",
+   "start": 0.12,
+   "end": 1.028
+  },
+  {
+   "text": "Der Name bedeutet: fast wie Adapis, ein anderes Tier der Zeit.",
+   "start": 1.448,
+   "end": 4.853
+  },
+  {
+   "text": "Er lebte vor etwa 58 bis 56 Millionen Jahren.",
+   "start": 5.093,
+   "end": 8.905
+  },
+  {
+   "text": "Wow!",
+   "start": 9.145,
+   "end": 9.594
+  },
+  {
+   "text": "Plesiadapis hatte große Nagezähne wie ein Biber.",
+   "start": 9.934,
+   "end": 12.745
+  },
+  {
+   "text": "Er sah ein bisschen aus wie ein Eichhörnchen mit langer Schnauze.",
+   "start": 12.985,
+   "end": 15.936
+  },
+  {
+   "text": "Er wird zu den Verwandten der Primaten gezählt.",
+   "start": 16.176,
+   "end": 18.371
+  }
+ ],
+ "card_pakicetus": [
+  {
+   "text": "Pakizetus.",
+   "start": 0.12,
+   "end": 1.028
+  },
+  {
+   "text": "Der Name bedeutet: Wal aus Pakistan.",
+   "start": 1.448,
+   "end": 3.573
+  },
+  {
+   "text": "Er lebte vor etwa 50 Millionen Jahren.",
+   "start": 3.813,
+   "end": 6.278
+  },
+  {
+   "text": "Wow!",
+   "start": 6.518,
+   "end": 6.966
+  },
+  {
+   "text": "Pakicetus lief an Land und ist ein Verwandter der Wale.",
+   "start": 7.306,
+   "end": 10.22
+  },
+  {
+   "text": "Wale stammen von Landtieren ab.",
+   "start": 10.46,
+   "end": 12.096
+  },
+  {
+   "text": "Er ähnelte einem schlanken Wolf mit langem Schwanz.",
+   "start": 12.336,
+   "end": 14.741
+  },
+  {
+   "text": "Er ging an Land, jagte aber wohl auch im Wasser.",
+   "start": 14.981,
+   "end": 17.355
+  },
+  {
+   "text": "Nach Millionen Jahren entwickelten sich daraus die Wale.",
+   "start": 17.595,
+   "end": 20.459
+  }
+ ],
+ "card_paraceratherium": [
+  {
+   "text": "Parakeratherium.",
+   "start": 0.12,
+   "end": 1.218
+  },
+  {
+   "text": "Der Name bedeutet: neben dem Horn-Tier.",
+   "start": 1.638,
+   "end": 3.52
+  },
+  {
+   "text": "Er lebte vor etwa 34 bis 23 Millionen Jahren.",
+   "start": 3.76,
+   "end": 7.471
+  },
+  {
+   "text": "Wow!",
+   "start": 7.711,
+   "end": 8.16
+  },
+  {
+   "text": "Es war eines der größten Landsäugetiere aller Zeiten, so schwer wie drei bis vier Elefanten.",
+   "start": 8.5,
+   "end": 13.521
+  },
+  {
+   "text": "Das Riesen-Nashorn hatte kein Horn.",
+   "start": 13.761,
+   "end": 15.627
+  },
+  {
+   "text": "Mit der beweglichen Lippe pflückte es Blätter von hohen Bäumen.",
+   "start": 15.867,
+   "end": 18.78
+  }
+ ],
+ "card_gomphotherium": [
+  {
+   "text": "Gomfotherium.",
+   "start": 0.12,
+   "end": 1.118
+  },
+  {
+   "text": "Der Name bedeutet: Bolzen-Tier, wegen der Zähne.",
+   "start": 1.538,
+   "end": 4.34
+  },
+  {
+   "text": "Er lebte vor etwa 20 bis 5 Millionen Jahren.",
+   "start": 4.58,
+   "end": 7.494
+  },
+  {
+   "text": "Wow!",
+   "start": 7.734,
+   "end": 8.183
+  },
+  {
+   "text": "Gomphotherium hatte vier Stoßzähne: zwei oben und zwei unten.",
+   "start": 8.523,
+   "end": 12.384
+  },
+  {
+   "text": "Es war ein Verwandter der Elefanten.",
+   "start": 12.624,
+   "end": 14.29
+  },
+  {
+   "text": "Mit dem Rüssel griff es Pflanzen und Wasser.",
+   "start": 14.53,
+   "end": 16.895
+  },
+  {
+   "text": "Es lebte in vielen Teilen der Welt.",
+   "start": 17.135,
+   "end": 19.05
+  }
+ ],
+ "card_miocene_ape": [
+  {
+   "text": "Prokonsul.",
+   "start": 0.12,
+   "end": 0.814
+  },
+  {
+   "text": "Name: Proconsul, nach einem Schimpansen namens Consul.",
+   "start": 1.234,
+   "end": 4.107
+  },
+  {
+   "text": "Er lebte vor etwa 21 bis 17 Millionen Jahren.",
+   "start": 4.347,
+   "end": 7.58
+  },
+  {
+   "text": "Wow!",
+   "start": 7.82,
+   "end": 8.269
+  },
+  {
+   "text": "Er hatte schon keinen Schwanz mehr.",
+   "start": 8.609,
+   "end": 10.106
+  },
+  {
+   "text": "Das ist ein Merkmal der Menschenaffen.",
+   "start": 10.346,
+   "end": 12.082
+  },
+  {
+   "text": "Er lief auf allen vieren auf Ästen und kletterte gut.",
+   "start": 12.322,
+   "end": 15.065
+  },
+  {
+   "text": "Er lebte im Regenwald.",
+   "start": 15.305,
+   "end": 16.503
+  }
+ ],
+ "card_lucy": [
+  {
+   "text": "Austrälopitekus afarensis.",
+   "start": 0.12,
+   "end": 1.785
+  },
+  {
+   "text": "Der Name bedeutet: Südaffe aus Afar.",
+   "start": 2.205,
+   "end": 4.43
+  },
+  {
+   "text": "Er lebte vor etwa 3,2 Millionen Jahren, die Art: 3,9 bis 2,9 Millionen",
+   "start": 4.67,
+   "end": 10.557
+  },
+  {
+   "text": "Wow!",
+   "start": 10.797,
+   "end": 11.246
+  },
+  {
+   "text": "Der Name kommt aus einem Beatles-Lied, das im Lager lief: Lucy in the Sky with Diamonds.",
+   "start": 11.586,
+   "end": 16.036
+  },
+  {
+   "text": "Lucy lief aufrecht auf zwei Beinen, konnte aber auch noch gut klettern.",
+   "start": 16.276,
+   "end": 19.987
+  },
+  {
+   "text": "Ihr Gehirn war etwa so groß wie das eines Schimpansen.",
+   "start": 20.227,
+   "end": 22.851
+  },
+  {
+   "text": "Ihr Skelett ist zu rund 40 Prozent erhalten.",
+   "start": 23.091,
+   "end": 25.566
+  }
+ ],
+ "card_laetoli": [
+  {
+   "text": "Laetoli.",
+   "start": 0.12,
+   "end": 0.769
+  },
+  {
+   "text": "Er lebte vor etwa 3,7 Millionen Jahren.",
+   "start": 1.189,
+   "end": 3.852
+  },
+  {
+   "text": "Wow!",
+   "start": 4.092,
+   "end": 4.541
+  },
+  {
+   "text": "Die Spur stammt von mindestens zwei, vielleicht drei Wesen, zwei große und ein kleineres.",
+   "start": 4.881,
+   "end": 9.85
+  },
+  {
+   "text": "Ein Vulkan hatte feine Asche ausgespuckt.",
+   "start": 10.09,
+   "end": 12.415
+  },
+  {
+   "text": "Es regnete leicht, die Asche wurde feucht.",
+   "start": 12.655,
+   "end": 14.75
+  },
+  {
+   "text": "Wesen liefen darüber, ihre Fußabdrücke trockneten und wurden mit weiterer Asche bedeckt.",
+   "start": 14.99,
+   "end": 19.729
+  },
+  {
+   "text": "Das Team um Mary Leakey entdeckte die Spuren 1976.",
+   "start": 19.969,
+   "end": 24.296
+  }
+ ],
+ "card_hominiden": [
+  {
+   "text": "Wer war früh dabei?",
+   "start": 0.12,
+   "end": 1.137
+  },
+  {
+   "text": "Wow!",
+   "start": 1.557,
+   "end": 2.006
+  },
+  {
+   "text": "Der Stammbaum des Menschen ist ein Busch, keine Leiter.",
+   "start": 2.346,
+   "end": 4.938
+  },
+  {
+   "text": "Hier siehst du frühe Vormenschen.",
+   "start": 5.178,
+   "end": 6.727
+  },
+  {
+   "text": "Sahelanthropus (vor etwa 7 Millionen Jahren, Tschad) ist umstritten: Ob er zu den Vormenschen gehört, wissen wir nicht sicher.",
+   "start": 6.967,
+   "end": 13.16
+  },
+  {
+   "text": "Orrorin (etwa 6 Millionen ), Ardipithecus (etwa 4,4 Millionen ), Australopithecus (etwa 4 bis 2 Millionen ) und die ersten Homo (ab etwa 2,8 Millionen Jahren).",
+   "start": 13.4,
+   "end": 25.084
+  }
+ ],
+ "card_voegel": [
+  {
+   "text": "Vögel sind Dinosaurier.",
+   "start": 0.12,
+   "end": 1.557
+  },
+  {
+   "text": "Wow!",
+   "start": 1.977,
+   "end": 2.426
+  },
+  {
+   "text": "Jeder Spatz und jedes Rotkehlchen gehört zu den Dinosauriern.",
+   "start": 2.766,
+   "end": 6.318
+  },
+  {
+   "text": "Vögel stammen von kleinen, gefiederten Dinosauriern ab.",
+   "start": 6.558,
+   "end": 9.651
+  },
+  {
+   "text": "Als vor 66 Millionen Jahren der Asteroid einschlug, überlebten nur sie von allen Dinosaurier-Gruppen.",
+   "start": 9.891,
+   "end": 15.877
+  },
+  {
+   "text": "Wenn du also das nächste Mal eine Amsel hörst, hörst du einen Dinosaurier.",
+   "start": 16.117,
+   "end": 19.799
+  }
+ ],
+ "card_sahelanthropus": [
+  {
+   "text": "Sahelantropus.",
+   "start": 0.12,
+   "end": 1.198
+  },
+  {
+   "text": "Der Name bedeutet: Mensch aus dem Sahel.",
+   "start": 1.618,
+   "end": 3.603
+  },
+  {
+   "text": "Der Sahel ist eine Gegend südlich der Sahara.",
+   "start": 3.843,
+   "end": 6.008
+  },
+  {
+   "text": "Er lebte vor etwa 7 Millionen Jahren.",
+   "start": 6.248,
+   "end": 8.225
+  },
+  {
+   "text": "Wow!",
+   "start": 8.465,
+   "end": 8.914
+  },
+  {
+   "text": "Von Sahelanthropus kennt man vor allem einen Schädel.",
+   "start": 9.254,
+   "end": 12.128
+  },
+  {
+   "text": "Er wurde 2001 im Tschad gefunden und hat den Spitznamen Toumaï.",
+   "start": 12.368,
+   "end": 16.448
+  },
+  {
+   "text": "Sein Gehirn war klein, etwa so wie bei einem Schimpansen.",
+   "start": 16.688,
+   "end": 19.771
+  },
+  {
+   "text": "Einige Forscher meinen: Sahelanthropus gehört zu den frühen Vormenschen.",
+   "start": 20.011,
+   "end": 23.713
+  },
+  {
+   "text": "Andere sagen: Er war eher ein Verwandter der Menschenaffen.",
+   "start": 23.953,
+   "end": 26.716
+  }
+ ],
+ "card_orrorin": [
+  {
+   "text": "Orrorin.",
+   "start": 0.12,
+   "end": 0.759
+  },
+  {
+   "text": "Der Name bedeutet: Urmensch, so sagen die Tugen in Kenia.",
+   "start": 1.179,
+   "end": 4.471
+  },
+  {
+   "text": "Er lebte vor etwa 6 Millionen Jahren.",
+   "start": 4.711,
+   "end": 6.707
+  },
+  {
+   "text": "Wow!",
+   "start": 6.947,
+   "end": 7.396
+  },
+  {
+   "text": "Von Orrorin kennt man Oberschenkelknochen.",
+   "start": 7.736,
+   "end": 10.08
+  },
+  {
+   "text": "Sie sehen so aus, als sei er schon auf zwei Beinen gegangen.",
+   "start": 10.32,
+   "end": 13.296
+  },
+  {
+   "text": "Orrorin wurde im Jahr 2000 in Kenia entdeckt.",
+   "start": 13.536,
+   "end": 16.42
+  },
+  {
+   "text": "Man fand Teile von Kiefern, Zähnen und Beinknochen.",
+   "start": 16.66,
+   "end": 19.593
+  },
+  {
+   "text": "Er war wohl etwa so groß wie ein Schimpanse und kletterte auch auf Bäumen.",
+   "start": 19.833,
+   "end": 23.644
+  }
+ ],
+ "card_ardipithecus": [
+  {
+   "text": "Ardipitekus.",
+   "start": 0.12,
+   "end": 0.998
+  },
+  {
+   "text": "Der Name bedeutet: Boden-Affe.",
+   "start": 1.418,
+   "end": 3.061
+  },
+  {
+   "text": "Ardi heißt in der Sprache der Afar Boden.",
+   "start": 3.301,
+   "end": 5.402
+  },
+  {
+   "text": "Er lebte vor etwa 4,4 Millionen Jahren.",
+   "start": 5.642,
+   "end": 8.301
+  },
+  {
+   "text": "Wow!",
+   "start": 8.541,
+   "end": 8.99
+  },
+  {
+   "text": "Das Skelett Ardi konnte aufrecht gehen und trotzdem mit dem Fuß Äste greifen.",
+   "start": 9.33,
+   "end": 13.735
+  },
+  {
+   "text": "Die große Zehe stand seitlich ab, fast wie ein Daumen.",
+   "start": 13.975,
+   "end": 16.958
+  },
+  {
+   "text": "Ardipithecus lebte in einem Wald, nicht in einer offenen Savanne.",
+   "start": 17.198,
+   "end": 20.621
+  },
+  {
+   "text": "Das Skelett Ardi wurde 1994 entdeckt.",
+   "start": 20.861,
+   "end": 24.153
+  },
+  {
+   "text": "Die Untersuchung dauerte viele Jahre.",
+   "start": 24.393,
+   "end": 26.289
+  },
+  {
+   "text": "Erst 2009 stellten Forscher es ausführlich vor.",
+   "start": 26.529,
+   "end": 29.642
+  }
+ ],
+ "card_australopithecus": [
+  {
+   "text": "Austrälopitekus.",
+   "start": 0.12,
+   "end": 1.257
+  },
+  {
+   "text": "Der Name bedeutet: Südaffe.",
+   "start": 1.677,
+   "end": 3.305
+  },
+  {
+   "text": "Er lebte vor etwa 4 bis 2 Millionen Jahren.",
+   "start": 3.545,
+   "end": 6.302
+  },
+  {
+   "text": "Wow!",
+   "start": 6.542,
+   "end": 6.991
+  },
+  {
+   "text": "Das erste Fossil dieser Gruppe, das Taung-Kind, wurde 1924 in Südafrika gefunden.",
+   "start": 7.331,
+   "end": 13.291
+  },
+  {
+   "text": "Es gab mehrere Arten.",
+   "start": 13.531,
+   "end": 14.868
+  },
+  {
+   "text": "Lucy gehört zu Australopithecus afarensis.",
+   "start": 15.108,
+   "end": 17.452
+  },
+  {
+   "text": "Die Spuren von Laetoli werden meist dieser Art zugeordnet.",
+   "start": 17.692,
+   "end": 20.874
+  },
+  {
+   "text": "Sie gingen aufrecht, hatten aber noch kleine Gehirne und konnten gut klettern.",
+   "start": 21.114,
+   "end": 24.876
+  }
+ ],
+ "card_homo_fruehe": [
+  {
+   "text": "Homo.",
+   "start": 0.12,
+   "end": 0.619
+  },
+  {
+   "text": "Der Name bedeutet: Mensch (lateinisch).",
+   "start": 1.039,
+   "end": 2.974
+  },
+  {
+   "text": "Er lebte ab etwa 2,8 Millionen Jahren.",
+   "start": 3.214,
+   "end": 6.028
+  },
+  {
+   "text": "Wow!",
+   "start": 6.268,
+   "end": 6.717
+  },
+  {
+   "text": "Homo sapiens, also wir, gibt es erst seit etwa 300 000 Jahren.",
+   "start": 7.057,
+   "end": 11.297
+  },
+  {
+   "text": "Auf der Erduhr sind das nur etwa 6 Sekunden vor Mitternacht.",
+   "start": 11.537,
+   "end": 14.77
+  },
+  {
+   "text": "Die ältesten Funde der Gattung Homo sind etwa 2,8 Millionen Jahre alt, zum Beispiel ein Unterkiefer aus Äthiopien.",
+   "start": 15.01,
+   "end": 22.124
+  },
+  {
+   "text": "Diese frühen Homo hatten ein etwas größeres Gehirn als Australopithecus und stellten wohl einfache Steinwerkzeuge her.",
+   "start": 22.364,
+   "end": 28.999
+  }
+ ],
+ "card_erduhr": [
+  {
+   "text": "Die Erduhr.",
+   "start": 0.12,
+   "end": 0.868
+  },
+  {
+   "text": "Wow!",
+   "start": 1.288,
+   "end": 1.737
+  },
+  {
+   "text": "Alle Dinosaurier zusammen gab es nur von etwa 22:47 Uhr bis 23:39 Uhr.",
+   "start": 2.077,
+   "end": 8.75
+  },
+  {
+   "text": "Der Mensch kommt erst kurz vor Mitternacht.",
+   "start": 8.99,
+   "end": 11.045
+  },
+  {
+   "text": "Wir pressen die 4,54 Milliarden Jahre der Erde auf 24 Stunden.",
+   "start": 11.285,
+   "end": 16.124
+  },
+  {
+   "text": "Dann beginnt die Erde um 0 Uhr.",
+   "start": 16.364,
+   "end": 17.93
+  },
+  {
+   "text": "Die ersten Säugetiere erscheinen gegen 22:55 Uhr.",
+   "start": 18.17,
+   "end": 22.303
+  },
+  {
+   "text": "Der Homo sapiens betritt die Bühne etwa 6 Sekunden vor Mitternacht.",
+   "start": 22.543,
+   "end": 26.484
+  }
+ ],
+ "card_iridium": [
+  {
+   "text": "Iridium.",
+   "start": 0.12,
+   "end": 0.828
+  },
+  {
+   "text": "Wow!",
+   "start": 1.248,
+   "end": 1.697
+  },
+  {
+   "text": "In einer dünnen grauen Tonschicht fanden Forscher viel mehr Iridium als sonst.",
+   "start": 2.037,
+   "end": 6.288
+  },
+  {
+   "text": "Das ist die Spur des Asteroiden.",
+   "start": 6.528,
+   "end": 8.193
+  },
+  {
+   "text": "Iridium hat die Ordnungszahl 77 und das Zeichen I R.",
+   "start": 8.433,
+   "end": 12.444
+  },
+  {
+   "text": "In der Erdkruste ist es sehr selten, in Meteoriten kommt es häufiger vor.",
+   "start": 12.684,
+   "end": 17.054
+  },
+  {
+   "text": "1980 fanden Luis und Walter Alvarez mit ihren Kollegen überall auf der Welt an der gleichen Gesteinsschicht auffällig viel Iridium.",
+   "start": 17.294,
+   "end": 25.415
+  },
+  {
+   "text": "Das war ein wichtiger Hinweis auf den Einschlag.",
+   "start": 25.655,
+   "end": 27.99
+  }
+ ],
+ "card_chicxulub": [
+  {
+   "text": "Tschikschulub.",
+   "start": 0.12,
+   "end": 0.739
+  },
+  {
+   "text": "Wow!",
+   "start": 1.159,
+   "end": 1.608
+  },
+  {
+   "text": "Der Krater bei Chicxulub in Mexiko ist etwa 180 Kilometer breit.",
+   "start": 1.948,
+   "end": 6.39
+  },
+  {
+   "text": "Der Asteroid war etwa 10 bis 15 Kilometer groß.",
+   "start": 6.63,
+   "end": 9.953
+  },
+  {
+   "text": "Beim Einschlag wurden Staub und Asche hoch in die Luft geschleudert.",
+   "start": 10.193,
+   "end": 13.575
+  },
+  {
+   "text": "Die Sonne wurde lange verdeckt.",
+   "start": 13.815,
+   "end": 15.182
+  },
+  {
+   "text": "Pflanzen bekamen weniger Licht, und viele Tiere fanden kaum noch Nahrung.",
+   "start": 15.422,
+   "end": 19.293
+  },
+  {
+   "text": "Rund drei Viertel aller Arten verschwanden.",
+   "start": 19.533,
+   "end": 21.928
+  }
+ ],
+ "card_ueberlebende": [
+  {
+   "text": "Eine Gruppe hat überlebt.",
+   "start": 0.12,
+   "end": 1.45
+  },
+  {
+   "text": "Wow!",
+   "start": 1.87,
+   "end": 2.319
+  },
+  {
+   "text": "Eine Gruppe von Dinosauriern hat überlebt: die Vögel.",
+   "start": 2.659,
+   "end": 5.493
+  },
+  {
+   "text": "Nach dem Einschlag war die Luft voller Staub.",
+   "start": 5.733,
+   "end": 7.948
+  },
+  {
+   "text": "Die großen Dinosaurier verschwanden.",
+   "start": 8.188,
+   "end": 10.153
+  },
+  {
+   "text": "Kleine Tiere kamen besser zurecht, auch Säugetiere und Vögel.",
+   "start": 10.393,
+   "end": 13.805
+  },
+  {
+   "text": "Heute gibt es etwa 10 000 Vogelarten.",
+   "start": 14.045,
+   "end": 16.2
+  }
+ ],
+ "card_album": [
+  {
+   "text": "Familienalbum der versteckten Säugetiere.",
+   "start": 0.12,
+   "end": 2.425
+  },
+  {
+   "text": "Wow!",
+   "start": 2.845,
+   "end": 3.294
+  },
+  {
+   "text": "Säugetiere gibt es schon fast so lange wie Dinosaurier.",
+   "start": 3.634,
+   "end": 6.407
+  },
+  {
+   "text": "Das sind die winzigen frühen Säugetiere und Seitenzweige, die du gefunden hast.",
+   "start": 6.647,
+   "end": 10.748
+  },
+  {
+   "text": "Keines davon ist ein sicherer direkter Vorfahre von uns Menschen.",
+   "start": 10.988,
+   "end": 14.55
+  },
+  {
+   "text": "Aber sie zeigen: Säugetiere lebten schon zur Zeit der Dinosaurier.",
+   "start": 14.79,
+   "end": 18.332
+  }
+ ],
+ "card_zeitluecke": [
+  {
+   "text": "Die große Zeitlücke.",
+   "start": 0.12,
+   "end": 1.218
+  },
+  {
+   "text": "Wow!",
+   "start": 1.638,
+   "end": 2.086
+  },
+  {
+   "text": "Menschen und Dinosaurier sind sich nie begegnet.",
+   "start": 2.426,
+   "end": 5.17
+  },
+  {
+   "text": "Zwischen dem Einschlag vor 66 Millionen Jahren und Lucy vor 3,2 Millionen Jahren liegen rund 63 Millionen Jahre.",
+   "start": 5.41,
+   "end": 13.452
+  },
+  {
+   "text": "Die Zeit der Dinosaurier dauerte von etwa 231 bis 66 Millionen Jahren, also rund 165 Millionen Jahre.",
+   "start": 13.692,
+   "end": 22.183
+  }
+ ]
+}

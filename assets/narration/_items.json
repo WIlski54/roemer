@@ -1,0 +1,297 @@
+[
+ {
+  "id": "cover",
+  "kind": "cover",
+  "text": "Das große Dinosaurier-Pop-up-Buch. Eine Reise durch die Erdzeitalter. Tippe auf das Buch, dann geht es los!"
+ },
+ {
+  "id": "page0",
+  "kind": "page",
+  "text": "Willkommen im großen Dinosaurier-Popup-Buch! Wir reisen gemeinsam durch viele Millionen Jahre. Zuerst schauen wir auf die Erduhr. Stell dir vor, die ganze Geschichte der Erde passt auf einen einzigen Tag. Zieh an der Lasche und dreh den Zeiger!"
+ },
+ {
+  "id": "page1",
+  "kind": "page",
+  "text": "Wir sind in der Trias, vor gut zweihundert Millionen Jahren. Alles Land der Erde hängt zusammen: ein einziger Riesenkontinent namens Pangaea. Es ist heiß und trocken. Die ersten Dinosaurier sind noch klein und sehr flink. Zieh an der Lasche und lass das Rudel rennen!"
+ },
+ {
+  "id": "page2",
+  "kind": "page",
+  "text": "Willkommen im Jura-Wald. Hier ist es feucht und grün, und die Bäume sind hoch. Der Riese in der Mitte ist ein Sauropode. Mit dem langen Hals frisst er Blätter aus den Baumkronen. Aber pass auf: Hinter dem Baumstamm schaut ein Jäger hervor. Schiebe den Hals nach oben und schwing den Schwanz!"
+ },
+ {
+  "id": "page3",
+  "kind": "page",
+  "text": "Wir sind in einer warmen Lagune im heutigen Bayern, vor etwa hundertfünfzig Millionen Jahren. Hier lebten Archaeopteryx, der Urvogel, und viele andere Tiere. Wenn ein Tier starb, sank es in den feinen Kalkschlamm. Zieh am Schieber Zeit vergeht und sieh, wie daraus ein Fossil wird!"
+ },
+ {
+  "id": "page4",
+  "kind": "page",
+  "text": "Hier ist das Meer der Kreidezeit. Über den Wellen segelt ein Flugsaurier, und unter Wasser schwimmen riesige Reptilien. Aber Achtung: Keines dieser Tiere ist ein Dinosaurier. Sie sind Cousins. Zieh an den Laschen, dann stürzt Pteranodon nach einem Fisch. Und tippe auf die Wellen!"
+ },
+ {
+  "id": "page5",
+  "kind": "page",
+  "text": "Jetzt sind wir kurz vor dem Ende der Dinosaurierzeit, in Nordamerika. Hier leben die berühmtesten Dinosaurier: Tyrannosaurus rex, Triceratops und Ankylosaurus. Zieh an der Lasche und lass den Tierrex zubeißen! Und such das winzige Säugetier, das sich hier versteckt."
+ },
+ {
+  "id": "page6",
+  "kind": "page",
+  "text": "Das hier ist eine Nistkolonie in Montana, vor etwa fünfundsiebzig Millionen Jahren. Maiasaura bedeutet gute Mutter-Echse. Zieh an der Lasche Schlüpfe, dann brechen die Eier auf. Und mit dem Schieber Sonnenuntergang kuscheln sich die Babys an."
+ },
+ {
+  "id": "page7",
+  "kind": "page",
+  "text": "Das ist der Tag, an dem sich alles veränderte. Vor etwa sechsundsechzig Millionen Jahren raste ein Asteroid auf die Erde zu. Zieh an der Lasche Meteor und sieh, was passiert. Wichtig: Es ist nichts Schlimmes zu sehen. Und am Ende gibt es auch eine gute Nachricht."
+ },
+ {
+  "id": "page8",
+  "kind": "page",
+  "text": "Das ist die letzte Seite. Nach dem Einschlag ändert sich die Welt. Die Säugetiere breiten sich aus, und es gibt bald viele neue Arten. Links wachsen aus Farnen Wälder. Rechts kannst du am Zeitsprung-Regler ziehen. Die Landschaft verändert sich, bis du in Laetoli ankommst, vor drei Komma sieben Millionen Jahren. Dort gehen frühe Vormenschen durch frische Vulkanasche."
+ },
+ {
+  "id": "card_coelophysis",
+  "kind": "card",
+  "text": "Zölofüsis. Der Name bedeutet: Hohlform, weil die Knochen innen hohl waren. Er lebte vor etwa 216 bis 203 Millionen Jahren. Wow! Ein Schädel von Coelophysis flog 1998 mit einem Space Shuttle zur Raumstation Mir. Coelophysis war schlank und sehr schnell. Mit den langen Beinen und dem leichten Körper konnte sie gut rennen. Man hat viele Skelette zusammen gefunden. Vielleicht lebten die Tiere in Gruppen."
+ },
+ {
+  "id": "card_plateosaurus",
+  "kind": "card",
+  "text": "Plateosaurus. Der Name bedeutet: breite Echse. Er lebte vor etwa 214 bis 204 Millionen Jahren. Wow! In Trossingen in Baden-Württemberg wurden sehr viele Plateosaurier an einem Ort gefunden. Plateosaurus hatte einen langen Hals und kleinen Kopf. Er fraß Pflanzen. Er lief wohl meistens auf zwei Beinen, vielleicht stand er aber auch auf allen vieren."
+ },
+ {
+  "id": "card_eoraptor",
+  "kind": "card",
+  "text": "Eorapptor. Der Name bedeutet: Räuber der Morgenröte. Er lebte vor etwa 231 Millionen Jahren. Wow! Eoraptor gehört zu den ältesten Dinosauriern, die wir kennen. Eoraptor war klein und flink. Seine Zähne sahen unterschiedlich aus. Deshalb denken Forscher: Er fraß wohl Tiere und vielleicht auch Pflanzen."
+ },
+ {
+  "id": "card_morganucodon",
+  "kind": "card",
+  "text": "Morganukodon. Der Name bedeutet: Zahn aus Glamorgan (einer Gegend in Wales). Er lebte vor etwa 205 Millionen Jahren. Wow! Säugetiere gibt es schon fast so lange wie Dinosaurier. Morganucodon war winzig und wahrscheinlich nachts unterwegs. Du hast ein verstecktes Säugetier gefunden! Morganucodon jagte Insekten. Es hatte wahrscheinlich schon ein Fell."
+ },
+ {
+  "id": "card_pangaea",
+  "kind": "card",
+  "text": "Pangäa. Der Name bedeutet: ganze Erde. Er lebte vor etwa 335 bis 175 Millionen Jahren. Wow! Damals konnte ein Tier theoretisch zu Fuß von einem Ende der Welt zum anderen laufen. In der Trias hingen alle Kontinente zusammen. Das war ein einziger Riesenkontinent. Rundherum lag das Urmeer Panthalassa. Später brach Pangaea langsam auseinander. Die Teile bewegen sich bis heute: jedes Jahr ein paar Zentimeter."
+ },
+ {
+  "id": "card_brachiosaurus",
+  "kind": "card",
+  "text": "Giraffatitan. Der Name bedeutet: Giraffen-Titan. Er lebte vor etwa 150 Millionen Jahren. Wow! Sein Skelett im Museum für Naturkunde in Berlin ist über 12 Meter hoch. Es gehört zu den größten Dinosaurierskeletten der Welt. Seine Vorderbeine waren länger als die Hinterbeine, ähnlich wie bei einer Giraffe. Mit dem langen Hals erreichte er Blätter in den Baumkronen."
+ },
+ {
+  "id": "card_stegosaurus",
+  "kind": "card",
+  "text": "Stegosaurus. Der Name bedeutet: Dach-Echse. Er lebte vor etwa 155 bis 150 Millionen Jahren. Wow! Die vier Stacheln am Schwanz heißen Thagomizer. Den Namen hat sich ein Zeichner für einen Cartoon ausgedacht. Auf dem Rücken trug Stegosaurus große Knochenplatten. Sie waren von Haut überzogen. Wozu sie dienten, wissen wir nicht genau: zum Angeben, zur Wärme oder zur Kühlung."
+ },
+ {
+  "id": "card_allosaurus",
+  "kind": "card",
+  "text": "Allosaurus. Der Name bedeutet: andere Echse. Er lebte vor etwa 155 bis 145 Millionen Jahren. Wow! Forscher vermuten, dass Allosaurus mit dem Kopf zuschlug wie mit einem Beil. Allosaurus war einer der größten Jäger seiner Zeit. Sein Kopf war leicht gebaut, sein Hals kräftig. Er trug dreifingrige Hände mit großen Krallen."
+ },
+ {
+  "id": "card_castorocauda",
+  "kind": "card",
+  "text": "Kastorokauda. Der Name bedeutet: Biber-Schwanz. Er lebte vor etwa 160 bis 164 Millionen Jahren. Wow! Es schwamm und tauchte wie ein Otter, mitten in der Dinosaurierzeit. Du hast ein verstecktes Säugetier gefunden! Castorocauda hatte einen flachen Schwanz wie ein Biber und Schwimmfüße. Es fing Fische."
+ },
+ {
+  "id": "card_archaeopteryx",
+  "kind": "card",
+  "text": "Archäoppterix. Der Name bedeutet: alter Flügel oder alte Feder. Er lebte vor etwa 150 Millionen Jahren. Wow! 1861 wurde in Bayern eine einzelne Feder gefunden. Kurz danach das erste Skelett. Archaeopteryx hatte Federn und Flügel, aber auch Zähne und einen langen Knochenschwanz. Er sah halb aus wie ein Vogel und halb wie ein kleiner Dinosaurier."
+ },
+ {
+  "id": "card_compsognathus",
+  "kind": "card",
+  "text": "Kompsonathus. Der Name bedeutet: feiner Kiefer. Er lebte vor etwa 150 Millionen Jahren. Wow! Im Bauch eines Skeletts fand man eine kleine Echse. Das war wohl seine letzte Mahlzeit. Compsognathus war einer der kleinsten Dinosaurier. Er rannte schnell auf zwei Beinen. Er jagte kleine Echsen."
+ },
+ {
+  "id": "card_rhamphorhynchus",
+  "kind": "card",
+  "text": "Ramforünkus. Der Name bedeutet: Schnabelschnauze. Er lebte vor etwa 150 Millionen Jahren. Wow! Am Ende des langen Schwanzes saß ein rautenförmiges Segel. Wahrscheinlich half es beim Steuern. Rhamphorhynchus war ein Flugsaurier, aber kein Dinosaurier. Er fing Fische mit spitzen Zähnen, die nach vorne zeigten."
+ },
+ {
+  "id": "card_limulus",
+  "kind": "card",
+  "text": "Mesolimulus. Der Name bedeutet: etwa mittlerer Schiefer, Name des Fossils. Er lebte vor etwa 150 Millionen Jahren. Wow! Pfeilschwanzkrebse gibt es seit über 400 Millionen Jahren. Ihr Blut ist blau. Er ist kein richtiger Krebs, sondern näher mit Spinnen verwandt. Die Fossilien liegen oft am Ende ihrer eigenen Spur im Kalkstein."
+ },
+ {
+  "id": "card_ichthyosaurus",
+  "kind": "card",
+  "text": "Oftalmosaurus. Der Name bedeutet: Augen-Echse. Er lebte vor etwa 165 bis 150 Millionen Jahren. Wow! Ichthyosaurier brachten ihre Jungen lebend im Wasser zur Welt. Er sah aus wie ein Delfin, ist aber ein Meeresreptil. Seine Augen waren riesig. So konnte er auch im dunklen Wasser jagen."
+ },
+ {
+  "id": "card_fossil",
+  "kind": "card",
+  "text": "Wie wird ein Fossil? Wow! Weil im Kalkschlamm kaum Sauerstoff war, haben sich die Tiere dort nicht zersetzt. Erstens: Ein Tier stirbt und sinkt in den feinen Kalkschlamm. Zweitens: Am Boden ist fast kein Sauerstoff, deshalb fault es kaum. Drittens: Schlamm deckt es schnell zu. Viertens: Mineralien aus dem Wasser füllen die Hohlräume und machen aus Knochen und Federabdrücken Stein. So ist Archaeopteryx bis heute erhalten."
+ },
+ {
+  "id": "card_pteranodon",
+  "kind": "card",
+  "text": "Teranodon. Der Name bedeutet: Flügel ohne Zähne. Er lebte vor etwa 86 bis 84 Millionen Jahren. Wow! Pteranodon hatte gar keine Zähne. Der lange Kamm am Kopf diente wohl zum Imponieren. Pteranodon segelte über dem Meer und tauchte nach Fischen. Seine Flügel waren Flughäute zwischen dem Körper und einem sehr langen Fingerknochen."
+ },
+ {
+  "id": "card_elasmosaurus",
+  "kind": "card",
+  "text": "Elasmosaurus. Der Name bedeutet: Plattenechse. Er lebte vor etwa 80 Millionen Jahren. Wow! Elasmosaurus hatte über 70 Halswirbel. Eine Giraffe hat nur 7. Der Hals war länger als der Rest des Körpers. Mit vier Paddeln schwamm Elasmosaurus durch das Meer."
+ },
+ {
+  "id": "card_mosasaurus",
+  "kind": "card",
+  "text": "Mosasaurus. Der Name bedeutet: Maas-Echse, nach dem Fluss Maas. Er lebte vor etwa 82 bis 66 Millionen Jahren. Wow! Der erste Schädel wurde in Maastricht gefunden. Er half Forschern zu verstehen, dass Tierarten aussterben können. Mosasaurus war ein riesiger Jäger im Meer. Er ist mit den heutigen Waranen verwandt. Sein Maul war voller Zähne, auch am Gaumen."
+ },
+ {
+  "id": "card_trex",
+  "kind": "card",
+  "text": "Türanosaurus Rex. Der Name bedeutet: König der Tyrannen-Echsen. Er lebte vor etwa 68 bis 66 Millionen Jahren. Wow! Tierrex lebte zeitlich näher an uns als am Stegosaurus. Zwischen Stegosaurus und Tierrex liegen etwa 84 Millionen Jahre. Tierrex hatte einen riesigen Kopf mit kräftigem Biss. Seine Arme waren kurz und hatten nur zwei Finger. Auf den starken Hinterbeinen konnte er gut laufen."
+ },
+ {
+  "id": "card_triceratops",
+  "kind": "card",
+  "text": "Trizeratops. Der Name bedeutet: Dreihorn-Gesicht. Er lebte vor etwa 68 bis 66 Millionen Jahren. Wow! Der Schädel von Triceratops konnte fast 2 Meter lang werden. Triceratops trug drei Hörner und einen Nackenschild aus Knochen. Mit dem scharfen Schnabel schnitt er zähe Pflanzen ab."
+ },
+ {
+  "id": "card_ankylosaurus",
+  "kind": "card",
+  "text": "Ankülosaurus. Der Name bedeutet: steife Echse. Er lebte vor etwa 68 bis 66 Millionen Jahren. Wow! Mit der Knochenkeule am Schwanz konnte Ankylosaurus sehr kräftig zuschlagen. Ankylosaurus war wie ein lebender Panzer. Auf dem Rücken trug er Knochenplatten mit Spitzen. Die Schwanzkeule diente wohl zur Verteidigung."
+ },
+ {
+  "id": "card_didelphodon",
+  "kind": "card",
+  "text": "Didelfodon. Der Name bedeutet: Beutelratten-Zahn. Er lebte vor etwa 68 bis 66 Millionen Jahren. Wow! Didelphodon hatte einen sehr kräftigen Biss. Damit knackte er wohl sogar Schneckenhäuser. Du hast ein verstecktes Säugetier gefunden! Didelphodon gehörte zu den Beuteltier-Verwandten. Er war eines der größten Säugetiere seiner Zeit."
+ },
+ {
+  "id": "card_maiasaura",
+  "kind": "card",
+  "text": "Maiasaura. Der Name bedeutet: gute Mutter-Echse. Er lebte vor etwa 76 bis 74 Millionen Jahren. Wow! Maiasaura-Knochen flogen 1985 mit einem Space Shuttle ins All. Es war der erste Dinosaurier im Weltraum. In Montana fand man ganze Nistplätze mit Eiern und Jungtieren. Die Tiere nisteten in Gruppen. Die Jungen blieben wahrscheinlich eine Weile im Nest."
+ },
+ {
+  "id": "card_maiasaura_baby",
+  "kind": "card",
+  "text": "Maiasaura-Baby. Er lebte vor etwa 76 bis 74 Millionen Jahren. Wow! Aus einem kleinen Ei wurde ein Tier von rund 9 Meter Länge. Maiasaura-Babys wuchsen schnell. Sie brauchten nur wenige Jahre bis zur Größe der Erwachsenen."
+ },
+ {
+  "id": "card_oviraptor",
+  "kind": "card",
+  "text": "Oviraptor. Der Name bedeutet: Eier-Dieb. Der Name ist ein Irrtum. Er lebte vor etwa 75 bis 71 Millionen Jahren. Wow! Oviraptor war kein Eierdieb. Verwandte wurden auf ihren Nestern gefunden, die Federarme über den Eiern. Zuerst fand man einen Oviraptor in der Nähe von Eiern und dachte, er klaut sie. Später stellte sich heraus: Es waren seine eigenen Eier. Er brütete sie aus."
+ },
+ {
+  "id": "card_multituberculate",
+  "kind": "card",
+  "text": "Multituberkulata. Der Name bedeutet: viele Höcker an den Backenzähnen. Die Gruppe lebte vor etwa 165 bis 35 Millionen Jahren. Wow! Diese Gruppe war über 100 Millionen Jahre lang erfolgreich, länger als manche Dinosaurier. Du hast ein verstecktes Säugetier gefunden! Vielhöckerzähner sahen aus wie Nagetiere. Sie waren aber nicht mit Mäusen verwandt."
+ },
+ {
+  "id": "card_purgatorius",
+  "kind": "card",
+  "text": "Purgatorius. Der Name bedeutet: nach dem Fundort Purgatory Hill (Fegefeuer-Hügel). Er lebte vor etwa 66 bis 65 Millionen Jahren. Wow! Er wird oft zu den ältesten Verwandten der Primaten gezählt. Zu den Primaten gehören auch Affen und wir Menschen. Du hast ein verstecktes Säugetier gefunden! Purgatorius kletterte wohl in Bäumen. Er überlebte die Zeit nach dem Einschlag."
+ },
+ {
+  "id": "card_hyracotherium",
+  "kind": "card",
+  "text": "Hürakotherium. Der Name bedeutet: Klippschliefer-Tier. Er lebte vor etwa 55 bis 50 Millionen Jahren. Wow! Es hatte vorn vier Zehen und hinten drei. Heutige Pferde laufen nur noch auf einer Zehe. Das Urpferdchen lebte im Wald und knabberte Blätter. Aus solchen Tieren entwickelten sich im Laufe von Millionen Jahren die Pferde. Verwandte lebten auch in Deutschland, in der Grube Messel bei Darmstadt."
+ },
+ {
+  "id": "card_gastornis",
+  "kind": "card",
+  "text": "Gastornis. Der Name bedeutet: Gastons Vogel, nach dem Entdecker Gaston Planté. Er lebte vor etwa 56 bis 45 Millionen Jahren. Wow! Gastornis war ein riesiger Laufvogel und damit ein Nachfahre der Dinosaurier. Vögel sind ja Dinosaurier. Er konnte nicht fliegen. Sein Schnabel war riesig und sehr kräftig. Früher hielt man ihn für einen Jäger. Heute denken viele Forscher, dass er vor allem Pflanzen fraß."
+ },
+ {
+  "id": "card_plesiadapis",
+  "kind": "card",
+  "text": "Plesiadapis. Der Name bedeutet: fast wie Adapis, ein anderes Tier der Zeit. Er lebte vor etwa 58 bis 56 Millionen Jahren. Wow! Plesiadapis hatte große Nagezähne wie ein Biber. Er sah ein bisschen aus wie ein Eichhörnchen mit langer Schnauze. Er wird zu den Verwandten der Primaten gezählt."
+ },
+ {
+  "id": "card_pakicetus",
+  "kind": "card",
+  "text": "Pakizetus. Der Name bedeutet: Wal aus Pakistan. Er lebte vor etwa 50 Millionen Jahren. Wow! Pakicetus lief an Land und ist ein Verwandter der Wale. Wale stammen von Landtieren ab. Er ähnelte einem schlanken Wolf mit langem Schwanz. Er ging an Land, jagte aber wohl auch im Wasser. Nach Millionen Jahren entwickelten sich daraus die Wale."
+ },
+ {
+  "id": "card_paraceratherium",
+  "kind": "card",
+  "text": "Parakeratherium. Der Name bedeutet: neben dem Horn-Tier. Er lebte vor etwa 34 bis 23 Millionen Jahren. Wow! Es war eines der größten Landsäugetiere aller Zeiten, so schwer wie drei bis vier Elefanten. Das Riesen-Nashorn hatte kein Horn. Mit der beweglichen Lippe pflückte es Blätter von hohen Bäumen."
+ },
+ {
+  "id": "card_gomphotherium",
+  "kind": "card",
+  "text": "Gomfotherium. Der Name bedeutet: Bolzen-Tier, wegen der Zähne. Er lebte vor etwa 20 bis 5 Millionen Jahren. Wow! Gomphotherium hatte vier Stoßzähne: zwei oben und zwei unten. Es war ein Verwandter der Elefanten. Mit dem Rüssel griff es Pflanzen und Wasser. Es lebte in vielen Teilen der Welt."
+ },
+ {
+  "id": "card_miocene_ape",
+  "kind": "card",
+  "text": "Prokonsul. Name: Proconsul, nach einem Schimpansen namens Consul. Er lebte vor etwa 21 bis 17 Millionen Jahren. Wow! Er hatte schon keinen Schwanz mehr. Das ist ein Merkmal der Menschenaffen. Er lief auf allen vieren auf Ästen und kletterte gut. Er lebte im Regenwald."
+ },
+ {
+  "id": "card_lucy",
+  "kind": "card",
+  "text": "Austrälopitekus afarensis. Der Name bedeutet: Südaffe aus Afar. Er lebte vor etwa 3,2 Millionen Jahren, die Art: 3,9 bis 2,9 Millionen Jahren. Wow! Der Name kommt aus einem Beatles-Lied, das im Lager lief: Lucy in the Sky with Diamonds. Lucy lief aufrecht auf zwei Beinen, konnte aber auch noch gut klettern. Ihr Gehirn war etwa so groß wie das eines Schimpansen. Ihr Skelett ist zu rund 40 Prozent erhalten."
+ },
+ {
+  "id": "card_laetoli",
+  "kind": "card",
+  "text": "Laetoli. Er lebte vor etwa 3,7 Millionen Jahren. Wow! Die Spur stammt von mindestens zwei, vielleicht drei Wesen, zwei große und ein kleineres. Ein Vulkan hatte feine Asche ausgespuckt. Es regnete leicht, die Asche wurde feucht. Wesen liefen darüber, ihre Fußabdrücke trockneten und wurden mit weiterer Asche bedeckt. Das Team um Mary Leakey entdeckte die Spuren 1976."
+ },
+ {
+  "id": "card_hominiden",
+  "kind": "card",
+  "text": "Wer war früh dabei? Wow! Der Stammbaum des Menschen ist ein Busch, keine Leiter. Hier siehst du frühe Vormenschen. Sahelanthropus (vor etwa 7 Millionen Jahren, Tschad) ist umstritten: Ob er zu den Vormenschen gehört, wissen wir nicht sicher. Orrorin (etwa 6 Millionen Jahren), Ardipithecus (etwa 4,4 Millionen Jahren), Australopithecus (etwa 4 bis 2 Millionen Jahren) und die ersten Homo (ab etwa 2,8 Millionen Jahren)."
+ },
+ {
+  "id": "card_voegel",
+  "kind": "card",
+  "text": "Vögel sind Dinosaurier. Wow! Jeder Spatz und jedes Rotkehlchen gehört zu den Dinosauriern. Vögel stammen von kleinen, gefiederten Dinosauriern ab. Als vor 66 Millionen Jahren der Asteroid einschlug, überlebten nur sie von allen Dinosaurier-Gruppen. Wenn du also das nächste Mal eine Amsel hörst, hörst du einen Dinosaurier."
+ },
+ {
+  "id": "card_sahelanthropus",
+  "kind": "card",
+  "text": "Sahelantropus. Der Name bedeutet: Mensch aus dem Sahel. Der Sahel ist eine Gegend südlich der Sahara. Er lebte vor etwa 7 Millionen Jahren. Wow! Von Sahelanthropus kennt man vor allem einen Schädel. Er wurde 2001 im Tschad gefunden und hat den Spitznamen Toumaï. Sein Gehirn war klein, etwa so wie bei einem Schimpansen. Einige Forscher meinen: Sahelanthropus gehört zu den frühen Vormenschen. Andere sagen: Er war eher ein Verwandter der Menschenaffen."
+ },
+ {
+  "id": "card_orrorin",
+  "kind": "card",
+  "text": "Orrorin. Der Name bedeutet: Urmensch, so sagen die Tugen in Kenia. Er lebte vor etwa 6 Millionen Jahren. Wow! Von Orrorin kennt man Oberschenkelknochen. Sie sehen so aus, als sei er schon auf zwei Beinen gegangen. Orrorin wurde im Jahr 2000 in Kenia entdeckt. Man fand Teile von Kiefern, Zähnen und Beinknochen. Er war wohl etwa so groß wie ein Schimpanse und kletterte auch auf Bäumen."
+ },
+ {
+  "id": "card_ardipithecus",
+  "kind": "card",
+  "text": "Ardipitekus. Der Name bedeutet: Boden-Affe. Ardi heißt in der Sprache der Afar Boden. Er lebte vor etwa 4,4 Millionen Jahren. Wow! Das Skelett Ardi konnte aufrecht gehen und trotzdem mit dem Fuß Äste greifen. Die große Zehe stand seitlich ab, fast wie ein Daumen. Ardipithecus lebte in einem Wald, nicht in einer offenen Savanne. Das Skelett Ardi wurde 1994 entdeckt. Die Untersuchung dauerte viele Jahre. Erst 2009 stellten Forscher es ausführlich vor."
+ },
+ {
+  "id": "card_australopithecus",
+  "kind": "card",
+  "text": "Austrälopitekus. Der Name bedeutet: Südaffe. Er lebte vor etwa 4 bis 2 Millionen Jahren. Wow! Das erste Fossil dieser Gruppe, das Taung-Kind, wurde 1924 in Südafrika gefunden. Es gab mehrere Arten. Lucy gehört zu Australopithecus afarensis. Die Spuren von Laetoli werden meist dieser Art zugeordnet. Sie gingen aufrecht, hatten aber noch kleine Gehirne und konnten gut klettern."
+ },
+ {
+  "id": "card_homo_fruehe",
+  "kind": "card",
+  "text": "Homo. Der Name bedeutet: Mensch (lateinisch). Er lebte ab etwa 2,8 Millionen Jahren. Wow! Homo sapiens, also wir, gibt es erst seit etwa 300 000 Jahren. Auf der Erduhr sind das nur etwa 6 Sekunden vor Mitternacht. Die ältesten Funde der Gattung Homo sind etwa 2,8 Millionen Jahre alt, zum Beispiel ein Unterkiefer aus Äthiopien. Diese frühen Homo hatten ein etwas größeres Gehirn als Australopithecus und stellten wohl einfache Steinwerkzeuge her."
+ },
+ {
+  "id": "card_erduhr",
+  "kind": "card",
+  "text": "Die Erduhr. Wow! Alle Dinosaurier zusammen gab es nur von etwa 22:47 Uhr bis 23:39 Uhr. Der Mensch kommt erst kurz vor Mitternacht. Wir pressen die 4,54 Milliarden Jahre der Erde auf 24 Stunden. Dann beginnt die Erde um 0 Uhr. Die ersten Säugetiere erscheinen gegen 22:55 Uhr. Der Homo sapiens betritt die Bühne etwa 6 Sekunden vor Mitternacht."
+ },
+ {
+  "id": "card_iridium",
+  "kind": "card",
+  "text": "Iridium. Wow! In einer dünnen grauen Tonschicht fanden Forscher viel mehr Iridium als sonst. Das ist die Spur des Asteroiden. Iridium hat die Ordnungszahl 77 und das Zeichen I R. In der Erdkruste ist es sehr selten, in Meteoriten kommt es häufiger vor. 1980 fanden Luis und Walter Alvarez mit ihren Kollegen überall auf der Welt an der gleichen Gesteinsschicht auffällig viel Iridium. Das war ein wichtiger Hinweis auf den Einschlag."
+ },
+ {
+  "id": "card_chicxulub",
+  "kind": "card",
+  "text": "Tschikschulub. Wow! Der Krater bei Chicxulub in Mexiko ist etwa 180 Kilometer breit. Der Asteroid war etwa 10 bis 15 Kilometer groß. Beim Einschlag wurden Staub und Asche hoch in die Luft geschleudert. Die Sonne wurde lange verdeckt. Pflanzen bekamen weniger Licht, und viele Tiere fanden kaum noch Nahrung. Rund drei Viertel aller Arten verschwanden."
+ },
+ {
+  "id": "card_ueberlebende",
+  "kind": "card",
+  "text": "Eine Gruppe hat überlebt. Wow! Eine Gruppe von Dinosauriern hat überlebt: die Vögel. Nach dem Einschlag war die Luft voller Staub. Die großen Dinosaurier verschwanden. Kleine Tiere kamen besser zurecht, auch Säugetiere und Vögel. Heute gibt es etwa 10 000 Vogelarten."
+ },
+ {
+  "id": "card_album",
+  "kind": "card",
+  "text": "Familienalbum der versteckten Säugetiere. Wow! Säugetiere gibt es schon fast so lange wie Dinosaurier. Das sind die winzigen frühen Säugetiere und Seitenzweige, die du gefunden hast. Keines davon ist ein sicherer direkter Vorfahre von uns Menschen. Aber sie zeigen: Säugetiere lebten schon zur Zeit der Dinosaurier."
+ },
+ {
+  "id": "card_zeitluecke",
+  "kind": "card",
+  "text": "Die große Zeitlücke. Wow! Menschen und Dinosaurier sind sich nie begegnet. Zwischen dem Einschlag vor 66 Millionen Jahren und Lucy vor 3,2 Millionen Jahren liegen rund 63 Millionen Jahre. Die Zeit der Dinosaurier dauerte von etwa 231 bis 66 Millionen Jahren, also rund 165 Millionen Jahre."
+ }
+]

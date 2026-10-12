@@ -1,0 +1,238 @@
+{
+ "cover": {
+  "seconds": 6.37,
+  "bytes": 25678
+ },
+ "page0": {
+  "seconds": 13.58,
+  "bytes": 54517
+ },
+ "page1": {
+  "seconds": 14.94,
+  "bytes": 59950
+ },
+ "page2": {
+  "seconds": 15.7,
+  "bytes": 62980
+ },
+ "page3": {
+  "seconds": 16.14,
+  "bytes": 64757
+ },
+ "page4": {
+  "seconds": 15.78,
+  "bytes": 63294
+ },
+ "page5": {
+  "seconds": 15.96,
+  "bytes": 64025
+ },
+ "page6": {
+  "seconds": 13.84,
+  "bytes": 55562
+ },
+ "page7": {
+  "seconds": 14.71,
+  "bytes": 59010
+ },
+ "page8": {
+  "seconds": 21.05,
+  "bytes": 84401
+ },
+ "card_coelophysis": {
+  "seconds": 26.78,
+  "bytes": 107284
+ },
+ "card_plateosaurus": {
+  "seconds": 22.88,
+  "bytes": 91715
+ },
+ "card_eoraptor": {
+  "seconds": 19.96,
+  "bytes": 80012
+ },
+ "card_morganucodon": {
+  "seconds": 21.5,
+  "bytes": 86177
+ },
+ "card_pangaea": {
+  "seconds": 26.85,
+  "bytes": 107598
+ },
+ "card_brachiosaurus": {
+  "seconds": 22.41,
+  "bytes": 89834
+ },
+ "card_stegosaurus": {
+  "seconds": 23.93,
+  "bytes": 95895
+ },
+ "card_allosaurus": {
+  "seconds": 21.29,
+  "bytes": 85341
+ },
+ "card_castorocauda": {
+  "seconds": 20.22,
+  "bytes": 81057
+ },
+ "card_archaeopteryx": {
+  "seconds": 22.91,
+  "bytes": 91820
+ },
+ "card_compsognathus": {
+  "seconds": 18.23,
+  "bytes": 73116
+ },
+ "card_rhamphorhynchus": {
+  "seconds": 19.51,
+  "bytes": 78236
+ },
+ "card_limulus": {
+  "seconds": 21.0,
+  "bytes": 84192
+ },
+ "card_ichthyosaurus": {
+  "seconds": 19.38,
+  "bytes": 77713
+ },
+ "card_fossil": {
+  "seconds": 24.45,
+  "bytes": 97984
+ },
+ "card_pteranodon": {
+  "seconds": 20.79,
+  "bytes": 83356
+ },
+ "card_elasmosaurus": {
+  "seconds": 16.72,
+  "bytes": 67055
+ },
+ "card_mosasaurus": {
+  "seconds": 22.6,
+  "bytes": 90566
+ },
+ "card_trex": {
+  "seconds": 25.6,
+  "bytes": 102582
+ },
+ "card_triceratops": {
+  "seconds": 18.57,
+  "bytes": 74474
+ },
+ "card_ankylosaurus": {
+  "seconds": 20.72,
+  "bytes": 83042
+ },
+ "card_didelphodon": {
+  "seconds": 20.85,
+  "bytes": 83565
+ },
+ "card_maiasaura": {
+  "seconds": 23.95,
+  "bytes": 95999
+ },
+ "card_maiasaura_baby": {
+  "seconds": 14.99,
+  "bytes": 60159
+ },
+ "card_oviraptor": {
+  "seconds": 24.79,
+  "bytes": 99343
+ },
+ "card_multituberculate": {
+  "seconds": 22.44,
+  "bytes": 89939
+ },
+ "card_purgatorius": {
+  "seconds": 23.59,
+  "bytes": 94536
+ },
+ "card_hyracotherium": {
+  "seconds": 24.35,
+  "bytes": 97566
+ },
+ "card_gastornis": {
+  "seconds": 25.21,
+  "bytes": 101015
+ },
+ "card_plesiadapis": {
+  "seconds": 18.55,
+  "bytes": 74370
+ },
+ "card_pakicetus": {
+  "seconds": 20.64,
+  "bytes": 82729
+ },
+ "card_paraceratherium": {
+  "seconds": 18.96,
+  "bytes": 76042
+ },
+ "card_gomphotherium": {
+  "seconds": 19.23,
+  "bytes": 77086
+ },
+ "card_miocene_ape": {
+  "seconds": 16.69,
+  "bytes": 66951
+ },
+ "card_lucy": {
+  "seconds": 25.76,
+  "bytes": 103209
+ },
+ "card_laetoli": {
+  "seconds": 24.48,
+  "bytes": 98089
+ },
+ "card_hominiden": {
+  "seconds": 25.26,
+  "bytes": 101224
+ },
+ "card_voegel": {
+  "seconds": 19.98,
+  "bytes": 80117
+ },
+ "card_sahelanthropus": {
+  "seconds": 26.91,
+  "bytes": 107806
+ },
+ "card_orrorin": {
+  "seconds": 23.82,
+  "bytes": 95477
+ },
+ "card_ardipithecus": {
+  "seconds": 29.83,
+  "bytes": 119509
+ },
+ "card_australopithecus": {
+  "seconds": 25.05,
+  "bytes": 100388
+ },
+ "card_homo_fruehe": {
+  "seconds": 29.18,
+  "bytes": 116897
+ },
+ "card_erduhr": {
+  "seconds": 26.67,
+  "bytes": 106866
+ },
+ "card_iridium": {
+  "seconds": 28.19,
+  "bytes": 112926
+ },
+ "card_chicxulub": {
+  "seconds": 22.13,
+  "bytes": 88685
+ },
+ "card_ueberlebende": {
+  "seconds": 16.38,
+  "bytes": 65697
+ },
+ "card_album": {
+  "seconds": 18.52,
+  "bytes": 74265
+ },
+ "card_zeitluecke": {
+  "seconds": 22.36,
+  "bytes": 89625
+ }
+}

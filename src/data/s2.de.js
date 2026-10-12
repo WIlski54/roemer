@@ -1,0 +1,162 @@
+// Station 2: Seitentext und Karten (Deutsch, Klasse 5/6, Du-Ansprache).
+// page: id, name, era, years, color (Punktfarbe), kicker, title, card (gedruckte Textkarte, 3 bis 4 Sätze), narr (Erzählstimme), hint (Hinweiszeile unten)
+// cards: Karten-ID -> { name, sci (Latein/Eigenname), say ('sprich: …'), tts (Sprechschreibweise), meaning,
+//   facts: [[Beschriftung, Wert], …] (max. 4), latin: {w, de, note} (Wort aus Rom), wow (max. 2 Sätze), text (kurz), note (Hinweis zur Unsicherheit),
+//   specId + sizeM (Größenvergleich mit Mensch), hidden:true (Gans), ribbon, fragen, tags, speak (eigener Sprechtext) }
+// Quellen: facts.md (Abschnitt 0 und 2). Aussagen, die nicht dort stehen, sind im Projektbericht einzeln als „Fachwissen“ aufgelistet.
+export const page = {
+  "id": "grossmacht",
+  "name": "Vom Stadtstaat zur Großmacht",
+  "era": "Republik",
+  "years": "509–146 v. Chr.",
+  "color": "#3d6e9e",
+  "kicker": "Station 2",
+  "title": "Ein Reich um das Mittelmeer"
+};
+page.card = 'Rom hat keinen König mehr! Zwei Konsuln leiten die Stadt, jeder nur ein Jahr lang, und der Senat gibt ihnen Rat. Dann wächst Rom: erst über Italien, dann übers Meer. Dabei streitet es lange mit Karthago, einer mächtigen Hafenstadt in Nordafrika. Hannibal zieht mit Elefanten über die Alpen, am Ende ist Rom die stärkste Macht am Mittelmeer.';
+page.narr = 'Willkommen in der Republik! Hier regiert kein König mehr, sondern gewählte Beamte und der Senat. Zieh die Lasche Abstimmung, dann stehen die Senatoren in ihren weißen Togen auf. Mit Über die Alpen führst du Hannibals Elefanten über die Papier-Berge. Und mit Enterbrücke fällt eine Planke vom römischen Schiff auf das Schiff aus Karthago. Tippe auf alles, und such die versteckte Gans!';
+page.hint = 'Zieh „Abstimmung“, „Über die Alpen“ und „Enterbrücke“ · Tippe auf alles · Such die Gans';
+export const cards = {
+  senat: {
+    name: 'Der Senat', sci: 'senatus', say: 'sprich: se-NAH-tus', tts: 'Senatus',
+    meaning: 'Bedeutung: Rat der Alten',
+    facts: [
+      ['Wer', 'erfahrene Männer aus den führenden Familien'],
+      ['Wie lange', 'oft ein Leben lang'],
+      ['Aufgabe', 'berät die Beamten und redet bei wichtigen Fragen mit'],
+      ['Treffpunkt', 'das Senatsgebäude am Forum'],
+    ],
+    latin: { w: 'senex', de: 'alter Mann. Daraus wurde „Senat“: der Rat der Alten. Auch unser Wort „Senior“ gehört dazu.', note: 'sprich: SE-neks', tts: 'Seneks' },
+    wow: 'Das Kürzel SPQR heißt „Senat und Volk von Rom“. Der Senat stand also gleich neben dem Volk!',
+    text: 'Nach den Königen gab es in Rom einen Rat: den Senat. Seine Mitglieder waren ältere, erfahrene Männer, oft blieben sie ein ganzes Leben dabei. Sie besprachen, was für die Stadt wichtig war, und gaben den Beamten Rat. Zieh die Lasche Abstimmung, dann stehen sie auf!',
+    note: 'Hinweis: Dass es unter Romulus schon hundert Senatoren gab, ist eine Sage. Wie im Senat genau abgestimmt wurde, zeigt das Buch nur vereinfacht.',
+    fragen: ['Wer entscheidet bei dir in der Klasse, wenn ihr abstimmt?', 'Warum war es wichtig, dass ein Rat mitredet?'],
+    tags: ['Station 2', 'Republik', 'Senat'],
+  },
+  konsuln: {
+    name: 'Die zwei Konsuln', sci: 'consules', say: 'sprich: KON-su-les', tts: 'Konsules',
+    meaning: 'Bedeutung: die obersten Beamten der Republik',
+    facts: [
+      ['Anzahl', 'immer zwei zur gleichen Zeit'],
+      ['Amtszeit', 'ein Jahr'],
+      ['Wahl', 'jedes Jahr neu'],
+      ['Kontrolle', 'jeder konnte das Veto des anderen einlegen'],
+    ],
+    wow: 'Veto heißt auf Latein „Ich verbiete es“. So konnte keiner der beiden allein bestimmen.',
+    text: 'Statt eines Königs hatte Rom zwei Konsuln. Sie wurden für ein Jahr gewählt und leiteten die Stadt gemeinsam. Jeder konnte den anderen mit einem Veto bremsen. Hinter jedem gingen zwölf Diener mit dem Rutenbündel. Tippe einen Liktor an!',
+    note: 'Hinweis: Dass die Doppelspitze verhindern sollte, dass einer zu mächtig wird, ist die übliche Erklärung der Fachleute.',
+    fragen: ['Was ist besser: ein Chef oder zwei? Warum?', 'Wie lange darf jemand bei uns im Amt bleiben?'],
+    tags: ['Station 2', 'Republik', 'Konsuln'],
+  },
+  fasces: {
+    name: 'Das Rutenbündel', sci: 'fasces', say: 'sprich: FAS-kess', tts: 'Faskes',
+    meaning: 'Bedeutung: Bündel',
+    facts: [
+      ['Aussehen', 'Holzruten, fest zusammengebunden, mit einem Beil'],
+      ['Bedeutung', 'Zeichen der Strafgewalt der Beamten'],
+      ['Wer trug es', 'Diener der Beamten, die Liktoren'],
+      ['Konsuln', 'hatten zwölf Liktoren'],
+    ],
+    text: 'Die Liktoren gingen vor dem Konsul her und trugen die Fasces. Ruten und Beil zeigten allen: Dieser Mann darf Befehle geben und Strafen verhängen. Es war ein Amtszeichen, wie heute eine Amtskette.',
+    note: 'Einordnung: Das Wort „Faschismus“ kommt von italienisch fascio (Bündel) und das von lateinisch fasces. Später missbrauchte ein Diktator das alte Zeichen. Das römische Amtszeichen selbst hatte damit nichts zu tun.',
+    fragen: ['Woran erkennst du heute, dass jemand ein wichtiges Amt hat?', 'Warum können alte Zeichen später missbraucht werden?'],
+    speak: 'Faskes. Das Wort bedeutet: Bündel. Die Liktoren gingen vor dem Konsul her und trugen die Fasces. Ruten und Beil zeigten allen: Dieser Mann darf Befehle geben und Strafen verhängen. Es war ein Amtszeichen, wie heute eine Amtskette. Zur Einordnung: Das Wort Faschismus kommt von italienisch fascio, Bündel, und das von lateinisch fasces. Später missbrauchte ein Diktator das alte Zeichen. Das römische Amtszeichen selbst hatte damit nichts zu tun.',
+    tags: ['Station 2', 'Republik', 'Fasces', 'Einordnung'],
+  },
+  rostra: {
+    name: 'Die Rednerbühne', sci: 'rostra', say: 'sprich: ROS-tra', tts: 'Rostra',
+    meaning: 'Bedeutung: Schnäbel (rostrum = Schnabel)',
+    facts: [
+      ['Ort', 'am Forum in Rom'],
+      ['Aussehen', 'eine erhöhte Bühne'],
+      ['Schmuck', 'Schiffsschnäbel von erbeuteten Schiffen'],
+      ['Wort', 'rostrum = Schnabel, Mehrzahl rostra'],
+    ],
+    text: 'Wer zu den Bürgern sprechen wollte, stieg auf die Rednerbühne am Forum. Sie war mit den Schnäbeln erbeuteter Schiffe geschmückt. Im Bild steht oben ein Redner, und neben ihm hat es sich eine Gans bequem gemacht. Findest du sie?',
+    note: 'Hinweis: In welchem Jahr die Schiffsschnäbel an die Bühne kamen, lassen wir offen.',
+    fragen: ['Wo würdest du heute eine Rede halten?', 'Warum schmückten die Römer die Bühne mit Schiffsschnäbeln?'],
+    tags: ['Station 2', 'Forum', 'Rostra'],
+  },
+  hannibal: {
+    name: 'Hannibal', sci: 'Hannibal aus Karthago', say: 'sprich: HAN-ni-bal', tts: 'Hannibal',
+    facts: [
+      ['Heimat', 'Karthago'],
+      ['Alpenübergang', 'Herbst 218 v. Chr.'],
+      ['Elefanten', 'nur wenige kamen durch'],
+      ['Zama', '202 v. Chr.: Scipio besiegt ihn'],
+    ],
+    wow: 'Dass Hannibal Elefanten über die Alpen brachte, gehört bis heute zu den berühmtesten Geschichten der Antike.',
+    text: 'Hannibal war ein Feldherr aus Karthago. Im Herbst 218 v. Chr. zog er mit Soldaten und Elefanten über die Alpen nach Italien. Wie viele es genau waren, wissen wir nicht: viele Tausend, und etwa die Hälfte ging unterwegs verloren. Bei Zama unterlag er dem Römer Scipio.',
+    note: 'Hinweis: Welchen Pass er nahm, wissen Forscher bis heute nicht sicher. Wie Hannibal aussah, wissen wir nicht: Sein Bild hier ist erfunden.',
+    fragen: ['Warum ist ein Marsch über die Alpen im Herbst so schwer?', 'Welche Geschichte über Hannibal hast du schon gehört?'],
+    speak: 'Hannibal. Hannibal war ein Feldherr aus Karthago. Im Herbst 218 vor Christus zog er mit Soldaten und Elefanten über die Alpen nach Italien. Wie viele es genau waren, wissen wir nicht: viele Tausend, und etwa die Hälfte ging unterwegs verloren. Bei Zama unterlag er dem Römer Scipio. Welchen Pass er nahm, wissen Forscher bis heute nicht sicher. Wie er aussah, wissen wir nicht, sein Bild hier ist erfunden.',
+    tags: ['Station 2', 'Hannibal', 'Karthago'],
+  },
+  elefant: {
+    name: 'Der Elefant', sci: 'elephantus', say: 'sprich: e-le-FAN-tus', tts: 'Elefantus',
+    meaning: 'Bedeutung: lateinisch elephantus',
+    facts: [
+      ['Bei der Rhône', '37 Elefanten (nach Polybios)'],
+      ['In Italien', 'nur wenige kamen an'],
+      ['Nahrung', 'nur Pflanzen'],
+      ['Gewicht', 'mehrere Tonnen'],
+    ],
+    text: 'Hannibal brachte Elefanten über die Alpen. Der antike Schreiber Polybios nennt 37 Tiere am Fluss Rhône. Nur wenige kamen in Italien an, genau weiß das niemand. Bei Zama ließen die Römer Gassen für die Elefanten frei.',
+    note: 'Hinweis: Wie viele Elefanten es waren und welchen Weg sie nahmen, ist unsicher. Im Buch ziehen nur zwei, damit es übersichtlich bleibt. Die purpurne Decke ist erfunden.',
+    fragen: ['Warum waren Elefanten für die Menschen damals so beeindruckend?', 'Was frisst ein Elefant an einem Tag?'],
+    speak: 'Elefantus. Hannibal brachte Elefanten über die Alpen. Der antike Schreiber Polybios nennt siebenunddreißig Tiere am Fluss Rhône. Nur wenige kamen in Italien an, genau weiß das niemand. Bei Zama ließen die Römer Gassen für die Elefanten frei. Wie viele Elefanten es waren und welchen Weg sie nahmen, ist unsicher. Im Buch ziehen nur zwei.',
+    tags: ['Station 2', 'Hannibal', 'Elefant'],
+  },
+  alpen: {
+    name: 'Der Weg über die Alpen', sci: 'Alpes', say: 'sprich: AL-pes', tts: 'Alpes',
+    facts: [
+      ['Wann', 'Herbst 218 v. Chr.'],
+      ['Wer', 'Hannibal mit Heer und Elefanten'],
+      ['Pass', 'nicht sicher bekannt'],
+      ['Beliebte Vermutung', 'Col de la Traversette (nicht bewiesen)'],
+    ],
+    text: 'Im Herbst 218 v. Chr. zog Hannibal mit seinem Heer über die Alpen nach Italien. Ein Marsch durch hohe, kalte Berge, mit Elefanten! Welchen Pass er nahm, wissen Forscher bis heute nicht sicher.',
+    note: 'Hinweis: Der Weg auf der Seite ist eine Annahme, keine gesicherte Route. Auch die Zahl der Elefanten im Bild ist angenommen.',
+    fragen: ['Wie kommst du heute mit dem Zug oder Auto über die Alpen?', 'Wie würdest du Tiere über einen Berg führen?'],
+    speak: 'Alpes. Im Herbst 218 vor Christus zog Hannibal mit seinem Heer über die Alpen nach Italien. Ein Marsch durch hohe, kalte Berge, mit Elefanten! Welchen Pass er nahm, wissen Forscher bis heute nicht sicher. Der Weg auf der Seite ist eine Annahme, keine gesicherte Route.',
+    tags: ['Station 2', 'Alpen', 'Hannibal'],
+  },
+  hafen: {
+    name: 'Der Hafen von Karthago', sci: 'Carthago', say: 'sprich: kar-TAH-go', tts: 'Kartago',
+    facts: [
+      ['Lage', 'am Mittelmeer, im heutigen Tunesien'],
+      ['Kriege mit Rom', 'begannen 264, 218 und 149 v. Chr.'],
+      ['146 v. Chr.', 'Karthago wird zerstört'],
+      ['Danach', 'das Gebiet wird die römische Provinz Africa'],
+    ],
+    text: 'Karthago war eine mächtige Hafenstadt am Mittelmeer. Rom und Karthago führten drei Kriege gegeneinander. Die Römer nannten die Karthager „Punier“, darum heißen sie Punische Kriege. Im Jahr 146 v. Chr. wurde Karthago zerstört, viele Überlebende wurden zu Sklaven gemacht.',
+    note: 'Man erzählt, die Römer hätten Salz auf den Boden Karthagos gestreut, damit nichts mehr wächst. Das stimmt vermutlich nicht: Dafür gibt es keine antike Quelle. Das Bild des Hafens ist erfunden.',
+    fragen: ['Warum waren Häfen für Städte am Meer so wichtig?', 'Warum erzählt man sich manchmal Geschichten, die nicht stimmen?'],
+    speak: 'Kartago. Karthago war eine mächtige Hafenstadt am Mittelmeer. Rom und Karthago führten drei Kriege gegeneinander. Die Römer nannten die Karthager Punier, darum heißen sie Punische Kriege. Im Jahr 146 vor Christus wurde Karthago zerstört, viele Überlebende wurden zu Sklaven gemacht. Man erzählt, die Römer hätten Salz auf den Boden Karthagos gestreut, damit nichts mehr wächst. Das stimmt vermutlich nicht: Dafür gibt es keine antike Quelle.',
+    tags: ['Station 2', 'Karthago', 'Hafen'],
+  },
+  corvus: {
+    name: 'Die Enterbrücke', sci: 'corvus', say: 'sprich: KOR-vus', tts: 'Korvus',
+    meaning: 'Bedeutung: Rabe',
+    facts: [
+      ['Aufbau', 'drehbare Planke mit Eisendorn'],
+      ['Länge', 'etwa 11 Meter (nach Polybios)'],
+      ['Wirkung', 'verhakte sich im gegnerischen Schiff'],
+      ['Zeit', 'im Ersten Punischen Krieg (ab 264 v. Chr.)'],
+    ],
+    text: 'Corvus hieß diese Brücke, das ist lateinisch für Rabe. Sie hing an einem Mast am Bug und ließ sich drehen. Man ließ sie auf ein fremdes Schiff fallen, der Eisendorn hakte sich fest, und man konnte hinüberlaufen. Zieh die Lasche Enterbrücke!',
+    note: 'Hinweis: Das beschreibt ein antiker Schreiber, Polybios. Wie die Brücke genau gebaut war, wissen wir nicht sicher. Warum sie später verschwand, ist Spekulation.',
+    fragen: ['Wozu brauchte man eine Brücke zwischen zwei Schiffen?', 'Wie würdest du zwei Schiffe fest verbinden?'],
+    speak: 'Korvus. Der Name bedeutet: Rabe. Corvus hieß diese Brücke, das ist lateinisch für Rabe. Sie hing an einem Mast am Bug und ließ sich drehen. Man ließ sie auf ein fremdes Schiff fallen, der Eisendorn hakte sich fest, und man konnte hinüberlaufen. Wie die Brücke genau gebaut war, wissen wir nicht sicher. Zieh die Lasche Enterbrücke!',
+    tags: ['Station 2', 'Schiffe', 'Punische Kriege'],
+  },
+  gans2: {
+    name: 'Die Gans mit der Schärpe', sci: 'anser', say: 'sprich: AN-ser', tts: 'Anser',
+    meaning: 'Bedeutung: anser ist das lateinische Wort für Gans',
+    hidden: true, ribbon: 'Gefunden! Die Gans auf der Rednerbühne',
+    wow: 'Nach einer alten Sage haben Gänse auf dem Kapitol die Römer geweckt, als die Gallier kamen.',
+    text: 'Diese Gans trägt eine Senatorenschärpe und hört dem Redner zu. Sie erinnert an eine Sage: Als die Gallier Rom plünderten, sollen Gänse auf dem Kapitol laut geschnattert haben. Die Plünderung ist belegt, die Gänse kennen wir nur aus Erzählungen.',
+    note: 'Hinweis: Das Jahr ist nicht sicher: um 390 v. Chr. (Varro) oder 387/386 v. Chr. (Livius.org).',
+    tags: ['Station 2', 'Gans', 'Sage'],
+  },
+};

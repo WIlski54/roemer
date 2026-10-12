@@ -1,0 +1,5 @@
+node_modules
+test-out
+src/data/narration.generated.js
+*.log
+__pycache__

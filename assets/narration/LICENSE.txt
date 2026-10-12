@@ -1,0 +1,34 @@
+Erzählstimme "Das große Dinosaurier-Popup-Buch" -- Herkunft und Lizenz
+=====================================================================
+
+Die MP3-Dateien in diesem Ordner sind synthetische Sprache (KI-Stimme), offline
+erzeugt mit tools/make-narration.py.
+
+Stimmmodell
+  Name:       Piper "de_DE-thorsten-medium" (Deutsch, 1 Sprecher, 22 050 Hz)
+  Sprecher:   Thorsten Müller (Projekt "Thorsten-Voice")
+  Daten:      https://github.com/thorstenMueller/Thorsten-Voice
+  Lizenz:     CC0 1.0 (Public Domain Dedication), laut Modellkarte des Modells
+  Bezugsquelle des ONNX-Modells (von k2-fsa umgepackt):
+              https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+              (vits-piper-de_DE-thorsten-medium.tar.bz2; Original:
+              https://huggingface.co/rhasspy/piper-voices, de/de_DE/thorsten/medium)
+  Hinweis:    Laut Modellkarte wurde das Modell von der US-englischen Piper-
+              Stimme "lessac" (medium) feinabgestimmt; die Trainingsdaten der
+              deutschen Stimme selbst sind CC0.
+
+Software beim Erzeugen (nicht Teil des Buches)
+  sherpa-onnx (k2-fsa), Apache-2.0       -- Inferenz des Modells
+  Piper / VITS-Architektur (rhasspy), MIT
+  espeak-ng (GPL-3.0)                    -- nur Phonemisierung beim Erzeugen
+  ffmpeg + libmp3lame                    -- Nachbearbeitung und MP3-Kodierung
+  (Qualitätsprüfung: Whisper-small über sherpa-onnx, MIT/Apache-2.0)
+
+Die erzeugten Audiodateien enthalten weder Modellgewichte noch Programmcode.
+Die Sprachausgabe darf frei verwendet werden; eine Namensnennung ist durch CC0
+nicht verlangt, wird aber als gute Praxis empfohlen.
+
+SATZ FÜR DIE README / DAS IMPRESSUM
+  "Die Erzählstimme ist eine KI-Stimme: Sie wurde offline mit dem neuronalen
+  Sprachmodell Piper 'de_DE-thorsten-medium' (Stimme: Thorsten Müller,
+  Thorsten-Voice, CC0 1.0) über sherpa-onnx erzeugt."

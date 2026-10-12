@@ -1,0 +1,30 @@
+// Zeitfenster per Touch (iPad-Format): Pfeile, Bildtipp (Text nur im Notmodus), Einklappen, Kamera bleibt ruhig. usage: node tools/zeit-touch.mjs [w h]
+import { open, ready, out } from './harness.mjs';
+const [w = '1024', h = '768'] = process.argv.slice(2);
+const { browser, ctx, page, logs } = await open({ w: +w, h: +h, touch: true, query: '?tier=' + (process.env.TIER || 'med') });
+await ready(page, 200000);
+const cdp = await ctx.newCDPSession(page);
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+const wait = (s) => page.evaluate((sim) => new Promise((res) => { const t0 = window.__app.t; const f = () => (window.__app.t - t0 > sim ? res() : setTimeout(f, 100)); f(); }), s);
+const tap = async (x, y) => { await cdp.send('Input.dispatchTouchEvent', { type: 'touchStart', touchPoints: [{ x, y, id: 1 }] }); await sleep(70); await cdp.send('Input.dispatchTouchEvent', { type: 'touchEnd', touchPoints: [] }); };
+const center = (sel) => page.evaluate((s) => { const r = document.querySelector(s).getBoundingClientRect(); return [r.x + r.width / 2, r.y + r.height / 2]; }, sel);
+const st = () => page.evaluate(() => { const t = window.__app.timewin; return { idx: t.idx, v: +t.ctl.sp.x.toFixed(4), mode: t.mode, txt: t.el.classList.contains('txt'), min: t.min, az: +window.__app.cam.az.target.toFixed(2) }; });
+const ok = (n, c, x) => console.log((c ? 'OK   ' : 'FAIL ') + n, JSON.stringify(x));
+await page.evaluate(async () => { await window.__app.snapTo(0); }); await wait(3);
+const s0 = await st(); console.log('start', JSON.stringify(s0));
+await tap(...await center('.zf-arrow:last-of-type')); await wait(3);
+const s1 = await st(); ok('Pfeil weiter', s1.idx === s0.idx + 1 && s1.v > s0.v, s1);
+await tap(...await center('.zf-arrow')); await wait(3);
+const s2 = await st(); ok('Pfeil zurück', s2.idx === s0.idx, s2);
+await tap(...await center('.zf-view')); await wait(0.3);
+const s3 = await st(); ok('Bildtipp schaltet Text um (nur Notmodus over)', s3.mode === 'over' ? s3.txt === !s2.txt : s3.txt === false, s3); await page.screenshot({ path: out('zt-text.png') });
+await tap(...await center('.zf-view')); await wait(0.3);
+const s4 = await st(); ok('zweiter Tipp schaltet zurück', s4.mode === 'over' ? s4.txt === s2.txt : s4.txt === false, s4);
+await tap(...await center('.zf-min')); await wait(0.5);
+const s5 = await st(); ok('Einklappen', s5.min === true && s5.az === s0.az, s5); await page.screenshot({ path: out('zt-min.png') });
+await tap(...await center('.zf-min')); await wait(0.5);
+for (let i = 0; i < 6; i++) { await tap(...await center('.zf-arrow:last-of-type')); await wait(2.2); }
+const s6 = await st(); ok('mehrmals weiter', s6.idx === s0.idx + 6, s6); await page.screenshot({ path: out('zt-6.png') });
+const errs = logs.filter((l) => /error|warn/i.test(l) && !/GPU stall|ReadPixels/i.test(l));
+console.log(errs.slice(0, 20).join('\n') || 'no errors/warnings');
+await browser.close();

@@ -1,0 +1,10 @@
+import { open, ready, out } from './harness.mjs';
+const { browser, page, logs } = await open({ w: 960, h: 540, query: '?tier=low' });
+await ready(page, 90000);
+const t0 = Date.now();
+await page.waitForTimeout(3000);
+const info = await page.evaluate(() => ({ t: window.__app.t, ft: window.__app.stage.ft, frames: window.__app.frames, ready: window.__app.ready, load: getComputedStyle(document.querySelector('.loading')).display, cur: window.__app.book.cur }));
+console.log(JSON.stringify(info), 'wall', Date.now() - t0);
+await page.screenshot({ path: out('t2.png') });
+console.log(logs.slice(0, 40).join('\n'));
+await browser.close();

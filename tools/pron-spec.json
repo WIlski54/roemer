@@ -1,0 +1,8 @@
+[
+ {"word":"Dinosaurier","seite":2,"sentence":"Die ersten {W} sind noch klein und sehr flink.","variants":[["0","Dinosaurier (aktuell)"],["A","Dinosaurijer"],["B","Dino-Sau-ri-er"],["C","Dinosaurjer"],["D","Dino-Saurier"]]},
+ {"word":"Baumkronen","seite":3,"sentence":"Mit dem langen Hals frisst er Blätter aus den {W}.","variants":[["0","Baumkronen (aktuell)"],["A","Baumkrohnen"],["B","Baum-Kronen"],["C","Baum Kronen"],["D","Baum-Kro-nen"]]},
+ {"word":"Lagune","seite":4,"sentence":"Wir sind in einer warmen {W} im heutigen Bayern, vor etwa hundertfünfzig Millionen Jahren.","variants":[["0","Lagune (aktuell)"],["A","La-gune"],["B","La gune"],["C","Lahgune"],["D","Lah-gune"]]},
+ {"word":"Cousins","seite":5,"sentence":"Sie sind {W}.","variants":[["0","Kusängs (aktuell)"],["A","Kusähns"],["B","Ku-sängs"],["C","Kusins"],["D","Kusangs"]]},
+ {"word":"Babys","seite":7,"sentence":"Und mit dem Schieber Sonnenuntergang kuscheln sich die {W} an.","variants":[["0","Beibis (aktuell)"],["A","Behbis"],["B","Behbies"],["C","Beibies"],["D","Bäbis"]]},
+ {"word":"Vulkanasche","seite":9,"sentence":"Dort gehen frühe Vormenschen durch frische {W}.","variants":[["0","Vulkanasche (aktuell)"],["A","Vulkan-Asche"],["B","Vulkahn-Asche"],["C","Vulkahnasche"],["D","Vulkan Asche"]]}
+]
