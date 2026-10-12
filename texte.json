@@ -218,7 +218,7 @@
         "xanten",
         "koeln",
         "schiff",
-        "haendler",
+        "rhein_haendler",
         "inschrift",
         "konstantin",
         "teilung395",
@@ -3786,7 +3786,7 @@
       ]
     },
     {
-      "id": "haendler",
+      "id": "rhein_haendler",
       "station": 8,
       "typ": "info",
       "name": "Germanischer Händler",

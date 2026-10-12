@@ -15,6 +15,6 @@ fi
 cp dist/index.html "$TMP/wt/index.html"; touch "$TMP/wt/.nojekyll"
 cd "$TMP/wt"
 git add -A
-git -c user.name="${GIT_AUTHOR_NAME:-Claude}" -c user.email="${GIT_AUTHOR_EMAIL:-noreply@anthropic.com}" commit -qm "Veröffentlichung: Das große Dinosaurier-Popup-Buch" || { echo "Keine Änderung"; exit 0; }
+git -c user.name="${GIT_AUTHOR_NAME:-Claude}" -c user.email="${GIT_AUTHOR_EMAIL:-noreply@anthropic.com}" commit -qm "Veröffentlichung: Das große Popup-Buch vom Römischen Reich" || { echo "Keine Änderung"; exit 0; }
 git push origin gh-pages
 echo "Fertig. Adresse nach dem Einschalten von Pages: https://$(git remote get-url origin | sed -E 's#.*github.com[:/]([^/]+)/([^/.]+).*#\1.github.io/\2#' | tr 'A-Z' 'a-z')/"
