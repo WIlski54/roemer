@@ -23,6 +23,7 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem('rpb.' + k); return v === null ? d : JSON.parse(v); } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem('rpb.' + k, JSON.stringify(v)); } catch (e) { /* ignore */ } },
 };
+const bs = (n) => { try { window.__boot.step = n; } catch (e) { /* ohne Startdiagnose */ } };
 const QUALITY = { high: 190, med: 150, low: 120 };
 const HIDDEN_IDS = Object.keys(ANIMALS_DE).filter((k) => ANIMALS_DE[k].hidden);
 
@@ -32,8 +33,8 @@ class App {
     const touch = isTouch();
     const tierName = qs.get('tier') || (touch ? 'med' : 'high');
     this.t = 0; this.station = -1; this.reading = false; this.panMode = false;
-    this.canvas = document.getElementById('stage');
-    this.stage = new Stage(this.canvas, { tier: tierName, lockTier: qs.has('tier') });
+    this.canvas = document.getElementById('stage'); bs('Bühne (WebGL) wird erzeugt');
+    this.stage = new Stage(this.canvas, { tier: tierName, lockTier: qs.has('tier') }); bs('Bühne fertig');
     this.q = { ppu: 190, maxTex: 1024, pageTex: 1536 };
     this.stage.onTier = (t) => this.applyQ(t);
     this.applyQ(this.stage.tier);
@@ -42,12 +43,12 @@ class App {
     this.cam.calm = this.calm = store.get('calm', reducedMotion());
     this.cam.bias.snap(0.8);
     this.found = new Set(store.get('found', []).filter((x) => HIDDEN_IDS.includes(x)));
-    this.audio = new AudioEngine(this);
+    bs('Klangmaschine'); this.audio = new AudioEngine(this);
     this.audio.cine = store.get('cine', false); this.audio.captions = store.get('cap', true); this.audio.autoNarrate = store.get('auto', true); this.audio.volume = store.get('vol', 0.6);
     this.soundOn = store.get('sound', true); this.audio.setEnabled(this.soundOn);
 
     // ---- UI
-    this.ui = new UI(document.getElementById('ui'), {
+    bs('Oberfläche'); this.ui = new UI(document.getElementById('ui'), {
       view: () => this.toggleReading(), sound: () => this.toggleSound(), prev: () => this.prev(), next: () => this.next(), go: (i) => this.goTo(i),
       weather: () => this.cycleWeather(), pan: () => this.setPanMode(!this.panMode), resetView: () => this.resetView(), narrate: () => this.narratePage(), readCard: (d) => this.readCard(d), album: () => this.openCardById('album'),
       volume: (v) => { this.audio.setVolume(v); store.set('vol', v); }, calm: (b) => this.setCalm(b), cine: (b) => { this.audio.cine = b; store.set('cine', b); },
@@ -55,7 +56,7 @@ class App {
       captions: (b) => { this.audio.captions = b; store.set('cap', b); if (!b) this.ui.showCaption(''); },
       helpOpened: () => this.audio.unlock(), cardOpened: () => {}, cardClosed: () => this.onCardClosed(),
     });
-    this.timewin = new TimeWindow(this, document.getElementById('ui'));
+    this.timewin = new TimeWindow(this, document.getElementById('ui')); bs('Zeitfenster'); { const b0 = document.getElementById('boot0'); if (b0) b0.remove(); }
     this.ui.setStops(PAGES_DE.map((p) => ({ name: p.name, color: p.color })));
     this.ui.setSound(this.soundOn);
     const hp = this.ui.help;
@@ -66,7 +67,7 @@ class App {
     this.audio.onSpeaking = (on) => this.ui.setSpeaking(on);
 
     // ---- world
-    this.book = new Book(this.stage);
+    bs('Buch (Blätter)'); this.book = new Book(this.stage);
     this.fx = {
       dust: new Particles(this.stage.scene, 900), glow: new Particles(this.stage.scene, 700, { additive: true }),
       motes: new Motes(this.stage.scene, TIERS.high.motes),
@@ -77,7 +78,7 @@ class App {
     this.paintCoverArt();
     this.makeOpenTag();
     this.stage.setMood(DEFS[0].mood, true);
-    this.spreads = new Spreads(this, DEFS);
+    bs('Seiten (Titelseite)'); this.spreads = new Spreads(this, DEFS);
     this.book.hooks = {
       turnStart: (from, to, fwd) => this.onTurnStart(from, to, fwd),
       turnEnd: (n, from) => this.afterTurn(n, from),
@@ -92,8 +93,9 @@ class App {
     this.ui.setLoading(0.15);
     this.loop = this.loop.bind(this);
     requestAnimationFrame(this.loop);
+    bs('Titelseite wird gebaut');
     this.spreads.ensure(0).then(() => {
-      this.ui.setLoading(1); this.ready = true;
+      bs('bereit'); this.ui.setLoading(1); this.ready = true;
       setTimeout(() => this.ui.hideLoading(), 250);
       window.__bookReady = true;
     });

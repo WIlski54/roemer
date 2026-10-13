@@ -12,6 +12,54 @@
 <canvas id="stage" aria-label="Das große Popup-Buch vom Römischen Reich (3D-Ansicht)" role="img"></canvas>
 <div id="vig"></div>
 <div id="ui"></div>
+<div id="boot0" style="position:fixed;left:0;right:0;top:42%;text-align:center;color:#f3e6c8;font:19px Georgia,'Times New Roman',serif;pointer-events:none;z-index:5">Das Buch wird geladen …</div>
+<script>
+/* Startdiagnose: zeigt Fehler beim Start sichtbar an (statt schwarzem Bildschirm). Nach dem Start bleibt sie still. */
+(function () {
+  var W = window, shown = false, box = null, lines = [];
+  W.__boot = { step: 'HTML geladen', t0: Date.now() };
+  function env() {
+    var o = [];
+    try { o.push('Browser: ' + navigator.userAgent); } catch (e) {}
+    try { o.push('Fenster: ' + innerWidth + ' x ' + innerHeight + ', Pixeldichte ' + (devicePixelRatio || 1)); } catch (e) {}
+    try { if (W.top !== W) o.push('Läuft in einem Rahmen (iframe), z. B. in einer Vorschau'); } catch (e) { o.push('Läuft in einem Rahmen (iframe)'); }
+    try {
+      var c = document.createElement('canvas'), gl = c.getContext('webgl2'), v = 2;
+      if (!gl) { gl = c.getContext('webgl'); v = 1; }
+      if (!gl) o.push('WebGL: NICHT verfügbar');
+      else { var x = gl.getExtension('WEBGL_debug_renderer_info'); o.push('WebGL ' + v + ', max. Textur ' + gl.getParameter(gl.MAX_TEXTURE_SIZE) + (x ? ', ' + gl.getParameter(x.UNMASKED_RENDERER_WEBGL) : '')); }
+    } catch (e) { o.push('WebGL-Test: ' + e); }
+    try { localStorage.setItem('rpb._t', '1'); localStorage.removeItem('rpb._t'); o.push('Speicher (localStorage): ok'); } catch (e) { o.push('Speicher (localStorage) gesperrt: ' + (e && e.name)); }
+    try { if (navigator.deviceMemory) o.push('Gerätespeicher: ' + navigator.deviceMemory + ' GB'); } catch (e) {}
+    try { o.push('Audio: ' + ((W.AudioContext || W.webkitAudioContext) ? 'ok' : 'fehlt')); } catch (e) {}
+    return o;
+  }
+  function show(msg) {
+    if (W.__bookReady && !/^WATCHDOG/.test(msg)) return;
+    lines.push(msg.replace(/^WATCHDOG/, ''));
+    try { var b0 = document.getElementById('boot0'); if (b0) b0.style.display = 'none'; } catch (e) {}
+    try {
+      if (!box) {
+        shown = true; box = document.createElement('div');
+        box.style.cssText = 'position:fixed;left:12px;right:12px;top:12px;max-height:86%;overflow:auto;z-index:99999;background:#f3e6c8;color:#3a1d10;border:3px solid #8b1e1e;border-radius:12px;padding:12px 14px;font:14px/1.45 -apple-system,Helvetica,Arial,sans-serif;-webkit-user-select:text;user-select:text;touch-action:auto';
+        document.body.appendChild(box);
+      }
+      var step = (W.__boot && W.__boot.step) || '?', secs = Math.round((Date.now() - W.__boot.t0) / 1000);
+      box.innerHTML = '';
+      var h = document.createElement('b'); h.textContent = 'Das Buch konnte nicht starten'; h.style.cssText = 'color:#8b1e1e;font-size:16px'; box.appendChild(h);
+      var x = document.createElement('button'); x.textContent = 'Schließen'; x.style.cssText = 'float:right;font-size:14px;padding:6px 12px'; x.onclick = function () { box.style.display = 'none'; }; box.insertBefore(x, h);
+      var p = document.createElement('p'); p.style.margin = '8px 0 4px'; p.textContent = 'Bitte mach einen Screenshot dieser Meldung und schick ihn Claude. Letzter Schritt: ' + step + ' (nach ' + secs + ' s).'; box.appendChild(p);
+      var pre = document.createElement('pre'); pre.style.cssText = 'white-space:pre-wrap;word-break:break-word;margin:6px 0;font:12px/1.4 Menlo,monospace'; pre.textContent = lines.join('\n\n') + '\n\n' + env().join('\n'); box.appendChild(pre);
+    } catch (e) { /* nichts */ }
+  }
+  W.addEventListener('error', function (e) {
+    var f = (e.filename || '').split('/').pop();
+    show('Fehler: ' + (e.message || 'unbekannt') + (e.lineno ? ' (' + (f || 'Skript') + ', Zeile ' + e.lineno + ':' + e.colno + ')' : '') + (e.error && e.error.stack ? '\n' + String(e.error.stack).split('\n').slice(0, 4).join('\n') : ''));
+  }, true);
+  W.addEventListener('unhandledrejection', function (e) { var r = e.reason; show('Fehler (asynchron): ' + (r && (r.stack || r.message) || String(r))); });
+  W.__bootWatch = setTimeout(function () { if (!W.__bookReady) show('WATCHDOG' + 'Nach 40 Sekunden ist das Buch noch nicht bereit. Falls es gleich doch erscheint: einfach schließen.'); }, 40000);
+})();
+</script>
 <script>/*__JS__*/</script>
 </body>
 </html>

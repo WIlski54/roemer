@@ -9,6 +9,7 @@ Ein 3D-Popup-Buch für Klasse 5/6: eine Titelseite und acht Stationen vom Hirten
 - **Regler (Laschen):** am Griff ziehen. **Tippen** auf Figuren und Dinge öffnet Karten. **Vorlesen** liest die Seite, jede Karte hat einen Vorlese-Knopf.
 - **Titelseite:** Zeiger drehen (Zeitrad, Reichskarte wächst), „Tor auf!“, „Marsch!“. Das **Zeitfenster** zeigt 14 Szenen von 753 v. Chr. bis 476 n. Chr.
 - **Such die Gans!** Auf jeder Station sitzt eine versteckte Gans (8 insgesamt); der Zähler steht auf der Titelseite, das Album öffnest du dort per Tipp.
+- **Startet das Buch nicht**, erscheint statt eines schwarzen Bildschirms eine Meldung mit Fehler, letztem Startschritt und WebGL-Angaben (Screenshot genügt für die Fehlersuche; `tools/boot-diag-test.mjs`).
 - Oben rechts: Ansicht verschieben/zurücksetzen, Wetter, Lesemodus, Ton, Hilfe.
 
 ## Inhalt
